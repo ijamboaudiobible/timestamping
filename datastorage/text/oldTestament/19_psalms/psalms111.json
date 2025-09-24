@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 111,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Nzashimisha Uwiteka umutima wanjye wose,Mu rukiko rw'abatunganye no mu iteraniro ryabo.",
+      "start": 23.49,
+      "end": 33.66
+    },
+    "2": {
+      "text": "Imirimo Uwiteka yakoze irakomeye,Irondorwa n'abayishimira bose.",
+      "start": 0.57,
+      "end": 43.5
+    },
+    "3": {
+      "text": "Umurimo akora ni icyubahiro n'ubwiza,Gukiranuka kwe guhoraho iteka ryose.",
+      "start": 37.63,
+      "end": 43.38
+    },
+    "4": {
+      "text": "Yahaye imirimo ye itangaza urwibutso,Uwiteka ni umunyambabazi n'umunyebambe.",
+      "start": 30.92,
+      "end": 39.55
+    },
+    "5": {
+      "text": "Yagaburiye abamwubaha,Azajya yibuka isezerano rye.",
+      "start": 9.83,
+      "end": 32.48
+    },
+    "6": {
+      "text": "Yeretse ubwoko bwe imirimo ye uburyo ikomeye,Ubwo yabahaga umwandu w'abanyamahanga.",
+      "start": 10.26,
+      "end": 39.35
+    },
+    "7": {
+      "text": "Imirimo y'intoki ze ni umurava no kutabera,Amategeko ye yose arahamye.",
+      "start": 33.72,
+      "end": 42.3
+    },
+    "8": {
+      "text": "Yakomerejwe guhama iteka ryose,Yategekeshejwe umurava no gutunganya.",
+      "start": 28.69,
+      "end": 41.44
+    },
+    "9": {
+      "text": "Yoherereje ubwoko bwe gucungurwa,Yategetse isezerano rye kuba iry'iteka,Izina rye ni iryera n'iryo kubahwa.",
+      "start": 36.37,
+      "end": 38.75
+    },
+    "10": {
+      "text": "Kubaha Uwiteka ni ishingiro ry'ubwenge,Abakora ibyo bafite ubwenge nyakuri,Ishimwe rye rihoraho iteka ryose.",
+      "start": 30.47,
+      "end": 41.48
+    }
+  }
+}

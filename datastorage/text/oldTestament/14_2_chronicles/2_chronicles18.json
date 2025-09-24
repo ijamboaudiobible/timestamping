@@ -1,0 +1,178 @@
+{
+  "book": "Book 14",
+  "book_canonical": "2_chronicles",
+  "book_number": 14,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Yehoshafati yari atunze cyane afite icyubahiro gikomeye, bukeye aba bamwana wa Ahabu.",
+      "start": 38.53,
+      "end": 42.56
+    },
+    "2": {
+      "text": "Nuko hashize imyaka, aramanuka ajya i Samariya kwa Ahabu. Ahabu abagira Yehoshafati n'abantu bari kumwe na we inka n'intama nyinshi cyane, aramushukashuka ngo batabarane i Ramoti y'i Galeyadi.",
+      "start": 1.02,
+      "end": 17.28
+    },
+    "3": {
+      "text": "Ahabu umwami w'Abisirayeli abaza Yehoshafati umwami w'Abayuda ati “Mbese ntitwatabarana i Ramoti y'i Galeyadi?”Aramusubiza ati “Ndi umuntu umwe nawe, ingabo zanjye n'ingabo zawe ni kimwe, tuzatabarana muri iyo ntambara.”",
+      "start": 35.12,
+      "end": 37.42
+    },
+    "4": {
+      "text": "Yehoshafati arongera abwira umwami w'Abisirayeli ati “Ndakwinginze, ubu banza ugishe ijambo ry'Uwiteka inama.”",
+      "start": 6.22,
+      "end": 39.87
+    },
+    "5": {
+      "text": "Nuko umwami w'Abisirayeli ateranya abahanuzi, abagabo magana ane arababaza ati “Dutabare i Ramoti y'i Galeyadi, cyangwa se ndorere?” Baramusubiza bati “Zamuka, kuko Uwiteka azahagabiza umwami.”",
+      "start": 14.15,
+      "end": 33.8
+    },
+    "6": {
+      "text": "Ariko Yehoshafati arabaza ati “Mbese nta wundi muhanuzi w'Uwiteka uri hano ngo tumuhanuze?”",
+      "start": 27.05,
+      "end": 31.53
+    },
+    "7": {
+      "text": "Umwami w'Abisirayeli asubiza Yehoshafati ati “Hasigaye undi mugabo tubasha kugishisha inama z'Uwiteka. Ariko ndamwanga kuko atampanurira ibyiza, keretse ibibi bisa. Uwo ni Mikaya mwene Imula.”Yehoshafati aravuga ati “Mwami, wivuga utyo.”",
+      "start": 40.43,
+      "end": 41.15
+    },
+    "8": {
+      "text": "Nuko umwami w'Abisirayeli ahamagara umutware aramubwira ati “Ihute uzane Mikaya mwene Imula.”",
+      "start": 28.5,
+      "end": 36.64
+    },
+    "9": {
+      "text": "Kandi umwami w'Abisirayeli na Yehoshafati umwami w'Abayuda bari bicaye ku ntebe z'ubwami, umwami wese ku ye, bambaye imyambaro yabo y'ubwami, bari mu muharuro ku karubanda i Samariya. Abahanuzi bose bahanuriraga imbere yabo.",
+      "start": 22.58,
+      "end": 27.73
+    },
+    "10": {
+      "text": "Sedekiya mwene Kenāna yicurishiriza amahembe y'ibyuma aravuga ati “Uku ni ko Uwiteka yavuze ati ‘Aya mahembe uzayakubitisha Abasiriya kugeza aho bazashirira.’ ”",
+      "start": 30.94,
+      "end": 43.33
+    },
+    "11": {
+      "text": "N'abandi bahanuzi bose bahanura batyo bati “Zamuka utere i Ramoti y'i Galeyadi uragira ishya, kuko Uwiteka azahagabiza umwami.”",
+      "start": 37.21,
+      "end": 39.53
+    },
+    "12": {
+      "text": "Maze intumwa yari yagiye guhamagara Mikaya iramubwira iti “Dore abahanuzi bahuje amagambo ahanurira umwami ibyiza.”",
+      "start": 4.85,
+      "end": 27.42
+    },
+    "13": {
+      "text": "Mikaya aravuga ati “Ndahiye Uwiteka uhoraho, icyo Imana yanjye iri buvuge ni cyo mvuga.”",
+      "start": 32.62,
+      "end": 34.94
+    },
+    "14": {
+      "text": "Nuko ageze ku mwami, umwami aramubaza ati “Mikaya, dutabare i Ramoti y'i Galeyadi, cyangwa se ndorere?”Aramusubiza ati “Ngaho nimuzamuke murabona ishya, kuko bazagabizwa amaboko yanyu.”",
+      "start": 2.29,
+      "end": 11.32
+    },
+    "15": {
+      "text": "Umwami aramubwira ati “Nakurahije kangahe kutazambwira ijambo na rimwe, keretse ukuri mu izina ry'Uwiteka?”",
+      "start": 3.9,
+      "end": 4.17
+    },
+    "16": {
+      "text": "Aramusubiza ati “Nabonye Abisirayeli bose batataniye ku misozi miremire nk'intama zidafite umwungeri. Uwiteka ni ko kuvuga ati ‘Bariya ni impehe zitagira shebuja, nibasubireyo umuntu wese atahe iwe amahoro.’ ”",
+      "start": 42.83,
+      "end": 43.93
+    },
+    "17": {
+      "text": "Umwami w'Abisirayeli abwira Yehoshafati ati “Sinakubwiye ko atampanurira ibyiza keretse ibibi?”",
+      "start": 32.98,
+      "end": 37.45
+    },
+    "18": {
+      "text": "Mikaya aravuga ati “Noneho nimwumve ijambo ry'Uwiteka. Nabonye Uwiteka yicaye ku ntebe ye, ingabo zo mu ijuru zose zimuhagaze iburyo n'ibumoso.",
+      "start": 2.03,
+      "end": 27.89
+    },
+    "19": {
+      "text": "Uwiteka aravuga ati ‘Ni nde uzashukashuka Ahabu umwami wa Isirayeli, ngo azamukire i Ramoti y'i Galeyadi ngo agweyo?’ Umwe avuga ibye, undi ibye.",
+      "start": 2.86,
+      "end": 37.77
+    },
+    "20": {
+      "text": "Hanyuma haza umwuka ahagarara imbere y'Uwiteka, aravuga ati ‘Ni jye uzamushukashuka.’ Uwiteka aramubaza ati ‘Uzamushukashuka ute?’",
+      "start": 12.93,
+      "end": 26.62
+    },
+    "21": {
+      "text": "Aramusubiza ati ‘Nzagenda mpinduke umwuka w'ibinyoma mu kanwa k'abahanuzi be bose.’ Uwiteka aravuga ati ‘Nuko uzamushukashuka kandi uzabishobora, genda ugire utyo.’",
+      "start": 5.08,
+      "end": 7.91
+    },
+    "22": {
+      "text": "“Nuko rero, dore Uwiteka ashyize umwuka w'ibinyoma mu kanwa k'abahanuzi bawe bose, kandi Uwiteka akuvuzeho ibyago.”",
+      "start": 27.43,
+      "end": 35.59
+    },
+    "23": {
+      "text": "Maze Sedekiya mwene Kenāna yigira hafi, akubita Mikaya urushyi aramubaza ati “Uwo mwuka w'Uwiteka yanyuze he, ava muri jye aza kuvugana nawe?”",
+      "start": 19.42,
+      "end": 35.93
+    },
+    "24": {
+      "text": "Mikaya aramusubiza ati “Uzabimenya umunsi uzicumita mu mwinjiro w'inzu, wihisha.”",
+      "start": 34.19,
+      "end": 44.46
+    },
+    "25": {
+      "text": "Maze umwami wa Isirayeli aravuga ati “Nimujyane Mikaya, mumushyire Amoni umutware w'umurwa na Yowasi umwana w'umwami",
+      "start": 2.87,
+      "end": 3.96
+    },
+    "26": {
+      "text": "muti ‘Umwami avuze ngo: iki kigabo nimugishyire mu nzu y'imbohe, mukigaburire ibyokurya by'agahimano n'amazi y'agahimano, kugeza aho nzatabarukira amahoro.’ ”",
+      "start": 32.77,
+      "end": 34.27
+    },
+    "27": {
+      "text": "Mikaya aravuga ati “Nuramuka utabarutse amahoro, Uwiteka azaba atavugiye muri jye.” Kandi aravuga ati “Murumve namwe bantu mwese.”",
+      "start": 7.88,
+      "end": 12.65
+    },
+    "28": {
+      "text": "Bukeye umwami w'Abisirayeli na Yehoshafati umwami w'Abayuda, barazamuka batera i Ramoti y'i Galeyadi.",
+      "start": 35.1,
+      "end": 41.53
+    },
+    "29": {
+      "text": "Umwami w'Abisirayeli abwira Yehoshafati ati “Ngiye kwiyoberanya njye ku rugamba, ariko wowe ambara imyambaro yawe y'ubwami.” Nuko umwami w'Abisirayeli ariyoberanya bajya ku rugamba.",
+      "start": 24.14,
+      "end": 42.33
+    },
+    "30": {
+      "text": "Kandi ubwo umwami w'i Siriya yari yarategetse abatware b'amagare ye ati “Ntimurwanye aboroheje cyangwa abakomeye, keretse umwami w'Abisirayeli wenyine.”",
+      "start": 29.63,
+      "end": 33.11
+    },
+    "31": {
+      "text": "Nuko abatware b'amagare barabutswe Yehoshafati baravuga bati “Nguriya umwami w'Abisirayeli.” Ni cyo cyatumye bakebereza aho bajya kumurwanya. Maze Yehoshafati arataka Uwiteka aramutabara, Imana ibatera kumuvaho.",
+      "start": 16.25,
+      "end": 24.26
+    },
+    "32": {
+      "text": "Abatware b'amagare babonye ko atari we mwami w'Abisirayeli barakimirana, barorera kumukurikira.",
+      "start": 30.36,
+      "end": 36.46
+    },
+    "33": {
+      "text": "Nuko umuntu umwe afora umuheto we apfa kurasa, ahamya umwami w'Abisirayeli mu ihuriro ry'imyambaro ye y'ibyuma, umwami ni ko kubwira umwerekeza w'igare rye ati “Kurura urukoba duhindukire unkure mu ngabo, kuko nkomeretse cyane.”",
+      "start": 5.07,
+      "end": 28.01
+    },
+    "34": {
+      "text": "Kuri uwo munsi intambara iriyongeranya, umwami yihanganira mu igare rye ahangana n'Abasiriya ageza nimugoroba, maze izuba rigiye kurenga aratanga.",
+      "start": 16.91,
+      "end": 42.94
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "book": "Book 24",
+  "book_canonical": "jeremiah",
+  "book_number": 24,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Nimwiyarure yemwe bana ba Benyamini mwe, muve muri Yerusalemu muvugirize impanda i Tekowa, mushinge ikimenyetso kuri Betihakeremu kuko ibyago biturutse ikasikazi no kurimbuka gukomeye bibahanzeho amaso.",
+      "start": 29.63,
+      "end": 35.48
+    },
+    "2": {
+      "text": "Umukobwa w'i Siyoni ufite uburanga bwiza wadamaraye, ngiye kumuca.",
+      "start": 38.08,
+      "end": 42.28
+    },
+    "3": {
+      "text": "Abungeri bazahasanga bajyanye imikumbi yabo, bazahakikiza amahema yabo, umwe azaragira ahe undi ahe.",
+      "start": 35.57,
+      "end": 38.02
+    },
+    "4": {
+      "text": "Nimwitegure kuhatera, nimuhaguruke tuzamuke ku manywa. Tubonye ishyano, kuko bugiye kugoroba, ibicucu bya nimugoroba bimaze kurema!",
+      "start": 5.59,
+      "end": 37.09
+    },
+    "5": {
+      "text": "Nimuhaguruke tuze kuzamuka nijoro, turimbure amanyumba yabo.",
+      "start": 36.13,
+      "end": 41.46
+    },
+    "6": {
+      "text": "Uwiteka Nyiringabo avuga atya ati “Mutsinde ibiti, murunde ikirundo cyo kūririraho mutere i Yerusalemu, ari wo murwa ugiye guhanwa wuzuye urugomo gusa.",
+      "start": 25.37,
+      "end": 39.76
+    },
+    "7": {
+      "text": "Nk'uko isōko ivubura amazi yayo ni ko na wo uvubura gukiranirwa kwawo, urugomo no kwambura byumvikana muri wo, indwara n'inguma bihora imbere yanjye.",
+      "start": 16.21,
+      "end": 23.61
+    },
+    "8": {
+      "text": "Emera kwigishwa Yerusalemu we, umutima wanjye utakwikuburaho kugira ngo ntaguhindura amatongo n'igihugu kidatuwemo.”",
+      "start": 9.53,
+      "end": 29.06
+    },
+    "9": {
+      "text": "Uwiteka Nyiringabo avuga atya ati “Bazahumba rwose abasigaye ba Isirayeli nk'uruzabibu, humbishe ukuboko kwawe nk'usoromera imizabibu mu byibo.",
+      "start": 29.86,
+      "end": 39.15
+    },
+    "10": {
+      "text": "“Abo nzavugana na bo no kubabera umuhamya ni ba nde kugira ngo bumve? Dore ugutwi kwabo ntikwakebwe ntibabasha kumva, ijambo ry'Uwiteka bararizinutswe ntibanezezwa na ryo.",
+      "start": 40.8,
+      "end": 44.29
+    },
+    "11": {
+      "text": "Ni cyo gituma nuzuwemo n'uburakari bw'Uwiteka, naniwe no kwiyumanganya. Busuke ku bana bari mu nzira no mu iteraniro ry'abasore, kuko umugabo azafatanwa n'umugore we, kandi umusaza n'ugeze mu za bukuru na bo bazafatanwa.",
+      "start": 40.65,
+      "end": 44.37
+    },
+    "12": {
+      "text": "Amazu yabo azigarurirwa n'abandi hamwe n'imirima yabo n'abagore babo, kuko ukuboko kwanjye nzakuramburira ku baturage bo mu gihugu. Ni ko Uwiteka avuga.",
+      "start": 18.01,
+      "end": 27.91
+    },
+    "13": {
+      "text": "Kuko uhereye ku muto ukageza ku mukuru wo muri bo umuntu wese yitanze gushaka indamu mbi, uhereye ku muhanuzi ukageza ku mutambyi, umuntu wese akora iby'uburiganya.",
+      "start": 44.52,
+      "end": 44.94
+    },
+    "14": {
+      "text": "Uruguma rw'abantu banjye barwomoye baruca hejuru bavuga bati ‘Ni amahoro, ni amahoro’, ariko rero nta mahoro ariho.",
+      "start": 28.63,
+      "end": 44.21
+    },
+    "15": {
+      "text": "Mbese nta soni bagize bamaze gukora ibizira? Oya, ntabwo bakozwe n'isoni haba no guhonga mu maso. Ni cyo gituma bazagwa mu bagwa, igihe nzabahagurukira bazaba imirara.” Ni ko Uwiteka avuga.",
+      "start": 33.36,
+      "end": 43.91
+    },
+    "16": {
+      "text": "Uwiteka avuga atya ati “Nimuhagarare mu nzira murebe kandi mubaririze inzira za kera, aho inzira nziza iri abe ari yo munyuramo, ni ho muzabona uburuhukiro mu mitima yanyu. Ariko barahakana bati ‘Ntituzayinyuramo.’",
+      "start": 0.89,
+      "end": 22.58
+    },
+    "17": {
+      "text": "Kandi nabashyizeho n'abarinzi nti ‘Nimutegere amatwi ijwi ry'impanda’, ariko barahakana bati ‘Ntituzayatega.’",
+      "start": 37.07,
+      "end": 39.85
+    },
+    "18": {
+      "text": "“Nuko nimwumve mwa mahanga mwe, kandi mumenye ikibarimo wa teraniro we.",
+      "start": 44.24,
+      "end": 44.74
+    },
+    "19": {
+      "text": "Umva wa si we, dore ngiye kuzanira aba bantu ibyago ari byo mbuto z'ibyo bajyaga bibwira, kuko batumviye amagambo yanjye, n'amategeko yanjye bakaba barayanze.",
+      "start": 17.28,
+      "end": 20.86
+    },
+    "20": {
+      "text": "“Ni iki gituma nzanirwa imibavu ivuye i Sheba, n'ibihumura neza bivuye mu gihugu cya kure? Ibitambo byanyu byoswa ntibyemewe n'amaturo yanyu ntanezeza.”",
+      "start": 37.14,
+      "end": 43.57
+    },
+    "21": {
+      "text": "Ni cyo gituma Uwiteka avuga atya ati “Dore nzashyira ibisitaza imbere y'aba bantu, abana bazabisitaranaho na ba se, umuturanyi na mugenzi we bazapfana.”",
+      "start": 6.35,
+      "end": 24.08
+    },
+    "22": {
+      "text": "Uwiteka avuga atya ati “Dore ubwoko buje buturuka mu gihugu cy'ikasikazi, ishyanga rikomeye rizahagurutswa riturutse ku mpera z'isi",
+      "start": 38.21,
+      "end": 41.78
+    },
+    "23": {
+      "text": "bitwaje imiheto n'amacumu. Ni abantu b'inkazi ntibababarira, ikiriri cyabo gihōrera nk'inyanja, bagendera ku mafarashi, umuntu wese ateje urugamba nk'uri mu ntambara, kandi ni wowe bateye wa mukobwa w'i Siyoni we.”",
+      "start": 19.84,
+      "end": 27.23
+    },
+    "24": {
+      "text": "Twumvise inkuru zaho amaboko yacu araraba, duterwa n'umubabaro mwinshi n'ibise nk'iby'umugore uri ku nda.",
+      "start": 11.29,
+      "end": 42.79
+    },
+    "25": {
+      "text": "Ntugasohoke ngo ujye mu murima cyangwa ngo ujye mu nzira, kuko inkota y'umubisha n'ibiteye ubwoba biri mu mpande zose.",
+      "start": 1.63,
+      "end": 34.64
+    },
+    "26": {
+      "text": "Yewe mukobwa w'abantu banjye we, kenyera ibigunira wigaragure mu ivu, wiraburirwe nk'uwapfushije umwana w'ikinege. Gira umuborogo ubabaje cyane, kuko umurimbuzi azadutera adutunguye.",
+      "start": 37.56,
+      "end": 41.63
+    },
+    "27": {
+      "text": "Nakugize umunara n'igihome mu bantu banjye, kugira ngo umenye inzira yabo uyigenzure.",
+      "start": 34.6,
+      "end": 40.32
+    },
+    "28": {
+      "text": "Bose ni abagome bakabije bagenda babeshyera abandi, bameze nk'imiringa n'ibyuma, bose bakora ibyo gukiranirwa.",
+      "start": 30.19,
+      "end": 36.47
+    },
+    "29": {
+      "text": "Imivuba ivugutirwa cyane, icyuma cy'isasu gikongowe n'umuriro, bagumya gucenshura ariko nta cyo bimaze kuko ababi batavanwamo.",
+      "start": 32.94,
+      "end": 44.14
+    },
+    "30": {
+      "text": "Abantu bazabita ifeza yabaye inkamba, kuko Uwiteka yabanze.",
+      "start": 8.4,
+      "end": 24.55
+    }
+  }
+}

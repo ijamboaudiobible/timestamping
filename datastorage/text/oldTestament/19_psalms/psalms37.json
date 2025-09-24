@@ -1,0 +1,208 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 37,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Ntuhagarikwe umutima n'abakora ibyaha,Kandi ntugirire ishyari abakiranirwa.",
+      "start": 39.51,
+      "end": 42.6
+    },
+    "2": {
+      "text": "Kuko bazacibwa vuba nk'ubwatsi,Bazuma nk'igisambu kibisi.",
+      "start": 22.85,
+      "end": 25.22
+    },
+    "3": {
+      "text": "Wiringire Uwiteka ukore ibyiza,Guma mu gihugu ukurikize umurava.",
+      "start": 40.48,
+      "end": 44.17
+    },
+    "4": {
+      "text": "Kandi wishimire Uwiteka,Na we azaguha ibyo umutima wawe usaba.",
+      "start": 2.38,
+      "end": 39.5
+    },
+    "5": {
+      "text": "Ikoreze Uwiteka urugendo rwawe rwose,Abe ari we wiringira na we azabisohoza.",
+      "start": 28.57,
+      "end": 34.06
+    },
+    "6": {
+      "text": "Kandi azerekana gukiranuka kwawe nk'umucyo,N'ukuri k'urubanza rwawe nk'amanywa y'ihangu.",
+      "start": 36.97,
+      "end": 41.85
+    },
+    "7": {
+      "text": "Turiza Uwiteka umutegereze wihanganye,Ntuhagarikwe umutima n'ubona ibyiza mu rugendo rwe,N'umuntu usohoza inama mbi.",
+      "start": 32.28,
+      "end": 43.72
+    },
+    "8": {
+      "text": "Reka umujinya, va mu burakari,Ntuhagarike umutima kuko icyo kizana gukora ibyaha gusa.",
+      "start": 22.61,
+      "end": 44.11
+    },
+    "9": {
+      "text": "Kuko abakora ibyaha bazarimburwa,Ariko abategereza Uwiteka ni bo bazaragwa igihugu.",
+      "start": 3.2,
+      "end": 42.83
+    },
+    "10": {
+      "text": "Kuko hazabaho igihe gito, umunyabyaha ntabeho,Ni koko uzitegereza ahe umubure.",
+      "start": 43.69,
+      "end": 44.17
+    },
+    "11": {
+      "text": "Ariko abagwaneza bazaragwa igihugu,Bazishimira amahoro menshi.",
+      "start": 31.75,
+      "end": 41.74
+    },
+    "12": {
+      "text": "Umunyabyaha ajya inama zo kugirira umukiranutsi nabi,Kandi amuhekenyera amenyo.",
+      "start": 14.85,
+      "end": 25.91
+    },
+    "13": {
+      "text": "Umwami Imana izamuseka,Kuko ireba yuko igihe cye kigiye gusohora.",
+      "start": 10.65,
+      "end": 37.31
+    },
+    "14": {
+      "text": "Abanyabyaha bakuriye inkota bafora imiheto,Kugira ngo batsinde umunyamubabaro n'umukene,Bice abagenda batunganye.",
+      "start": 30.25,
+      "end": 33.62
+    },
+    "15": {
+      "text": "Inkota yabo ni bo izacumita imitima,Imiheto yabo izavunika.",
+      "start": 22.64,
+      "end": 27.07
+    },
+    "16": {
+      "text": "Ibike umukiranutsi afite,Biruta ubutunzi bwinshi bw'abanyabyaha benshi.",
+      "start": 35.6,
+      "end": 41.63
+    },
+    "17": {
+      "text": "Kuko amaboko y'abanyabyaha azavunika,Ariko Uwiteka aramira abakiranutsi.",
+      "start": 14.08,
+      "end": 24.63
+    },
+    "18": {
+      "text": "Uwiteka azi iminsi y'abatunganye,Umwandu wabo uzahoraho iteka.",
+      "start": 36.24,
+      "end": 36.97
+    },
+    "19": {
+      "text": "Ntibazakorwa n'isoni mu gihe cy'ibyago,Mu minsi y'inzara bazahazwa.",
+      "start": 34.12,
+      "end": 43.11
+    },
+    "20": {
+      "text": "Ariko abanyabyaha bazarimbuka,Kandi abanzi b'Uwiteka bazashira nk'ubwiza bw'urwuri,Bazarimbuka, bazarimbukira mu mwotsi.",
+      "start": 10.03,
+      "end": 35.15
+    },
+    "21": {
+      "text": "Umunyabyaha aragurizwa ntiyishyure,Ariko umukiranutsi agira ubuntu agatanga.",
+      "start": 22.19,
+      "end": 30.74
+    },
+    "22": {
+      "text": "Kuko abahabwa umugisha n'Uwiteka bazaragwa igihugu,Abavunwa na we bazarimburwa.",
+      "start": 44.62,
+      "end": 44.73
+    },
+    "23": {
+      "text": "Iyo intambwe z'umuntu zikomejwe n'Uwiteka,Akishimira inzira ye,",
+      "start": 11.71,
+      "end": 21.49
+    },
+    "24": {
+      "text": "Naho yagwa ntazarambarara,Kuko Uwiteka amuramije ukuboko kwe.",
+      "start": 5.16,
+      "end": 26.42
+    },
+    "25": {
+      "text": "Nari umusore none ndashaje,Ariko sinari nabona umukiranutsi aretswe,Cyangwa urubyaro rwe rusabiriza ibyokurya.",
+      "start": 39.13,
+      "end": 42.95
+    },
+    "26": {
+      "text": "Agira ubuntu umunsi ukira, akaguriza abandi,Urubyaro rwe rukabona umugisha.",
+      "start": 13.22,
+      "end": 24.08
+    },
+    "27": {
+      "text": "Va mu byaha ujye ukora ibyiza,Uzaba gakondo iteka.",
+      "start": 23.12,
+      "end": 33.6
+    },
+    "28": {
+      "text": "Uwiteka akunda imanza zitabera,Ntareka abakunzi be,Barindwa iteka ryose.Ariko urubyaro rw'abanyabyaha ruzarimburwa.",
+      "start": 23.38,
+      "end": 37.76
+    },
+    "29": {
+      "text": "Abakiranutsi bazaragwa igihugu,Bakibemo iteka.",
+      "start": 25.16,
+      "end": 39.63
+    },
+    "30": {
+      "text": "Akanwa k'umukiranutsi kavuga iby'ubwenge,N'ururimi rwe ruvuga ibyo gukiranuka.",
+      "start": 2.74,
+      "end": 43.98
+    },
+    "31": {
+      "text": "Amategeko y'Imana ye ari mu mutima we,Nta ntambwe ze zizanyerera.",
+      "start": 4.22,
+      "end": 38.18
+    },
+    "32": {
+      "text": "Umunyabyaha agenzura umukiranutsi,Agashaka kumwica.",
+      "start": 18.14,
+      "end": 34.62
+    },
+    "33": {
+      "text": "Uwiteka ntazamurekera mu kuboko kwe,Kandi ntazamutsindisha mu manza.",
+      "start": 12.83,
+      "end": 15.01
+    },
+    "34": {
+      "text": "Ujye utegereza Uwiteka ukomeze mu nzira ye,Na we azagushyirira hejuru kuragwa igihugu,Abanyabyaha bazarimburwa ureba.",
+      "start": 21.46,
+      "end": 28.43
+    },
+    "35": {
+      "text": "Nabonye umunyabyaha afite ubutware bukomeye,Agāye nk'igiti kibisi cyishimiye ubutaka.",
+      "start": 23.43,
+      "end": 35.38
+    },
+    "36": {
+      "text": "Maze barahanyuze basanga adahari,Kandi naramushatse ntiyaboneka.",
+      "start": 9.16,
+      "end": 43.86
+    },
+    "37": {
+      "text": "Witegereze uboneye rwose, urebe utunganye,Kuko umunyamahoro azagira urubyaro.",
+      "start": 28.23,
+      "end": 39.91
+    },
+    "38": {
+      "text": "Abacumura bo bazarimburirwa hamwe,Urubyaro rw'umunyabyaha ruzarimburwa.",
+      "start": 13.28,
+      "end": 40.95
+    },
+    "39": {
+      "text": "Ariko agakiza k'abakiranutsi gaturuka ku Uwiteka,Ni we gihome kibakingira mu gihe cy'amakuba.",
+      "start": 16.02,
+      "end": 42.41
+    },
+    "40": {
+      "text": "Kandi Uwiteka arabatabara akabārura,Abārura mu banyabyaha akabakiza,Kuko bamuhungiyeho.",
+      "start": 37.41,
+      "end": 43.16
+    }
+  }
+}

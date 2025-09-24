@@ -1,0 +1,193 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Nuko abwira abigishwa be ati “Nta cyabuza ibisitaza kuza, ariko ubizana azabona ishyano.",
+      "start": 6.99,
+      "end": 32.02
+    },
+    "2": {
+      "text": "Ibyamubera byiza ni uko yahambirwa urusyo mu ijosi akarohwa mu nyanja, biruta ko yagusha umwe muri aba batoya.",
+      "start": 31.55,
+      "end": 36.97
+    },
+    "3": {
+      "text": "Mwirinde!“Mwene so nakora nabi umucyahe, niyihana umubabarire.",
+      "start": 35.23,
+      "end": 35.4
+    },
+    "4": {
+      "text": "Kandi nakugirira nabi ku munsi umwe, akaguhindukirira karindwi ati ‘Ndihannye’, uzamubabarire.”",
+      "start": 41.23,
+      "end": 42.4
+    },
+    "5": {
+      "text": "Maze intumwa zibwira Umwami Yesu ziti “Twongerere kwizera.”",
+      "start": 29.02,
+      "end": 43.91
+    },
+    "6": {
+      "text": "Umwami ati “Mwagira kwizera kungana n'akabuto ka sinapi, mwabwira uyu mukuyu muti ‘Randuka uterwe mu nyanja’, na wo wabumvira.",
+      "start": 37.14,
+      "end": 44.61
+    },
+    "7": {
+      "text": "“Ariko ni nde muri mwe ufite umugaragu umuhingira cyangwa umuragirira intama, wamubwira akiva ku murimo ati ‘Igira hano vuba wicare ufungure?’",
+      "start": 20.12,
+      "end": 30.87
+    },
+    "8": {
+      "text": "Ahubwo ntiyamubwira ati ‘Banza untunganirize ibyokurya byanjye, ukenyere umpereze kugeza ubwo ndangiza kurya no kunywa, maze hanyuma nawe ubone kurya’?",
+      "start": 0.45,
+      "end": 1.88
+    },
+    "9": {
+      "text": "Mbese yashima uwo mugaragu kuko yakoze ibyo ategetswe?",
+      "start": 3.82,
+      "end": 19.29
+    },
+    "10": {
+      "text": "Nuko namwe nimumara gukora ibyo mwategetswe byose mujye muvuga muti ‘Turi abagaragu batagira umumaro, kuko twashohoje gusa ibyo twabwiwe gukora.’ ”",
+      "start": 28.72,
+      "end": 40.96
+    },
+    "11": {
+      "text": "Nuko bari mu nzira bajya i Yerusalemu, anyura hagati y'i Samariya n'i Galilaya.",
+      "start": 39.83,
+      "end": 42.24
+    },
+    "12": {
+      "text": "Akigera mu kirorero asanganirwa n'ababembe cumi, bahagarara kure",
+      "start": 26.48,
+      "end": 38.61
+    },
+    "13": {
+      "text": "barataka cyane bati “Mutware Yesu, tubabarire.”",
+      "start": 30.09,
+      "end": 41.65
+    },
+    "14": {
+      "text": "Ababonye arababwira ati “Nimugende mwiyereke umutambyi.” Bakigenda barakira.",
+      "start": 42.39,
+      "end": 44.57
+    },
+    "15": {
+      "text": "Umwe muri bo abonye akize agaruka ahimbaza Imana n'ijwi rirenga,",
+      "start": 21.6,
+      "end": 42.31
+    },
+    "16": {
+      "text": "yikubita imbere y'ibirenge bye aramushima, kandi uwo yari Umusamariya.",
+      "start": 1.25,
+      "end": 5.5
+    },
+    "17": {
+      "text": "Yesu aramubaza ati “Ntimwakize muri icumi? Ba bandi cyenda bari he?",
+      "start": 42.07,
+      "end": 44.7
+    },
+    "18": {
+      "text": "Nta bandi bagarutse guhimbaza Imana, keretse uyu munyamahanga?”",
+      "start": 10.71,
+      "end": 21.85
+    },
+    "19": {
+      "text": "Kandi aramubwira ati “Byuka wigendere, kwizera kwawe kuragukijije.”",
+      "start": 20.18,
+      "end": 24.95
+    },
+    "20": {
+      "text": "Abafarisayo baramubaza bati “Ubwami bw'Imana buzaza ryari?” Arabasubiza ati “Ubwami bw'Imana ntibuzaza ku mugaragaro,",
+      "start": 27.85,
+      "end": 40.26
+    },
+    "21": {
+      "text": "kandi ntibazavuga bati ‘Dore ngubu’, cyangwa bati ‘Nguburiya’, kuko ubwami bw'Imana buri hagati muri mwe.”",
+      "start": 33.45,
+      "end": 38.57
+    },
+    "22": {
+      "text": "Abwira abigishwa be ati “Hazabaho igihe muzifuza kubona umunsi umwe mu minsi y'Umwana w'umuntu, ariko ntimuzawubona.",
+      "start": 1.62,
+      "end": 31.88
+    },
+    "23": {
+      "text": "Kandi bazababwira bati ‘Dore nguriya’, cyangwa bati ‘Dore nguyu.’ Ntimuzajyeyo kandi ntimuzabakurikire.",
+      "start": 7.88,
+      "end": 27.88
+    },
+    "24": {
+      "text": "Nk'uko umurabyo urabiriza mu ruhande rumwe rw'ijuru, ukarabagiranira mu rundi, uko ni ko Umwana w'umuntu azaba ku munsi we.",
+      "start": 29.0,
+      "end": 31.83
+    },
+    "25": {
+      "text": "Ariko akwiriye kubanza kubabazwa uburyo bwinshi, no kwangwa n'ab'iki gihe.",
+      "start": 0.46,
+      "end": 19.66
+    },
+    "26": {
+      "text": "Kandi uko byari biri mu minsi ya Nowa, ni ko bizaba no mu minsi y'Umwana w'umuntu:",
+      "start": 18.12,
+      "end": 37.28
+    },
+    "27": {
+      "text": "bararyaga, baranywaga, bararongoraga, barashyingiraga, bageza umunsi Nowa yinjiriye mu nkuge, umwuzure uraza urabarimbura bose.",
+      "start": 42.28,
+      "end": 44.01
+    },
+    "28": {
+      "text": "No mu minsi ya Loti na yo byari bimeze bityo: bararyaga, baranywaga, baraguraga, barabibaga, barubakaga,",
+      "start": 33.26,
+      "end": 33.29
+    },
+    "29": {
+      "text": "maze umunsi Loti yavuye i Sodomu, umuriro n'amazuku biva mu ijuru biragwa, birabarimbura bose.",
+      "start": 27.94,
+      "end": 32.05
+    },
+    "30": {
+      "text": "Ni na ko bizamera umunsi Umwana w'umuntu azabonekeraho.",
+      "start": 43.82,
+      "end": 44.89
+    },
+    "31": {
+      "text": "“Uwo munsi uzaba hejuru y'inzu, ibintu bye bikaba biri mu nzu, ye kuzamanuka kubikuramo, n'uri mu mirima ni uko ntazasubira inyuma.",
+      "start": 24.7,
+      "end": 31.27
+    },
+    "32": {
+      "text": "Mwibuke muka Loti.",
+      "start": 31.4,
+      "end": 43.17
+    },
+    "33": {
+      "text": "Ushaka kurengera ubugingo bwe wese azabubura, ariko uzabura ubugingo bwe wese azaburokora.",
+      "start": 28.9,
+      "end": 38.79
+    },
+    "34": {
+      "text": "Ndababwira yuko muri iryo joro, ababiri bazaba baryamye ku buriri bumwe, umwe azajyanwa undi agasigara.",
+      "start": 33.39,
+      "end": 34.72
+    },
+    "35": {
+      "text": "Abagore babiri bazaba basera hamwe, umwe azajyanwa undi asigare. [",
+      "start": 0.92,
+      "end": 33.2
+    },
+    "36": {
+      "text": "Ababiri bazaba bari mu murima, umwe azajyanwa undi asigare.]”",
+      "start": 20.0,
+      "end": 36.73
+    },
+    "37": {
+      "text": "Baramubaza bati “Databuja, bizabera he?”Arababwira ati “Aho intumbi iri hose, ni ho inkongoro ziteranira.”",
+      "start": 7.32,
+      "end": 41.19
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "Izi ni zo ndaro z'Abisirayeli ubwo bavaga mu gihugu cya Egiputa, uko imitwe yabo yari iri, bashorewe na Mose na Aroni.",
+      "start": 30.3,
+      "end": 43.73
+    },
+    "2": {
+      "text": "Mose yandika ingendo z'indaro zabo abitegetswe n'Uwiteka. Izi ni zo ndaro zabo nk'uko ingendo zabo zari ziri:",
+      "start": 20.87,
+      "end": 36.77
+    },
+    "3": {
+      "text": "Bahaguruka i Rāmesesi mu kwezi kwa mbere ku munsi wako wa cumi n'itanu. Pasika yaraye ishize, Abisirayeli bavayo bashinze amajosi mu maso y'Abanyegiputa bose.",
+      "start": 16.02,
+      "end": 27.29
+    },
+    "4": {
+      "text": "Basiga bagihamba imfura zabo zose Uwiteka yiciye hagati muri bo, no ku mana zabo Uwiteka yari yashohoje amateka aziciriyeho.",
+      "start": 19.13,
+      "end": 36.12
+    },
+    "5": {
+      "text": "Nuko Abisirayeli bahaguruka i Rāmesesi, babamba amahema i Sukoti.",
+      "start": 15.33,
+      "end": 31.75
+    },
+    "6": {
+      "text": "Barahahaguruka babamba amahema muri Etamu, aho ubutayu butangirira.",
+      "start": 28.77,
+      "end": 39.31
+    },
+    "7": {
+      "text": "Barahahaguruka basubira inyuma, bagera i Pihahiroti iri imbere y'i Bālisefoni, babamba amahema imbere y'i Migidoli.",
+      "start": 13.31,
+      "end": 28.45
+    },
+    "8": {
+      "text": "Bahaguruka imbere y'i Hahiroti, baca mu nyanja hagati bagera mu butayu, bagenda iminsi itatu mu butayu bwa Etamu, babamba amahema i Mara.",
+      "start": 20.59,
+      "end": 34.33
+    },
+    "9": {
+      "text": "Barahahaguruka bataha muri Elimu, hari amasoko cumi n'abiri n'imikindo mirongo irindwi, babambayo amahema.",
+      "start": 27.35,
+      "end": 40.49
+    },
+    "10": {
+      "text": "Barahahaguruka, babamba amahema ku Nyanja Itukura.",
+      "start": 32.31,
+      "end": 43.88
+    },
+    "11": {
+      "text": "Barahahaguruka, babamba amahema mu butayu bwa Zini.",
+      "start": 34.84,
+      "end": 39.66
+    },
+    "12": {
+      "text": "Barahahaguruka, babamba amahema i Dofuka.",
+      "start": 1.58,
+      "end": 26.58
+    },
+    "13": {
+      "text": "Barahahaguruka, babamba amahema muri Alushi.",
+      "start": 20.54,
+      "end": 24.82
+    },
+    "14": {
+      "text": "Barahahaguruka, babamba amahema i Refidimu, hatagira amazi banywa.",
+      "start": 7.39,
+      "end": 30.57
+    },
+    "15": {
+      "text": "Barahahaguruka, babamba amahema mu butayu bwa Sinayi.",
+      "start": 34.68,
+      "end": 44.63
+    },
+    "16": {
+      "text": "Barahahaguruka, babamba amahema i Kiburotihatāva.",
+      "start": 32.15,
+      "end": 39.85
+    },
+    "17": {
+      "text": "Barahahaguruka, babamba amahema i Haseroti.",
+      "start": 7.29,
+      "end": 14.13
+    },
+    "18": {
+      "text": "Barahahaguruka, babamba amahema i Ritima.",
+      "start": 29.05,
+      "end": 29.64
+    },
+    "19": {
+      "text": "Barahahaguruka, babamba amahema i Rimoniperēsi.",
+      "start": 42.95,
+      "end": 43.75
+    },
+    "20": {
+      "text": "Barahahaguruka, babamba amahema i Libuna.",
+      "start": 11.28,
+      "end": 43.89
+    },
+    "21": {
+      "text": "Barahahaguruka, babamba amahema i Risa.",
+      "start": 9.29,
+      "end": 29.28
+    },
+    "22": {
+      "text": "Barahahaguruka, babamba amahema i Kehelata.",
+      "start": 13.21,
+      "end": 42.53
+    },
+    "23": {
+      "text": "Barahahaguruka, babamba amahema ku musozi Sheferi.",
+      "start": 40.25,
+      "end": 43.56
+    },
+    "24": {
+      "text": "Barahahaguruka, babamba amahema i Harada.",
+      "start": 25.58,
+      "end": 36.8
+    },
+    "25": {
+      "text": "Barahahaguruka, babamba amahema i Makeloti.",
+      "start": 4.09,
+      "end": 19.62
+    },
+    "26": {
+      "text": "Barahahaguruka, babamba amahema i Tahati.",
+      "start": 38.77,
+      "end": 41.87
+    },
+    "27": {
+      "text": "Barahahaguruka, babamba amahema i Tera.",
+      "start": 6.87,
+      "end": 37.97
+    },
+    "28": {
+      "text": "Barahahaguruka, babamba amahema i Mitika.",
+      "start": 7.43,
+      "end": 23.03
+    },
+    "29": {
+      "text": "Barahahaguruka, babamba amahema i Hashimona.",
+      "start": 19.69,
+      "end": 30.26
+    },
+    "30": {
+      "text": "Barahahaguruka, babamba amahema i Moseroti.",
+      "start": 2.8,
+      "end": 22.86
+    },
+    "31": {
+      "text": "Barahahaguruka, babamba amahema i Beneyākani.",
+      "start": 38.18,
+      "end": 44.1
+    },
+    "32": {
+      "text": "Barahahaguruka, babamba amahema i Horihagidigadi.",
+      "start": 31.2,
+      "end": 39.75
+    },
+    "33": {
+      "text": "Barahahaguruka, babamba amahema i Yotibata.",
+      "start": 6.43,
+      "end": 30.25
+    },
+    "34": {
+      "text": "Barahahaguruka, babamba amahema muri Aburona.",
+      "start": 11.29,
+      "end": 28.45
+    },
+    "35": {
+      "text": "Barahahaguruka, babamba amahema muri Esiyonigeberi.",
+      "start": 6.14,
+      "end": 32.79
+    },
+    "36": {
+      "text": "Barahahaguruka, babamba amahema mu butayu bwa Zini, ni ho Kadeshi.",
+      "start": 39.21,
+      "end": 42.52
+    },
+    "37": {
+      "text": "Bahaguruka i Kadeshi, babamba amahema ku musozi Hori ku rugabano rw'igihugu cya Edomu.",
+      "start": 8.04,
+      "end": 42.66
+    },
+    "38": {
+      "text": "Aroni umutambyi azamuka uwo musozi Hori, abitegetswe n'Uwiteka, apfirayo mu mwaka wa mirongo ine uhereye aho Abisirayeli baviriye mu gihugu cya Egiputa, mu kwezi kwawo kwa gatanu, ku munsi wako wa mbere.",
+      "start": 25.79,
+      "end": 41.8
+    },
+    "39": {
+      "text": "Aroni yari amaze imyaka ijana na makumyabiri n'itatu, ubwo yapfiraga ku musozi Hori.",
+      "start": 1.59,
+      "end": 16.87
+    },
+    "40": {
+      "text": "Umwami w'i Aradi w'Umunyakanāni, wari utuye i Negebu yo mu gihugu cy'i Kanāni, yumva yuko Abisirayeli baje.",
+      "start": 17.62,
+      "end": 39.2
+    },
+    "41": {
+      "text": "Bahaguruka ku musozi Hori, babamba amahema i Salumoni.",
+      "start": 24.04,
+      "end": 37.5
+    },
+    "42": {
+      "text": "Barahahaguruka, babamba amahema i Punoni.",
+      "start": 42.44,
+      "end": 44.22
+    },
+    "43": {
+      "text": "Barahahaguruka, babamba amahema mu Oboti.",
+      "start": 1.44,
+      "end": 15.05
+    },
+    "44": {
+      "text": "Barahahaguruka, babamba amahema Iyabarimu, ku rugabano rw'i Mowabu.",
+      "start": 34.62,
+      "end": 44.4
+    },
+    "45": {
+      "text": "Bahaguruka Iyimu, babamba amahema i Diboni Gadi.",
+      "start": 19.71,
+      "end": 42.08
+    },
+    "46": {
+      "text": "Barahahaguruka, babamba amahema mu Alumonidibulatayimu.",
+      "start": 14.27,
+      "end": 36.38
+    },
+    "47": {
+      "text": "Barahahaguruka, babamba amahema mu misozi ya Abarimu, imbere y'i Nebo.",
+      "start": 25.29,
+      "end": 28.71
+    },
+    "48": {
+      "text": "Barahahaguruka, babamba amahema mu kibaya cy'i Mowabu kinini, kuri Yorodani ahateganye n'i Yeriko.",
+      "start": 15.17,
+      "end": 17.74
+    },
+    "49": {
+      "text": "Babamba amahema kuri Yorodani, bahereye i Betiyeshimoti bageza muri Abeli Shitimu yo mu kibaya cy'i Mowabu kinini.",
+      "start": 36.26,
+      "end": 40.5
+    },
+    "50": {
+      "text": "Uwiteka abwirira Mose mu kibaya cy'i Mowabu kinini, kuri Yorodani ahateganye n'i Yeriko ati",
+      "start": 10.93,
+      "end": 21.93
+    },
+    "51": {
+      "text": "“Bwira Abisirayeli uti ‘Nimwambuka Yorodani mukajya mu gihugu cy'i Kanāni,",
+      "start": 25.37,
+      "end": 44.28
+    },
+    "52": {
+      "text": "muzirukane bene igihugu bose bari imbere yanyu, mutsembe ibibuye byabo byabajweho ibishushanyo, kandi mutsembe ibishushanyo byabo byayagijwe byose, musenye amasengero yabo yose yo mu mpinga z'imisozi.",
+      "start": 14.92,
+      "end": 34.66
+    },
+    "53": {
+      "text": "Muhindūre icyo gihugu mugituremo, kuko ari mwe ngihaye ho gakondo.",
+      "start": 41.86,
+      "end": 42.22
+    },
+    "54": {
+      "text": "Muzaheshwe igihugu ho gakondo n'ubufindo nk'uko imiryango yanyu iri, abaruta abandi ubwinshi muzabahe gakondo ngari, abake muzabahe nto. Aho ubufindo buzategekera umuntu, abe ari ho haba ahe. Muzahabwe gakondo zanyu nk'uko imiryango ya ba sekuruza wanyu iri.",
+      "start": 40.92,
+      "end": 41.15
+    },
+    "55": {
+      "text": "Ariko nimutirukana bene igihugu bari imbere yanyu, abo muzasiga muri bo bazabamerera nk'ibibahanda amaso, nk'amahwa mu mbavu zanyu, bazababera ababisha mu gihugu mutuyemo.",
+      "start": 31.52,
+      "end": 44.81
+    },
+    "56": {
+      "text": "Kandi ibyo nibwiraga ko nzagirira abo, nzabigirira mwe.’ ”",
+      "start": 7.2,
+      "end": 25.1
+    }
+  }
+}

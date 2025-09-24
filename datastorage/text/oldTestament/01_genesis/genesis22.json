@@ -1,0 +1,128 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo, Imana igerageza Aburahamu iramuhamagara iti “Aburahamu.” Aritaba ati “Karame.”",
+      "start": 23.5,
+      "end": 33.81
+    },
+    "2": {
+      "text": "Iramubwira iti “Jyana umwana wawe, umwana wawe w'ikinege ukunda Isaka, ujye mu gihugu cy'i Moriya umutambireyo ku musozi ndi bukubwire, abe igitambo cyoswa.”",
+      "start": 37.24,
+      "end": 44.32
+    },
+    "3": {
+      "text": "Aburahamu azinduka kare kare, ashyira amatandiko ku ndogobe ye, ajyana n'abagaragu be babiri, na Isaka umwana we. Yasa inkwi zo kosa igitambo, arahaguruka ajya ahantu Imana yamubwiye.",
+      "start": 16.34,
+      "end": 29.48
+    },
+    "4": {
+      "text": "Ku munsi wa gatatu Aburahamu arambura amaso, yitegereza aho hantu hari kure.",
+      "start": 31.7,
+      "end": 39.4
+    },
+    "5": {
+      "text": "Aburahamu abwira abo bagaragu be ati “Musigirane hano indogobe, jye n'uyu muhungu tujye hirya hariya dusenge, tubagarukeho.”",
+      "start": 18.27,
+      "end": 44.0
+    },
+    "6": {
+      "text": "Aburahamu yenda za nkwi zo kosa igitambo, azikorera Isaka umuhungu we, ajyana n'umuriro n'umushyo, bombi barajyana.",
+      "start": 40.65,
+      "end": 43.94
+    },
+    "7": {
+      "text": "Isaka ahamagara se Aburahamu ati “Data.”Aramwitaba ati “Ndakwitaba, mwana wanjye.”Aramubaza ati “Dore umuriro n'inkwi ngibi, ariko umwana w'intama uri he, w'igitambo cyo koswa?”",
+      "start": 23.81,
+      "end": 40.95
+    },
+    "8": {
+      "text": "Aburahamu aramusubiza ati “Mwana wanjye, Imana iri bwibonere umwana w'intama w'igitambo cyo koswa.” Nuko bombi barajyana.",
+      "start": 10.7,
+      "end": 21.12
+    },
+    "9": {
+      "text": "Bagera ahantu Imana yamubwiye, Aburahamu yubakayo igicaniro yararikaho za nkwi, aboha Isaka umuhungu we, amurambika kuri icyo gicaniro hejuru y'inkwi.",
+      "start": 34.24,
+      "end": 40.95
+    },
+    "10": {
+      "text": "Aburahamu arambura ukuboko, yenda wa mushyo ngo asogote umuhungu we.",
+      "start": 37.65,
+      "end": 43.96
+    },
+    "11": {
+      "text": "Marayika w'Uwiteka amuhamagara ari mu ijuru ati “Aburahamu, Aburahamu.”Aritaba ati “Karame.”",
+      "start": 8.35,
+      "end": 42.38
+    },
+    "12": {
+      "text": "Aramubwira ati “Ntukoze ukuboko kuri uwo muhungu, ntugire icyo umutwara, kuko ubu menye yuko wubaha Imana, kuko utanyimye umwana wawe w'ikinege.”",
+      "start": 11.66,
+      "end": 31.01
+    },
+    "13": {
+      "text": "Aburahamu yubura amaso arareba, abona inyuma ye impfizi y'intama, amahembe yayo afashwe mu gihuru. Aburahamu aragenda, yenda ya ntama, ayitambaho igitambo cyoswa mu cyimbo cy'umuhungu we.",
+      "start": 29.74,
+      "end": 43.08
+    },
+    "14": {
+      "text": "Aburahamu yita aho hantu Yehovayire, nk'uko bavuga na bugingo n'ubu bati “Ku musozi w'Uwiteka kizabonwa.”",
+      "start": 13.48,
+      "end": 21.62
+    },
+    "15": {
+      "text": "Maze marayika w'Uwiteka arongera ahamagara Aburahamu ari mu ijuru,",
+      "start": 1.02,
+      "end": 1.95
+    },
+    "16": {
+      "text": "aramubwira ati “Ndirahiye, ni ko Uwiteka avuga, ubwo ugenjeje utyo ntunyime umwana wawe w'ikinege,",
+      "start": 24.14,
+      "end": 27.63
+    },
+    "17": {
+      "text": "yuko no kuguha umugisha nzaguha umugisha, no kugwiza nzagwiza urubyaro rwawe ruhwane n'inyenyeri zo mu ijuru, kandi ruhwane n'umusenyi wo mu kibaya cy'inyanja, kandi ruzahīndura amarembo y'ababisha barwo.",
+      "start": 34.15,
+      "end": 41.26
+    },
+    "18": {
+      "text": "Kandi mu rubyaro rwawe ni mo amahanga yose yo mu isi azaherwa umugisha kuko wanyumviye.”",
+      "start": 9.32,
+      "end": 16.32
+    },
+    "19": {
+      "text": "Aburahamu asubira aho abagaragu be bari, barahaguruka bajyana i Bērisheba, agezeyo arahatura.",
+      "start": 3.16,
+      "end": 20.83
+    },
+    "20": {
+      "text": "Hanyuma y'ibyo babwira Aburahamu bati “Na Miluka yabyaranye na mwene so Nahori abana.”",
+      "start": 24.49,
+      "end": 32.55
+    },
+    "21": {
+      "text": "Imfura ye ni Usi, hakurikiraho Buzi murumuna we, na Kemuweli se wa Aramu,",
+      "start": 9.01,
+      "end": 15.2
+    },
+    "22": {
+      "text": "na Kesedi na Hazo na Piludashi, na Yidilafu na Betuweli.",
+      "start": 44.66,
+      "end": 44.79
+    },
+    "23": {
+      "text": "Betuweli yabyaye Rebeka. Abo uko ari umunani, Miluka yababyaranye na Nahori mwene se wa Aburahamu.",
+      "start": 41.89,
+      "end": 43.43
+    },
+    "24": {
+      "text": "Inshoreke ye yitwa Rewuma, na yo yabyaye Teba na Gahamu, na Tahashi na Māka.",
+      "start": 25.32,
+      "end": 26.4
+    }
+  }
+}

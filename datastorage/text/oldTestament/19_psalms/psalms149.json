@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 149,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Muririmbire Uwiteka indirimbo nshya,Muririmbire ishimwe rye mu iteraniro ry'abakunzi be.",
+      "start": 44.99,
+      "end": 45.0
+    },
+    "2": {
+      "text": "Ubwoko bw'Abisirayeli bunezererwe umuremyi wabwo,Abana b'i Siyoni bishimire Umwami wabo.",
+      "start": 18.16,
+      "end": 32.84
+    },
+    "3": {
+      "text": "Bashimishe izina rye imbyino,Bamuririmbishirize ishimwe,Batambira ishako, batengerera inanga.",
+      "start": 15.39,
+      "end": 34.69
+    },
+    "4": {
+      "text": "Kuko Uwiteka anezererwa abantu be,Azarimbishisha abanyamubabaro agakiza.",
+      "start": 22.6,
+      "end": 23.95
+    },
+    "5": {
+      "text": "Abakunzi be bishimire icyubahiro abahaye,Baririmbishwe n'ibyishimo,Baririmbire ku mariri yabo.",
+      "start": 28.26,
+      "end": 32.03
+    },
+    "6": {
+      "text": "Ishimwe ryo gusingiza Imana ribe mu mihogo yabo,N'inkota ibe mu ntoki zabo,",
+      "start": 23.45,
+      "end": 23.47
+    },
+    "7": {
+      "text": "yo guhōrēsha amahanga,No guhanisha amoko ibihano",
+      "start": 15.27,
+      "end": 40.72
+    },
+    "8": {
+      "text": "Bakabohesha abami bayo iminyururu,N'abanyacyubahiro bayo imihama,",
+      "start": 19.62,
+      "end": 20.33
+    },
+    "9": {
+      "text": "Kugira ngo babasohozeho iteka ryanditswe,Icyo ni icyubahiro cy'abakunzi be bose.Haleluya.",
+      "start": 44.0,
+      "end": 44.29
+    }
+  }
+}

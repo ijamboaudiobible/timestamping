@@ -1,0 +1,183 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Umunyakanāni umwami wa Arada waturaga i Negebu, yumva ko Abisirayeli baje baciye mu nzira ica muri Atarimu, arabarwanya abafatamo mpiri.",
+      "start": 17.25,
+      "end": 25.9
+    },
+    "2": {
+      "text": "Abisirayeli bahiga Uwiteka umuhigo bati “Nutugabiza iri shyanga, tuzasenya rwose imidugudu yabo tuyirimbure.”",
+      "start": 24.27,
+      "end": 27.14
+    },
+    "3": {
+      "text": "Uwiteka yumvira Abisirayeli abagabiza abo Banyakanāni, barabarimbura rwose, n'imidugudu yabo barayisenya: aho hantu bahita Horuma.",
+      "start": 15.54,
+      "end": 29.8
+    },
+    "4": {
+      "text": "Bahaguruka ku musozi wa Hori baca mu nzira ijya ku Nyanja Itukura, ngo bakikire igihugu cya Edomu. Imitima y'abantu icogozwa cyane n'urwo rugendo.",
+      "start": 20.01,
+      "end": 30.59
+    },
+    "5": {
+      "text": "Abantu bavuga Imana na Mose nabi bati “Mwadukuriye iki muri Egiputa mukatuzana gupfira mu butayu? Ko ari nta mitsima tuhaboneye, akaba ari nta mazi, kandi tubihiwe n'iyi mitsima mibi.”",
+      "start": 39.55,
+      "end": 43.13
+    },
+    "6": {
+      "text": "Uwiteka yohereza mu bantu inzoka z'ubusagwe butwika zirabarya, abantu benshi bo mu Bisirayeli barapfa.",
+      "start": 9.96,
+      "end": 11.79
+    },
+    "7": {
+      "text": "Abantu basanga Mose baramubwira bati “Twakoze icyaha, kuko twavuze Uwiteka nawe nabi. Saba Uwiteka adukuremo izi nzoka.” Mose arabasabira.",
+      "start": 36.2,
+      "end": 38.91
+    },
+    "8": {
+      "text": "Uwiteka abwira Mose ati “Cura inzoka isa n'izo, uyimanike ku giti cy'ibendera, maze uwariwe n'inzoka wese nayireba, arakira.”",
+      "start": 42.19,
+      "end": 43.41
+    },
+    "9": {
+      "text": "Mose acura inzoka mu miringa, ayimanika ku giti cy'ibendera, uwo inzoka yariye yareba iyo nzoka y'umuringa, agakira.",
+      "start": 19.08,
+      "end": 44.27
+    },
+    "10": {
+      "text": "Abisirayeli barahaguruka, babamba amahema muri Oboti.",
+      "start": 40.58,
+      "end": 42.75
+    },
+    "11": {
+      "text": "Bahaguruka muri Oboti, babamba amahema Iyabarimu, iri mu butayu bw'iruhande rw'iburasirazuba rw'i Mowabu.",
+      "start": 10.23,
+      "end": 33.7
+    },
+    "12": {
+      "text": "Barahahaguruka, babamba amahema mu gikombe cy'i Zeredi.",
+      "start": 0.62,
+      "end": 27.39
+    },
+    "13": {
+      "text": "Barahahaguruka, babamba amahema hakurya y'umugezi wa Arunoni, uri mu butayu ugaturuka mu gihugu cy'Abamori, kuko Arunoni ari urugabano rw'i Mowabu, rugabanya Mowabu n'Abamori.",
+      "start": 15.82,
+      "end": 38.58
+    },
+    "14": {
+      "text": "Ni cyo cyatumye byandikwa mu gitabo cy'Intambara z'Uwiteka ngo“Vahebu y'i Sufu,N'utugezi twa Arunoni,",
+      "start": 31.28,
+      "end": 42.71
+    },
+    "15": {
+      "text": "N'umukoke w'utugeziUgenda werekeje ku mazu ya Ari,Ugahererana n'urugabano rw'i Mowabu.”",
+      "start": 14.81,
+      "end": 30.4
+    },
+    "16": {
+      "text": "Barahahaguruka bajya i Bēri. Iryo ni ryo riba Uwiteka yabwiye Mose ati “Teranya abantu mbahe amazi.”",
+      "start": 26.95,
+      "end": 38.73
+    },
+    "17": {
+      "text": "Maze Abisirayeli baririmba iyi ndirimbo bati“Dudubiza Riba, nimuriririmbe.",
+      "start": 21.53,
+      "end": 39.23
+    },
+    "18": {
+      "text": "Iri ni iriba ryafukuwe n'abatware,Iry'imfura z'abantu bafukurishije inkoni y'icyubahiroN'ingegene zabo.”Bahaguruka muri ubwo butayu bajya i Matana,",
+      "start": 10.5,
+      "end": 33.91
+    },
+    "19": {
+      "text": "barahahaguruka bajya i Nahaliyeli, barahahaguruka bajya i Bamoti.",
+      "start": 30.21,
+      "end": 37.4
+    },
+    "20": {
+      "text": "Barahahaguruka bajya mu gikombe kiri mu gihugu cy'i Mowabu, bajya mu mpinga ya Pisiga, harengeye ubutayu.",
+      "start": 10.79,
+      "end": 40.2
+    },
+    "21": {
+      "text": "Abisirayeli batuma intumwa kuri Sihoni umwami w'Abamori bati",
+      "start": 27.98,
+      "end": 44.65
+    },
+    "22": {
+      "text": "“Reka tunyure mu gihugu cyawe, ntituzatambikira mu mirima cyangwa mu nzabibu, ntituzanywa amazi yo mu mariba. Tuzaca mu nzira y'umwami tugeze aho tuzarangiriza igihugu cyawe.”",
+      "start": 6.19,
+      "end": 11.07
+    },
+    "23": {
+      "text": "Sihoni ntiyakundira Abisirayeli ko baca mu gihugu cye, ahubwo ahuruza ingabo ze zose, ajya mu butayu gusanganira Abisirayeli agera i Yahasi, arwanirayo n'Abisirayeli.",
+      "start": 10.98,
+      "end": 33.58
+    },
+    "24": {
+      "text": "Abisirayeli bamutsindisha inkota bahindūra igihugu cye, bahera kuri Arunoni bageza kuri Yaboki ku rugabano rw'Abamoni, kuko urugabano rw'Abamoni rwari rufite ingerero zikomeye.",
+      "start": 39.28,
+      "end": 41.41
+    },
+    "25": {
+      "text": "Abisirayeli batsinda iyo midugudu yose, batura mu midugudu y'Abamori yose, i Heshiboni no mu midugudu ihereranye na ho yose.",
+      "start": 37.09,
+      "end": 37.11
+    },
+    "26": {
+      "text": "Kuko i Heshiboni rwari ururembo rwa Sihoni umwami w'Abamori, warwanije umwami w'i Mowabu watanze, akamunyaga igihugu cye cyose kigera kuri Arunoni.",
+      "start": 13.93,
+      "end": 30.04
+    },
+    "27": {
+      "text": "Ni cyo gituma abahimbyi b'indirimbo bavuga bati“Nimuze i Heshiboni,Ururembo rwa Sihoni rwubakwe rukomezwe",
+      "start": 5.36,
+      "end": 7.16
+    },
+    "28": {
+      "text": "Kuko umuriro waturutse i Heshiboni,Ikirimi cyavuye mu rurembo rwa Sihoni,Kigatwika Ari y'i Mowabu,N'abatware b'amasengero yo ku mpinga z'imisozi yo kuri Arunoni.",
+      "start": 43.98,
+      "end": 44.15
+    },
+    "29": {
+      "text": "Ubonye ishyano, Mowabu!Urapfuye, wa bwoko bwa Kemoshi we.Yahaye abahungu babo guhunga,Abakobwa babo yabahaye kujyanwa ari abanyaganoNa Sihoni umwami w'Abamori.",
+      "start": 23.06,
+      "end": 35.9
+    },
+    "30": {
+      "text": "Twarabarashe, i Heshiboni harimbukana n'igihugu cyaho kigeza i Diboni,Turimbura igihugu tugeza i Nofaki,Inkongi igera i Medeba.”",
+      "start": 34.21,
+      "end": 35.81
+    },
+    "31": {
+      "text": "Nuko Abisirayeli batura mu gihugu cy'Abamori.",
+      "start": 23.02,
+      "end": 28.65
+    },
+    "32": {
+      "text": "Mose atuma abatasi gutata Yazeri batsinda imidugudu yaho, birukana Abamori bari bariyo.",
+      "start": 36.98,
+      "end": 37.2
+    },
+    "33": {
+      "text": "Barahindukira, barazamuka baca mu nzira ijya i Bashani. Ogi umwami w'i Bashani abasanganiza ingabo ze zose muri Edureyi ngo abarwanirizeyo.",
+      "start": 28.33,
+      "end": 42.23
+    },
+    "34": {
+      "text": "Uwiteka abwira Mose ati “Ntumutinye, kuko mukugabizanije n'abantu be bose n'igihugu cye. Nawe umugirire uko wagiriye Sihoni umwami w'Abamori, wa wundi wari utuye i Heshiboni.”",
+      "start": 23.32,
+      "end": 40.43
+    },
+    "35": {
+      "text": "Bamurimburana n'abahungu be n'abantu be bose, ntihasigara n'uwa kirazira, bahindūra igihugu cye.",
+      "start": 30.83,
+      "end": 32.51
+    }
+  }
+}

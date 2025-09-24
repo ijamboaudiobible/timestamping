@@ -1,0 +1,123 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo, umuhereza wa vino w'umwami wa Egiputa n'umuvuzi w'imitsima ye, barakaza shebuja umwami wa Egiputa.",
+      "start": 14.11,
+      "end": 37.72
+    },
+    "2": {
+      "text": "Farawo arakarira abo batware be bombi, umutware w'abahereza ba vino n'umutware w'abavuzi b'imitsima.",
+      "start": 2.86,
+      "end": 37.45
+    },
+    "3": {
+      "text": "Abarindishiriza mu nzu y'imbohe, iri mu rugo rw'umutware w'abamurinda, aho Yosefu yakingiraniwe.",
+      "start": 23.92,
+      "end": 27.83
+    },
+    "4": {
+      "text": "Umutware w'abarinda umwami abarindisha Yosefu ngo ajye abakorera, bamara igihe bari mu nzu y'imbohe.",
+      "start": 41.32,
+      "end": 41.49
+    },
+    "5": {
+      "text": "Umuhereza wa vino w'umwami wa Egiputa n'umuvuzi w'imitsima ye, bakingiraniwe muri ya nzu y'imbohe, bombi barotera ijoro rimwe inzozi zicishije ukubiri, zigasobanurwa ukubiri.",
+      "start": 13.75,
+      "end": 26.41
+    },
+    "6": {
+      "text": "Yosefu mu gitondo yinjira aho bari, asanga bababaye.",
+      "start": 39.58,
+      "end": 41.43
+    },
+    "7": {
+      "text": "Abaza ba batware ba Farawo bakingiraniwe hamwe na we mu nzu ya shebuja wa Yosefu ati “Ni iki gitumye mugaragaza umubabaro mutyo uyu munsi?”",
+      "start": 6.36,
+      "end": 19.64
+    },
+    "8": {
+      "text": "Baramusubiza bati “Ni uko twarose inzozi, kandi akaba ari nta wubasha kuzidusobanurira.”Yosefu arababaza ati “Gusobanura si ukw'Imana se? Ndabinginze, nimuzindotorere.”",
+      "start": 31.81,
+      "end": 38.0
+    },
+    "9": {
+      "text": "Umuhereza wa vino mukuru arotorera Yosefu inzozi ze ati “Narose ngo umuzabibu wari imbere yanjye,",
+      "start": 20.21,
+      "end": 32.97
+    },
+    "10": {
+      "text": "kandi wari ufite amashami atatu, mbona usa n'upfunditse uburabyo burarabya, amasere yawo arahīsha,",
+      "start": 7.76,
+      "end": 21.38
+    },
+    "11": {
+      "text": "igikombe cya Farawo nari ngifite mu ntoki, nenda izo nzabibu nzikamurira muri cyo, ngihereza Farawo.”",
+      "start": 10.88,
+      "end": 36.28
+    },
+    "12": {
+      "text": "Yosefu aramubwira ati “Uku ni ko zisobanurwa: ya mashami atatu ni iminsi itatu,",
+      "start": 27.95,
+      "end": 33.24
+    },
+    "13": {
+      "text": "iminsi itatu itarashira Farawo azakuzamura, ashyire umutwe wawe ejuru, agusubize mu butware bwawe, ubone guhereza Farawo igikombe, nk'uko wahoze ukora kera, uri umuhereza we wa vino.",
+      "start": 44.65,
+      "end": 44.85
+    },
+    "14": {
+      "text": "Maze uzanyibuke ubwo uzabona ibyiza, uzangirire neza, ndakwinginze uzamvuge kuri Farawo, unkūze muri iyi nzu.",
+      "start": 1.31,
+      "end": 7.45
+    },
+    "15": {
+      "text": "Ni ukuri koko banyibye mu gihugu cy'Abaheburayo, n'ino na ho banshyize muri iyi nzu y'imbohe nta cyaha nkoze.”",
+      "start": 10.93,
+      "end": 36.75
+    },
+    "16": {
+      "text": "Wa muvuzi w'imitsima mukuru yumvise yuko amusobanuriye ibyiza, abwira Yosefu ati “Nanjye narose nikoreye ibyibo bitatu by'imitsima yera,",
+      "start": 4.82,
+      "end": 33.77
+    },
+    "17": {
+      "text": "kandi icyibo cyo hejuru y'ibindi cyarimo imitsima yokeje y'uburyo bwose nshyīra Farawo, ibisiga biyindira ku mutwe, iri mu cyibo.”",
+      "start": 27.28,
+      "end": 29.79
+    },
+    "18": {
+      "text": "Yosefu aramusubiza ati “Uku ni ko zisobanurwa: ibyo byibo bitatu ni iminsi itatu,",
+      "start": 24.88,
+      "end": 25.35
+    },
+    "19": {
+      "text": "iminsi itatu itarashira, Farawo azashyira hejuru umutwe wawe awugukuyeho akumanike ku giti, ibisiga bizakurīraho inyama yawe.”",
+      "start": 44.72,
+      "end": 44.81
+    },
+    "20": {
+      "text": "Ku munsi wa gatatu, ni wo munsi wo kwibutsa kuvuka kwa Farawo, atekeshereza abagaragu be bose ibyokurya, ashyira hejuru hagati y'abagaragu be umutwe w'umuhereza wa vino mukuru, n'uw'umuvuzi w'imitsima mukuru.",
+      "start": 14.65,
+      "end": 19.58
+    },
+    "21": {
+      "text": "Asubiza umuhereza wa vino mukuru mu buhereza bwe, ahereza Farawo igikombe,",
+      "start": 33.63,
+      "end": 41.92
+    },
+    "22": {
+      "text": "maze amanika umuvuzi w'imitsima mukuru, nk'uko Yosefu yabasobanuriye inzozi zabo.",
+      "start": 11.69,
+      "end": 14.2
+    },
+    "23": {
+      "text": "Ariko wa muhereza wa vino mukuru ntiyibuka Yosefu, ahubwo aramwibagirwa.",
+      "start": 36.27,
+      "end": 42.01
+    }
+  }
+}

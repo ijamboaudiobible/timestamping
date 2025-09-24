@@ -1,0 +1,223 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "Uru ni rwo rubyaro rwa Esawu, ni we Edomu.",
+      "start": 23.57,
+      "end": 34.68
+    },
+    "2": {
+      "text": "Esawu yarongoye Abanyakanānikazi, Ada umukobwa wa Eloni Umuheti, na Oholibama umukobwa wa Ana, mwene Sibeyoni Umuhivi,",
+      "start": 16.07,
+      "end": 29.3
+    },
+    "3": {
+      "text": "na Basemati umukobwa wa Ishimayeli, mushiki wa Nebayoti.",
+      "start": 0.07,
+      "end": 19.48
+    },
+    "4": {
+      "text": "Ada abyarana na Esawu Elifazi, Basemati abyara Reweli,",
+      "start": 5.96,
+      "end": 28.23
+    },
+    "5": {
+      "text": "Oholibama abyara Yewushi na Yalamu na Kōra. Abo ni bo bahungu ba Esawu, yabyariye mu gihugu cy'i Kanāni.",
+      "start": 4.39,
+      "end": 18.52
+    },
+    "6": {
+      "text": "Esawu ajyana abagore be, n'abahungu be n'abakobwa be, n'abantu bose bo mu rugo rwe, n'inka ze n'amatungo ye yose, n'ibintu bye byose yaronkeye mu gihugu cy'i Kanāni, ajya mu kindi gihugu ngo atandukane na mwene se Yakobo.",
+      "start": 9.33,
+      "end": 27.48
+    },
+    "7": {
+      "text": "Kuko ubutunzi bwabo bwari bwinshi bugatuma badashobora guturana, igihugu cy'ubusuhuke bwabo nticyabakwiraga ku bw'amatungo yabo.",
+      "start": 19.8,
+      "end": 21.76
+    },
+    "8": {
+      "text": "Esawu atura ku musozi Seyiri, Esawu ni we Edomu.",
+      "start": 38.71,
+      "end": 39.91
+    },
+    "9": {
+      "text": "Uru ni rwo rubyaro rwa Esawu, sekuruza w'Abedomu bo ku musozi Seyiri.",
+      "start": 44.8,
+      "end": 44.98
+    },
+    "10": {
+      "text": "Bene Esawu aya ni yo mazina yabo: Elifazi mwene Ada muka Esawu, na Reweli mwene Basemati muka Esawu.",
+      "start": 33.05,
+      "end": 40.07
+    },
+    "11": {
+      "text": "Bene Elifazi bari Temani na Omari, na Sefo na Gātamu na Kenazi.",
+      "start": 18.64,
+      "end": 36.0
+    },
+    "12": {
+      "text": "Kandi Timuna yari inshoreke ya Elifazi mwene Esawu, abyarana na Elifazi Amaleki. Abo ni bo buzukuru ba Ada, muka Esawu.",
+      "start": 34.28,
+      "end": 39.81
+    },
+    "13": {
+      "text": "Kandi aba ni bo bene Reweli: Nahati na Zera, na Shama na Miza. Abo ni bo buzukuru ba Basemati muka Esawu.",
+      "start": 13.09,
+      "end": 43.26
+    },
+    "14": {
+      "text": "Kandi aba ni bo bene Oholibama muka Esawu, umukobwa wa Ana mwene Sibeyoni: abyarana na Esawu Yewushi na Yalamu na Kōra.",
+      "start": 44.09,
+      "end": 44.16
+    },
+    "15": {
+      "text": "Aba ni bo batware bakomotse mu bahungu ba Esawu. Bene Elifazi imfura ya Esawu ni aba: umutware Temani, n'umutware Omari, n'umutware Sefo, n'umutware Kenazi,",
+      "start": 7.97,
+      "end": 8.79
+    },
+    "16": {
+      "text": "n'umutware Kōra, n'umutware Gātamu, n'umutware Amaleki. Abo ni bo batware bakomotse kuri Elifazi mu gihugu cya Edomu, abo ni bo buzukuru ba Ada.",
+      "start": 43.45,
+      "end": 43.89
+    },
+    "17": {
+      "text": "Kandi aba ni bo bene Reweli mwene Esawu: umutware Nahati, n'umutware Zera, n'umutware Shama, n'umutware Miza. Abo ni bo batware bakomotse kuri Reweli mu gihugu cya Edomu, abo ni bo buzukuru ba Basemati muka Esawu.",
+      "start": 43.66,
+      "end": 44.79
+    },
+    "18": {
+      "text": "Kandi aba ni bo bene Oholibama muka Esawu: umutware Yewushi, n'umutware Yalamu, n'umutware Kōra. Abo ni bo batware bakomotse kuri Oholibama, muka Esawu umukobwa wa Ana.",
+      "start": 24.31,
+      "end": 27.89
+    },
+    "19": {
+      "text": "Abo ni bo bo mu nda ya Esawu, abo ni bo batware babo, uwo ni we Edomu.",
+      "start": 18.11,
+      "end": 22.06
+    },
+    "20": {
+      "text": "Aba ni bo bene Seyiri Umuhori, bene icyo gihugu: Lotani na Shobali, na Sibeyoni na Ana,",
+      "start": 22.45,
+      "end": 38.44
+    },
+    "21": {
+      "text": "na Dishoni na Eseri na Dishani. Abo ni bo batware bavuye mu Bahori, abana ba Seyiri bo mu gihugu cya Edomu.",
+      "start": 41.26,
+      "end": 43.85
+    },
+    "22": {
+      "text": "Bene Lotani bari Hori na Hemamu, mushiki wa Lotani yari Timuna.",
+      "start": 18.77,
+      "end": 28.85
+    },
+    "23": {
+      "text": "Kandi aba ni bo bene Shobali: Alivani na Manahati, na Ebali na Shefo na Onamu.",
+      "start": 42.58,
+      "end": 43.87
+    },
+    "24": {
+      "text": "Kandi aba ni bo bene Sibeyoni: Ayiya na Ana. Ana uwo ni we wabonye amashyuza mu butayu, akiragira indogobe za se Sibeyoni.",
+      "start": 38.39,
+      "end": 42.51
+    },
+    "25": {
+      "text": "Kandi aba ni bo bene Ana: Dishoni na Oholibama, umukobwa wa Ana.",
+      "start": 33.2,
+      "end": 42.3
+    },
+    "26": {
+      "text": "Kandi aba ni bo bene Dishoni: Hemudani na Eshibani, na Yitirani na Kerani.",
+      "start": 20.49,
+      "end": 38.28
+    },
+    "27": {
+      "text": "Kandi aba ni bo bene Eseri: Biluhani na Zāvani na Yakani.",
+      "start": 9.51,
+      "end": 39.27
+    },
+    "28": {
+      "text": "Kandi aba ni bo bene Dishani: Usi na Arani.",
+      "start": 14.46,
+      "end": 26.99
+    },
+    "29": {
+      "text": "Kandi aba ni bo batware bavuye mu Bahori: umutware Lotani, n'umutware Shobali, n'umutware Sibeyoni, n'umutware Ana,",
+      "start": 40.94,
+      "end": 43.44
+    },
+    "30": {
+      "text": "n'umutware Dishoni, n'umutware Eseri, n'umutware Dishani. Abo ni bo batware bavuye mu Bahori, nk'uko abatware babo bari mu gihugu cy'i Seyiri.",
+      "start": 29.2,
+      "end": 41.48
+    },
+    "31": {
+      "text": "Kandi aba ni bo bami bimaga mu gihugu cya Edomu, hatarimo umwami mu Bisirayeli.",
+      "start": 41.5,
+      "end": 44.34
+    },
+    "32": {
+      "text": "Bela mwene Beyori yimye Edomu, ururembo rwe rwitwa Dinihaba.",
+      "start": 12.52,
+      "end": 41.5
+    },
+    "33": {
+      "text": "Bela atanze, Yobabu mwene Zera w'i Bosira yima amukurikiye.",
+      "start": 21.72,
+      "end": 31.29
+    },
+    "34": {
+      "text": "Yobabu atanze, Hushamu wo mu gihugu cy'Abatemani yima amukurikiye.",
+      "start": 16.17,
+      "end": 41.66
+    },
+    "35": {
+      "text": "Hushamu atanze, Hadadi mwene Bedadi, waneshereje Abamidiyani mu ishyamba ry'i Mowabu yima amukurikiye, ururembo rwe rwitwa Aviti.",
+      "start": 32.76,
+      "end": 33.06
+    },
+    "36": {
+      "text": "Hadadi atanze, Samula w'i Masireka yima amukurikiye.",
+      "start": 3.59,
+      "end": 16.65
+    },
+    "37": {
+      "text": "Samula atanze, Sawuli w'i Rehoboti ihereranye na rwa ruzi, yima amukurikiye.",
+      "start": 14.09,
+      "end": 37.52
+    },
+    "38": {
+      "text": "Sawuli atanze, Bālihanani mwene Akibori, yima amukurikiye.",
+      "start": 24.05,
+      "end": 36.32
+    },
+    "39": {
+      "text": "Bālihanani mwene Akibori atanze Hadari yima amukurikiye, ururembo rwe rwitwa Pawu. Umugore we yitwa Mehetabēli, umukobwa wa Matiredi, umukobwa wa Mezahabu.",
+      "start": 30.97,
+      "end": 43.31
+    },
+    "40": {
+      "text": "Aya ni yo mazina y'abatware bakomotse kuri Esawu nk'uko imiryango yabo iri, nk'uko ibihugu byabo biri, nk'uko amazina yabo ari: umutware Timuna, n'umutware Aliva, n'umutware Yeteti,",
+      "start": 32.08,
+      "end": 37.06
+    },
+    "41": {
+      "text": "n'umutware Oholibama, n'umutware Ela, n'umutware Pinoni,",
+      "start": 15.6,
+      "end": 42.22
+    },
+    "42": {
+      "text": "n'umutware Kenazi n'umutware Temani, n'umutware Mibusari,",
+      "start": 26.64,
+      "end": 27.34
+    },
+    "43": {
+      "text": "n'umutware Magidiyeli, n'umutware Iramu. Abo ni bo batware ba Edomu nk'uko ubuturo bwabo bwari buri mu gihugu cya gakondo yabo. Uwo ni we Esawu, sekuruza w'Abedomu.",
+      "start": 18.79,
+      "end": 41.81
+    }
+  }
+}

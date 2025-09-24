@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Isi n'ibiyuzuye ni iby'Uwiteka,Isi n'abayibamo.",
+      "start": 11.92,
+      "end": 43.82
+    },
+    "2": {
+      "text": "Kuko ari we wayishinze ku nyanja,Yayishimangiye ku mazi menshi.",
+      "start": 34.22,
+      "end": 38.68
+    },
+    "3": {
+      "text": "Ni nde uzazamuka umusozi w'Uwiteka?Ni nde uzahagarara ahera he?",
+      "start": 29.2,
+      "end": 35.73
+    },
+    "4": {
+      "text": "Ni ufite amaboko atanduye n'umutima uboneye,Utigeze kwerekeza umutima we ku bitagira umumaro,Ntarahire ibinyoma.",
+      "start": 5.63,
+      "end": 41.28
+    },
+    "5": {
+      "text": "Uwo ni we uzahabwa umugisha n'Uwiteka,No gukiranuka abihawe n'Imana y'agakiza ke.",
+      "start": 36.32,
+      "end": 39.93
+    },
+    "6": {
+      "text": "Abayishaka ni bene uwo,Abashaka mu maso hawe Mana ya Yakobo.Sela.",
+      "start": 10.05,
+      "end": 30.17
+    },
+    "7": {
+      "text": "Mwa marembo mwe nimwunamuke,Mwa marembo y'iteka mwe, nimweguke,Kugira ngo Umwami w'icyubahiro abyukuruke.",
+      "start": 18.0,
+      "end": 35.71
+    },
+    "8": {
+      "text": "Uwo Mwami w'icyubahiro ni nde?Ni Uwiteka ufite imbaraga n'amaboko,Ni Uwiteka ufite amaboko yo kurwana.",
+      "start": 0.85,
+      "end": 35.62
+    },
+    "9": {
+      "text": "Mwa marembo mwe, nimwunamuke,Mwa marembo y'iteka mwe, nimweguke,Kugira ngo Umwami w'icyubahiro abyukuruke.",
+      "start": 18.46,
+      "end": 42.37
+    },
+    "10": {
+      "text": "Uwo mwami w'icyubahiro ni nde?Uwiteka Nyir'ingabo ni we Mwami w'icyubahiro.",
+      "start": 32.58,
+      "end": 34.6
+    }
+  }
+}

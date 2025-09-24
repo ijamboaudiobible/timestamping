@@ -1,0 +1,173 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "“Niwumva inkuru y'impuha ntukayamamaze, ntugakoranire mu ntoki n'umunyabyaha gusezerana guhamya ibinyoma.",
+      "start": 31.57,
+      "end": 44.72
+    },
+    "2": {
+      "text": "Ntugakurikize benshi gukora ibyaha, kandi nutangwa ho umugabo ntukajye iyo abenshi bagiye ngo utume baca urubanza nabi,",
+      "start": 16.74,
+      "end": 28.71
+    },
+    "3": {
+      "text": "kandi ntugatsindishiririze umuntu kuko ari umukene.",
+      "start": 24.26,
+      "end": 33.71
+    },
+    "4": {
+      "text": "“Nuhura n'inka y'umwanzi wawe cyangwa n'indogobe ye izimira, ntukabure kuyimuzanira.",
+      "start": 37.23,
+      "end": 44.13
+    },
+    "5": {
+      "text": "Kandi nusanga indogobe y'umwanzi wawe umutwaro ihetse yawugwanye, ukagira ngo wirengagize kumufasha, ntukabure kumufasha.",
+      "start": 2.87,
+      "end": 14.88
+    },
+    "6": {
+      "text": "“Ntukagoreke urubanza rw'umukene uri muri mwe.",
+      "start": 36.12,
+      "end": 43.05
+    },
+    "7": {
+      "text": "Wirinde cyane ibirego by'ibinyoma. Ntukice utacumuye ukwiriye gutsinda umuziza akarengane, kuko ntazatsindishiriza umunyabyaha.",
+      "start": 31.71,
+      "end": 34.0
+    },
+    "8": {
+      "text": "Ntugahongerwe kuko impongano ihumya amaso y'abareba, kandi igoreka imanza z'abakiranutsi.",
+      "start": 11.55,
+      "end": 11.77
+    },
+    "9": {
+      "text": "“Kandi ntugahate umusuhuke w'umunyamahanga kuko muzi umutima w'umusuhuke, kuko namwe mwari abasuhuke mu gihugu cya Egiputa.",
+      "start": 29.51,
+      "end": 44.35
+    },
+    "10": {
+      "text": "“Mu myaka itandatu ujye ubiba ku butaka bwawe usarure imyaka yabwo,",
+      "start": 44.95,
+      "end": 44.97
+    },
+    "11": {
+      "text": "ariko ku wa karindwi bujye buruhuka uburaze, kugira ngo abakene bo mu bwoko bwanyu barye cyimeza, ibyo basize inyamaswa zo mu gasozi zibirye. Uko abe ari ko ujya ugenza uruzabibu rwawe n'urwelayo rwawe.",
+      "start": 38.03,
+      "end": 43.78
+    },
+    "12": {
+      "text": "“Mu minsi itandatu ujye ukora imirimo yawe, ku wa karindwi ujye uruhuka kugira ngo inka yawe n'indogobe yawe ziruhuke, umwana w'umuja wawe n'umusuhuke w'umunyamahanga basubizwemo intege. Guteg 5.13-14",
+      "start": 14.07,
+      "end": 23.47
+    },
+    "13": {
+      "text": "“Mwitondere ibyo nababwiye byose, ntimukavuge na hato amazina y'izindi mana, ntakumvikane mu kanwa kawe.",
+      "start": 27.38,
+      "end": 36.99
+    },
+    "14": {
+      "text": "“Uko umwaka utashye ujye unziririza iminsi mikuru gatatu.",
+      "start": 39.44,
+      "end": 44.3
+    },
+    "15": {
+      "text": "Ujye uziririza iminsi mikuru y'imitsima itasembuwe. Mu minsi irindwi ujye urya imitsima itasembuwe uko nagutegetse, mu gihe cyategetswe cyo mu kwezi Abibu kuko ari ko waviriyemo mu Egiputa, he kugira umuntu uza ubusa imbere yanjye.",
+      "start": 4.13,
+      "end": 40.42
+    },
+    "16": {
+      "text": "“Kandi ujye uziririza umunsi mukuru w'isarura, uw'umuganura w'imirimo yawe wabibye mu murima.“Kandi ujye uziririza umunsi mukuru w'isarura rya byose, wo ku iherezo ry'umwaka numara gusarura imirimo yawe mu isambu yawe.",
+      "start": 1.22,
+      "end": 21.07
+    },
+    "17": {
+      "text": "Uko umwaka utashye, abagabo bo muri mwe bose bajye baboneka imbere y'umwami Uwiteka ibihe bitatu.",
+      "start": 43.33,
+      "end": 43.68
+    },
+    "18": {
+      "text": "“Amaraso y'igitambo ntambiwe ntukayatambane n'imitsima yasembuwe, kandi urugimbu rw'icyatambwe ku munsi mukuru wanjye ntirukarāre ngo rugeze mu gitondo.",
+      "start": 36.76,
+      "end": 38.55
+    },
+    "19": {
+      "text": "“Umuganura w'ibibanje kwera mu butaka bwawe, ujye uwuzana mu nzu y'Uwiteka Imana yawe.“Ntugatekeshe umwana w'ihene amahenehene ya nyina.",
+      "start": 40.51,
+      "end": 41.01
+    },
+    "20": {
+      "text": "“Dore ndatuma marayika imbere yawe akurindire mu nzira akujyane aho nakwiteguriye.",
+      "start": 26.53,
+      "end": 35.74
+    },
+    "21": {
+      "text": "Mumwitondeho, mumwumvire ntimukamugomere kuko atazabababarira ibicumuro byanyu, kuko izina ryanjye riri muri we.",
+      "start": 30.37,
+      "end": 42.8
+    },
+    "22": {
+      "text": "Ariko numwumvira by'ukuri ugakora ibyo nzavuga byose, nanjye nzaba umwanzi w'abanzi bawe n'umubisha w'ababisha bawe.",
+      "start": 16.32,
+      "end": 41.79
+    },
+    "23": {
+      "text": "Kuko marayika wanjye azakujya imbere akakujyana mu Bamori n'Abaheti, n'Abaferizi n'Abanyakanāni, n'Abahivi n'Abayebusi maze nkabarimbura.",
+      "start": 15.06,
+      "end": 29.42
+    },
+    "24": {
+      "text": "Ntuzikubite imbere y'imana zabo, ntuzazikorere kandi ntuzagenze nka bo, ahubwo uzabarimbure rwose, utembagaze inkingi z'amabuye bubatse.",
+      "start": 26.32,
+      "end": 29.53
+    },
+    "25": {
+      "text": "Kandi muzakorere Uwiteka Imana yanyu, na yo izaha umugisha umutsima wawe n'amazi yawe, kandi nzakura indwara hagati muri mwe.",
+      "start": 38.67,
+      "end": 40.1
+    },
+    "26": {
+      "text": "Mu gihugu cyawe nta wuzavanamo inda, nta wuzagumbaha, umubare w'iminsi yawe nzawusohoza udakenyutse.",
+      "start": 25.34,
+      "end": 35.01
+    },
+    "27": {
+      "text": "“Nzohereza igitinyiro cyanjye kikujye imbere, nirukane abantu uzageramo bose, ntume ababisha bawe bose baguha ibitugu.",
+      "start": 37.22,
+      "end": 44.69
+    },
+    "28": {
+      "text": "Nzohereza amavubi akujye imbere, yirukane Abahivi n'Abanyakanāni n'Abaheti imbere yawe.",
+      "start": 11.1,
+      "end": 31.51
+    },
+    "29": {
+      "text": "Sinzabirukana imbere yawe mu mwaka umwe kugira ngo igihugu kidahinduka umwirare, inyamaswa zo mu ishyamba zikagwira zikagutera.",
+      "start": 44.28,
+      "end": 44.66
+    },
+    "30": {
+      "text": "Ahubwo nzabirukana imbere yawe ni ruto ni ruto, ngeze aho uzagwirira ukazungura icyo gihugu.",
+      "start": 30.68,
+      "end": 36.24
+    },
+    "31": {
+      "text": "Nzagushyiriraho urugabano, ruhere ku Nyanja Itukura rugere ku Nyanja y'Abafilisitiya, kandi ruhere ku butayu rugere ku ruzi (Ufurate), kuko nzabagabiza abatuye muri icyo gihugu mukabanesha, mukabirukana imbere yanyu.",
+      "start": 42.25,
+      "end": 42.67
+    },
+    "32": {
+      "text": "Ntuzagire isezerano usezerana na bo cyangwa n'imana zabo.",
+      "start": 30.76,
+      "end": 39.8
+    },
+    "33": {
+      "text": "Ntibazagumye kuba mu gihugu cyawe kugira ngo batakuncumuzaho, kuko wakorera imana zabo ntibyabura kukubera umutego.”",
+      "start": 22.68,
+      "end": 34.33
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "“Aya mategeko ni yo uzashyira imbere yabo.",
+      "start": 3.84,
+      "end": 12.45
+    },
+    "2": {
+      "text": "Nugura umugurano w'Umuheburayo agukorere imyaka itandatu, ku wa karindwi azagende abe uw'umudendezo, atagize icyo yicunguje.",
+      "start": 10.6,
+      "end": 21.33
+    },
+    "3": {
+      "text": "Niba yaraje wenyine agende wenyine, niba yarazanye n'umugore we ajyane na we.",
+      "start": 5.36,
+      "end": 23.68
+    },
+    "4": {
+      "text": "Kandi shebuja namushyingira umugore bakabyarana abahungu cyangwa abakobwa, uwo mugore n'abana be bazabe aba shebuja uwo, ariko uwo mugabo agende wenyine.",
+      "start": 16.99,
+      "end": 34.66
+    },
+    "5": {
+      "text": "Ariko uwo mugurano niyerura ati ‘Nkunze databuja n'umugore wanjye n'abana banjye, sinshaka kugenda ngo mbe uw'umudendezo’,",
+      "start": 15.89,
+      "end": 30.42
+    },
+    "6": {
+      "text": "shebuja amujyane imbere y'Imana amuhagarike ku rugi cyangwa ku nkomanizo, shebuja amupfumuze ugutwi uruhindu, agumye kumukorera iteka.",
+      "start": 7.44,
+      "end": 9.76
+    },
+    "7": {
+      "text": "“Umuntu nagura umukobwa we ngo abe umugurano, ntagenzwe kumwe n'abagurano b'abagabo.",
+      "start": 41.58,
+      "end": 42.83
+    },
+    "8": {
+      "text": "Niba atanejeje shebuja wagambiriye kumurongora, yemere ko acungurwa. Ntiyemererwe kumugurisha abanyamahanga kuko yamuviriye mu isezerano.",
+      "start": 7.09,
+      "end": 43.63
+    },
+    "9": {
+      "text": "Kandi namushyingira umuhungu we, amugirire nk'ibyo yagirira umukobwa we.",
+      "start": 26.1,
+      "end": 40.1
+    },
+    "10": {
+      "text": "Namuharika ntagabanye ibyokurya bye n'imyambaro ye, ntamwicire igihe.",
+      "start": 19.54,
+      "end": 42.93
+    },
+    "11": {
+      "text": "Natamukorera ibyo uko ari bitatu, azagende adakoranuwe.",
+      "start": 36.36,
+      "end": 40.81
+    },
+    "12": {
+      "text": "“Ukubise umuntu agapfa ntakabure kwicwa.",
+      "start": 42.96,
+      "end": 43.99
+    },
+    "13": {
+      "text": "Kandi umuntu natubīkīra undi, Imana igatuma amugwa mu maboko, nzagutegekera aho azahungira.",
+      "start": 1.45,
+      "end": 12.27
+    },
+    "14": {
+      "text": "Umuntu natera mugenzi we abyitumye ngo amwicishe uburiganya, umukure ku gicaniro cyanjye ahōrwe.",
+      "start": 27.48,
+      "end": 39.93
+    },
+    "15": {
+      "text": "“Ukubise se cyangwa nyina ntakabure kwicwa.",
+      "start": 33.76,
+      "end": 36.2
+    },
+    "16": {
+      "text": "“Uwibye umuntu akamugura cyangwa bakamumufatana, ntakabure kwicwa.",
+      "start": 42.45,
+      "end": 44.65
+    },
+    "17": {
+      "text": "“Uvumye se cyangwa nyina ntakabure kwicwa.",
+      "start": 0.64,
+      "end": 7.33
+    },
+    "18": {
+      "text": "“Abantu nibarwana umwe agakubita undi ibuye cyangwa igipfunsi, akabirwara iminsi ntapfe,",
+      "start": 25.16,
+      "end": 34.73
+    },
+    "19": {
+      "text": "nasindagirira ku kibando uwamukubise ntazagibweho n'urubanza, ahubwo azarihe iminsi amaze arwaye kandi amuvuze arinde akira neza.",
+      "start": 31.91,
+      "end": 41.73
+    },
+    "20": {
+      "text": "“Umuntu nakubita inkoni umugurano we w'umugabo cyangwa w'umugore akamukumbanya, ntazabure guhanwa.",
+      "start": 20.95,
+      "end": 32.91
+    },
+    "21": {
+      "text": "Ariko nasibira rimwe cyangwa kabiri, ntashyirweho igihano kuko uwo ari ifeza ye.",
+      "start": 28.16,
+      "end": 35.65
+    },
+    "22": {
+      "text": "“Kandi abantu nibarwana bakababaza umugore utwite, akavanamo inda ariko ntagire ikindi aba, ntazabure kuriha icyo umugabo w'uwo mugore amurihishije cyose, azarihe nk'uko abacamanza bategetse.",
+      "start": 12.18,
+      "end": 31.04
+    },
+    "23": {
+      "text": "Ariko nihagira ikindi aba, uzategeke ko ubugingo buhorerwa ubundi,",
+      "start": 32.91,
+      "end": 33.87
+    },
+    "24": {
+      "text": "ijisho rihorerwa irindi, iryinyo rihorerwa irindi, ikiganza gihorerwa ikindi, ikirenge gihorerwa ikindi,",
+      "start": 28.54,
+      "end": 30.32
+    },
+    "25": {
+      "text": "ubushye buhorerwa ubundi, uruguma ruhorerwa urundi, umubyimba uhorerwa undi.",
+      "start": 18.14,
+      "end": 21.02
+    },
+    "26": {
+      "text": "“Umuntu nakubita umugurano we w'umugabo cyangwa w'umugore akamumena ijisho, amuhe umudendezo kuko amumennye ijisho.",
+      "start": 33.64,
+      "end": 33.77
+    },
+    "27": {
+      "text": "Kandi nakubita umugurano we w'umugabo cyangwa w'umugore akamukura iryinyo, amuhe umudendezo kuko amukuye iryinyo.",
+      "start": 5.54,
+      "end": 9.2
+    },
+    "28": {
+      "text": "“Inka niyica umugabo cyangwa umugore agapfa, iyo nka ntikabure kwicishwa amabuye kandi ntikaribwe, ariko nyirayo ntazagibweho n'urubanza.",
+      "start": 32.95,
+      "end": 42.73
+    },
+    "29": {
+      "text": "Ariko niba iyo nka yari isanzwe yica bakaba barabibwiye nyirayo ntayirinde, ikica umugabo cyangwa umugore agapfa, iyo nka yicishwe amabuye, nyirayo na we bamwice.",
+      "start": 35.1,
+      "end": 35.11
+    },
+    "30": {
+      "text": "Nibamuca ikarabo, atange ibyo bamuciye byose gucungura ubugingo bwe.",
+      "start": 6.99,
+      "end": 29.51
+    },
+    "31": {
+      "text": "Naho yaba umuhungu w'umuntu cyangwa umukobwa we iyo nka yishe, bimubere uko iryo tegeko ritegetse.",
+      "start": 29.45,
+      "end": 34.09
+    },
+    "32": {
+      "text": "Inka niyica umugurano w'umugabo cyangwa w'umugore, nyirayo azahe shebuja w'uwo shekeli z'ifeza mirongo itatu, bicishe iyo nka amabuye.",
+      "start": 22.41,
+      "end": 25.87
+    },
+    "33": {
+      "text": "“Umuntu nasibura urwobo rwacukuriwe kubika amazi, cyangwa narucukura ntarupfundikire inka cyangwa indogobe ikagwamo,",
+      "start": 16.32,
+      "end": 21.94
+    },
+    "34": {
+      "text": "nyirarwo arihe icyo iguze: ahe nyirayo izo feza, intumbi ibe iya nyir'urwobo.",
+      "start": 3.15,
+      "end": 4.22
+    },
+    "35": {
+      "text": "“Inka y'umuntu niyica iy'undi igapfa, iyayishe bayigure bagabane ibiguzi byayo, kandi n'intumbi na yo bayigabane.",
+      "start": 10.93,
+      "end": 19.22
+    },
+    "36": {
+      "text": "Cyangwa nibimenyekana yuko iyo nka yari isanzwe yica, nyirayo ntayirinde, ntazabure kurihaho indi, intumbi ikaba iye.",
+      "start": 5.42,
+      "end": 32.2
+    },
+    "37": {
+      "text": "“Umuntu niyiba inka cyangwa intama, akayibaga cyangwa akayigura, inka ayiriheho eshanu, intama ayiriheho enye.",
+      "start": 30.66,
+      "end": 36.92
+    }
+  }
+}

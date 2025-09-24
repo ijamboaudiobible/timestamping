@@ -1,0 +1,88 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Nuko Dawidi arahaguruka aragenda, Yonatani asubira mu mudugudu.",
+      "start": 35.15,
+      "end": 44.53
+    },
+    "2": {
+      "text": "Dawidi aherako ajya i Nobu kwa Ahimeleki umutambyi. Ahimeleki aza kumusanganira ahinda umushyitsi, aramubaza ati “Ni iki gitumye uri wenyine, nta muntu muri kumwe?”",
+      "start": 2.8,
+      "end": 10.62
+    },
+    "3": {
+      "text": "Dawidi asubiza Ahimeleki umutambyi ati “Umwami yantegetse umurimo arambwira ati ‘Ntihagire umuntu umenya iby'uwo murimo ngutumye cyangwa icyo ngutegetse.’ Kandi nasezeranije ingabo zanjye z'abasore aho tuza guhurira.",
+      "start": 6.96,
+      "end": 41.24
+    },
+    "4": {
+      "text": "Mbese nta mafunguro? Nibura umpe imitsima itanu cyangwa icyo wabona cyose.”",
+      "start": 10.6,
+      "end": 44.16
+    },
+    "5": {
+      "text": "Umutambyi asubiza Dawidi ati “Nta mutsima wa rubanda mfite keretse umutsima wejejwe, n'uruburaburizo keretse abahungu birinze abagore.”",
+      "start": 20.35,
+      "end": 27.16
+    },
+    "6": {
+      "text": "Dawidi asubiza umutambyi ati “Ni ukuri tumaze iminsi itatu tubujijwe abagore. Twahagurutse iwacu ibikoreshwa by'abahungu ari ibyera, nubwo ari urugendo nk'izindi. None ibikoreshwa byabo ntibirushaho kuba ibyera?”",
+      "start": 30.07,
+      "end": 37.71
+    },
+    "7": {
+      "text": "Nuko umutambyi amuha imitsima yejejwe, kuko hatariho undi mutsima, keretse imitsima yo kumurikwa yakuwe imbere y'Uwiteka, bagasubizaho ishyushye ubwo bayikuragaho.",
+      "start": 21.19,
+      "end": 24.55
+    },
+    "8": {
+      "text": "(Kandi uwo munsi hari umugabo umwe wo mu bagaragu ba Sawuli wari wasibijwe imbere y'Uwiteka, witwaga Dowegi Umwedomu, umutahiza mukuru w'abashumba ba Sawuli.)",
+      "start": 37.55,
+      "end": 43.29
+    },
+    "9": {
+      "text": "Maze Dawidi abaza Ahimeleki ati “Mbese nta cumu wagira hano cyangwa inkota? Nta nkota yanjye nazanye cyangwa intwaro, kuko umurimo w'umwami ari uw'ikubagahu.”",
+      "start": 14.5,
+      "end": 32.18
+    },
+    "10": {
+      "text": "Umutambyi aramusubiza ati “Ya nkota ya Goliyati wa Mufilisitiya wiciye mu kibaya cya Ela, dore ngiyi izingiye mu mwenda inyuma ya efodi. Nushaka kuyijyana uyijyane, kuko nta yindi iri hano keretse iyo.”Dawidi aravuga ati “Nta yihwanye na yo, yimpe.”",
+      "start": 29.76,
+      "end": 31.86
+    },
+    "11": {
+      "text": "Uwo munsi Dawidi arahaguruka ajya kwa Akishi umwami w'i Gati, ahungishijwe no gutinya Sawuli.",
+      "start": 24.39,
+      "end": 34.38
+    },
+    "12": {
+      "text": "Agezeyo abagaragu ba Akishi baramubaza bati “Uyu si we Dawidi umwami w'igihugu? Ntibamuteyeho n'imbyino bikiranya bati‘Sawuli yishe ibihumbi,Dawidi yica inzovu’? ”",
+      "start": 5.77,
+      "end": 38.83
+    },
+    "13": {
+      "text": "Nuko Dawidi abika ayo magambo mu mutima we, atinya cyane Akishi umwami w'i Gati.",
+      "start": 7.42,
+      "end": 9.17
+    },
+    "14": {
+      "text": "Dawidi aherako yihinduriza imbere yabo, yisarishiriza mu maboko yabo, agaharamba ku nzugi z'irembo, agahoboba inkonda zigatembera mu bwanwa.",
+      "start": 40.27,
+      "end": 41.34
+    },
+    "15": {
+      "text": "Nuko Akishi abwira abagaragu be ati “Yemwe, ntimureba ko uyu mugabo yasaze! Mwamunzaniriye iki?",
+      "start": 22.77,
+      "end": 36.33
+    },
+    "16": {
+      "text": "Mbese nkennye abasazi mu kugomba kunzanira iki kigabo ngo kinsarire imbere? Iki kigabo cyangerera mu rugo?”",
+      "start": 13.88,
+      "end": 35.36
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 37,
+  "verses": {
+    "1": {
+      "text": "Yakobo aba mu gihugu cy'ubusuhuke bwa se, ni cyo gihugu cy'i Kanāni.",
+      "start": 34.8,
+      "end": 42.91
+    },
+    "2": {
+      "text": "Uru ni rwo rubyaro rwa Yakobo.Yosefu amaze imyaka cumi n'irindwi avutse yaragiranaga na bene se intama, mu busore bwe yabanaga na bene Biluha na bene Zilupa baka se, akajya abarira se inkuru y'ibibi bakora.",
+      "start": 4.83,
+      "end": 29.54
+    },
+    "3": {
+      "text": "Isirayeli atonesha Yosefu, amukunda birusha iby'abana be bose kuko ari we yabyaye ashaje, amudodeshereza ikanzu ndende.",
+      "start": 13.34,
+      "end": 34.67
+    },
+    "4": {
+      "text": "Bene se bamenya yuko se amukunda birusha ibyabo bose baramwanga, ntibajya bagira ineza bamubwira.",
+      "start": 27.88,
+      "end": 39.52
+    },
+    "5": {
+      "text": "Yosefu arota inzozi azirotorera bene se, barushaho kumwanga.",
+      "start": 35.81,
+      "end": 37.54
+    },
+    "6": {
+      "text": "Arababwira ati “Ndabinginze nimwumve inzozi narose:",
+      "start": 4.86,
+      "end": 17.81
+    },
+    "7": {
+      "text": "ngo twahambiraga imiba mu murima, umuba wanjye urahagarara urema, iyanyu miba ikikiza uwanjye, iwikubita imbere.”",
+      "start": 12.15,
+      "end": 30.96
+    },
+    "8": {
+      "text": "Bene se baramubaza bati “Ni ukuri wowe uzaba umwami wacu? Ni ukuri wowe uzadutwara?” Izo nzozi ze n'ayo magambo ye bituma barushaho kumwanga.",
+      "start": 2.87,
+      "end": 34.11
+    },
+    "9": {
+      "text": "Yongera kurota izindi nzozi, azirotorera bene se ati “Nongeye kurota izindi nzozi: ngo izuba n'ukwezi n'inyenyeri cumi n'imwe binyikubise imbere.”",
+      "start": 14.63,
+      "end": 37.94
+    },
+    "10": {
+      "text": "Azirotorera se na bene se, se aramucyaha aramubaza ati “Izo nzozi ni nzozi ki? Ni ukuri jye na nyoko na bene so tuzaza twikubite hasi imbere yawe?”",
+      "start": 0.51,
+      "end": 19.44
+    },
+    "11": {
+      "text": "Bene se bamugirira ishyari, ariko se ajya yibuka ayo magambo.",
+      "start": 14.76,
+      "end": 20.36
+    },
+    "12": {
+      "text": "Bene se bajya kuragirira umukumbi wa se i Shekemu.",
+      "start": 9.83,
+      "end": 10.8
+    },
+    "13": {
+      "text": "Isirayeli abwira Yosefu ati “Bene so ntibaragiriye umukumbi i Shekemu? Ngwino ngutume kuri bo.”Aramusubiza ati “Ntuma.”",
+      "start": 32.15,
+      "end": 35.26
+    },
+    "14": {
+      "text": "Aramubwira ati “Genda umenye yuko bene so ari amahoro, n'umukumbi yuko uri amahoro, maze ugaruke umbwire.” Nuko aramutuma, ava mu gikombe cy'i Heburoni, agera i Shekemu.",
+      "start": 41.53,
+      "end": 44.08
+    },
+    "15": {
+      "text": "Umugabo amubona azerera mu gasozi, uwo mugabo aramubaza ati “Urashaka iki?”",
+      "start": 0.38,
+      "end": 41.16
+    },
+    "16": {
+      "text": "Aramusubiza ati “Ndashaka bene data, ndakwinginze mbwira aho baragiriye.”",
+      "start": 37.44,
+      "end": 41.65
+    },
+    "17": {
+      "text": "Uwo mugabo aramusubiza ati “Baragiye kuko numvise bavuga bati ‘Tujye i Dotani.’ ” Yosefu akurikira bene se, abasanga i Dotani.",
+      "start": 1.1,
+      "end": 36.91
+    },
+    "18": {
+      "text": "Bamwitegera akiri kure, bamugira inama yo kumwica atarabīgira hafi.",
+      "start": 26.2,
+      "end": 36.35
+    },
+    "19": {
+      "text": "Baravugana bati “Dore Karosi araje.",
+      "start": 5.15,
+      "end": 22.58
+    },
+    "20": {
+      "text": "Nuko nimuze tumwice, tumujugunye mu rwobo rumwe muri izi zacukuriwe kubika amazi, tuzavuge tuti ‘Inyamaswa y'inkazi yaramuriye’, tuzamenya inzozi ze, uko zizaba.”",
+      "start": 30.38,
+      "end": 31.82
+    },
+    "21": {
+      "text": "Rubeni arabyumva aramubakiza, arababwira ati “Twe kumuhwanya.”",
+      "start": 5.87,
+      "end": 5.96
+    },
+    "22": {
+      "text": "Kandi ati “Mwe kuvusha amaraso, ahubwo mumujugunye muri uru rwobo ruri mu butayu, ariko amaboko yanyu ye kumubaho.” Kwari ukugira ngo amubakize, amusubize se.",
+      "start": 34.3,
+      "end": 44.98
+    },
+    "23": {
+      "text": "Yosefu ageze kuri bene se, bamwambura ya kanzu ndende,",
+      "start": 36.22,
+      "end": 37.67
+    },
+    "24": {
+      "text": "baramufata bamujugunya muri rwa rwobo, kandi rwarimo ubusa nta mazi yari arurimo.",
+      "start": 8.35,
+      "end": 29.48
+    },
+    "25": {
+      "text": "Bicazwa no kurya umutsima, bubuye amaso babona itara ry'Abishimayeli bavuye i Galeyadi, bagenda bafite ingamiya zihetse imibavu n'umuti womora n'ishangi, babijyana muri Egiputa.",
+      "start": 23.35,
+      "end": 26.06
+    },
+    "26": {
+      "text": "Yuda abwira bene se ati “Kwica mwene data no guhisha amaraso ye byatumarira iki?",
+      "start": 26.48,
+      "end": 41.63
+    },
+    "27": {
+      "text": "Nimuze tumugure na bariya Bishimayeli, amaboko yacu ye kumubaho kuko ari mwene data, tukaba akara kamwe.” Bene se baramwumvira.",
+      "start": 43.64,
+      "end": 44.88
+    },
+    "28": {
+      "text": "Hahita Abamidiyani batundaga, bakurura Yosefu, bamukura muri rwa rwobo bamugura na ba Bishimayeli ibice by'ifeza makumyabiri. Bajyana Yosefu muri Egiputa.",
+      "start": 33.15,
+      "end": 33.23
+    },
+    "29": {
+      "text": "Rubeni agaruka kuri rwa rwobo, asanga Yosefu atarimo, ashishimura imyenda ye.",
+      "start": 22.12,
+      "end": 33.45
+    },
+    "30": {
+      "text": "Asubira kuri bene se arababwira ati “Umwana ntakirimo, nanjye ndajya he?”",
+      "start": 36.24,
+      "end": 39.86
+    },
+    "31": {
+      "text": "Benda ya kanzu ya Yosefu, babāga isekurume y'ihene binika ikanzu mu maraso yayo,",
+      "start": 29.29,
+      "end": 38.27
+    },
+    "32": {
+      "text": "bohereza ya kanzu ndende, bategeka ko bayijyana kwa se, bamutumaho bati “Twabonye iyi, none umenye ko yaba ikanzu y'umwana wawe cyangwa ko atari yo.”",
+      "start": 12.76,
+      "end": 38.0
+    },
+    "33": {
+      "text": "Arayimenya aravuga ati “Ni ikanzu y'umwana wanjye, inyamaswa y'inkazi yaramuriye nta gushidikanya, Yosefu yatanyaguwe na yo.”",
+      "start": 19.57,
+      "end": 25.95
+    },
+    "34": {
+      "text": "Yakobo ashishimura imyenda ye, akenyera ibigunira, amara iminsi myinshi ababaye yiraburiye umwana we.",
+      "start": 43.29,
+      "end": 43.51
+    },
+    "35": {
+      "text": "Abahungu be bose n'abakobwa be bose barahaguruka ngo bamumare umubabaro, ariko yanga kumarwa umubabaro ati “Nzarinda nsanga umwana wanjye ikuzimu nkirira.” Nuko se aramuririra.",
+      "start": 37.93,
+      "end": 38.31
+    },
+    "36": {
+      "text": "Ba Bamidiyani bajyana Yosefu muri Egiputa, bamugurirayo na Potifari, umutware wa Farawo, watwaraga abamurinda.",
+      "start": 39.35,
+      "end": 39.68
+    }
+  }
+}

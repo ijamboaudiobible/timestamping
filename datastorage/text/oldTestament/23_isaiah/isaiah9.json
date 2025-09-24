@@ -1,0 +1,108 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Abantu bagenderaga mu mwijima babonye umucyo mwinshi, abari batuye mu gihugu cy'igicucu cy'urupfu baviriwe n'umucyo.",
+      "start": 5.37,
+      "end": 36.6
+    },
+    "2": {
+      "text": "Wagwije ishyanga, wabongereye ibyishimo bishimira imbere yawe ibyishimo nk'ibyo mu isarura, nk'iby'abantu bishima bagabanya iminyago.",
+      "start": 10.77,
+      "end": 23.46
+    },
+    "3": {
+      "text": "Kuko umutwaro bamuhekeshaga n'ingegene bamukubitaga mu bitugu n'inkoni y'uwamutwazaga igitugu, wabivunnye nko kuri wa munsi w'Abamidiyani.",
+      "start": 26.59,
+      "end": 30.03
+    },
+    "4": {
+      "text": "Ibyuma abafite intwaro bari bifurebye mu ntambara byose n'imyenda igaraguwe mu maraso, bizaba ibyo gutwikwa bibe nk'inkwi zo mu muriro.",
+      "start": 3.51,
+      "end": 16.81
+    },
+    "5": {
+      "text": "Nuko umwana yatuvukiye duhawe umwana w'umuhungu, ubutware buzaba ku bitugu bye. Azitwa Igitangaza, umujyanama, Imana ikomeye, Data wa twese Uhoraho, Umwami w'amahoro.",
+      "start": 35.23,
+      "end": 44.04
+    },
+    "6": {
+      "text": "Gutegeka kwe n'amahoro bizagwirira ku ntebe ya Dawidi n'ubwami bwe, bitagira iherezo kugira ngo bibukomeze, bibushyigikize guca imanza zitabera no gukiranuka, uhereye none ukageza iteka ryose. Ibyo ngibyo Uwiteka Nyiringabo azabisohoresha umwete we.",
+      "start": 42.57,
+      "end": 44.33
+    },
+    "7": {
+      "text": "Uwiteka yatumye ubutumwa kuri Yakobo, bugera kuri Isirayeli.",
+      "start": 28.67,
+      "end": 42.34
+    },
+    "8": {
+      "text": "Abefurayimu n'abaturage b'i Samariya bose bazabimenya, abo ni bo bavugana ubwibone no kwinangira imitima bati",
+      "start": 4.84,
+      "end": 15.32
+    },
+    "9": {
+      "text": "“Amatafari yaraguye, ariko tuzubakisha amabuye abaje, imivumu yaratemwe, ariko mu cyimbo cyayo tuzakoresha imyerezi.”",
+      "start": 27.15,
+      "end": 30.09
+    },
+    "10": {
+      "text": "Icyo ni cyo kizatuma Uwiteka ahagurukiriza abanzi ba Resini gutera Efurayimu, akamuhagurukiriza n'ababisha be.",
+      "start": 41.8,
+      "end": 44.9
+    },
+    "11": {
+      "text": "Abasiriya bazamuturuka imbere, Abafilisitiya na bo bamuturuke inyuma, bazasamira Isirayeli bamurye. Nyamara uburakari bw'Uwiteka ntiburashira, ahubwo ukuboko kwe kuracyabanguye.",
+      "start": 11.29,
+      "end": 15.48
+    },
+    "12": {
+      "text": "Ariko abantu ntibagarukiye uwabahannye, kandi ntibashatse Uwiteka Nyiringabo.",
+      "start": 35.38,
+      "end": 39.22
+    },
+    "13": {
+      "text": "Ni cyo kizatuma Uwiteka acira Isirayeli umutwe n'ikibuno, inkindo n'imiberanya icyarimwe.",
+      "start": 38.13,
+      "end": 39.71
+    },
+    "14": {
+      "text": "Umugabo mukuru w'icyubahiro ni we mutwe, n'umuhanuzi wigisha ibinyoma ni we kibuno.",
+      "start": 16.72,
+      "end": 23.03
+    },
+    "15": {
+      "text": "Abayobora aba bantu barabayobya, kandi abo bayoboye bararimbuka.",
+      "start": 29.8,
+      "end": 32.78
+    },
+    "16": {
+      "text": "Bizatuma Uwiteka atishimira abasore babo, ye kubabarira impfubyi zabo n'abapfakazi babo, kuko umuntu wese asuzugura Imana akaba ari inkozi y'ibibi, kandi akanwa kose kavuga ibinyabapfu. Nyamara uburakari bw'Uwiteka ntiburashira, ahubwo ukuboko kwe kuracyabanguye.",
+      "start": 15.74,
+      "end": 15.85
+    },
+    "17": {
+      "text": "Erega gukiranirwa gutwika nk'umuriro utwika imifatangwe n'amahwa, ndetse ugakongeza n'ibihuru byo mu ishyamba, bikazingazingwa mu mwotsi utumbagira hejuru nk'ibicu bicuze umwijima.",
+      "start": 38.02,
+      "end": 40.01
+    },
+    "18": {
+      "text": "Uburakari bw'Uwiteka Nyiringabo ni bwo butumye igihugu gikongoka abantu bakamera nk'inkwi zicana umuriro, nta wubabarira mwene se.",
+      "start": 18.79,
+      "end": 32.04
+    },
+    "19": {
+      "text": "Umuntu azahubuza ibyokurya iburyo bwe ariko agumye asonze, azarya n'iby'ibumoso na bwo ye guhaga. Umuntu wese azarya inyama yo ku kuboko kwe.",
+      "start": 39.1,
+      "end": 39.6
+    },
+    "20": {
+      "text": "Manase azarya Efurayimu, Efurayimu na we azarya Manase, kandi bombi bazifatanya batere Yuda. Nyamara uburakari bw'Uwiteka ntiburashira, ahubwo ukuboko kwe kuracyabanguye.",
+      "start": 41.12,
+      "end": 42.91
+    }
+  }
+}

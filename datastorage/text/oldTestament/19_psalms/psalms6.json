@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi, babwirisha inanga ijwi ryo mu gituza. Ni Zaburi ya Dawidi.",
+      "start": 35.21,
+      "end": 40.69
+    },
+    "2": {
+      "text": "Uwiteka ntuncyahishe umujinya wawe,Kandi ntumpanishe uburakari bwawe bwotsa.",
+      "start": 3.67,
+      "end": 29.97
+    },
+    "3": {
+      "text": "Uwiteka, mbabaririra kuko numiranye,Uwiteka, nkiriza kuko amagufwa yanjye ahinda imishyitsi.",
+      "start": 39.64,
+      "end": 40.32
+    },
+    "4": {
+      "text": "Umutima wanjye na wo uhagaze cyane,Nawe Uwiteka, uzageza he kubikundira?",
+      "start": 2.91,
+      "end": 31.13
+    },
+    "5": {
+      "text": "Uwiteka, garuka utabare umutima wanjye,Unkize ku bw'imbabazi zawe.",
+      "start": 0.51,
+      "end": 36.6
+    },
+    "6": {
+      "text": "Kuko ūpfuye atakikwibuka,Ni nde uzagushimira ikuzimu?",
+      "start": 12.7,
+      "end": 21.63
+    },
+    "7": {
+      "text": "Kuniha kurandambiye,Uko ijoro rije ntotesha uburiri bwanjye amarira,Uburiri bwanjye nyabuminjagiraho.",
+      "start": 21.59,
+      "end": 39.93
+    },
+    "8": {
+      "text": "Mu maso hanjye hananurwa n'umubabaro,Hashajishijwe n'abantera bose.",
+      "start": 42.36,
+      "end": 43.07
+    },
+    "9": {
+      "text": "Mwa nkozi z'ibibi mwe, nimuve aho ndi,Kuko Uwiteka yumvise kurira kwanjye.",
+      "start": 2.44,
+      "end": 44.48
+    },
+    "10": {
+      "text": "Uwiteka yumvise kwinginga kwanjye,Uwiteka azemera gusenga kwanjye.",
+      "start": 23.29,
+      "end": 41.44
+    },
+    "11": {
+      "text": "Abanzi banjye bose bazamwara bagire ubwoba bwinshi,Bazasubizwa inyuma ikimwaro kizabatungura.",
+      "start": 1.72,
+      "end": 16.8
+    }
+  }
+}

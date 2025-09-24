@@ -1,0 +1,188 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 43.9,
+      "end": 44.97
+    },
+    "2": {
+      "text": "“Rema amakondera abiri mu ifeza icuzwe, uyareme mu ifeza icuzwe, akubere ayo guhamagaza iteraniro n'ayo guhagurutsa ab'ibyiciro by'amahema.",
+      "start": 11.03,
+      "end": 11.72
+    },
+    "3": {
+      "text": "Uko bazayavuza, iteraniro ryose rijye riguteraniraho ku muryango w'ihema ry'ibonaniro.",
+      "start": 33.08,
+      "end": 35.57
+    },
+    "4": {
+      "text": "Nibavuza rimwe risa, ba batware, abakuru b'ibihumbi by'Abisirayeli bajye baguteraniraho.",
+      "start": 37.07,
+      "end": 41.43
+    },
+    "5": {
+      "text": "Kandi nimuvuza ijwi rirenga, ibyiciro byo mu ruhande rw'iburasirazuba bijye bihaguruka.",
+      "start": 11.23,
+      "end": 36.6
+    },
+    "6": {
+      "text": "Nimwongera kuvuza ijwi rirenga, ibyiciro byo mu ruhande rw'ikusi bijye bihaguruka. Ijwi rirenga bajye barivugiriza kubahagurutsa.",
+      "start": 1.05,
+      "end": 38.95
+    },
+    "7": {
+      "text": "Ariko nimushaka guteranya iteraniro mujye muvuza ayo makondera, ariko ntimukayavuze ijwi rirenga rirandaze.",
+      "start": 39.04,
+      "end": 44.24
+    },
+    "8": {
+      "text": "“Bene Aroni abatambyi bajye bavuza ayo makondera, bibabere itegeko ridakuka mu bihe byanyu byose.",
+      "start": 34.2,
+      "end": 39.65
+    },
+    "9": {
+      "text": "Kandi nimutabara mu gihugu cyanyu gutera ababisha babagirira nabi, muzajye muvuza ayo makondera ijwi rirenga rirandaze. Nuko muzibukwa n'Uwiteka Imana yanyu, mukizwe ababisha banyu.",
+      "start": 15.27,
+      "end": 42.75
+    },
+    "10": {
+      "text": "Kandi mu gihe cy'umunezero wanyu, no mu minsi mikuru yanyu, no mu mboneko z'amezi yanyu, mujye muvuza ayo makondera mu itamba ry'ibitambo byanyu by'uko muri amahoro, nuko azababera urwibutso rubibukisha imbere y'Imana yanyu. Ndi Uwiteka Imana yanyu.”",
+      "start": 2.9,
+      "end": 8.87
+    },
+    "11": {
+      "text": "Mu mwaka wa kabiri mu kwezi kwawo kwa kabiri, ku munsi wako wa makumyabiri, cya gicu giterurwa ku buturo bw'Ibihamya.",
+      "start": 12.49,
+      "end": 36.4
+    },
+    "12": {
+      "text": "Abisirayeli barahaguruka bava mu butayu bwa Sinayi, bakurikije ibyo bari bategetswe by'urugendo, icyo gicu gihagarara mu butayu bwa Parani.",
+      "start": 8.59,
+      "end": 28.55
+    },
+    "13": {
+      "text": "Uko ni ko guhaguruka kwabo kwa mbere, bagenda uko bategekewe n'Uwiteka mu kanwa ka Mose.",
+      "start": 2.16,
+      "end": 13.54
+    },
+    "14": {
+      "text": "Habanza guhaguruka ibendera ry'icyiciro cy'Abayuda nk'uko imitwe yabo iri. Umutware w'umutwe w'Abayuda yari Nahashoni mwene Aminadabu.",
+      "start": 26.84,
+      "end": 39.23
+    },
+    "15": {
+      "text": "Umutware w'umutwe w'umuryango w'Abisakari yari Netanēli mwene Suwari.",
+      "start": 18.95,
+      "end": 33.87
+    },
+    "16": {
+      "text": "Umutware w'umutwe w'umuryango w'Abazebuluni yari Eliyabu mwene Heloni.",
+      "start": 0.78,
+      "end": 18.79
+    },
+    "17": {
+      "text": "Ubuturo bwera burashingurwa, Abagerushoni n'Abamerari bagenda baburemērewe.",
+      "start": 41.54,
+      "end": 44.3
+    },
+    "18": {
+      "text": "Ibendera ry'icyiciro cy'Abarubeni rihaguruka nk'uko imitwe yabo iri. Umutware w'umutwe w'Abarubeni yari Elisuri mwene Shedewuri.",
+      "start": 12.01,
+      "end": 14.81
+    },
+    "19": {
+      "text": "Umutware w'umutwe w'umuryango w'Abasimeyoni yari Shelumiyeli mwene Surishadayi.",
+      "start": 25.76,
+      "end": 43.08
+    },
+    "20": {
+      "text": "Umutware w'umutwe w'umuryango w'Abagadi yari Eliyasafu mwene Deweli.",
+      "start": 28.64,
+      "end": 39.85
+    },
+    "21": {
+      "text": "Abakohati bahaguruka baremērewe iby'Ahera, basanga ubuturo bamaze kubushinga.",
+      "start": 7.22,
+      "end": 8.57
+    },
+    "22": {
+      "text": "Ibendera ry'icyiciro cy'Abefurayimu rihaguruka nk'uko imitwe yabo iri. Umutware w'umutwe w'Abefurayimu yari Elishama mwene Amihudi.",
+      "start": 24.35,
+      "end": 30.51
+    },
+    "23": {
+      "text": "Umutware w'umutwe w'umuryango w'Abamanase yari Gamaliyeli mwene Pedasuri.",
+      "start": 2.04,
+      "end": 2.94
+    },
+    "24": {
+      "text": "Umutware w'umutwe w'umuryango w'Ababenyamini yari Abidani mwene Gideyoni.",
+      "start": 25.85,
+      "end": 38.37
+    },
+    "25": {
+      "text": "Ibendera ry'icyiciro cy'Abadani riba ari ryo risezera ibyiciro byose, rihaguruka nk'uko imitwe yabo iri. Umutware w'umutwe w'Abadani yari Ahiyezeri mwene Amishadayi.",
+      "start": 28.57,
+      "end": 38.87
+    },
+    "26": {
+      "text": "Umutware w'umutwe w'umuryango w'Abashēri yari Pagiyeli mwene Okirani.",
+      "start": 4.48,
+      "end": 28.28
+    },
+    "27": {
+      "text": "Umutware w'umutwe w'Abanafutali yari Ahira mwene Enani.",
+      "start": 17.8,
+      "end": 23.63
+    },
+    "28": {
+      "text": "Uko aba ari ko Abisirayeli bakurikirana mu rugendo nk'uko imitwe yabo iri; uko aba ari ko bahaguruka.",
+      "start": 14.82,
+      "end": 36.18
+    },
+    "29": {
+      "text": "Mose abwira Hobabu mwene Reweli Umumidiyani, sebukwe wa Mose ati “Turajya mu gihugu Uwiteka yatubwiye ko azaduha. Ngwino tujyane tukugirire ibyiza, kuko Uwiteka yasezeranije kugirira Abisirayeli neza.”",
+      "start": 11.89,
+      "end": 23.76
+    },
+    "30": {
+      "text": "Aramusubiza ati “Ntituri bujyane, ahubwo ndasubira mu gihugu cyacu muri bene wacu.”",
+      "start": 24.31,
+      "end": 30.96
+    },
+    "31": {
+      "text": "Aramubwira ati “Ndakwinginze widusiga, kuko uzi yuko tugiye kujya tubamba amahema mu butayu, nawe uzaba amaso yacu.",
+      "start": 43.36,
+      "end": 43.62
+    },
+    "32": {
+      "text": "Kandi nujyana natwe, ibyiza Uwiteka azatugirira natwe tuzabikugirira.”",
+      "start": 34.12,
+      "end": 41.35
+    },
+    "33": {
+      "text": "Barahaguruka bava ku musozi w'Uwiteka bagenda urugendo rw'iminsi itatu, isanduku y'isezerano ry'Uwiteka ibajya imbere, igenda urugendo rw'iminsi itatu ibashakira aho gusibira.",
+      "start": 20.25,
+      "end": 21.18
+    },
+    "34": {
+      "text": "Cya gicu cy'Uwiteka cyabaga hejuru yabo ku manywa, iyo bahagurukaga bakabambūra.",
+      "start": 33.72,
+      "end": 36.01
+    },
+    "35": {
+      "text": "Uko iyo sanduku yahagurukaga Mose yaravugaga ati “Uwiteka haguruka ababisha bawe batatane, abanzi bawe baguhunge.”",
+      "start": 5.22,
+      "end": 25.68
+    },
+    "36": {
+      "text": "Yahagarara akavuga ati “Uwiteka garukira inzovu z'ibihumbi by'Abisirayeli.”",
+      "start": 44.05,
+      "end": 44.14
+    }
+  }
+}

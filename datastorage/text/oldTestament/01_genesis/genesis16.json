@@ -1,0 +1,88 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Sarayi umugore wa Aburamu ntibari babyaranye, kandi yari afite umuja w'Umunyegiputakazi witwaga Hagari.",
+      "start": 44.81,
+      "end": 44.9
+    },
+    "2": {
+      "text": "Sarayi abwira Aburamu ati “Dore Uwiteka yanyimye urubyaro. Ndakwinginze gira umuja wanjye inshoreke, ahari nazabonera urubyaro kuri we.” Aburamu yumvira Sarayi.",
+      "start": 25.76,
+      "end": 44.82
+    },
+    "3": {
+      "text": "Nuko Aburamu amaze imyaka cumi atuye mu gihugu cy'i Kanāni, Sarayi umugore we, ajyana Hagari Umunyegiputakazi umuja we, amushyingira Aburamu umugabo we.",
+      "start": 33.95,
+      "end": 41.2
+    },
+    "4": {
+      "text": "Aryamana na Hagari asama inda, abonye yuko asamye inda bimusuzuguza nyirabuja.",
+      "start": 44.89,
+      "end": 44.94
+    },
+    "5": {
+      "text": "Sarayi abwira Aburamu ati “Guhemurwa kwanjye kube kuri wowe, ko nashyize umuja wanjye mu gituza cyawe, maze abonye yuko asamye inda biramunsuzuguza. Uwiteka abe ari we uducira urubanza wowe nanjye.”",
+      "start": 25.94,
+      "end": 37.97
+    },
+    "6": {
+      "text": "Aburamu asubiza Sarayi ati “Dore umuja wawe mwitegekere, umugire uko ushatse kose.” Sarayi amugirira nabi, na we aramuhunga.",
+      "start": 44.88,
+      "end": 44.99
+    },
+    "7": {
+      "text": "Marayika w'Uwiteka amubonekera mu butayu, ari hafi y'isōko yo mu nzira ijya i Shuri.",
+      "start": 38.67,
+      "end": 42.31
+    },
+    "8": {
+      "text": "Aramubaza ati “Hagari muja wa Sarayi, urava he ukajya he?” Aramusubiza ati “Mpunze mabuja Sarayi.”",
+      "start": 4.78,
+      "end": 19.24
+    },
+    "9": {
+      "text": "Marayika w'Uwiteka aramubwira ati “Subirayo kwa nyokobuja, wemere ibyo akugirira.”",
+      "start": 5.97,
+      "end": 18.4
+    },
+    "10": {
+      "text": "Marayika w'Uwiteka arongera aramubwira ati “Nzagwiza cyane urubyaro rwawe, rwe kubarika.”",
+      "start": 5.49,
+      "end": 30.31
+    },
+    "11": {
+      "text": "Marayika w'Uwiteka arongera aramubwira ati “Dore, uratwite uzabyara umuhungu, uzamwite Ishimayeli, kuko Uwiteka yumvise kubabazwa kwawe.",
+      "start": 7.33,
+      "end": 11.82
+    },
+    "12": {
+      "text": "Hagati y'abantu azamera nk'imparage, azagira undi muntu wese umubisha we, n'abandi bose bazamugira umubisha wabo, azatura imbere ya bene se bose.”",
+      "start": 6.94,
+      "end": 33.27
+    },
+    "13": {
+      "text": "Ahimba Uwiteka wavuganye na we izina ati “Uri Imana ireba.” Ati “Mbese Indeba nayiboneye na hano?”",
+      "start": 10.24,
+      "end": 38.45
+    },
+    "14": {
+      "text": "Ni cyo cyatumye rya riba ryitwa Iriba rya Lahayiroyi, riri hagati y'i Kadeshi n'i Beredi.",
+      "start": 19.47,
+      "end": 40.33
+    },
+    "15": {
+      "text": "Aburamu abyarana na Hagari umuhungu. Aburamu yita umuhungu we Hagari yabyaye, Ishimayeli.",
+      "start": 19.75,
+      "end": 22.22
+    },
+    "16": {
+      "text": "Aburamu yari amaze imyaka mirongo inani n'itandatu avutse, ubwo yabyaranaga na Hagari Ishimayeli.",
+      "start": 26.24,
+      "end": 43.72
+    }
+  }
+}

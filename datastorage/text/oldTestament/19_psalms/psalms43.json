@@ -1,0 +1,33 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 43,
+  "verses": {
+    "1": {
+      "text": "Mana uncire urubanza,Umburanire n'ishyanga ritagira imbabazi,Unkize umuriganya n'ikigoryi.",
+      "start": 42.33,
+      "end": 42.8
+    },
+    "2": {
+      "text": "Kuko uri Imana y'igihome kinkingira,Ni iki cyatumye unta kure?Ni iki gituma nambikwa ibyo kwirabura n'agahato k'abanzi banjye?",
+      "start": 13.68,
+      "end": 42.2
+    },
+    "3": {
+      "text": "Nuko ohereza umucyo wawe n'umurava wawe binyobore,Binjyane ku musozi wawe wera,No mu mahema yawe.",
+      "start": 1.33,
+      "end": 36.49
+    },
+    "4": {
+      "text": "Maze nzajya ku gicaniro cy'Imana,Ku Mana ni yo munezero wanjye n'ibyishimo byanjye,Nguhimbarishe inanga Mana,Ni wowe Mana yanjye.",
+      "start": 17.26,
+      "end": 37.06
+    },
+    "5": {
+      "text": "Mutima wanjye ni iki gitumye wiheba?Ni iki gitumye umpagararamo?Ujye utegereza Imana kuko nzongera kuyishima,Ni yo gakiza kanjye n'Imana yanjye.",
+      "start": 20.51,
+      "end": 44.75
+    }
+  }
+}

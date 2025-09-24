@@ -1,0 +1,203 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "“ ‘Mu kwezi kwa karindwi ku munsi wako wa mbere mujye muteranira kuba iteraniro ryera, ntimukagire umurimo w'ubugaragu muwukoraho. Uwo munsi ubabere uwo kuvuza amahembe.",
+      "start": 42.09,
+      "end": 42.53
+    },
+    "2": {
+      "text": "Mujye muwutambaho ibitambo byoswa by'umubabwe uhumurira Uwiteka neza, by'ikimasa cy'umusore n'isekurume y'intama, n'abana b'intama b'amasekurume barindwi bataramara umwaka, bidafite inenge.",
+      "start": 20.56,
+      "end": 23.08
+    },
+    "3": {
+      "text": "Muturane na byo amaturo yo kuri byo y'ifu y'ingezi yavuganywe n'amavuta ya elayo. Muturane na cya kimasa ibice bya cumi bitatu bya efa, muturane na ya sekurume y'intama ibice bya cumi bibiri bya efa.",
+      "start": 11.29,
+      "end": 30.13
+    },
+    "4": {
+      "text": "Muturane n'umwana w'intama wose wo muri abo uko ari barindwi, igice cya cumi cya efa.",
+      "start": 9.6,
+      "end": 12.0
+    },
+    "5": {
+      "text": "Kandi mujye mutamba isekurume y'ihene ho igitambo gitambirwa ibyaha, cyo kubahongerera.",
+      "start": 14.43,
+      "end": 38.17
+    },
+    "6": {
+      "text": "Byongerwe ku bitambo byoswa bijya bitambwa mu mboneko z'ukwezi no ku maturo y'ifu aturanwa na byo, no ku bitambo byoswa bitambwa ubudasiba no ku maturo y'ifu aturanwa na byo, no ku maturo y'ibyokunywa aturanwa n'ibyo byose nk'uko byabwirijwe. Ibyo ni ibitambo by'umubabwe bitambirwa Uwiteka bigakongorwa n'umuriro.",
+      "start": 17.23,
+      "end": 33.58
+    },
+    "7": {
+      "text": "“ ‘Ku munsi wa cumi w'uko kwezi kwa karindwi mujye muteranira kuba iteraniro ryera, mwibabaze imitima, ntimukagire umurimo mukora.",
+      "start": 4.59,
+      "end": 18.0
+    },
+    "8": {
+      "text": "Ariko mujye mutambira Uwiteka ibitambo byoswa by'umubabwe, by'ikimasa cy'umusore n'isekurume y'intama, n'abana b'intama b'amasekurume barindwi bataramara umwaka, mubitambe bidafite inenge.",
+      "start": 27.31,
+      "end": 40.26
+    },
+    "9": {
+      "text": "Muturane na byo amaturo yo kuri byo y'ifu y'ingezi yavuganywe n'amavuta ya elayo. Muturane na cya kimasa ibice bya cumi bitatu bya efa, muturane na ya sekurume y'intama ibice bya cumi bibiri bya efa.",
+      "start": 21.17,
+      "end": 43.97
+    },
+    "10": {
+      "text": "Muturane n'umwana w'intama wose wo muri abo uko ari barindwi, igice cya cumi cya efa.",
+      "start": 27.25,
+      "end": 41.86
+    },
+    "11": {
+      "text": "Kandi mujye mutamba isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku gitambo gitambirwa ibyaha cyo kubahongerera, no ku bitambo byoswa bitambwa ubudasiba no ku maturo y'ifu aturanwa na byo, no ku maturo y'ibyokunywa aturanwa n'ibyo byose.",
+      "start": 39.3,
+      "end": 40.05
+    },
+    "12": {
+      "text": "“ ‘Kandi ku munsi wa cumi n'itanu w'ukwezi kwa karindwi mujye muteranira kuba iteraniro ryera, ntimukagire umurimo w'ubugaragu muwukoraho, kandi mumare iminsi irindwi muziririza Uwiteka iminsi mikuru.",
+      "start": 38.05,
+      "end": 40.75
+    },
+    "13": {
+      "text": "Kandi mujye mutamba ibitambo byoswa bikongorwa n'umuriro, by'umubabwe uhumurira Uwiteka neza. Ku munsi uyitangira mutambe ibimasa by'imisore cumi na bitatu n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, mubitambe bidafite inenge.",
+      "start": 28.0,
+      "end": 33.23
+    },
+    "14": {
+      "text": "Muturane na byo amaturo yo kuri byo y'ifu y'ingezi yavuganye n'amavuta ya elayo. Muturane n'ikimasa cyose cyo muri byo uko ari cumi na bitatu ibice bya cumi bitatu bya efa, muturane n'isekurume y'intama yose yo muri ayo yombi ibice bya cumi bibiri bya efa,",
+      "start": 15.74,
+      "end": 18.61
+    },
+    "15": {
+      "text": "muturane n'umwana w'intama wose wo muri abo uko ari cumi na bane igice cya cumi cya efa.",
+      "start": 40.09,
+      "end": 41.93
+    },
+    "16": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 36.62,
+      "end": 39.06
+    },
+    "17": {
+      "text": "“ ‘Ku munsi wa kabiri mujye mutamba ibimasa by'imisore cumi na bibiri n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 30.21,
+      "end": 30.96
+    },
+    "18": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 4.73,
+      "end": 39.0
+    },
+    "19": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu aturanwa na byo no ku y'ibyokunywa aturanwa na byo.",
+      "start": 6.16,
+      "end": 44.69
+    },
+    "20": {
+      "text": "“ ‘Ku munsi wa gatatu mujye mutamba ibimasa by'imisore cumi na kimwe n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 29.92,
+      "end": 44.75
+    },
+    "21": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 35.17,
+      "end": 41.68
+    },
+    "22": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 30.09,
+      "end": 34.06
+    },
+    "23": {
+      "text": "“ ‘Ku munsi wa kane mujye mutamba ibimasa by'imisore cumi n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 14.82,
+      "end": 30.72
+    },
+    "24": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 2.6,
+      "end": 23.37
+    },
+    "25": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 44.05,
+      "end": 44.6
+    },
+    "26": {
+      "text": "“ ‘Ku munsi wa gatanu mujye mutamba ibimasa by'imisore icyenda n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 35.07,
+      "end": 41.17
+    },
+    "27": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 3.7,
+      "end": 36.54
+    },
+    "28": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 22.71,
+      "end": 28.73
+    },
+    "29": {
+      "text": "“ ‘Ku munsi wa gatandatu mujye mutamba ibimasa by'imisore umunani n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 31.03,
+      "end": 36.96
+    },
+    "30": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 36.5,
+      "end": 42.68
+    },
+    "31": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 36.51,
+      "end": 44.5
+    },
+    "32": {
+      "text": "“ ‘Ku munsi wa karindwi mujye mutamba ibimasa by'imisore birindwi n'amasekurume y'intama abiri, n'abana b'intama b'amasekurume cumi na bane bataramara umwaka, bidafite inenge.",
+      "start": 7.22,
+      "end": 16.48
+    },
+    "33": {
+      "text": "Muturane n'ibyo bimasa n'ayo masekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 25.37,
+      "end": 26.05
+    },
+    "34": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 42.31,
+      "end": 44.93
+    },
+    "35": {
+      "text": "“ ‘Ku munsi wa munani mujye muterana mwitonze, ntimukagire umurimo w'ubugaragu muwukoraho.",
+      "start": 26.18,
+      "end": 42.11
+    },
+    "36": {
+      "text": "Ariko mujye mutamba ibitambo byoswa bikongorwa n'umuriro by'umubabwe uhumurira Uwiteka neza, by'ikimasa, n'isekurume y'intama n'abana b'intama b'amasekurume barindwi bataramara umwaka, bidafite inenge.",
+      "start": 32.02,
+      "end": 35.27
+    },
+    "37": {
+      "text": "Muturane n'icyo kimasa n'iyo sekurume y'intama n'abo bana b'intama, amaturo y'ifu n'ay'ibyokunywa yo kuri byo nk'uko umubare wabyo uri, nk'uko byabwirijwe.",
+      "start": 36.09,
+      "end": 42.57
+    },
+    "38": {
+      "text": "Kandi mutambe isekurume y'ihene ho igitambo gitambirwa ibyaha. Byongerwe ku bitambo byoswa bitambwa ubudasiba, no ku maturo y'ifu no ku y'ibyokunywa aturanwa na byo.",
+      "start": 18.75,
+      "end": 37.82
+    },
+    "39": {
+      "text": "“ ‘Ibyo abe ari byo mutambira Uwiteka mu minsi mikuru yanyu. Byongerwe ku bitambo byanyu byoswa no ku maturo yanyu y'ifu no ku y'ibyokunywa, no ku bitambo byanyu by'uko muri amahoro, mutambishwa no guhigura imihigo cyangwa mutambishwa n'imitima ikunze.’ ”",
+      "start": 18.51,
+      "end": 24.46
+    }
+  }
+}

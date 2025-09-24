@@ -1,0 +1,128 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Nowa ati “Injirana mu nkuge n'abo mu nzu yawe mwese, kuko ari wowe nabonye ukiranuka mu maso yanjye muri iki gihe.",
+      "start": 30.26,
+      "end": 42.42
+    },
+    "2": {
+      "text": "Mu matungo yose no mu nyamaswa zose zitazira, ujyanemo birindwi birindwi, ibigabo n'ibigore, no mu nyamaswa zizira, ujyanemo ebyiri ebyiri, ingabo n'ingore,",
+      "start": 4.33,
+      "end": 44.81
+    },
+    "3": {
+      "text": "no mu nyoni n'ibisiga byo mu kirere, ujyanemo birindwi birindwi, ibigabo n'ibigore, kugira ngo urubyaro rwabyo ruzarokoke rube mu isi yose.",
+      "start": 13.49,
+      "end": 27.47
+    },
+    "4": {
+      "text": "Kuko iminsi irindwi nishira, nzashyanisha imvura mu isi, iminsi mirongo ine ku manywa na nijoro, nkarimbura ibifite ubugingo naremye byose, nkabitsemba mu isi.”",
+      "start": 4.85,
+      "end": 8.6
+    },
+    "5": {
+      "text": "Nowa akora byose, uko Uwiteka yabimutegetse.",
+      "start": 12.51,
+      "end": 28.96
+    },
+    "6": {
+      "text": "Ubwo umwuzūre w'amazi wabaga ku isi, Nowa yari amaze imyaka magana atandatu avutse.",
+      "start": 15.5,
+      "end": 42.56
+    },
+    "7": {
+      "text": "Nowa yinjirana muri iyo nkuge n'abana be n'umugore we n'abakazana be, ngo aticwa n'amazi y'umwuzūre.",
+      "start": 3.37,
+      "end": 35.59
+    },
+    "8": {
+      "text": "Mu matungo, no mu nyamaswa zitazira, no mu zizira, no mu nyoni n'ibisiga, no mu bikururuka hasi byose,",
+      "start": 19.96,
+      "end": 20.03
+    },
+    "9": {
+      "text": "bibiri bibiri birinjira bisanga Nowa mu nkuge, ikigabo n'ikigore, uko Imana yamutegetse.",
+      "start": 31.16,
+      "end": 40.1
+    },
+    "10": {
+      "text": "Maze iyo minsi irindwi ishize, amazi y'umwuzūre asandara mu isi.",
+      "start": 6.32,
+      "end": 31.91
+    },
+    "11": {
+      "text": "Mu mwaka wa magana atandatu w'ubukuru bwa Nowa, mu kwezi kwa kabiri, ku munsi wako wa cumi n'irindwi, amasōko y'ikuzimu yose arazibuka, imigomero yo mu ijuru yose iragomororwa.",
+      "start": 10.64,
+      "end": 22.99
+    },
+    "12": {
+      "text": "Imvura imara iminsi mirongo ine igwa mu isi, ku manywa na nijoro.",
+      "start": 43.38,
+      "end": 44.75
+    },
+    "13": {
+      "text": "Kuri uwo munsi Nowa yinjirana muri ya nkuge na Shemu na Hamu na Yafeti abana be, n'umugore we, n'abakazana be, uko ari batatu.",
+      "start": 10.09,
+      "end": 19.36
+    },
+    "14": {
+      "text": "Binjiranamo n'inyamaswa zose nk'uko amoko yazo ari, n'amatungo yose nk'uko amoko yayo ari, n'ibikururuka hasi byose nk'uko amoko yabyo ari, n'ibisiga byose nk'uko amoko yabyo ari, n'inyoni zose n'ibifite amababa byose.",
+      "start": 17.91,
+      "end": 26.94
+    },
+    "15": {
+      "text": "Birinjira bisanga Nowa mu nkuge, bibiri bibiri mu bifite umubiri byose birimo umwuka w'ubugingo.",
+      "start": 21.1,
+      "end": 32.13
+    },
+    "16": {
+      "text": "Ibyinjiye byari ikigabo n'ikigore byo mu bifite umubiri byose, uko Imana yamutegetse. Uwiteka amukingiraniramo.",
+      "start": 14.11,
+      "end": 22.96
+    },
+    "17": {
+      "text": "Umwuzure umara mu isi iminsi mirongo ine, amazi aragwira aterura ya nkuge, ishyirwa hejuru y'isi.",
+      "start": 34.73,
+      "end": 42.14
+    },
+    "18": {
+      "text": "Amazi arakwira cyane arushaho kugwira cyane mu isi, ya nkuge ireremba ku mazi.",
+      "start": 31.39,
+      "end": 33.98
+    },
+    "19": {
+      "text": "Amazi arushaho gukwira cyane mu isi, imisozi miremire yose yo munsi y'ijuru ryose irarengerwa.",
+      "start": 37.51,
+      "end": 40.85
+    },
+    "20": {
+      "text": "Amazi agera mu kirere hejuru nka mikono cumi n'itanu, imisozi irarengerwa.",
+      "start": 31.58,
+      "end": 32.66
+    },
+    "21": {
+      "text": "Ibifite umubiri byose byigenza ku isi birapfa, uhereye ku nyoni n'ibisiga, n'amatungo n'inyamaswa, n'ibikururuka hasi byose n'abantu bose.",
+      "start": 42.97,
+      "end": 43.68
+    },
+    "22": {
+      "text": "Ibifite umwuka w'ubugingo mu mazuru byose, ibiri ku butaka byose, birapfa.",
+      "start": 17.72,
+      "end": 19.01
+    },
+    "23": {
+      "text": "Ibifite ubugingo byose biri ku butaka birarimbuka, uhereye ku bantu n'amatungo, n'ibikururuka n'inyoni n'ibisiga byo mu kirere, bitsembwa mu isi. Nowa wenyine arokokana n'ibyo yari kumwe na byo muri ya nkuge.",
+      "start": 11.76,
+      "end": 17.77
+    },
+    "24": {
+      "text": "Amazi amara iminsi ijana na mirongo itanu agikwiriye cyane mu isi.",
+      "start": 0.28,
+      "end": 41.18
+    }
+  }
+}

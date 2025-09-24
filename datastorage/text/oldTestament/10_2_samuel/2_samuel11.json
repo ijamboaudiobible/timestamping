@@ -1,0 +1,143 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Nuko umwaka utashye mu gihe abami batabariraga, Dawidi atuma Yowabu n'abagaragu be n'Abisirayeli bose, barimbura Abamoni kandi bagota n'i Raba. Ariko Dawidi we yisigariye i Yerusalemu.",
+      "start": 7.79,
+      "end": 24.48
+    },
+    "2": {
+      "text": "Bukeye nimugoroba Dawidi yibambuye ku gisasiro cye, aza agendagenda hejuru y'inzu y'umwami. Maze ahagaze hejuru aho abona umugore wiyuhagira, yari umugore mwiza w'ikibengukiro.",
+      "start": 8.0,
+      "end": 32.48
+    },
+    "3": {
+      "text": "Dawidi amubonye atuma kubaririza uwo mugore uwo ari we. Maze umuntu aramubwira ati “Si Batisheba mwene Eliyamu umugore wa Uriya w'Umuheti?”",
+      "start": 39.7,
+      "end": 44.27
+    },
+    "4": {
+      "text": "Nuko Dawidi yohereza intumwa ziramuzana aza iwe, bararyamana (kuko yari yitunganije akize imyanda), maze asubira iwe.",
+      "start": 9.04,
+      "end": 26.63
+    },
+    "5": {
+      "text": "Bukeye arasama, atuma kuri Dawidi ati “Ndatwite.”",
+      "start": 39.67,
+      "end": 40.5
+    },
+    "6": {
+      "text": "Hanyuma Dawidi atuma kuri Yowabu ati “Nyoherereza Uriya w'Umuheti.” Nuko Yowabu yohereza Uriya kuri Dawidi.",
+      "start": 9.14,
+      "end": 44.85
+    },
+    "7": {
+      "text": "Uriya ageze kwa Dawidi, Dawidi amubaza uko Yowabu n'ingabo bameze, amubaza n'amakuru yo mu ntambara.",
+      "start": 2.05,
+      "end": 36.92
+    },
+    "8": {
+      "text": "Maze Dawidi aramubwira ati “Manuka ujye iwawe woge ibirenge.” Nuko Uriya ava ibwami, maze bamukurikiza igaburo rivuye ku mwami.",
+      "start": 1.7,
+      "end": 4.22
+    },
+    "9": {
+      "text": "Ariko Uriya yiraranira n'abagaragu ba shebuja bose barāririye ku muryango wa kambere y'ibwami, ntiyamanuka ngo ajye iwe.",
+      "start": 10.26,
+      "end": 27.59
+    },
+    "10": {
+      "text": "Babwiye Dawidi ko Uriya atagiye iwe, Dawidi ni ko kubaza Uriya ati “Mbese ntuvuye ku rugendo? Ni iki cyakubujije kujya iwawe?”",
+      "start": 0.75,
+      "end": 1.19
+    },
+    "11": {
+      "text": "Uriya asubiza Dawidi ati “Isanduku y'Imana n'Abisirayeli n'Abayuda barara mu ngando, kandi databuja Yowabu n'abagaragu ba databuja bagerereje ku gasozi, naho jye nigire iwanjye, njye kurya no kunywa, niryamanire n'umugore wanjye? Oya ndahiye ubugingo bwawe uko uramye, sinakora bene ibyo.”",
+      "start": 26.08,
+      "end": 31.81
+    },
+    "12": {
+      "text": "Dawidi abwira Uriya ati “Sibira hano uyu munsi, ejo nzabone kugusezerera.” Nuko Uriya asibira i Yerusalemu uwo munsi na bukeye.",
+      "start": 24.88,
+      "end": 28.16
+    },
+    "13": {
+      "text": "Dawidi aramuhamagara, ararya aranywa amuri imbere, aramusindisha, maze nijoro arasohoka ajya kwiryamira ku buriri bwe hamwe n'abagaragu ba shebuja, ntiyarushya atarabukira iwe.",
+      "start": 17.5,
+      "end": 19.64
+    },
+    "14": {
+      "text": "Bukeye bwaho mu gitondo Dawidi yandikira Yowabu urwandiko, ararumwoherereza aruhaye Uriya.",
+      "start": 39.75,
+      "end": 44.44
+    },
+    "15": {
+      "text": "Yandika muri urwo rwandiko atya ati “Mushyire Uriya imbere aho urugamba rukomeye cyane, maze mumuhāne, bamutere apfe.”",
+      "start": 34.6,
+      "end": 37.25
+    },
+    "16": {
+      "text": "Nuko Yowabu amaze kwitegereza umudugudu, ashyira Uriya aho yari azi ko intwari ziri.",
+      "start": 38.15,
+      "end": 39.97
+    },
+    "17": {
+      "text": "Maze bene umudugudu barasohoka barwana na Yowabu. Nuko mu bagaragu ba Dawidi hapfamo bamwe, kandi na Uriya w'Umuheti na we arapfa.",
+      "start": 25.15,
+      "end": 29.92
+    },
+    "18": {
+      "text": "Yowabu yohereza intumwa kubwira Dawidi amacumu,",
+      "start": 37.56,
+      "end": 40.69
+    },
+    "19": {
+      "text": "yihanangiriza iyo ntumwa ati “Numara kubarira umwami amacumu,",
+      "start": 32.29,
+      "end": 35.3
+    },
+    "20": {
+      "text": "umwami akarakara akakubaza ati ‘Ni iki cyatumye mugomba kwegera umudugudu mutyo murwana? Mbese ntimwari muzi ko babasha kubarasa bahagaze ku nkike?’",
+      "start": 17.05,
+      "end": 28.44
+    },
+    "21": {
+      "text": "Akongera kukubwira ati ‘Harya ni nde wishe Abimeleki mwene Yerubasheti? Si umugore wamuteye ingasire yihagarariye ku nkike, akamutsinda i Tebesa? Ni iki cyatumye mwegera inkike mutyo?’ Nuko uzamusubize uti ‘Erega n'umugaragu wawe Uriya w'Umuheti na we yarapfuye.’ ”",
+      "start": 16.43,
+      "end": 40.13
+    },
+    "22": {
+      "text": "Nuko intumwa iragenda, igeze kuri Dawidi imusobanurira ibyo Yowabu yamutumye byose.",
+      "start": 24.01,
+      "end": 30.34
+    },
+    "23": {
+      "text": "Ibwira Dawidi iti “Abantu baho baradutwaje, baduhubukanye aho twari turi ku gasozi, dusakirana na bo turinda tugera mu muharuro w'irembo ryabo.",
+      "start": 33.17,
+      "end": 39.09
+    },
+    "24": {
+      "text": "Nuko abarashi bari bahagaze ku nkike barasa abagaragu bawe, none abagaragu b'umwami bamwe barapfuye, kandi n'umugaragu wawe Uriya w'Umuheti na we yarapfuye.”",
+      "start": 12.83,
+      "end": 43.7
+    },
+    "25": {
+      "text": "Maze Dawidi abwira iyo ntumwa ati “Uzabwire Yowabu utya uti ‘Ibyo ntibikubabaze, kuko inkota yica umuntu irindiriye undi. Urusheho gukomeza urugamba, urwane n'umudugudu uwutsinde.’ Kandi nawe umurindishe.”",
+      "start": 32.92,
+      "end": 39.41
+    },
+    "26": {
+      "text": "Bukeye muka Uriya yumvise ko umugabo we yapfuye, aramwiraburira.",
+      "start": 18.95,
+      "end": 37.06
+    },
+    "27": {
+      "text": "Nuko hanyuma yo kumwerera, Dawidi aramutumira amushyira iwe, amugira umugore we. Bukeye babyarana umwana w'umuhungu, ariko icyo Dawidi yakoze icyo cyarakaje Uwiteka.",
+      "start": 15.69,
+      "end": 28.13
+    }
+  }
+}

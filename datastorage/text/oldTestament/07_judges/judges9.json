@@ -1,0 +1,293 @@
+{
+  "book": "Book 7",
+  "book_canonical": "judges",
+  "book_number": 7,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Abimeleki mwene Yerubāli ajya i Shekemu kwa ba nyirarume, avugana na bo n'abo mu rugo rwa sekuru ubyara nyina arababwira ati",
+      "start": 16.6,
+      "end": 36.95
+    },
+    "2": {
+      "text": "“Ndabinginze mumbarize ab'i Shekemu bose muti ‘Icyabamerera neza ni uko mwatwarwa n'abahungu ba Yerubāli bose uko ari mirongo irindwi, cyangwa ni uko mwatwarwa n'umwe?’ Kandi mwibuke ko ndi amaraso yanyu, kandi ndi ubura bwanyu.”",
+      "start": 31.94,
+      "end": 33.49
+    },
+    "3": {
+      "text": "Ba nyirarume bamuvugira ayo magambo yose imbere y'ab'i Shekemu bose, ab'i Shekemu bumva bemeye gukurikira Abimeleki baravuga bati “Koko ni mwishywa wacu.”",
+      "start": 15.61,
+      "end": 37.52
+    },
+    "4": {
+      "text": "Nuko bamuha ibice by'ifeza mirongo irindwi bakuye mu ndaro ya Bāliberiti, Abimeleki abigurira abantu b'inguguzi bakubagana, baramukurikira.",
+      "start": 43.14,
+      "end": 43.21
+    },
+    "5": {
+      "text": "Ajya kwa se kuri Ofura asanga bene se bateraniyeyo, ari bo bene Yerubāli. Bose uko ari mirongo irindwi abicira ku gitare, ariko Yotamu umuhererezi wa Yerubāli ararokoka, kuko yari yihishe.",
+      "start": 20.38,
+      "end": 39.43
+    },
+    "6": {
+      "text": "Nuko abagabo bose b'i Shekemu bateranira hamwe n'ab'inzu ya Milo bose, barahaguruka bimikira Abimeleki i Shekemu munsi y'igiti cy'umwela, cyari cyateweho.",
+      "start": 20.53,
+      "end": 20.96
+    },
+    "7": {
+      "text": "Rubanda babibwira Yotamu, aragenda ahagarara mu mpinga y'umusozi w'i Gerizimu, arabakomēra n'ijwi rirenga aravuga ati “Yemwe ab'i Shekemu mwe, nimunyumve Imana na yo ibumve.",
+      "start": 13.83,
+      "end": 35.94
+    },
+    "8": {
+      "text": "Kera ibiti byari bigiye kwiyimikamo umwami ngo abitegeke, byinginga igiti cy'umwelayo biti ‘Ujye udutegeka.’",
+      "start": 25.55,
+      "end": 42.02
+    },
+    "9": {
+      "text": "Ariko umwelayo urabibaza uti ‘Mbese narekeshwa amavuta yanjye akoreshwa ibyo kūbaha Imana n'abantu, no kujya mpungabanira hirya no hino hejuru y'ibiti?’",
+      "start": 25.74,
+      "end": 36.07
+    },
+    "10": {
+      "text": "Maze ibiti byinginga umutini biti ‘Ngwino udutegeke.’",
+      "start": 41.5,
+      "end": 43.94
+    },
+    "11": {
+      "text": "Ariko umutini urabibaza uti ‘Mbese narekeshwa uburyohe bwanjye n'imbuto zanjye nziza, no kujya mpungabanira hirya no hino hejuru y'ibiti?’",
+      "start": 28.31,
+      "end": 41.93
+    },
+    "12": {
+      "text": "Maze ibiti byinginga umuzabibu biti ‘Ngwino udutegeke.’",
+      "start": 35.03,
+      "end": 43.24
+    },
+    "13": {
+      "text": "Umuzabibu urabibaza uti ‘Mbese narekeshwa vino yanjye inezeza Imana n'abantu, no kujya mpungabanira hirya no hino hejuru y'ibiti?’",
+      "start": 4.69,
+      "end": 6.6
+    },
+    "14": {
+      "text": "Ibiti byose biherako byinginga umufatangwe biti ‘Ngwino udutegeke.’",
+      "start": 30.25,
+      "end": 35.79
+    },
+    "15": {
+      "text": "Umufatangwe usubiza ibiti uti ‘Ubwo mushaka kunyimika ngo mbe umwami wanyu nyakuri, muze mwiringire igicucu cyanjye. Niba bitari iby'ukuri, umuriro uzava mu mufatangwe umareho imyerezi y'i Lebanoni.’ ”",
+      "start": 29.7,
+      "end": 41.33
+    },
+    "16": {
+      "text": "Yotamu yongera kubabaza ati “Mbese mwakoze iby'ukuri, mwakiranutse ko mwimitse Abimeleki? Mwagiriye neza Yerubāli n'abo mu nzu ye, mwamukoreye nk'uko yari akwiriye gukorerwa?",
+      "start": 0.06,
+      "end": 20.84
+    },
+    "17": {
+      "text": "Data yabarwaniraga ahaze amagara ye, akabakiza amaboko y'Abamidiyani.",
+      "start": 38.46,
+      "end": 39.35
+    },
+    "18": {
+      "text": "None mwahagurukiye inzu ya data, abahungu be mirongo irindwi mwabiciye ku gitare, mwimika Abimeleki umwana w'umuja we kugira ngo abe umwami w'ab'i Shekemu, kuko ari mwene wanyu.",
+      "start": 39.78,
+      "end": 42.49
+    },
+    "19": {
+      "text": "Niba ubu mukoreye Yerubāli n'ab'inzu ye iby'ukuri n'ibyo gukiranuka, nuko nimunezererwe Abimeleki, na we abanezererwe.",
+      "start": 5.97,
+      "end": 33.63
+    },
+    "20": {
+      "text": "Ariko niba atari ko biri, umuriro uve kwa Abimeleki urimbure ab'i Shekemu n'ab'inzu ya Milo, kandi umuriro uve mu b'i Shekemu no mu b'inzu ya Milo, urimbure Abimeleki.”",
+      "start": 38.73,
+      "end": 43.47
+    },
+    "21": {
+      "text": "Nuko Yotamu arirukanka arahunga, ajya i Bēri agumayo kuko yatinyaga Abimeleki mwene se.",
+      "start": 25.82,
+      "end": 41.59
+    },
+    "22": {
+      "text": "Abimeleki amara imyaka itatu ari we mutegeka w'Abisirayeli.",
+      "start": 0.44,
+      "end": 13.74
+    },
+    "23": {
+      "text": "Nuko Imana itegeka umwuka uyobya kujya ateranya Abimeleki n'ab'i Shekemu. Ab'i Shekemu baherako bagambanira Abimeleki,",
+      "start": 20.58,
+      "end": 21.85
+    },
+    "24": {
+      "text": "kugira ngo urugomo bagiriye bene Yerubāli mirongo irindwi n'amaraso yabo bijye kuri Abimeleki mwene se we wabishe, no ku b'i Shekemu bamutije amaboko kwica bene se.",
+      "start": 2.73,
+      "end": 19.32
+    },
+    "25": {
+      "text": "Nuko ab'i Shekemu bashyiraho abantu bo kumwubikirira mu mpinga z'imisozi, kandi bahamburira abagenzi benshi banyura muri iyo nzira, maze babiregera Abimeleki.",
+      "start": 19.62,
+      "end": 34.08
+    },
+    "26": {
+      "text": "Nuko Gāli mwene Ebedi azana na bene se bajya i Shekemu, ab'i Shekemu baherako baramwiringira.",
+      "start": 6.28,
+      "end": 7.29
+    },
+    "27": {
+      "text": "Bukeye bajya mu mirima basarura inzabibu zabo barazivunga, barishīma cyane, binjira mu ngoro y'ikigirwamana cyabo, bararya baranywa, baherako bavuma Abimeleki.",
+      "start": 33.88,
+      "end": 39.42
+    },
+    "28": {
+      "text": "Nuko Gāli mwene Ebedi aravuga ati “Abimeleki ni nde, kandi Shekemu ni nde, icyatuma tumukorera? Si we mwene Yerubāli, na Zebuli si we umutwarira? Nuko nimukorere Hamori se wa Shekemu, ariko ni iki gituma dukorera Abimeleki?",
+      "start": 21.49,
+      "end": 35.26
+    },
+    "29": {
+      "text": "Icyampa akaba ari jye ubategeka, nakuraho Abimeleki! Nabwira Abimeleki nti ‘Ongeza ingabo zawe usohoke.’ ”",
+      "start": 17.4,
+      "end": 21.36
+    },
+    "30": {
+      "text": "Zebuli umutware w'umudugudu yumvise amagambo ya Gāli mwene Ebedi, ararakara cyane.",
+      "start": 29.22,
+      "end": 32.43
+    },
+    "31": {
+      "text": "Atuma intumwa kwa Abimeleki rwihishwa ati “Gāli mwene Ebedi na bene se baje i Shekemu, kandi barakugandishiriza umusozi.",
+      "start": 7.47,
+      "end": 27.89
+    },
+    "32": {
+      "text": "None hagurukana n'abantu muri kumwe, muze nijoro mwubikirire mu mirima.",
+      "start": 13.34,
+      "end": 26.45
+    },
+    "33": {
+      "text": "Ariko ejo mu gitondo kare izuba rirashe, muzahaguruke musakize umudugudu. Nuko Gāli n'abo bari kumwe nibaza kukurwanya, uzabone kubagirira uko ushoboye.”",
+      "start": 22.7,
+      "end": 32.66
+    },
+    "34": {
+      "text": "Nuko Abimeleki ahagurukana n'ingabo ze zose zari kumwe na we, bagenda nijoro bubikirira i Shekemu bigabanijemo imitwe ine.",
+      "start": 23.94,
+      "end": 28.02
+    },
+    "35": {
+      "text": "Maze Gāli mwene Ebedi arasohoka ahagarara imbere y'irembo ry'umudugudu. Abimeleki n'abo bari kumwe bahaguruka mu gico.",
+      "start": 0.43,
+      "end": 10.76
+    },
+    "36": {
+      "text": "Nuko Gāli ababonye abwira Zebuli ati “Dore bariya bantu bamanuka mu mpinga z'imisozi!”Zebuli aramusubiza ati “Ubonye ibicucu by'imisozi ukagira ngo ni abantu.”",
+      "start": 42.34,
+      "end": 43.0
+    },
+    "37": {
+      "text": "Ariko Gāli yongera kuvuga ati “Dore hariho abantu baturutse mu mabanga, kandi umutwe umwe uturutse mu nzira yo ku mwela w'abapfumu.”",
+      "start": 35.69,
+      "end": 44.95
+    },
+    "38": {
+      "text": "Zebuli aherako aramubwira ati “Kwa kwirarira kwawe kuri he? Kuko wavuze uti ‘Abimeleki ni nde, bigatuma tumukorera?’ Bariya si ba bantu wasuzuguraga? None ngaho sohoka urwane na bo.”",
+      "start": 41.95,
+      "end": 43.61
+    },
+    "39": {
+      "text": "Nuko Gāli arangaza imbere y'ingabo z'i Shekemu, ajya kurwana na Abimeleki.",
+      "start": 38.17,
+      "end": 43.74
+    },
+    "40": {
+      "text": "Abimeleki aramwirukana aramuhunga, hakomereka benshi inzira yose kugeza no ku irembo mu muharuro.",
+      "start": 19.04,
+      "end": 24.01
+    },
+    "41": {
+      "text": "Abimeleki aguma kuri Aruma, maze Zebuli yirukana Gāli na bene se kugira ngo batongera gutura i Shekemu.",
+      "start": 2.67,
+      "end": 5.61
+    },
+    "42": {
+      "text": "Nuko bukeye bwaho abantu bajya mu mirima, Abimeleki arabibwirwa.",
+      "start": 41.47,
+      "end": 44.74
+    },
+    "43": {
+      "text": "Aherako ajyana ingabo ze, azicamo imitwe itatu bubikirira mu mirima, nuko arungurutse abona abantu bava mu ngo, babahagurukiramo barabica.",
+      "start": 5.08,
+      "end": 42.34
+    },
+    "44": {
+      "text": "Maze Abimeleki n'abo muri ya mitwe bari kumwe baravuduka bahagarara ku irembo ry'umudugudu. Nuko imitwe ibiri yo muri iyo mitwe iturumbukira ku bantu bose bagiye mu misozi, barabica.",
+      "start": 8.88,
+      "end": 39.61
+    },
+    "45": {
+      "text": "Maze Abimeleki yiriza uwo munsi arwanya umusozi, yica bene wo arawuhindūra, maze asenya umudugudu awunyanyagizamo umunyu.",
+      "start": 1.85,
+      "end": 21.83
+    },
+    "46": {
+      "text": "Nuko abantu bose bo mu munara w'i Shekemu bumvise ibyo, banyegera mu nzu yo hasi munsi y'indaro ya Eliberiti.",
+      "start": 35.66,
+      "end": 36.05
+    },
+    "47": {
+      "text": "Babwira Abimeleki yuko abantu bose bo mu munara w'i Shekemu bateranye.",
+      "start": 5.83,
+      "end": 27.23
+    },
+    "48": {
+      "text": "Nuko Abimeleki azamukana umusozi Salumoni n'abantu bari kumwe bose, maze Abimeleki yenda intorezo atema ishami ry'igiti, arariterura ariterera ku rutugu, abwira abari kumwe na we ati “Nimutebuke, uko mubona nkoze abe ari ko mukora namwe.”",
+      "start": 1.81,
+      "end": 28.16
+    },
+    "49": {
+      "text": "Nuko umuntu wese muri bo atema ishami ry'igiti bakurikira Abimeleki, bayarunda kuri ya nzu bayibatwikiramo. Nuko abantu bo mu munara w'i Shekemu bapfuye, abagabo n'abagore umubare wabo bari nk'igihumbi.",
+      "start": 33.22,
+      "end": 40.94
+    },
+    "50": {
+      "text": "Abimeleki aherako ajya i Tebesa agandikayo, arahatsinda.",
+      "start": 12.47,
+      "end": 13.06
+    },
+    "51": {
+      "text": "Ariko muri uwo mudugudu harimo umunara ukomeye. Ni ho abantu bose b'uwo mudugudu bahungiye, abagabo n'abagore, barikingirana, burira hejuru y'uwo munara.",
+      "start": 43.58,
+      "end": 44.08
+    },
+    "52": {
+      "text": "Abimeleki ajya kuri uwo munara arawusakiza, yegera urugi rwawo ngo arutwike.",
+      "start": 25.45,
+      "end": 37.36
+    },
+    "53": {
+      "text": "Nuko umugore wo muri bo atera Abimeleki ingasire mu gahanga, arakamena.",
+      "start": 4.37,
+      "end": 10.99
+    },
+    "54": {
+      "text": "Uwo mwanya Abimeleki ahamagara umusore umutwaje intwaro ati “Kura inkota yawe unyice, hatagira uvuga yuko nishwe n'umugore.” Uwo musore aramusogota arapfa.",
+      "start": 6.5,
+      "end": 25.55
+    },
+    "55": {
+      "text": "Abantu ba Isirayeli babonye yuko Abimeleki apfuye barataha, umuntu wese ajya iwe.",
+      "start": 29.92,
+      "end": 40.36
+    },
+    "56": {
+      "text": "Uko ni ko Imana yituye Abimeleki inabi yagiriye se, ubwo yicaga bene se mirongo irindwi,",
+      "start": 38.09,
+      "end": 41.11
+    },
+    "57": {
+      "text": "kandi inabi yose y'ab'i Shekemu Imana irayibitura, kandi umuvumo wa Yotamu mwene Yerubāli ubageraho.",
+      "start": 33.16,
+      "end": 38.41
+    }
+  }
+}

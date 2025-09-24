@@ -1,0 +1,163 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "Kandi Dawidi n'abatware b'ingabo, batoraniriza uwo murimo bamwe bo muri bene Asafu n'aba Hemani n'aba Yedutuni, ngo bahanuze inanga na nebelu n'ibyuma bivuga. Amazina y'abakoraga uwo murimo uko bajyaga ibihe ni aya:",
+      "start": 29.05,
+      "end": 29.37
+    },
+    "2": {
+      "text": "Abo muri bene Asafu ni Zakuri na Yosefu, na Netaniya na Asarela abahungu ba Asafu, batwarwaga na Asafu wahanuraga uko itegeko ry'umwami ryari riri.",
+      "start": 23.19,
+      "end": 24.91
+    },
+    "3": {
+      "text": "Aba Yedutuni, abahungu be ni Gedaliya na Seri, na Yeshaya na Hashabiya na Matitiya, uko ari batandatu batwarwaga na se Yedutuni, wagiraga inanga ahanura mu buryo bwo gushima no guhimbaza Uwiteka.",
+      "start": 12.85,
+      "end": 15.51
+    },
+    "4": {
+      "text": "Aba Hemani, abahungu be Bukiya na Mataniya na Uziyeli, na Shebuweli na Yerimoti na Hananiya, na Hanani na Eliyata na Gidaliti' na Romamutiyezeri na Yoshibekasha, na Maloti na Hotiri na Mahaziyoti.",
+      "start": 25.87,
+      "end": 39.34
+    },
+    "5": {
+      "text": "Abo bose bari abahungu ba Hemani bamenya w'umwami mu magambo y'Imana, wo gushyira hejuru ihembe. Imana iha Hemani abahungu cumi na bane n'abakobwa batatu.",
+      "start": 23.4,
+      "end": 43.95
+    },
+    "6": {
+      "text": "Abo bose batwarwaga na se, bakaririmbira mu nzu y'Uwiteka babwira ibyuma bivuga na nebelu n'inanga, ngo bakore umurimo wo mu nzu y'Imana, kandi Asafu na Yedutuni na Hemani bategekwaga n'umwami.",
+      "start": 31.41,
+      "end": 39.09
+    },
+    "7": {
+      "text": "Nuko umubare wabo hamwe na bene wabo, abari bigishijwe kuririmbira Uwiteka, abahanga bose bari magana abiri na mirongo inani n'umunani.",
+      "start": 11.68,
+      "end": 16.01
+    },
+    "8": {
+      "text": "Maze bafindira imirimo yabo ubufindo bose baranganya, aboroheje n'abakomeye, umwigisha n'umwigishwa.",
+      "start": 3.64,
+      "end": 15.18
+    },
+    "9": {
+      "text": "Nuko ubufindo bwa mbere butoranya Yosefu, ku bwa Asafu.Ubwa kabiri Gedaliya, we na bene se n'abahungu be bari cumi na babiri.",
+      "start": 5.07,
+      "end": 23.57
+    },
+    "10": {
+      "text": "Ubwa gatatu Zakuri n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 15.01,
+      "end": 18.95
+    },
+    "11": {
+      "text": "Ubwa kane Isuri n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 34.63,
+      "end": 36.64
+    },
+    "12": {
+      "text": "Ubwa gatanu Netaniya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 39.91,
+      "end": 40.98
+    },
+    "13": {
+      "text": "Ubwa gatandatu Bukiya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 12.65,
+      "end": 25.86
+    },
+    "14": {
+      "text": "Ubwa karindwi Yesharela n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 36.76,
+      "end": 37.0
+    },
+    "15": {
+      "text": "Ubwa munani Yeshaya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 10.7,
+      "end": 21.45
+    },
+    "16": {
+      "text": "Ubwa cyenda Mataniya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 28.61,
+      "end": 43.85
+    },
+    "17": {
+      "text": "Ubwa cumi Shimeyi n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 20.49,
+      "end": 43.92
+    },
+    "18": {
+      "text": "Ubwa cumi na bumwe Azarēli n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 4.73,
+      "end": 40.49
+    },
+    "19": {
+      "text": "Ubwa cumi na bubiri Hashabiya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 18.82,
+      "end": 33.91
+    },
+    "20": {
+      "text": "Ubwa cumi na butatu Shubayeli n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 1.95,
+      "end": 18.49
+    },
+    "21": {
+      "text": "Ubwa cumi na bune Matitiya n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 34.8,
+      "end": 36.28
+    },
+    "22": {
+      "text": "Ubwa cumi na butanu Yerimoti n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 18.94,
+      "end": 21.84
+    },
+    "23": {
+      "text": "Ubwa cumi na butandatu Hananiya n'abahungu be na bene, se bari cumi na babiri.",
+      "start": 25.48,
+      "end": 29.77
+    },
+    "24": {
+      "text": "Ubwa cumi na burindwi Yoshibekasha n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 29.26,
+      "end": 35.18
+    },
+    "25": {
+      "text": "Ubwa cumi n'umunani Hanani n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 5.23,
+      "end": 28.18
+    },
+    "26": {
+      "text": "Ubwa cumi n'icyenda Maloti n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 38.96,
+      "end": 39.23
+    },
+    "27": {
+      "text": "Ubwa makumyabiri Eliyata n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 5.24,
+      "end": 26.7
+    },
+    "28": {
+      "text": "Ubwa makumyabiri na bumwe Hotiri n'abahungu be na bene se bari cumi na babiri.",
+      "start": 9.64,
+      "end": 38.97
+    },
+    "29": {
+      "text": "Ubwa makumyabiri na bubiri Gidaliti n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 35.2,
+      "end": 38.56
+    },
+    "30": {
+      "text": "Ubwa makumyabiri na butatu Mahaziyoti n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 20.48,
+      "end": 20.51
+    },
+    "31": {
+      "text": "Ubwa makumyabiri na bune Romamutiyezeri n'abahungu be na bene se, bari cumi na babiri.",
+      "start": 31.51,
+      "end": 44.51
+    }
+  }
+}

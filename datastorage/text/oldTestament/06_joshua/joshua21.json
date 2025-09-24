@@ -1,0 +1,233 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Nuko abatware b'amazu y'Abalewi basanga umutambyi Eleyazari, na Yosuwa mwene Nuni n'abatware b'amazu y'imiryango y'Abisirayeli,",
+      "start": 32.93,
+      "end": 43.94
+    },
+    "2": {
+      "text": "bababwirira aho bari bari i Shilo mu gihugu cy'i Kanāni bati “Uwiteka yategekesheje Mose yuko tuzahabwa imidugudu yo guturamo, hamwe n'ibikingi byayo ngo tuzajye turagiramo amatungo yacu.”",
+      "start": 35.63,
+      "end": 42.92
+    },
+    "3": {
+      "text": "Nuko Abisirayeli baha Abalewi iyi midugudu hamwe n'ibikingi byayo hagati muri gakondo yabo, nk'uko Uwiteka yategetse.",
+      "start": 27.41,
+      "end": 43.97
+    },
+    "4": {
+      "text": "Ubufindo bwerekana imigabane y'amazu y'Abakohati bene Aroni umutambyi bo mu Balewi, bahabwa imidugudu cumi n'itatu ku y'umuryango wa Yuda, no ku y'uwa Simiyoni, no ku y'uwa Benyamini.",
+      "start": 25.26,
+      "end": 40.46
+    },
+    "5": {
+      "text": "Kandi bene Kohati bandi bafindirwa imidugudu cumi ku y'umuryango wa Efurayimu, no ku midugudu y'uwa Dani no ku y'igice cy'umuryango wa Manase.",
+      "start": 36.17,
+      "end": 41.13
+    },
+    "6": {
+      "text": "Kandi bene Gerushoni bafindirwa imidugudu cumi n'itatu ku y'amazu y'umuryango wa Isakari, no ku y'uwa Asheri, no ku y'uwa Nafutali, no ku y'igice cy'umuryango wa Manase i Bashani.",
+      "start": 13.55,
+      "end": 30.91
+    },
+    "7": {
+      "text": "Kandi bene Merari nk'uko amazu yabo ari, bahabwa imidugudu cumi n'ibiri ku y'umuryango wa Rubeni, no ku y'uwa Gadi, no ku y'uwa Zebuluni.",
+      "start": 30.29,
+      "end": 36.87
+    },
+    "8": {
+      "text": "Nuko rero Abisirayeli bagabanyiriza Abalewi batya iyi midugudu n'ibikingi byayo, nk'uko Uwiteka yategekesheje Mose.",
+      "start": 4.48,
+      "end": 9.65
+    },
+    "9": {
+      "text": "Bagabanya mu muryango w'Abayuda no mu muryango w'Abasimeyoni iyi midugudu, bayisobanura amazina.",
+      "start": 39.92,
+      "end": 44.23
+    },
+    "10": {
+      "text": "Iyo ni yo ya bene Aroni bo mu mazu ya Kohati b'Abalewi, kuko umugabane wa mbere wari uwabo.",
+      "start": 32.98,
+      "end": 34.43
+    },
+    "11": {
+      "text": "Nuko babaha i Kiriyataruba (ari yo Heburoni) mu gihugu cy'imisozi ya Yuda hamwe n'ibikingi biyikikije. Aruba uwo yari se wa Anaki,",
+      "start": 2.0,
+      "end": 24.56
+    },
+    "12": {
+      "text": "ariko imirima y'uwo mudugudu n'ibirorero byawo babiha Kalebu mwene Yefune kuba gakondo ye.",
+      "start": 34.94,
+      "end": 34.98
+    },
+    "13": {
+      "text": "Kandi baha bene Aroni umutambyi i Heburoni n'ibikingi byaho, ari wo mudugudu w'ubuhungiro bwa gatozi, n'i Libuna n'ibikingi byaho,",
+      "start": 22.56,
+      "end": 26.31
+    },
+    "14": {
+      "text": "n'i Yatiri n'ibikingi byaho, na Eshitemowa n'ibikingi byaho,",
+      "start": 34.74,
+      "end": 44.9
+    },
+    "15": {
+      "text": "n'i Holoni n'ibikingi byaho, n'i Debira n'ibikingi byaho,",
+      "start": 28.67,
+      "end": 32.35
+    },
+    "16": {
+      "text": "na Ayini n'ibikingi byaho, n'i Yuta n'ibikingi byaho, n'i Betishemeshi n'ibikingi byaho. Yose ni imidugudu icyenda yo muri iyo miryango ibiri.",
+      "start": 18.04,
+      "end": 41.35
+    },
+    "17": {
+      "text": "Kandi mu muryango wa Benyamini babaha i Gibeyoni n'ibikingi byaho, n'i Geba n'ibikingi byaho,",
+      "start": 28.42,
+      "end": 37.14
+    },
+    "18": {
+      "text": "na Anatoti n'ibikingi byaho, na Alumoni n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 22.84,
+      "end": 32.9
+    },
+    "19": {
+      "text": "Imidugudu yose ya bene Aroni b'abatambyi yari cumi n'itatu n'ibikingi byayo.",
+      "start": 34.43,
+      "end": 43.01
+    },
+    "20": {
+      "text": "Kandi ab'amazu ya bene Kohati b'Abalewi, ari bo bene Kohati bandi, bo bahawe imidugudu y'umugabane wabo mu muryango wa Efurayimu.",
+      "start": 12.23,
+      "end": 15.48
+    },
+    "21": {
+      "text": "Babaha i Shekemu n'ibikingi byaho mu gihugu cy'imisozi ya Efurayimu, ari wo mudugudu w'ubuhungiro bwa gatozi, n'i Gezeri n'ibikingi byaho,",
+      "start": 6.66,
+      "end": 41.79
+    },
+    "22": {
+      "text": "n'i Kibuzayimu n'ibikingi byaho, n'i Betihoroni n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 43.1,
+      "end": 44.88
+    },
+    "23": {
+      "text": "Kandi mu muryango wa Dani babaha Eliteke n'ibikingi byaho, n'i Gibetoni n'ibikingi byaho,",
+      "start": 35.68,
+      "end": 40.36
+    },
+    "24": {
+      "text": "na Ayaloni n'ibikingi byaho, n'i Gatirimoni n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 15.1,
+      "end": 24.31
+    },
+    "25": {
+      "text": "Kandi mu gice cy'umuryango wa Manase babaha i Tānaki n'ibikingi byaho, n'i Gatirimoni n'ibikingi byaho. Iyo midugudu uko ari ibiri.",
+      "start": 9.62,
+      "end": 33.51
+    },
+    "26": {
+      "text": "Imidugudu yose ya bene Kohati bandi yari icumi n'ibikingi byayo.",
+      "start": 25.9,
+      "end": 26.84
+    },
+    "27": {
+      "text": "Kandi bagabanyiriza bene Gerushoni bo mu mazu y'Abalewi, mu mugabane w'igice cy'umuryango wa Manase i Golani y'i Bashani n'ibikingi byabo, ari wo mudugudu w'ubuhungiro bwa gatozi, n'i Bēshitera n'ibikingi byaho. Iyo midugudu uko ari ibiri.",
+      "start": 10.41,
+      "end": 40.59
+    },
+    "28": {
+      "text": "Kandi mu muryango wa Isakari babaha i Kishiyoni n'ibikingi byaho, n'i Daberati n'ibikingi byaho,",
+      "start": 18.04,
+      "end": 23.62
+    },
+    "29": {
+      "text": "n'i Yaramuti n'ibikingi byaho, na Eniganimu n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 9.04,
+      "end": 40.57
+    },
+    "30": {
+      "text": "Kandi mu muryango wa Asheri babaha i Mishali n'ibikingi byaho, na Abudoni n'ibikingi byaho,",
+      "start": 23.22,
+      "end": 29.87
+    },
+    "31": {
+      "text": "n'i Helikati n'ibikingi byaho, n'i Rehobu n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 39.45,
+      "end": 44.15
+    },
+    "32": {
+      "text": "Kandi umuryango wa Nafutali babaha i Kedeshi y'i Galilaya n'ibikingi byaho, ari wo mudugudu w'ubuhungiro bwa gatozi, n'i Hamotidori n'ibikingi byaho, n'i Karitani n'ibikingi byaho. Yose ni imidugudu itatu.",
+      "start": 36.85,
+      "end": 42.42
+    },
+    "33": {
+      "text": "Imidugudu yose y'Abagerushoni nk'uko amazu yabo ari, yari cumi n'itatu n'ibikingi byayo.",
+      "start": 43.45,
+      "end": 44.48
+    },
+    "34": {
+      "text": "Kandi mu muryango wa Zebuluni ni ho bahaye ab'amazu ya bene Merari, ari bo Balewi bandi, i Yokineyamu n'ibikingi byaho, n'i Karita n'ibikingi byaho,",
+      "start": 26.56,
+      "end": 36.84
+    },
+    "35": {
+      "text": "n'i Dimuna n'ibikingi byaho, n'i Nahalali n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 2.19,
+      "end": 41.77
+    },
+    "36": {
+      "text": "Kandi mu muryango wa Rubeni babaha i Beseri n'ibikingi byaho, n'i Yahasi n'ibikingi byaho,",
+      "start": 27.44,
+      "end": 42.8
+    },
+    "37": {
+      "text": "n'i Kedemoti n'ibikingi byaho, n'i Mefāti n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 6.8,
+      "end": 38.31
+    },
+    "38": {
+      "text": "Kandi mu muryango wa Gadi babaha i Ramoti y'i Galeyadi n'ibikingi byaho, ari wo mudugudu w'ubuhungiro bwa gatozi, n'i Mahanayimu n'ibikingi byaho,",
+      "start": 4.28,
+      "end": 21.93
+    },
+    "39": {
+      "text": "n'i Heshiboni n'ibikingi byaho, n'i Yazeri n'ibikingi byaho. Yose ni imidugudu ine.",
+      "start": 7.43,
+      "end": 19.64
+    },
+    "40": {
+      "text": "Iyo yose ni yo midugudu ya bene Merari nk'uko amazu yabo ari, ari bo b'ayandi mazu y'Abalewi. Umugabane wabo wari imidugudu cumi n'ibiri.",
+      "start": 44.93,
+      "end": 44.97
+    },
+    "41": {
+      "text": "Imidugudu yose y'Abalewi yo hagati muri gakondo y'Abisirayeli, yari mirongo ine n'umunani n'ibikingi byayo.",
+      "start": 14.78,
+      "end": 43.79
+    },
+    "42": {
+      "text": "Kandi iyi midugudu yose yari ikikijwe n'ibikingi byayo. Uko ni ko yari iri yose.",
+      "start": 38.82,
+      "end": 41.73
+    },
+    "43": {
+      "text": "Uko ni ko Uwiteka yahaye Abisirayeli igihugu cyose yasezeranyije ba sekuruza babo, baragihindūra baturayo.",
+      "start": 15.89,
+      "end": 33.65
+    },
+    "44": {
+      "text": "Uwiteka abaha ihumure impande zose nk'uko yasezeranyije ba sekuruza babo. Nta muntu n'umwe wo mu babisha babo bose wabahagaraye imbere, ahubwo Uwiteka abagabiza ababisha babo bose.",
+      "start": 25.13,
+      "end": 42.64
+    },
+    "45": {
+      "text": "Nta jambo ryiza na rimwe mu yo Uwiteka yasezeranyije ubwoko bw'Abisirayeli ryakūtse, ahubwo byose byarasohoye.",
+      "start": 25.9,
+      "end": 31.25
+    }
+  }
+}

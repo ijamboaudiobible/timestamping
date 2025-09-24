@@ -1,0 +1,88 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "“Nihagira umuntu utura Uwiteka ituro ry'ifu, ature ifu y'ingezi, ayisukeho amavuta ya elayo, ayishyireho n'umubavu.",
+      "start": 26.46,
+      "end": 27.05
+    },
+    "2": {
+      "text": "Ayizanire bene Aroni abatambyi, kuri iyo fu y'ingezi n'ayo mavuta akureho ibyuzuye urushyi, abikuraneho n'umubavu wose, umutambyi abyosereze ku gicaniro bibe urwibutso rw'iryo turo, bibe ituro rikongorwa n'umuriro ry'ibihumurira Uwiteka neza.",
+      "start": 42.33,
+      "end": 44.99
+    },
+    "3": {
+      "text": "Igisigaye kuri iryo turo ry'ifu kibe icya Aroni n'abana be, ni ikintu cyera cyane mu maturo n'ibitambo bitambirwa Uwiteka bigakongorwa n'umuriro.",
+      "start": 12.39,
+      "end": 19.68
+    },
+    "4": {
+      "text": "“Nutura ituro ry'ifu yokeje mu cyokezo cy'imitsima, ribe udutsima tutasembuwe tw'ifu y'ingezi yavuganywe n'amavuta ya elayo, cyangwa udutsima dusa n'amabango tutasembuwe dusīzweho amavuta ya elayo.",
+      "start": 39.27,
+      "end": 40.08
+    },
+    "5": {
+      "text": "Kandi nutura ituro ry'ifu ikaranze, ribe ifu y'ingezi itasembuwe, yavuganywe n'amavuta ya elayo.",
+      "start": 31.34,
+      "end": 42.72
+    },
+    "6": {
+      "text": "Urigabanyemo ibice ubisukeho amavuta ya elayo: iryo ni ituro ry'ifu.",
+      "start": 14.96,
+      "end": 15.55
+    },
+    "7": {
+      "text": "“Nutura ituro ry'ifu ikarangishijwe amavuta, ribe ifu y'ingezi yavuganywe n'amavuta.",
+      "start": 27.33,
+      "end": 37.47
+    },
+    "8": {
+      "text": "Uzanire Uwiteka ituro rikozwe rityo, rishyīrwe umutambyi, na we arizane ku gicaniro.",
+      "start": 16.37,
+      "end": 41.14
+    },
+    "9": {
+      "text": "Umutambyi akure kuri iryo turo urwibutso rwaryo, arwosereze ku gicaniro. Iryo ni ituro rikongorwa n'umuriro ry'ibihumurira Uwiteka neza.",
+      "start": 17.23,
+      "end": 37.03
+    },
+    "10": {
+      "text": "Igisigaye kuri iryo turo ry'ifu kibe icya Aroni n'abana be, ni ikintu cyera cyane mu maturo n'ibitambo bitambirwa Uwiteka, bigakongorwa n'umuriro.",
+      "start": 36.81,
+      "end": 38.96
+    },
+    "11": {
+      "text": "“Ntihakagire ituro ry'ifu mutura Uwiteka ryavuganywe n'umusemburo, kuko mudakwiriye kugira umusemburo cyangwa ubuki mwosereza kuba ituro mutura Uwiteka, rigakongorwa n'umuriro.",
+      "start": 4.0,
+      "end": 29.57
+    },
+    "12": {
+      "text": "Mubiture Uwiteka ari ituro ry'umuganura, ariko ntibigashyirirwe ku gicaniro kuba impumuro nziza.",
+      "start": 33.69,
+      "end": 42.52
+    },
+    "13": {
+      "text": "Ituro ry'ifu ryose ujye urishyiramo umunyu, ntukemere ko ituro ry'ifu utura ribura umunyu, ari wo kimenyetso cy'isezerano ry'Imana yawe. Amaturo yawe yose n'ibitambo byawe byose ujye ubitambana n'umunyu.",
+      "start": 36.34,
+      "end": 41.79
+    },
+    "14": {
+      "text": "“Kandi nutura Uwiteka ituro ry'umuganura, ribe amahundo mabisi akaranze, ituro ry'igiheri cy'amahundo mabisi akaranze.",
+      "start": 27.08,
+      "end": 29.0
+    },
+    "15": {
+      "text": "Uyasukeho amavuta ya elayo, uyashyireho n'umubavu, iryo ni ituro ry'imyaka.",
+      "start": 28.79,
+      "end": 40.45
+    },
+    "16": {
+      "text": "Umutambyi yose urwibutso rw'iryo turo, ari igice cy'ayo mahundo y'igiheri n'icy'ayo mavuta n'uwo mubavu wose. Iryo ni ituro riturwa Uwiteka rigakongorwa n'umuriro.",
+      "start": 4.99,
+      "end": 23.28
+    }
+  }
+}

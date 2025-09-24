@@ -1,0 +1,128 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati “Bwira abatambyi bene Aroni uti: Ntihakagire uwo muri mwe wiyandurisha intumbi ngo yandurire hagati mu bwoko bwe,",
+      "start": 40.16,
+      "end": 40.71
+    },
+    "2": {
+      "text": "keretse yakwanduzwa n'iya mwene wabo wa bugufi, nyina na se, n'umuhungu we, n'umukobwa we na mwene se,",
+      "start": 1.17,
+      "end": 16.13
+    },
+    "3": {
+      "text": "na mushiki we wari ukiri umwari, akaba mwene wabo wa bugufi kuko atararongorwa, intumbi ye yayiyandurisha.",
+      "start": 41.9,
+      "end": 43.04
+    },
+    "4": {
+      "text": "Ubwo ari umukuru mu bwoko bwe, ntakiyanduze ngo yiyonone.",
+      "start": 38.49,
+      "end": 39.18
+    },
+    "5": {
+      "text": "“Ntibakogoshwe ibiharonjongo, ntibakiyogoshe inkokora z'ubwanwa bwabo, ntibakikebe ku mubiri.",
+      "start": 3.44,
+      "end": 18.57
+    },
+    "6": {
+      "text": "Babere Imana yabo abera, ntibagasuzuguze izina ry'Imana yabo, kuko ari bo batambira Uwiteka ibitambo bikongorwa n'umuriro, ari byo byokurya by'Imana yabo. Ni cyo gituma bakwiriye kuba abera.",
+      "start": 18.54,
+      "end": 41.16
+    },
+    "7": {
+      "text": "Ntibakarongore malaya cyangwa uwanduye, kandi ntibagacyure uwasenzwe, kuko umutambyi ari uwera ku Mana ye.",
+      "start": 25.09,
+      "end": 26.94
+    },
+    "8": {
+      "text": "Ni cyo gituma ukwiriye guhora umutekereza ko ari uwera, kuko ajya atamba ibyokurya by'Imana yawe, ahora akubera uwera kuko Uwiteka ukweza ndi uwera.",
+      "start": 37.17,
+      "end": 39.99
+    },
+    "9": {
+      "text": "Kandi umukobwa w'umutambyi wese niyiyononesha gusambana, aba yononnye se, bamutwike.",
+      "start": 11.66,
+      "end": 31.76
+    },
+    "10": {
+      "text": "“Umutambyi mukuru muri bagenzi be wasutswe ku mutwe amavuta ya elayo yo gusīga, akerezwa kwambara ya myambaro, ntagatendeze umusatsi we, ntagashishimure imyenda ye,",
+      "start": 37.21,
+      "end": 44.69
+    },
+    "11": {
+      "text": "ntakinjire aho intumbi yose iri, ntakiyandurishe intumbi ya se cyangwa nyina,",
+      "start": 23.41,
+      "end": 38.33
+    },
+    "12": {
+      "text": "ntibikamukure Ahera, ntakonone Ahera h'Imana ye, kuko kwereshwa amavuta yasīzwe y'Imana ye kumuriho. Ndi Uwiteka.",
+      "start": 38.51,
+      "end": 44.06
+    },
+    "13": {
+      "text": "Kandi umukobwa arongora, azabe ari umwari.",
+      "start": 21.96,
+      "end": 24.79
+    },
+    "14": {
+      "text": "Umupfakazi cyangwa uwasenzwe cyangwa uwanduye, cyangwa malaya ntakabarongore, ahubwo umwari wo mu bwoko bwe azabe ari we arongora.",
+      "start": 43.46,
+      "end": 43.73
+    },
+    "15": {
+      "text": "Ntakononere urubyaro rwe hagati mu bwoko bwe, kuko ndi Uwiteka umweza.”",
+      "start": 13.49,
+      "end": 32.82
+    },
+    "16": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 30.78,
+      "end": 33.04
+    },
+    "17": {
+      "text": "“Bwira Aroni uti ‘Umuntu wese wo mu rubyaro rwawe mu bihe byabo byose uzagira inenge, ntakigire hafi ngo atambe ibyokurya by'Imana ye.",
+      "start": 40.46,
+      "end": 41.94
+    },
+    "18": {
+      "text": "Umuntu wese ufite inenge ntakigire hafi: impumyi cyangwa uremaye ukuguru, cyangwa ubutaraye izuru, cyangwa ufite urugingo ruruta urundi nka rwo,",
+      "start": 15.41,
+      "end": 33.25
+    },
+    "19": {
+      "text": "cyangwa uvunitse ikirenge cyangwa ikiganza,",
+      "start": 17.98,
+      "end": 25.73
+    },
+    "20": {
+      "text": "cyangwa ufite inyonjo cyangwa igikuri, cyangwa ufite inenge ku jisho, cyangwa urwaye ubuheri cyangwa ibikoko, cyangwa umenetse ibinyita bito.",
+      "start": 35.51,
+      "end": 40.08
+    },
+    "21": {
+      "text": "Ntihakagire umuntu wo mu rubyaro rwa Aroni umutambyi ufite inenge, wigira hafi ngo atambe ibitambo bitambirwa Uwiteka bigakongorwa n'umuriro. Kuko afite inenge, ntakigire hafi ngo atambe ibyokurya by'Imana ye.",
+      "start": 13.47,
+      "end": 28.67
+    },
+    "22": {
+      "text": "Ajye arya ku byokurya by'Imana ye, ku byera cyane no ku byera.",
+      "start": 5.29,
+      "end": 31.57
+    },
+    "23": {
+      "text": "Ariko ntakigire hafi ya wa mwenda ukingiriza Ahera cyane, ntakegere igicaniro kuko afite inenge, kugira ngo atagira Ahera hanjye yonona, kuko ndi Uwiteka uheza.’ ”",
+      "start": 32.52,
+      "end": 39.07
+    },
+    "24": {
+      "text": "Ibyo byose Mose abibwira Aroni n'abana be n'Abisirayeli bose.",
+      "start": 11.05,
+      "end": 42.48
+    }
+  }
+}

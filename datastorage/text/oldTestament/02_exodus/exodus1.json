@@ -1,0 +1,118 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Aya ni yo mazina y'abana ba Isirayeli bagiye muri Egiputa bajyanye na Yakobo, umuntu wese ajyana abo mu rugo rwe:",
+      "start": 3.37,
+      "end": 22.78
+    },
+    "2": {
+      "text": "Rubeni na Simiyoni na Lewi na Yuda,",
+      "start": 30.08,
+      "end": 35.81
+    },
+    "3": {
+      "text": "na Isakari na Zebuluni na Benyamini,",
+      "start": 28.69,
+      "end": 32.73
+    },
+    "4": {
+      "text": "na Dani na Nafutali na Gadi na Asheri.",
+      "start": 31.14,
+      "end": 43.75
+    },
+    "5": {
+      "text": "Abantu bose bakomotse mu rukiryi rwa Yakobo bari mirongo irindwi, Yosefu yari asanzwe ari muri Egiputa.",
+      "start": 15.57,
+      "end": 34.13
+    },
+    "6": {
+      "text": "Yosefu apfana na bene se bose, n'ab'icyo gihe bose.",
+      "start": 9.91,
+      "end": 20.95
+    },
+    "7": {
+      "text": "Abisirayeli barororoka, barabyara cyane baragwira, barakomera cyane, buzura icyo gihugu.",
+      "start": 35.15,
+      "end": 36.22
+    },
+    "8": {
+      "text": "Muri Egiputa hima undi mwami utigeze kumenya Yosefu.",
+      "start": 36.06,
+      "end": 37.82
+    },
+    "9": {
+      "text": "Abwira abantu be ati “Dore Abisirayeli bahindutse ubwoko buturuta ubwinshi, buturusha n'amaboko.",
+      "start": 42.18,
+      "end": 42.69
+    },
+    "10": {
+      "text": "Nimuze tubashakire ubwenge be kugwira, bikazatuma bafatanya n'ababisha bacu, habaho intambara bakaturwanya, bakava mu gihugu cyacu.”",
+      "start": 21.88,
+      "end": 38.71
+    },
+    "11": {
+      "text": "Ni cyo cyatumye babaha abo kubatwara ku buretwa, ngo babababarishe imirimo iruhije. Bubakira Farawo imidugudu yo guhunikamo, Pitomu na Rāmesesi.",
+      "start": 24.6,
+      "end": 25.58
+    },
+    "12": {
+      "text": "Ariko uko barushagaho kubababaza, na bo ni ko barushagaho kugwira no gukwira. Abanyegiputa banga Abisirayeli urunuka.",
+      "start": 28.89,
+      "end": 29.66
+    },
+    "13": {
+      "text": "Abanyegiputa bakoresha Abisirayeli agahato,",
+      "start": 13.56,
+      "end": 27.25
+    },
+    "14": {
+      "text": "bababarisha ubugingo bwabo uburetwa bw'agahato, uburetwa bw'urwondo n'amatafari n'ubundi bwose bwo mu gasozi, uburetwa bwose babahatishaga.",
+      "start": 41.0,
+      "end": 44.97
+    },
+    "15": {
+      "text": "Hariho ababyaza b'Abaheburayokazi umwe yitwa Shifura, undi yitwa Puwa. Umwami wa Egiputa arababwira ati",
+      "start": 4.79,
+      "end": 18.25
+    },
+    "16": {
+      "text": "“Nimubyaza Abaheburayokazi mukabona bicaye ku ntebe babyariraho, nihavuka umuhungu mujye mumuhotora, ariko naba umukobwa abeho.”",
+      "start": 23.02,
+      "end": 26.89
+    },
+    "17": {
+      "text": "Maze abo babyaza bubaha Imana, ntibakora ibyo bategetswe n'umwami wa Egiputa, ahubwo bareka abahungu babaho.",
+      "start": 8.16,
+      "end": 14.13
+    },
+    "18": {
+      "text": "Umwami wa Egiputa ahamagaza abo babyaza, arababaza ati “Ni iki cyatumye mukora mutyo, mukareka abahungu bakabaho?”",
+      "start": 33.64,
+      "end": 38.8
+    },
+    "19": {
+      "text": "Ababyaza basubiza Farawo bati “Ni uko Abaheburayokazi batamera nk'Abanyegiputakazi, kuko ari abanyambaraga, bakabyara umubyaza atarabageraho.”",
+      "start": 29.51,
+      "end": 37.14
+    },
+    "20": {
+      "text": "Imana igirira neza abo babyaza, ubwo bwoko buragwira, burakomera cyane.",
+      "start": 34.7,
+      "end": 42.46
+    },
+    "21": {
+      "text": "Kandi kuko abo babyaza bubashye Imana, ibaha urubyaro, baba imiryango.",
+      "start": 26.07,
+      "end": 31.45
+    },
+    "22": {
+      "text": "Farawo ategeka abantu be bose ati “Umuhungu uzajya avuka wese mujye mumujugunya mu ruzi, umukobwa uzavuka wese mujye mumureka abeho.”",
+      "start": 0.65,
+      "end": 30.23
+    }
+  }
+}

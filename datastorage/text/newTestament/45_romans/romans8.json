@@ -1,0 +1,203 @@
+{
+  "book": "Book 45",
+  "book_canonical": "romans",
+  "book_number": 45,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Nuko rero noneho abari muri Kristo Yesu nta teka bazacirwaho,",
+      "start": 1.5,
+      "end": 11.36
+    },
+    "2": {
+      "text": "kuko itegeko ry'Umwuka w'ubugingo bwo muri Kristo Yesu ryambātuye ububata bw'itegeko ry'ibyaha n'urupfu,",
+      "start": 23.92,
+      "end": 41.23
+    },
+    "3": {
+      "text": "kuko ibyo amategeko yananiwe gukora ku bw'intege nke za kamere yacu, Imana yabishohoje ubwo yatumaga Umwana wayo afite ishusho ya kamere y'ibyaha kuba igitambo cy'ibyaha, icira ibyaha bya kamere ho iteka,",
+      "start": 41.52,
+      "end": 42.88
+    },
+    "4": {
+      "text": "kugira ngo gukiranuka kw'amategeko gusohozwe muri twe, abadakurikiza ibya kamere y'umubiri, ahubwo bakurikiza iby'Umwuka.",
+      "start": 10.35,
+      "end": 19.31
+    },
+    "5": {
+      "text": "Abakurikiza ibya kamere y'umubiri bita ku by'umubiri, naho abakurikiza iby'Umwuka bakita ku by'Umwuka.",
+      "start": 28.03,
+      "end": 30.98
+    },
+    "6": {
+      "text": "Umutima wa kamere utera urupfu, ariko umutima w'Umwuka uzana ubugingo n'amahoro,",
+      "start": 23.47,
+      "end": 26.57
+    },
+    "7": {
+      "text": "kuko umutima wa kamere ari umwanzi w'Imana, kuko utumvira amategeko y'Imana, ndetse ntushobora kuyumvira.",
+      "start": 3.46,
+      "end": 24.23
+    },
+    "8": {
+      "text": "Erega burya abari mu butware bwa kamere ntibashobora kunezeza Imana!",
+      "start": 28.17,
+      "end": 43.62
+    },
+    "9": {
+      "text": "Ariko mwebwe ntimuri aba kamere, ahubwo muri ab'Umwuka niba Umwuka w'Imana aba muri mwe. Ariko umuntu wese utagira Umwuka wa Kristo ntaba ari uwe.",
+      "start": 5.46,
+      "end": 30.42
+    },
+    "10": {
+      "text": "Niba Kristo aba muri mwe, nubwo umubiri uba upfuye uzize ibyaha, umwuka uba uri muzima ku bwo gukiranuka.",
+      "start": 37.51,
+      "end": 42.36
+    },
+    "11": {
+      "text": "Ariko niba Umwuka w'Iyazuye Yesu aba muri mwe, Iyazuye Kristo Yesu izazura n'imibiri yanyu ipfa ku bw'Umwuka wayo uba muri mwe.",
+      "start": 9.18,
+      "end": 28.88
+    },
+    "12": {
+      "text": "Nuko rero bene Data, turi mu mwenda ariko si uwa kamere y'imibiri yacu ngo dukurikize ibyayo,",
+      "start": 24.13,
+      "end": 32.94
+    },
+    "13": {
+      "text": "kuko niba mukurikiza ibya kamere y'umubiri muzapfa, ariko nimwicisha Umwuka ingeso za kamere muzarama.",
+      "start": 26.37,
+      "end": 36.7
+    },
+    "14": {
+      "text": "Abayoborwa n'Umwuka w'Imana bose ni bo bana b'Imana,",
+      "start": 33.39,
+      "end": 44.77
+    },
+    "15": {
+      "text": "kuko mutahawe umwuka w'ububata ubasubiza mu bwoba, ahubwo mwahawe umwuka ubahindura abana b'Imana, udutakisha uti “Aba, Data!”",
+      "start": 32.72,
+      "end": 39.42
+    },
+    "16": {
+      "text": "Umwuka w'Imana ubwe ahamanya n'umwuka wacu yuko turi abana b'Imana,",
+      "start": 6.99,
+      "end": 8.09
+    },
+    "17": {
+      "text": "kandi ubwo turi abana bayo turi n'abaragwa, ndetse turi abaragwa b'Imana, turi abaraganwana Kristo niba tubabarana na we ngo duhānwe ubwiza na we.",
+      "start": 37.79,
+      "end": 41.56
+    },
+    "18": {
+      "text": "Mbonye yuko imibabaro y'iki gihe idakwiriye kugereranywa n'ubwiza tuzahishurirwa,",
+      "start": 21.49,
+      "end": 28.87
+    },
+    "19": {
+      "text": "kuko ndetse n'ibyaremwe byose bitegerezanya amatsiko guhishurwa kw'abana b'Imana,",
+      "start": 9.04,
+      "end": 40.71
+    },
+    "20": {
+      "text": "kuko ibyaremwe byashyizwe mu bubata bw'ibitagira umumaro. Icyakora si ku bw'ubushake bwabyo ahubwo ni ku bw'ubushake bw'Uwabubishyizemo,",
+      "start": 34.15,
+      "end": 34.28
+    },
+    "21": {
+      "text": "yiringira yuko na byo bizabāturwa kuri ubwo bubata bwo kubora, bikinjira mu mudendezo w'ubwiza bw'abana b'Imana.",
+      "start": 20.81,
+      "end": 34.31
+    },
+    "22": {
+      "text": "Tuzi yuko ibyaremwe byose binihira hamwe bikaramukirwa hamwe kugeza ubu,",
+      "start": 28.05,
+      "end": 39.13
+    },
+    "23": {
+      "text": "ariko si byo bisa, ahubwo natwe abafite umuganura w'Umwuka, natwe tunihira mu mitima yacu dutegereza guhindurwa abana b'Imana, ari ko gucungurwa kw'imibiri yacu,",
+      "start": 38.35,
+      "end": 40.82
+    },
+    "24": {
+      "text": "kuko twakijijwe dufite ibyiringiro. Ariko rero ibyo umuntu yiringira iyo byabonetse, ntibiba bikiri ibyiringiro. Ni nde se wakwiringira kuzabona icyo amaze kubona?",
+      "start": 24.03,
+      "end": 24.22
+    },
+    "25": {
+      "text": "Nyamara twebwe ubwo twiringira ibyo tutabonye, tubitegereza twihangana.",
+      "start": 4.37,
+      "end": 38.11
+    },
+    "26": {
+      "text": "Uko ni ko n'Umwuka adufasha mu ntege nke zacu kuko tutazi uko dukwiriye gusenga, ariko Umwuka ubwe ni we udusabira aniha iminiho itavugwa,",
+      "start": 0.26,
+      "end": 41.99
+    },
+    "27": {
+      "text": "kandi Irondora imitima izi ibyo Umwuka atekereza, kuko Umwuka asabira abera nk'uko Imana ishaka.",
+      "start": 7.47,
+      "end": 24.34
+    },
+    "28": {
+      "text": "Kandi tuzi yuko ku bakunda Imana byose bifataniriza hamwe kubazanira ibyiza, ari bo bahamagawe nk'uko yabigambiriye,",
+      "start": 23.02,
+      "end": 41.9
+    },
+    "29": {
+      "text": "kuko abo yamenye kera yabatoranirije kera gushushanywa n'ishusho y'Umwana wayo, kugira ngo abe imfura muri bene se benshi.",
+      "start": 37.91,
+      "end": 40.61
+    },
+    "30": {
+      "text": "Abo yatoranije kera yarabahamagaye, kandi abo yahamagaye yarabatsindishirije, n'abo yatsindishirije yabahaye ubwiza.",
+      "start": 5.78,
+      "end": 12.1
+    },
+    "31": {
+      "text": "None ubwo bimeze bityo tuvuge iki? Ubwo Imana iri mu ruhande rwacu umubisha wacu ni nde?",
+      "start": 4.89,
+      "end": 32.04
+    },
+    "32": {
+      "text": "Mbese ubwo itimanye Umwana wayo ikamutanga ku bwacu twese, izabura ite kumuduhana n'ibindi byose?",
+      "start": 21.18,
+      "end": 33.57
+    },
+    "33": {
+      "text": "Ni nde uzarega intore z'Imana? Ni Imana kandi ari yo izitsindishiriza?",
+      "start": 6.74,
+      "end": 30.13
+    },
+    "34": {
+      "text": "Ni nde uzazicira ho iteka? Ni Kristo Yesu kandi ari we wazipfiriye, ndetse akaba yarazutse ari iburyo bw'Imana adusabira?",
+      "start": 34.24,
+      "end": 43.42
+    },
+    "35": {
+      "text": "Ni nde wadutandukanya n'urukundo rwa Kristo? Mbese ni amakuba, cyangwa ni ibyago, cyangwa ni ukurenganywa, cyangwa ni inzara, cyangwa ni ukwambara ubusa, cyangwa ni ukuba mu kaga, cyangwa ni inkota?",
+      "start": 27.26,
+      "end": 43.99
+    },
+    "36": {
+      "text": "Nk'uko byanditswe ngo“Turicwa umunsi ukīra bakuduhōra,Twahwanijwe n'intama z'imbagwa.”",
+      "start": 11.8,
+      "end": 22.55
+    },
+    "37": {
+      "text": "Oya, ahubwo muri ibyo byose turushishwaho kunesha n'uwadukunze,",
+      "start": 24.57,
+      "end": 42.1
+    },
+    "38": {
+      "text": "kuko menye neza yuko naho rwaba urupfu cyangwa ubugingo, cyangwa abamarayika cyangwa abategeka, cyangwa ibiriho cyangwa ibizaba, cyangwa abafite ubushobozi,",
+      "start": 13.37,
+      "end": 37.52
+    },
+    "39": {
+      "text": "cyangwa uburebure bw'igihagararo, cyangwa uburebure bw'ikijyepfo, cyangwa ikindi cyaremwe cyose, bitazabasha kudutandukanya n'urukundo rw'Imana ruri muri Kristo Yesu Umwami wacu.",
+      "start": 19.91,
+      "end": 36.22
+    }
+  }
+}

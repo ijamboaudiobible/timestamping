@@ -1,0 +1,68 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 62,
+  "verses": {
+    "1": {
+      "text": "Ku bw'urukundo nkunda i Siyoni sinzatuza, kuko ngiriye i Yerusalemu sinzaruhuka, kugeza ubwo gukiranuka kwaho kuzatambika nko gutangaza k'umuseke, n'agakiza kaho kakamera nk'itabaza ryaka.",
+      "start": 0.06,
+      "end": 16.93
+    },
+    "2": {
+      "text": "Nuko amahanga azabona gukiranuka kwawe, n'abami bose bazabona icyubahiro cyawe, maze uzitwa izina rishya rihimbwe n'Uwiteka.",
+      "start": 39.87,
+      "end": 42.44
+    },
+    "3": {
+      "text": "Kandi uzaba ikamba ry'ubwiza riri mu ntoki z'Uwiteka, n'igisingo cy'ubwami kiri mu ntoki z'Imana yawe.",
+      "start": 2.01,
+      "end": 41.35
+    },
+    "4": {
+      "text": "Ntuzongera kwitwa Intabwa, n'igihugu cyawe ntikizongera kwitwa Umwirare, ahubwo uzitwa Inkundwakazi n'igihugu cyawe kizitwa Uwashyingiwe, kuko Uwiteka akwishimiye kandi igihugu cyawe kizashyingirwa.",
+      "start": 16.89,
+      "end": 32.2
+    },
+    "5": {
+      "text": "Nk'uko umusore arongora umukobwa, ni ko abahungu bawe bazakurongora, kandi nk'uko umukwe anezererwa umugeni, ni ko Imana yawe izakunezererwa.",
+      "start": 2.48,
+      "end": 16.24
+    },
+    "6": {
+      "text": "Yewe Yerusalemu, nshyize abarinzi ku nkike zawe, ntibazaceceka ku manywa na nijoro. Yemwe abibutsa Uwiteka, ntimugatuze.",
+      "start": 40.8,
+      "end": 42.72
+    },
+    "7": {
+      "text": "Kandi ntimukamuhwemere kugeza ubwo azakomeza i Yerusalemu, akahahindura ishimwe mu isi.",
+      "start": 37.28,
+      "end": 40.03
+    },
+    "8": {
+      "text": "Uwiteka yarahiye ukuboko kwe kw'iburyo n'ukuboko kw'imbaraga ze ati “Ni ukuri sinzongera guha abanzi bawe amasaka yawe ngo bayaye, n'abanyamahanga ntibazakunywera vino waruhiye.",
+      "start": 2.25,
+      "end": 42.88
+    },
+    "9": {
+      "text": "Ahubwo abazayasarura ni bo bazayarya bahimbaza Uwiteka, kandi abazayiyengera ni bo bazayinywera mu bikari by'ubuturo bwanjye bwera.”",
+      "start": 40.99,
+      "end": 42.58
+    },
+    "10": {
+      "text": "Nimusohoke munyure mu marembo mutunganirize abantu inzira, mutumburure, mutumburure inzira nyabagendwa muyikuremo amabuye, mushingire amahanga ibendera.",
+      "start": 12.15,
+      "end": 18.74
+    },
+    "11": {
+      "text": "Dore Uwiteka arategetse, ageza ku mpera y'isi ati “Nimubwire umukobwa w'i Siyoni muti ‘Dore Umukiza wawe araje, azanye n'ingororano kandi inyiturano yo kwitura imuje imbere.’ ”",
+      "start": 25.94,
+      "end": 35.42
+    },
+    "12": {
+      "text": "Bazabita ubwoko bwera, abacunguwe n'Uwiteka, kandi uzitwa Ahashatswe, Umurwa utatawe.",
+      "start": 42.73,
+      "end": 44.99
+    }
+  }
+}

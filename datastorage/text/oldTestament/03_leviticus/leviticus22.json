@@ -1,0 +1,173 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 30.67,
+      "end": 43.43
+    },
+    "2": {
+      "text": "“Bwira Aroni n'abana be bitandukanye n'ibyera Abisirayeli banyereza, be gusuzuguza izina ryanjye ryera. Ndi Uwiteka.",
+      "start": 43.18,
+      "end": 44.67
+    },
+    "3": {
+      "text": "Ubabwire uti: Umuntu wese wo mu rubyaro rwanyu mu bihe byanyu byose, uzegera ibyera Abisirayeli bereje Uwiteka agihumanye, uwo muntu azakurweho ave imbere yanjye. Ndi Uwiteka.",
+      "start": 24.97,
+      "end": 30.69
+    },
+    "4": {
+      "text": "“Umuntu wese wo mu rubyaro rwa Aroni ubembye cyangwa uninda, ntarye ku byera atarahumanuka. Kandi ukoze ku muntu wese cyangwa ku kintu cyose cyahumanijwe n'intumbi, cyangwa ku muntu uvuwemo n'intanga ze,",
+      "start": 37.12,
+      "end": 44.12
+    },
+    "5": {
+      "text": "cyangwa ukoze ku gikururuka cyose cyamuhumanya, cyangwa ku muntu wamuhumanisha guhumana k'uburyo bwose,",
+      "start": 5.75,
+      "end": 37.73
+    },
+    "6": {
+      "text": "ukoze ku bimeze bityo azaba ahumanye ageze nimugoroba, ntakarye ku byera ariko yiyuhagire.",
+      "start": 29.55,
+      "end": 30.18
+    },
+    "7": {
+      "text": "Izuba nirirenga azaba ahumanutse abone kurya ku byera, kuko ari ibyokurya bye.",
+      "start": 35.5,
+      "end": 42.69
+    },
+    "8": {
+      "text": "Intumbyi n'ikirīra ntakabirye ngo abyiyandurishe. Ndi Uwiteka.",
+      "start": 12.86,
+      "end": 43.2
+    },
+    "9": {
+      "text": "“Ni cyo gituma bakwiriye kwitondera umurimo nabarindishije kugira ngo utabazanira icyaha, ukabicisha kuko bawononnye. Ndi Uwiteka ubeza.",
+      "start": 20.8,
+      "end": 36.12
+    },
+    "10": {
+      "text": "“Utari uwo mu batambyi ntakarye ku cyera, umushyitsi wo mu nzu y'umutambyi cyangwa umukorerera ibihembo ntibakarye ku cyera.",
+      "start": 22.57,
+      "end": 26.61
+    },
+    "11": {
+      "text": "Ariko umutambyi nagura umuntu ifeza, uwo ajye akiryaho, n'abavukiye mu rugo rwe bajye barya ku byokurya bye.",
+      "start": 11.36,
+      "end": 28.9
+    },
+    "12": {
+      "text": "Kandi umukobwa w'umutambyi narongorwa n'utari uwo mu batambyi, ntakarye mu byera byatuwe bikererezwa.",
+      "start": 5.92,
+      "end": 20.11
+    },
+    "13": {
+      "text": "Ariko umukobwa w'umutambyi niba ari umupfakazi, cyangwa yarasenzwe ntagire umwana, akaba igishubaziko agasubira mu nzu ya se nk'uko yari ari mu bwana bwe, ajye arya ku byokurya bya se, ariko ntihakagire utari uwo mu batambyi ubiryaho.",
+      "start": 41.4,
+      "end": 41.84
+    },
+    "14": {
+      "text": "“Umuntu narya ku cyera atabizi, arihe umutambyi ikingana n'icyera yariye, yongereho igice cyacyo cya gatanu.",
+      "start": 29.25,
+      "end": 44.83
+    },
+    "15": {
+      "text": "Kandi abatambyi ntibakonone ibyera byatuwe n'Abisirayeli, ibyo berereje Uwiteka",
+      "start": 37.29,
+      "end": 39.38
+    },
+    "16": {
+      "text": "ngo babashyirisheho gukiranirwa kuzana urubanza nibarya ibyera byabo, kuko ndi Uwiteka ubeza.”",
+      "start": 24.11,
+      "end": 29.61
+    },
+    "17": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 37.37,
+      "end": 39.89
+    },
+    "18": {
+      "text": "“Bwira Aroni n'abana be n'Abisirayeli bose uti: Umuntu wo mu nzu ya Isirayeli wese, cyangwa wo mu banyamahanga babasuhukiyemo uzatambira Uwiteka igitambo cyo koswa, naho waba umuhigo ahigura, cyangwa ari icyatambishwa n'umutima ukunze,",
+      "start": 28.17,
+      "end": 28.38
+    },
+    "19": {
+      "text": "azende ikimasa cyangwa isekurume y'intama cyangwa iy'ihene kidafite inenge, kugira ngo yemerwe.",
+      "start": 31.05,
+      "end": 35.27
+    },
+    "20": {
+      "text": "Ariko igifite inenge cyose ntimukagitambe, kuko kizababera igitambo kitakwemerwa.",
+      "start": 5.54,
+      "end": 40.01
+    },
+    "21": {
+      "text": "Kandi umuntu wese natambira igitambo cy'uko ari amahoro ngo ahigure umuhigo, cyangwa agitambishwa n'umutima ukunze, naho cyaba icyo mu bushyo cyangwa icyo mu mikumbi gitungane rwose kibone kwemerwa, ntikikagire inenge kibaho.",
+      "start": 41.35,
+      "end": 43.37
+    },
+    "22": {
+      "text": "Impumyi cyangwa ikivune cyangwa ikivuyeho urugingo, cyangwa ikirwaye ibisebe cyangwa ikirwaye ibisa n'ubuheri n'ibikoko ntimukabitambire Uwiteka, ntimukabigire ibitambo bitambirwa Uwiteka bigakongorerwa n'umuriro ku gicaniro.",
+      "start": 2.26,
+      "end": 12.19
+    },
+    "23": {
+      "text": "Ikimasa cyangwa umwana w'intama gifite urugingo rw'ikirenga cyangwa rugufi, wemererwa kugitambishwa n'umutima ukunze, ariko ntikizemerwa ngo ugihiguze umuhigo.",
+      "start": 22.66,
+      "end": 22.73
+    },
+    "24": {
+      "text": "Igifite amabya yahombanye cyangwa yamenetse, cyangwa yajanjaguritse cyangwa yashahuwe ntimukagitambire Uwiteka, ntimuzagenzereze mutyo mu gihugu cyanyu.",
+      "start": 13.75,
+      "end": 33.88
+    },
+    "25": {
+      "text": "“No ku munyamahanga ntimukemere ikimeze gityo cyose, ngo mugitambe ho ibyokurya by'Imana yanyu, kuko ubusembwa bwabyo bubiriho, bifite inenge, ntibyababera ibitambo byemerwa.”",
+      "start": 30.14,
+      "end": 39.07
+    },
+    "26": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 22.07,
+      "end": 26.4
+    },
+    "27": {
+      "text": "“Inka cyangwa intama cyangwa ihene nivuka ijye yonkeshwa iminsi irindwi, uhereye ku munsi wa munani izemerwa ko itambirwa Uwiteka igakongorwa n'umuriro.",
+      "start": 25.56,
+      "end": 25.79
+    },
+    "28": {
+      "text": "Naho yaba inka cyangwa intama, ntimukazibagane n'izazo ku munsi umwe.",
+      "start": 28.91,
+      "end": 33.03
+    },
+    "29": {
+      "text": "Kandi nimutambira Uwiteka igitambo cy'ishimwe, mujye mugitamba uburyo butuma mwemerwa.",
+      "start": 21.99,
+      "end": 38.31
+    },
+    "30": {
+      "text": "Ku munsi cyatambiweho, abe ari wo mukirya, ntimukagire icyo musigaza ngo kirare. Ndi Uwiteka.",
+      "start": 30.19,
+      "end": 42.56
+    },
+    "31": {
+      "text": "“Nuko mujye mwitondera amategeko yanjye muyumvire. Ndi Uwiteka.",
+      "start": 28.93,
+      "end": 42.14
+    },
+    "32": {
+      "text": "Ntimugasuzuguze izina ryanjye ryera, kugira ngo nerezwe hagati mu Bisirayeli. Ndi Uwiteka ubeza,",
+      "start": 35.21,
+      "end": 42.95
+    },
+    "33": {
+      "text": "wabakuriye mu gihugu cya Egiputa kuba Imana yanyu. Ndi Uwiteka.”",
+      "start": 22.84,
+      "end": 34.45
+    }
+  }
+}

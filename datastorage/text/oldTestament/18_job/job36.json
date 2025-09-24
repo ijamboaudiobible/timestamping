@@ -1,0 +1,173 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 36,
+  "verses": {
+    "1": {
+      "text": "Elihu akomeza kuvuga ati",
+      "start": 8.16,
+      "end": 34.23
+    },
+    "2": {
+      "text": "“Ba unyoroheye gato maze nkwereke,Kuko ngifite icyo mvugira Imana.",
+      "start": 25.37,
+      "end": 26.4
+    },
+    "3": {
+      "text": "Ndazana ubwenge bwanjye mbukuye kure,Kandi ndātūrira Umuremyi wanjye uburyo akiranuka.",
+      "start": 27.14,
+      "end": 36.57
+    },
+    "4": {
+      "text": "Ni ukuri ibyo mvuga ntabwo ari ibinyoma,Umuntu ufite ubwenge butunganye ari kumwe nawe.",
+      "start": 6.75,
+      "end": 34.16
+    },
+    "5": {
+      "text": "“Dore Imana irakomeye kandi ntigira uwo ihinyura,Irakomeye mu mbaraga no mu bwenge.",
+      "start": 39.16,
+      "end": 39.36
+    },
+    "6": {
+      "text": "Ntiramisha umunyabyaha,Ariko itsindishiriza abarengana.",
+      "start": 20.0,
+      "end": 44.78
+    },
+    "7": {
+      "text": "Ntabwo ivana amaso yayo ku bakiranutsi,Ahubwo ibicaza hamwe n'abami ku ntebe zabo,Ikabakomeza iteka ryose bagashyirwa hejuru.",
+      "start": 39.75,
+      "end": 42.61
+    },
+    "8": {
+      "text": "Kandi iyo baboheshejwe iminyururu,Bagafatishwa ingoyi z'umubabaro,",
+      "start": 36.54,
+      "end": 37.59
+    },
+    "9": {
+      "text": "Ibereka imirimo yabo n'ibicumuro byabo,Uko bagenje bibona.",
+      "start": 3.43,
+      "end": 26.83
+    },
+    "10": {
+      "text": "Kandi izibura amatwi yabo ngo bumve ibyigisho,Ikabihanangiriza kuva mu byaha.",
+      "start": 6.68,
+      "end": 41.89
+    },
+    "11": {
+      "text": "Nibayumvira bakayikorera,Bazamara iminsi yabo baguwe neza,Bazamara n'imyaka yabo mu byishimo.",
+      "start": 38.09,
+      "end": 39.86
+    },
+    "12": {
+      "text": "Ariko nibatumvira bazarimbuzwa inkota,Kandi bazapfa ari nta bwenge bafite.",
+      "start": 2.85,
+      "end": 11.78
+    },
+    "13": {
+      "text": "“Kandi abatubaha Imana mu mitima yabo bibikira uburakari,Iyo ibaboshye ntibarushya batabaza.",
+      "start": 31.07,
+      "end": 42.81
+    },
+    "14": {
+      "text": "Bapfa bakenyutse,Kandi ubugingo bwabo buherera mu banduye.",
+      "start": 26.47,
+      "end": 29.56
+    },
+    "15": {
+      "text": "Irokora abarengana ikabakura mu makuba,Kandi akarengane gatuma ibaziburira amatwi.",
+      "start": 40.68,
+      "end": 41.46
+    },
+    "16": {
+      "text": "“Ni ukuri iba yaragukuye mu makuba,Ikagushyira ahagari hadafunganye,Kandi ibishyizwe ku meza yawe,Biba byuzuwemo n'ibinure.",
+      "start": 13.81,
+      "end": 21.66
+    },
+    "17": {
+      "text": "Ariko wuzuwemo n'imanza z'abanyabyaha,Urubanza no gukiranuka biragufashe.",
+      "start": 0.22,
+      "end": 29.75
+    },
+    "18": {
+      "text": "Hariho uburakari.Wirinde utayobeshwa no kwirarira kwawe,Bigatuma incungu nyinshi zinanirwa kugucungura.",
+      "start": 11.33,
+      "end": 29.48
+    },
+    "19": {
+      "text": "Mbese ubutunzi bwawe n'ububasha bw'imbaraga zawe bwose,Byatuma utabona amakuba?",
+      "start": 12.62,
+      "end": 40.08
+    },
+    "20": {
+      "text": "Ntukifuze ijoro,Igihe abantu bacibwa bakava iwabo.",
+      "start": 6.6,
+      "end": 25.4
+    },
+    "21": {
+      "text": "Itonde we kwibwira ibyo gukiranirwa,Kuko ari byo wahisemo bikakurutira umubabaro ufite.",
+      "start": 5.68,
+      "end": 42.57
+    },
+    "22": {
+      "text": "“Dore Imana ikoresha ibikomeye ububasha bwayo,Umwigisha uhwanye na yo ni nde?",
+      "start": 25.23,
+      "end": 36.87
+    },
+    "23": {
+      "text": "Ni nde wayitegekeye inzira zayo?Cyangwa ni nde wavuga ati‘Wakoze ikitaboneye’?",
+      "start": 18.0,
+      "end": 18.29
+    },
+    "24": {
+      "text": "Ibuka gushimisha imirimo yayo,N'ibyayo abantu baririmbaga.",
+      "start": 41.84,
+      "end": 43.29
+    },
+    "25": {
+      "text": "Bose barayirebaga,Umuntu ayitegereza ari kure yayo.",
+      "start": 30.15,
+      "end": 36.45
+    },
+    "26": {
+      "text": "Dore Imana irakomeye kandi ntituyizi,Imibare y'imyaka yayo ntibarika.",
+      "start": 14.13,
+      "end": 40.51
+    },
+    "27": {
+      "text": "“Kuko izamura amazi akaba igicu,Kigahinduka imvura itonyanga,",
+      "start": 0.89,
+      "end": 2.12
+    },
+    "28": {
+      "text": "Maze ibicu bikayigusha,Ikagwa mu gihugu ari nyinshi.",
+      "start": 31.0,
+      "end": 39.28
+    },
+    "29": {
+      "text": "Mbese hari uwabasha kumenya uko ibicu bikwira hose,Akamenya n'uko imihindaganyo iva mu ihema ryayo?",
+      "start": 6.33,
+      "end": 30.71
+    },
+    "30": {
+      "text": "Dore yigotesha umucyo,Kandi itwikīra no mu kuzimu kw'inyanja.",
+      "start": 22.11,
+      "end": 23.67
+    },
+    "31": {
+      "text": "Kuko ibyo ari ibyo ikirisha urubanza rw'amahanga,Kandi itanga ibyokurya byinshi.",
+      "start": 23.68,
+      "end": 33.89
+    },
+    "32": {
+      "text": "Ihisha umurabyo mu maboko yayo,Maze ikawutegeka guhamya intego.",
+      "start": 37.8,
+      "end": 38.81
+    },
+    "33": {
+      "text": "Guhinda kw'inkuba kugaragaza ibyayo,Amatungo na yo akamenya yuko umugaru uhinduye.",
+      "start": 14.64,
+      "end": 28.6
+    }
+  }
+}

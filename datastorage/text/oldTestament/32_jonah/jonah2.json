@@ -1,0 +1,63 @@
+{
+  "book": "Book 32",
+  "book_canonical": "jonah",
+  "book_number": 32,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Uwiteka ategeka urufi runini rumira Yona, maze Yona amara mu nda y'urufi iminsi itatu n'amajoro atatu.",
+      "start": 12.79,
+      "end": 25.21
+    },
+    "2": {
+      "text": "Maze Yona asengera Uwiteka Imana ye mu nda y'urufi ati",
+      "start": 30.8,
+      "end": 33.74
+    },
+    "3": {
+      "text": "“Nagize ibyago ntakira Uwiteka aransubiza,Nahamagariye mu nda y'ikuzimu,Wumva ijwi ryanjye.",
+      "start": 33.72,
+      "end": 37.31
+    },
+    "4": {
+      "text": "Kuko wanjugunye imuhengeri mu nyanja,Umwuzure warangose,Ibigogo byawe n'imiraba yawe byose byarandengeye.",
+      "start": 11.33,
+      "end": 12.73
+    },
+    "5": {
+      "text": "Ndavuga nti ‘Nciwe imbere yawe,Ariko nzongera kureba urusengero rwawe rwera.’",
+      "start": 2.93,
+      "end": 35.53
+    },
+    "6": {
+      "text": "Amazi yarantwikiriye angera ku bugingo,Imuhengeri harangose,Urwuya rwanyizingiye mu mutwe.",
+      "start": 33.85,
+      "end": 44.5
+    },
+    "7": {
+      "text": "Ndamanuka njya mu mizi y'imisozi,Isi n'ibihindizo byayo binkingira ibihe byose,Ariko unkurira ubugingo muri rwa rwobo,Uwiteka Mana yanjye.",
+      "start": 36.7,
+      "end": 37.34
+    },
+    "8": {
+      "text": "Ubwo umutima wanjye wiheberaga mu nda nibutse Uwiteka,No gusenga kwanjye kwakugezeho mu rusengero rwawe rwera.",
+      "start": 29.71,
+      "end": 39.52
+    },
+    "9": {
+      "text": "Aberekeza umutima ku bitagira umumaro by'ibinyoma,Baba bimūye ubababarira.",
+      "start": 37.58,
+      "end": 44.73
+    },
+    "10": {
+      "text": "Ariko jyeweho nzagutambira igitambo n'ijwi ry'ishimwe,Kandi nzahigura umuhigo wanjye,Agakiza gaturuka ku Uwiteka.”",
+      "start": 32.82,
+      "end": 39.96
+    },
+    "11": {
+      "text": "Nuko Uwiteka ategeka urufi ruruka Yona imusozi.",
+      "start": 21.02,
+      "end": 41.85
+    }
+  }
+}

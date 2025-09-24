@@ -1,0 +1,158 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "“Yemwe bagabo bene Data na ba data, nimwumve amagambo nireguza kuri mwe.”",
+      "start": 25.33,
+      "end": 26.45
+    },
+    "2": {
+      "text": "Bumvise ababwiye mu Ruheburayo barushaho guceceka. Aravuga ati",
+      "start": 24.4,
+      "end": 36.25
+    },
+    "3": {
+      "text": "“Ndi Umuyuda wavukiye i Taruso y'i Kilikiya, ariko nakuriye muri uyu murwa, nigishirizwa ku birenge bya Gamaliyeli kwitondera cyane amategeko ya ba sogokuruza yose, ngira ishyaka ry'Imana nk'uko namwe mwese murigira none.",
+      "start": 42.77,
+      "end": 43.1
+    },
+    "4": {
+      "text": "Kandi narenganyaga ab'iyi Nzira ya Yesu ngo bicwe, nkababoha nkabashyira mu nzu y'imbohe, abagabo n'abagore.",
+      "start": 20.25,
+      "end": 31.51
+    },
+    "5": {
+      "text": "Kandi n'umutambyi mukuru ni umugabo wanjye w'ibyo, n'abakuru bose b'abanyarukiko na bo ni uko, kuko ari bo bampaye inzandiko zandikiwe bene Data b'i Damasiko, njyanwayo no kuzana n'ab'aho i Yerusalemu ari imbohe kugira ngo bahanwe.",
+      "start": 3.31,
+      "end": 30.17
+    },
+    "6": {
+      "text": "“Nuko nkigenda ngeze hafi y'i Damasiko, nko ku manywa y'ihangu mbona umucyo mwinshi uvuye mu ijuru untunguye, urangota.",
+      "start": 8.39,
+      "end": 13.97
+    },
+    "7": {
+      "text": "Nikubita hasi numva ijwi rimbaza riti ‘Sawuli, Sawuli, undenganiriza iki?’",
+      "start": 31.22,
+      "end": 35.29
+    },
+    "8": {
+      "text": "Nanjye ndabaza nti ‘Uri nde, Mwami?’ Aransubiza ati ‘Ndi Yesu w'i Nazareti uwo urenganya.’",
+      "start": 39.8,
+      "end": 41.06
+    },
+    "9": {
+      "text": "Abari bari kumwe nanjye babona umucyo, ariko ntibumva ijwi ry'uwo tuvugana.",
+      "start": 10.83,
+      "end": 17.04
+    },
+    "10": {
+      "text": "Ndamubaza nti ‘Ngire nte, Mwami?’ Umwami aransubiza ati ‘Haguruka ujye i Damasiko, ni ho uzabwirirwa ibyo ugenewe gukora byose.’",
+      "start": 9.9,
+      "end": 9.98
+    },
+    "11": {
+      "text": "Kandi ubwiza bw'uwo mucyo burampumisha, ni cyo cyatumye ndandatwa n'abo twari turi kumwe njya i Damasiko.",
+      "start": 11.48,
+      "end": 36.53
+    },
+    "12": {
+      "text": "“Umuntu witwa Ananiya wubahaga Imana, akumvira amategeko kandi yashimwaga n'Abayuda bose bari batuyeyo,",
+      "start": 31.75,
+      "end": 44.2
+    },
+    "13": {
+      "text": "aransanga ampagarara iruhande arambwira ati ‘Sawuli mwene Data, humuka.’ Uwo mwanya ndahumuka ndamureba.",
+      "start": 4.1,
+      "end": 15.76
+    },
+    "14": {
+      "text": "Aravuga ati ‘Imana ya ba sogokuruza yagutoranirije kera kumenya ibyo ishaka, no kubona wa Mukiranutsi, no kumva ijwi riva mu kanwa ke,",
+      "start": 29.5,
+      "end": 39.65
+    },
+    "15": {
+      "text": "kuko uzaba umugabo we wo guhamiriza abantu bose ibyo wabonye n'ibyo wumvise.",
+      "start": 5.19,
+      "end": 29.85
+    },
+    "16": {
+      "text": "None ikigutinza ni iki? Haguruka ubatizwe, wiyuhagire ibyaha byawe, wambaje izina rye.’",
+      "start": 3.34,
+      "end": 18.29
+    },
+    "17": {
+      "text": "“Nuko maze gusubira i Yerusalemu ndi mu rusengero nsenga, mba nk'urota",
+      "start": 43.63,
+      "end": 44.89
+    },
+    "18": {
+      "text": "mbona Yesu ambwira ati ‘Ihute uve i Yerusalemu vuba, kuko batazemera ibyo umpamya.’",
+      "start": 26.86,
+      "end": 27.11
+    },
+    "19": {
+      "text": "Nanjye nti ‘Mwami, na bo ubwabo bazi yuko nashyiraga abakwizeye mu nzu y'imbohe, nkabakubitira mu masinagogi yose.",
+      "start": 21.62,
+      "end": 27.22
+    },
+    "20": {
+      "text": "Kandi ubwo bavushaga amaraso ya Sitefano wahamyaga ibyawe, nanjye nari mpari mbyishimiye, ndinda imyenda y'abamwicaga.’",
+      "start": 42.98,
+      "end": 43.55
+    },
+    "21": {
+      "text": "Aransubiza ati ‘Genda kuko nzagutuma kure mu banyamahanga.’ ”",
+      "start": 39.79,
+      "end": 42.44
+    },
+    "22": {
+      "text": "Baramwumviriza kugeza kuri iryo jambo, maze bavuga ijwi rirenga bati “Kūra icyo kigabo mu isi, ntigikwiriye kubaho.”",
+      "start": 9.77,
+      "end": 28.4
+    },
+    "23": {
+      "text": "Barasakuza kandi bajugunya hejuru imyenda yabo, batumurira umukungugu mu kirere,",
+      "start": 18.44,
+      "end": 39.07
+    },
+    "24": {
+      "text": "bigeza aho umutware w'ingabo abategeka kumwinjiza mu rugo rw'igihome, ababwira kumutatisha ibiboko kugira ngo amenye icyateye abantu kumuvugiriza iyo nduru.",
+      "start": 28.17,
+      "end": 41.81
+    },
+    "25": {
+      "text": "Bamaze kumubohesha imishumi, Pawulo abaza umutware utwara umutwe wari uhagaze aho ati “Mbese amategeko yemera ko mukubita umuntu w'Umuroma, ari nta rubanza rwamutsinze?”",
+      "start": 27.43,
+      "end": 42.59
+    },
+    "26": {
+      "text": "Uwo mutware abyumvise ajya kubibwira umutware w'ingabo, aramubaza ati “Urenda gukora iki, ko uyu muntu ari Umuroma?”",
+      "start": 32.08,
+      "end": 32.56
+    },
+    "27": {
+      "text": "Umutware w'ingabo araza aramubaza ati “Mbwira, mbese uri Umuroma koko?”Na we ati “Yee.”",
+      "start": 37.7,
+      "end": 38.82
+    },
+    "28": {
+      "text": "Umutware w'ingabo aramusubiza ati “Jyeweho nagombye kugura Uburoma impiya nyinshi.”Pawulo ati “Ariko jyeweho narabuvukanye.”",
+      "start": 33.61,
+      "end": 40.68
+    },
+    "29": {
+      "text": "Nuko abari bagiye kumutata baherako baramureka, kandi umutware w'ingabo aratinya, amenya yuko ari Umuroma kandi yamuboshye.",
+      "start": 39.01,
+      "end": 42.88
+    },
+    "30": {
+      "text": "Bukeye bw'aho ashatse kumenya neza icyo Abayuda bamurega icyo ari cyo, aramubohora ategeka abatambyi bakuru guterana n'abanyarukiko bose, amanura Pawulo amushyira imbere yabo.",
+      "start": 41.07,
+      "end": 44.78
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "book": "Book 32",
+  "book_canonical": "jonah",
+  "book_number": 32,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Ariko ibyo bibabaza Yona cyane ararakara,",
+      "start": 0.28,
+      "end": 11.85
+    },
+    "2": {
+      "text": "asenga Uwiteka ati “Uwiteka, si icyo navugaga nkiri iwacu? Ni cyo cyatumye nshoka mpungira i Tarushishi, kuko namenye ko uri Imana igira ubuntu n'imbabazi, itinda kurakara, ifite kugira neza kwinshi kandi yibuza kugira nabi.",
+      "start": 36.8,
+      "end": 43.73
+    },
+    "3": {
+      "text": "None rero Uwiteka, ndakwinginze unyice kuko gupfa bindutiye kubaho.”",
+      "start": 11.97,
+      "end": 42.28
+    },
+    "4": {
+      "text": "Uwiteka aramubaza ati “Ubwo urakaye ubwo ukoze neza?”",
+      "start": 35.66,
+      "end": 43.81
+    },
+    "5": {
+      "text": "Nuko Yona asohoka mu murwa yicara iruhande rwawo aherekeye iburasirazuba, aba ari ho aca ingando ayicaramo ari mu gicucu, ategereza kureba uko umurwa uzamera.",
+      "start": 28.43,
+      "end": 36.58
+    },
+    "6": {
+      "text": "Uwiteka Imana itegeka uruyuzi rumera aho Yona yari ari ngo rumutwikire, rumubere igicucu ku mutwe, rumukize umubabaro yari afite. Maze Yona ararunezererwa cyane.",
+      "start": 36.65,
+      "end": 37.35
+    },
+    "7": {
+      "text": "Bukeye bwaho Imana itegeka inanda irya urwo ruyuzi, bucya rwarabye.",
+      "start": 15.18,
+      "end": 26.62
+    },
+    "8": {
+      "text": "Maze izuba rivuye Uwiteka ategeka umuyaga wotsa w'iburasirazuba, izuba ryica Yona mu mutwe bituma yiheba, yisabira gupfa aravuga ati “Gupfa bindutiye kubaho.”",
+      "start": 6.77,
+      "end": 26.91
+    },
+    "9": {
+      "text": "Uwiteka aramubaza ati “Ukoze neza ubwo urakajwe n'uko uruyuzi rwumye?”Aramusubiza ati “Nkoze neza kurakara, ndetse byatuma niyahura.”",
+      "start": 38.68,
+      "end": 40.85
+    },
+    "10": {
+      "text": "Uwiteka aramubaza ati “Ubabajwe n'uruyuzi utihingiye kandi utamejeje, uruyuzi rwameze ijoro rimwe ku rindi rukuma?",
+      "start": 12.32,
+      "end": 43.6
+    },
+    "11": {
+      "text": "Jyewe se sinari nkwiriye kubabazwa n'i Nineve uwo murwa munini, urimo abantu agahumbi n'inzovu ebyiri basaga batazi gutandukanya indyo n'imoso, hakabamo n'amatungo menshi?”",
+      "start": 20.79,
+      "end": 24.88
+    }
+  }
+}

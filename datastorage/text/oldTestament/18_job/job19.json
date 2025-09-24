@@ -1,0 +1,153 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Maze Yobu arasubiza ati",
+      "start": 13.82,
+      "end": 14.22
+    },
+    "2": {
+      "text": "“Muzahereza he mubabaza umutima wanjye,Mukamvunaguza amagambo yanyu?",
+      "start": 31.85,
+      "end": 38.49
+    },
+    "3": {
+      "text": "Ubu ni ubwa cumi munshinyagurira,Ntabwo mukorwa n'isoni zo kungirira nabi.",
+      "start": 13.17,
+      "end": 15.67
+    },
+    "4": {
+      "text": "Niba naracumuye koko,Igicumuro cyanjye ni jye kiriho.",
+      "start": 42.27,
+      "end": 43.27
+    },
+    "5": {
+      "text": "Niba mushaka kunyibonaho,No kumpamya ibyo munsebya,",
+      "start": 33.87,
+      "end": 38.21
+    },
+    "6": {
+      "text": "Mumenye yuko ari Imana yubitse urubanza rwanjye,Ikangotesha imitego yayo.",
+      "start": 26.16,
+      "end": 35.39
+    },
+    "7": {
+      "text": "Dore ndatakishwa no kugirirwa urugomo ariko sinumvirwa,Ndatabaza nta rubanza rutabera ruhari.",
+      "start": 20.73,
+      "end": 41.68
+    },
+    "8": {
+      "text": "Inzira yanjye yarayishe bituma ntabasha guhita,Kandi inzira zanjye yazikwijemo umwijima.",
+      "start": 27.44,
+      "end": 36.09
+    },
+    "9": {
+      "text": "Yanyaze icyubahiro cyanjye,Inyaka ikamba ryo ku mutwe wanjye.",
+      "start": 20.93,
+      "end": 23.97
+    },
+    "10": {
+      "text": "Yanyishe inturutse impande zose none ndapfuye,Kandi ibyiringiro byanjye yabiranduye nk'igiti.",
+      "start": 38.25,
+      "end": 41.64
+    },
+    "11": {
+      "text": "Yankongejeho uburakari bwayo,Kandi imbarira mu banzi bayo.",
+      "start": 18.82,
+      "end": 23.2
+    },
+    "12": {
+      "text": "Ingabo zayo zaziye icyarimwe,Zishaka inzira yo kuntera,Maze zigota urugo rwanjye.",
+      "start": 21.02,
+      "end": 26.66
+    },
+    "13": {
+      "text": "“Yantandukanije n'abo tuva inda imwe,Kandi abo twari tuziranye baranyigurukije.",
+      "start": 6.73,
+      "end": 18.32
+    },
+    "14": {
+      "text": "Bene wacu bantaye,N'incuti zanjye zanyibagiwe.",
+      "start": 37.81,
+      "end": 43.49
+    },
+    "15": {
+      "text": "Abo mu nzu yanjye n'abaja banjye bangenje nk'umushyitsi,Mbamereye nk'umunyamahanga.",
+      "start": 17.49,
+      "end": 30.76
+    },
+    "16": {
+      "text": "Mpamagara umugaragu wanjye ntarushye anyitaba,Nubwo mwingingisha akanwa kanjye.",
+      "start": 2.61,
+      "end": 39.82
+    },
+    "17": {
+      "text": "Umugore wanjye azinutswe umwuka wanjye,Kandi gusaba kwanjye kuzinutswe bene mama.",
+      "start": 44.33,
+      "end": 44.78
+    },
+    "18": {
+      "text": "Ndetse n'abana bato baransuzugura,Iyo mbyutse bamvuga nabi.",
+      "start": 25.06,
+      "end": 31.29
+    },
+    "19": {
+      "text": "Incuti zanjye z'amagara zose ziranzinutswe,N'abo nakundaga bampindukiye abanzi.",
+      "start": 32.22,
+      "end": 35.4
+    },
+    "20": {
+      "text": "Amagufwa yanjye yumiranye n'umubiri wanjye n'inyama zanjye,Ndetse nsigaye ku menyo gusa.",
+      "start": 25.45,
+      "end": 28.65
+    },
+    "21": {
+      "text": "“Mungirire imbabazi,Mungirire imbabazi mwa ncuti zanjye mwe,Kuko ukuboko kw'Imana kunkozeho.",
+      "start": 0.85,
+      "end": 1.78
+    },
+    "22": {
+      "text": "Murandenganyiriza iki mukangirira uko Imana ingize?Uko meze ntikubahagije?",
+      "start": 39.66,
+      "end": 44.57
+    },
+    "23": {
+      "text": "“Iyaba amagambo yanjye yari yanditswe!Iyaba yari yanditswe mu gitabo!",
+      "start": 11.83,
+      "end": 27.7
+    },
+    "24": {
+      "text": "Akandikishwa ikaramu y'icyuma n'icyuma cy'isasu,Agakebwa ku rutare ngo ahoreho iteka.",
+      "start": 38.23,
+      "end": 44.08
+    },
+    "25": {
+      "text": "Ariko jye ubwanjye nzi yuko Umucunguzi wanjye ariho,Kandi ko amaherezo azahagarara mu isi.",
+      "start": 16.6,
+      "end": 31.74
+    },
+    "26": {
+      "text": "Kandi uruhu rwanjye nirumara kubora,Nzareba Imana mfite umubiri.",
+      "start": 36.07,
+      "end": 41.65
+    },
+    "27": {
+      "text": "Nzayireba ubwanjye,Amaso yanjye azayitegereza si ay'undi.Nuko umutima wanjye umarwa n'urukumbuzi.",
+      "start": 32.79,
+      "end": 39.08
+    },
+    "28": {
+      "text": "Ahubwo mwari mukwiriye kuvuga muti‘Twamurenganya dute,Ko afite impamvu zimuha urubanza?’",
+      "start": 42.36,
+      "end": 42.52
+    },
+    "29": {
+      "text": "“Nimutinye inkota,Kuko uburakari buteza guhanwa n'inkota,Kugira ngo mumenye yuko hariho urubanza rutabera.”",
+      "start": 0.98,
+      "end": 14.8
+    }
+  }
+}

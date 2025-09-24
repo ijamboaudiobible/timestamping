@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 39.42,
+      "end": 41.47
+    },
+    "2": {
+      "text": "Uwiteka akumvire ku munsi w'amakuba no ku w'ibyago,Izina ry'Imana ya Yakobo rigushyire hejuru.",
+      "start": 23.53,
+      "end": 40.08
+    },
+    "3": {
+      "text": "Ikoherereze gutabarwa kuva ahera h'urusengero,Iguhe imbaraga ziva i Siyoni.",
+      "start": 16.61,
+      "end": 39.63
+    },
+    "4": {
+      "text": "Yibuke amaturo yawe yose,Yemere igitambo cyawe cyokeje.Sela.",
+      "start": 22.78,
+      "end": 27.72
+    },
+    "5": {
+      "text": "Iguhe icyo umutima wawe ushaka,Isohoze inama zawe zose.",
+      "start": 10.39,
+      "end": 32.15
+    },
+    "6": {
+      "text": "Tuzaririmbishwa impundu n'agakiza kawe,Kandi ku bw'izina ry'Imana yacu tuzerekana amabendera yacu,Uwiteka asohoze ibyo usaba byose.",
+      "start": 6.55,
+      "end": 27.81
+    },
+    "7": {
+      "text": "None menye yuko Uwiteka akiza uwo yasize,Azamusubiza ari mu ijuru rye ryera,Azamushubirisha imbaraga zikiza z'ukuboko kwe kw'iburyo.",
+      "start": 2.85,
+      "end": 40.91
+    },
+    "8": {
+      "text": "Bamwe biringira amagare,Abandi biringira amafarashi,Ariko twebweho tuzavuga izina ry'Uwiteka Imana yacu.",
+      "start": 9.54,
+      "end": 29.61
+    },
+    "9": {
+      "text": "Barunamye baragwa,Ariko twebweho turahagurutse turema.",
+      "start": 29.73,
+      "end": 34.23
+    },
+    "10": {
+      "text": "Uwiteka kiza umwami,Kandi udusubize uko tukwambaje.",
+      "start": 29.3,
+      "end": 43.1
+    }
+  }
+}

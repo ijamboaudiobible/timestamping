@@ -1,0 +1,128 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Aba ni bo bami b'ibihugu Abisirayeli barwanije bagahindūra ibihugu byabo hakurya ya Yorodani iburasirazuba, uhereye ku kibaya cya Arunoni ukageza ku musozi wa Herumoni, no muri Araba yose iburasirazuba.",
+      "start": 10.09,
+      "end": 41.23
+    },
+    "2": {
+      "text": "Igihugu cya Sihoni umwami w'Abamori wabaga i Heshiboni, agatwara Aroweri mu ruhande rw'ikibaya cya Arunoni n'umudugudu wari hagati mu kibaya, n'igice cy'i Galeyadi kugeza ku mugezi Yaboki mu rugabano rw'Abamoni.",
+      "start": 35.02,
+      "end": 38.51
+    },
+    "3": {
+      "text": "Kandi uhereye muri Araba ukageza ku ruzi rwa Kinereti iburasirazuba no ku nyanja ya Araba, ari yo Nyanja y'Umunyu mu nzira y'iburasirazuba ijya i Betiyeshimoti urugabano rwacyo rw'iruhande rw'ikusi rwanyuraga munsi y'imirenge y'imisozi Pisiga.",
+      "start": 20.06,
+      "end": 22.3
+    },
+    "4": {
+      "text": "Kandi ahindūra n'igihugu cya Ogi umwami w'i Bashani wo mu Barafa bacitse ku icumu, babaga muri Ashitaroti no muri Edureyi.",
+      "start": 25.01,
+      "end": 43.26
+    },
+    "5": {
+      "text": "Ni we watwaraga umusozi wa Herumoni n'i Saleka n'i Bashani yose kugeza mu rugabano rw'Abanyageshuri n'Abanyamāka, igice cy'i Galeyadi kugeza ku rugabano rwa Sihoni umwami w'i Heshiboni.",
+      "start": 31.36,
+      "end": 39.18
+    },
+    "6": {
+      "text": "Abo bose Mose umugaragu w'Uwiteka n'Abisirayeli barabishe, kandi Mose umugaragu w'Uwiteka ahaha Abarubeni n'Abagadi n'igice cy'umuryango wa Manase ngo habe ahabo.",
+      "start": 44.54,
+      "end": 44.91
+    },
+    "7": {
+      "text": "Kandi aba ni bo bari abami b'ibihugu byo hakuno ya Yorodani iburengerazuba, abo Yosuwa n'Abisirayeli banesheje, uhereye i Bāligadi mu kibaya cy'i Lebanoni ukageza ku musozi wa Halaki uzamuka i Seyiri. Yosuwa agiha imiryango y'Abisirayeli ngo habe ahabo nk'uko bagabanijwe.",
+      "start": 26.32,
+      "end": 38.48
+    },
+    "8": {
+      "text": "Igihugu cy'imisozi miremire n'icy'ikibaya n'icyo muri Araba, n'icy'imirenge y'imisozi n'icyo mu butayu n'icyo mu ruhande rw'ikusi, n'icy'Abaheti n'icy'Abamori n'icy'Abanyakanāni, n'icy'Abaferizi n'icy'Abahivi n'icy'Abayebusi.",
+      "start": 10.01,
+      "end": 30.65
+    },
+    "9": {
+      "text": "Abo bami ni aba: umwe ni umwami w'i Yeriko, undi ni umwami wo muri Ayi hateganye n'i Beteli,",
+      "start": 13.24,
+      "end": 36.5
+    },
+    "10": {
+      "text": "undi ni umwami w'i Yerusalemu, undi ni umwami w'i Heburoni,",
+      "start": 15.48,
+      "end": 39.63
+    },
+    "11": {
+      "text": "undi ni umwami w'i Yaramuti, undi ni umwami w'i Lakishi,",
+      "start": 44.28,
+      "end": 44.59
+    },
+    "12": {
+      "text": "undi ni umwami wo muri Eguloni, undi ni umwami w'i Gezeri,",
+      "start": 40.27,
+      "end": 41.45
+    },
+    "13": {
+      "text": "undi ni umwami w'i Debira, undi ni umwami w'i Gederi,",
+      "start": 14.05,
+      "end": 22.39
+    },
+    "14": {
+      "text": "undi ni umwami w'i Horuma, undi ni umwami wo muri Arada,",
+      "start": 11.96,
+      "end": 12.13
+    },
+    "15": {
+      "text": "undi ni umwami w'i Libuna, undi ni umwami wo muri Adulamu,",
+      "start": 0.15,
+      "end": 8.57
+    },
+    "16": {
+      "text": "undi ni umwami w'i Makeda, undi ni umwami w'i Beteli,",
+      "start": 21.95,
+      "end": 40.69
+    },
+    "17": {
+      "text": "undi ni umwami w'i Tapuwa, undi ni umwami w'i Heferi,",
+      "start": 22.6,
+      "end": 29.88
+    },
+    "18": {
+      "text": "undi ni umwami wo muri Afeka, ndi ni umwami w'i Sharoni,",
+      "start": 13.15,
+      "end": 28.56
+    },
+    "19": {
+      "text": "undi ni umwami w'i Madoni, undi ni umwami w'i Hasori,",
+      "start": 10.32,
+      "end": 42.48
+    },
+    "20": {
+      "text": "undi ni umwami w'i Shimuronimeroni, undi ni umwami wo muri Akishafu,",
+      "start": 7.04,
+      "end": 28.21
+    },
+    "21": {
+      "text": "undi ni umwami w'i Tānaki, undi ni umwami w'i Megido,",
+      "start": 43.04,
+      "end": 44.65
+    },
+    "22": {
+      "text": "undi ni umwami w'i Kedeshi, undi ni umwami w'i Yokineyamu y'i Karumeli,",
+      "start": 35.71,
+      "end": 37.09
+    },
+    "23": {
+      "text": "undi ni umwami w'i Dori mu misozi y'i Dori, undi ni umwami w'i Goyimu y'i Gilugali,",
+      "start": 38.13,
+      "end": 42.17
+    },
+    "24": {
+      "text": "undi ni umwami w'i Tirusa. Nuko abami bose bari mirongo itatu n'umwe.",
+      "start": 16.12,
+      "end": 17.64
+    }
+  }
+}

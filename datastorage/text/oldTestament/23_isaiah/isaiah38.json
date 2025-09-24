@@ -1,0 +1,118 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "Muri iyo minsi Hezekiya ararwara yenda gupfa. Bukeye umuhanuzi Yesaya mwene Amosi aramusanga aramubwira ati “Uwiteka aravuze ngo ‘Tegeka iby'inzu yawe kuko utazakira, ahubwo ugiye gutanga.’ ”",
+      "start": 3.6,
+      "end": 40.25
+    },
+    "2": {
+      "text": "Nuko Hezekiya yerekera ivure atakambira Uwiteka ati",
+      "start": 1.21,
+      "end": 10.98
+    },
+    "3": {
+      "text": "“Ndakwinginze Uwiteka, uyu munsi wibuke ko najyaga ngendera mu by'ukuri imbere yawe n'umutima utunganye, ngakora ibishimwa imbere yawe.” Nuko Hezekiya ararira cyane.",
+      "start": 31.41,
+      "end": 34.54
+    },
+    "4": {
+      "text": "Maze ijambo ry'Uwiteka rigera kuri Yesaya riti",
+      "start": 17.95,
+      "end": 28.36
+    },
+    "5": {
+      "text": "“Subirayo ubwire Hezekiya uti ‘Uwiteka Imana ya sogokuruza Dawidi iravuze iti: Numvise gusenga kwawe mbona n'amarira yawe, kubaho kwawe nzongeraho indi myaka cumi n'itanu.",
+      "start": 10.14,
+      "end": 38.86
+    },
+    "6": {
+      "text": "Kandi nzagukizanya n'uyu murwa mbakize umwami wa Ashuri, nzawurinda.",
+      "start": 8.23,
+      "end": 17.78
+    },
+    "7": {
+      "text": "“ ‘Iki ni cyo kimenyetso Uwiteka aguhaye, gihamya yuko Uwiteka azasohoza icyo avuze.",
+      "start": 21.5,
+      "end": 43.53
+    },
+    "8": {
+      "text": "Dore nzahera aho igicucu kigeze ku ntambwe z'urugero rwa Ahazi, ngisubizanyeyo n'izuba intambwe cumi.’ ” Nuko izuba rihera aho ryari rigeze rirenga, risubirayo umwanya w'intambwe cumi z'urugero.",
+      "start": 11.8,
+      "end": 30.34
+    },
+    "9": {
+      "text": "Ibyo Hezekiya umwami w'Abayuda yanditse ubwo yarwaraga agakira ni ibi:",
+      "start": 40.96,
+      "end": 43.04
+    },
+    "10": {
+      "text": "Naravuze nti “Ndakenyutse ngiye kunyura mu marembo y'ikuzimu, nteshejwe imyaka yanjye yari isigaye.”",
+      "start": 39.76,
+      "end": 42.25
+    },
+    "11": {
+      "text": "Ndavuga nti “Sinzongera kureba Uwiteka mu gihugu cy'abazima, kandi sinzongera kubonana n'abantu b'abaturage bo mu isi.",
+      "start": 31.24,
+      "end": 44.35
+    },
+    "12": {
+      "text": "Ubugingo bwanjye buratamurutse bunkuweho nk'ihema ry'umwungeri, ubugingo bwanjye ndabuzinze nk'uko umuboshyi w'imyenda ayizinga, azanca mu biti biboherwamo imyenda. Uhereye mu gitondo ukageza nijoro, uzaba umazeho rwose.",
+      "start": 42.8,
+      "end": 44.54
+    },
+    "13": {
+      "text": "Ndaceceka nkageza mu gitondo, ariko uvuna amagufwa yanjye yose nk'intare. Uhereye mu gitondo ukageza nijoro, uzaba umazeho rwose.",
+      "start": 10.81,
+      "end": 31.4
+    },
+    "14": {
+      "text": "Ntaka nk'intashya cyangwa uruyongoyongo, nkaniha nk'inuma iguguza. Erega amaso yanjye yaheze hejuru! Nyagasani Uwiteka ndarengana, ndengera.”",
+      "start": 35.47,
+      "end": 38.38
+    },
+    "15": {
+      "text": "Mvuge iki kandi? Ubwo yanshubije ubwe wenyine ni we wabikoze, imyaka yanjye nzamara yose nzajya ngende niyoroheje, nibuke umubabaro wo mu mutima wanjye.",
+      "start": 15.13,
+      "end": 38.76
+    },
+    "16": {
+      "text": "Uwiteka, ibyo ni byo bibeshaho abantu, kandi muri ibyo byonyine ni ho umutima wanjye ubona ubugingo. Nuko nkiza umbesheho.",
+      "start": 30.38,
+      "end": 41.06
+    },
+    "17": {
+      "text": "Erega icyatumye ngira ibinsharirira cyane ni ukugira ngo mbone amahoro! Kandi urukundo wakunze ubugingo bwanjye rwatumye ubukiza urwobo rw'iborero, ibyaha byanjye byose warabyirengeje.",
+      "start": 43.82,
+      "end": 44.95
+    },
+    "18": {
+      "text": "Kuko ikuzimu hatabasha kukogeza n'urupfu rutabasha kuguhimbaza, abamanuka bajya muri rwa rwobo ntibabasha kwiringira ukuri kwawe.",
+      "start": 27.61,
+      "end": 28.25
+    },
+    "19": {
+      "text": "Umuzima, umuzima ni we uzakogeza nk'uko nkogeza uyu munsi, se w'abana azabigisha ukuri kwawe.",
+      "start": 7.64,
+      "end": 21.98
+    },
+    "20": {
+      "text": "Uwiteka yiteguye kunkiza, ni cyo kizatuma turirimba mu nanga indirimbo nahimbye turi mu nzu y'Uwiteka, iminsi yose tuzamara tukiriho.",
+      "start": 21.3,
+      "end": 33.41
+    },
+    "21": {
+      "text": "Kandi Yesaya yari yababwiye ngo “Bende umubumbe w'imbuto z'umutini bawushyire ku kirashi cye, azakira.”",
+      "start": 7.47,
+      "end": 20.49
+    },
+    "22": {
+      "text": "Kandi Hezekiya yari yabajije ati “Ni kimenyetso ki cyerekana ko nzazamuka nkajya mu nzu y'Uwiteka?”",
+      "start": 24.84,
+      "end": 27.54
+    }
+  }
+}

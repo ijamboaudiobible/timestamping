@@ -1,0 +1,123 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Sawuli ubwo yimaga yari amaze imyaka mirongo itatu, kandi amara imyaka ibiri ku ngoma muri Isirayeli.",
+      "start": 17.33,
+      "end": 39.89
+    },
+    "2": {
+      "text": "Bukeye Sawuli yitoraniriza abantu mu Bisirayeli ibihumbi bitatu, muri abo ibihumbi bibiri byabanaga na Sawuli i Mikimashi no ku musozi w'i Beteli, abandi igihumbi babanaga na Yonatani i Gibeya y'i Bubenyamini. Rubanda rusigaye ararusezerera, umuntu wese ajya mu rugo rwe.",
+      "start": 41.17,
+      "end": 41.94
+    },
+    "3": {
+      "text": "Bukeye Yonatani anesha abanyagihome cy'Abafilisitiya cy'i Geba, Abafilisitiya barabyumva. Hanyuma Sawuli avugisha ihembe mu gihugu cyose, kugira ngo Abaheburayo babyumve.",
+      "start": 41.06,
+      "end": 44.68
+    },
+    "4": {
+      "text": "Abisirayeli bose bumva bavuga ko Sawuli yanesheje abanyagihome cy'Abafilisitiya, kandi ko Abafilisitiya bazinutswe Abisirayeli. Abantu bateranira i Gilugali bakurikira Sawuli.",
+      "start": 42.51,
+      "end": 43.78
+    },
+    "5": {
+      "text": "Nuko Abafilisitiya bateranira kurwanya Abisirayeli. Bari bafite amagare inzovu eshatu n'abagendera ku mafarashi ibihumbi bitandatu, n'abantu bangana n'umusenyi wo mu kibaya cy'inyanja ubwinshi, barazamuka bagandika i Mikimashi iburengerazuba bw'i Betaveni.",
+      "start": 25.21,
+      "end": 42.75
+    },
+    "6": {
+      "text": "Abisirayeli babonye ko bari mu kaga kandi ko abantu bashumbirijwe, bihisha mu mavumo no mu bishugi no mu bitare, no mu bihanamanga no mu myobo.",
+      "start": 37.01,
+      "end": 42.78
+    },
+    "7": {
+      "text": "Kandi bamwe mu Baheburayo bari bambutse Yorodani, bajya mu gihugu cy'i Gadi n'i Galeyadi. Ariko Sawuli we yari akiri i Gilugali, abantu bose bamukurikira bahinda umushitsi.",
+      "start": 1.83,
+      "end": 4.33
+    },
+    "8": {
+      "text": "Sawuli amarayo iminsi irindwi ategereje Samweli nk'uko yamutegetse. Ariko Samweli ataraza i Gilugali, abantu baratatana bamushiraho.",
+      "start": 6.41,
+      "end": 32.58
+    },
+    "9": {
+      "text": "Nuko Sawuli aravuga ati “Nimunzanire hano igitambo cyoswa, n'ibitambo by'ishimwe yuko turi amahoro.” Aherako atamba igitambo cyoswa.",
+      "start": 0.38,
+      "end": 39.68
+    },
+    "10": {
+      "text": "Akimara gutamba Samweli aba araje, maze Sawuli arasohoka ajya kumusanganira ngo amuramutse.",
+      "start": 17.46,
+      "end": 29.7
+    },
+    "11": {
+      "text": "Samweli aramubaza ati “Ibyo wakoze ni ibiki?”Sawuli aramusubiza ati “Nabonye abantu banshizeho batatana. Nawe ntiwaje mu minsi yategetswe, kandi Abafilisitiya bari bamaze guteranira i Mikimashi,",
+      "start": 27.86,
+      "end": 41.74
+    },
+    "12": {
+      "text": "bituma nibwira nti ‘Ubu ngubu Abafilisitiya bari bumanukire i Gilugali bantere kandi ntarahendahenda Uwiteka ngo ampe umugisha.’ Ni cyo gitumye nihata ntamba igitambo cyoswa.”",
+      "start": 41.39,
+      "end": 44.65
+    },
+    "13": {
+      "text": "Maze Samweli abwira Sawuli ati “Wafuditse, ntiwumviye itegeko ry'Uwiteka Imana yawe yagutegetse, none Uwiteka aba akomeje ubwami bwawe mu Isirayeli iteka ryose.",
+      "start": 18.48,
+      "end": 43.69
+    },
+    "14": {
+      "text": "Ariko noneho ubwami bwawe ntibuzagumaho, Uwiteka amaze kwishakira umuntu umeze nk'uko umutima we ushaka, kandi ni we Uwiteka yashyizeho kuba umutware w'ubwoko bwe, kuko utumviye icyo Uwiteka yagutegetse.”",
+      "start": 0.7,
+      "end": 1.98
+    },
+    "15": {
+      "text": "Nuko Samweli arahaguruka, ava i Gilugali ajya i Gibeya y'i Bubenyamini. Sawuli aherako abara abantu bari kumwe na we, baba nka magana atandatu.",
+      "start": 40.55,
+      "end": 41.77
+    },
+    "16": {
+      "text": "Maze Sawuli n'umuhungu we Yonatani n'abari kumwe na bo bicara i Geba y'i Bubenyamini, ariko Abafilisitiya bagerereza i Mikimashi.",
+      "start": 39.07,
+      "end": 41.83
+    },
+    "17": {
+      "text": "Bukeye abanyazi b'Abafilisitiya bava mu rugerero rwabo bica imitwe itatu, umutwe umwe unyura mu nzira ijya muri Ofura, mu gihugu cya Shuwali.",
+      "start": 10.71,
+      "end": 31.11
+    },
+    "18": {
+      "text": "Undi mutwe unyura mu nzira ijya i Betihoroni, uwundi mu nzira yo mu rugabano rw'impinga rwitegeye igikombe cya Seboyimu cyerekeye mu butayu.",
+      "start": 35.24,
+      "end": 41.13
+    },
+    "19": {
+      "text": "Icyo gihe nta mucuzi wari ukiboneka mu gihugu cyose cya Isirayeli, kuko Abafilisitiya bavuze bati “Tujye tubuza Abaheburayo kwicurishiriza inkota n'amacumu.”",
+      "start": 36.31,
+      "end": 41.76
+    },
+    "20": {
+      "text": "Ariko Abisirayeli bose bajyaga bamanuka bakajya mu Bafilisitiya, ngo umuntu wese atyarishe uruhabuzo rwe n'isuka ye, n'intorezo ye n'umuhoro we.",
+      "start": 16.14,
+      "end": 23.06
+    },
+    "21": {
+      "text": "Ariko bari bafite ityazo ryo gutyazaho imihoro n'amasuka, n'ingobe n'intorezo, n'iryo gutyaza ibihosho.",
+      "start": 21.36,
+      "end": 32.1
+    },
+    "22": {
+      "text": "Ni cyo gituma ku munsi w'intambara, mu bantu bari kumwe na Sawuli na Yonatani nta n'umwe wari utwaye inkota cyangwa icumu, ariko Sawuli n'umuhungu we Yonatani bo bari babyitwaje.",
+      "start": 41.48,
+      "end": 44.51
+    },
+    "23": {
+      "text": "Nuko abanyagihome b'Abafilisitiya barasohoka, bigira mu nzira nyabagendwa y'i Mikimashi.",
+      "start": 22.04,
+      "end": 31.24
+    }
+  }
+}

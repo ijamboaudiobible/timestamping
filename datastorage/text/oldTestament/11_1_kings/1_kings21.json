@@ -1,0 +1,153 @@
+{
+  "book": "Book 11",
+  "book_canonical": "1_kings",
+  "book_number": 11,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Kandi hariho umugabo witwaga Naboti w'i Yezerēli, yari afite uruzabibu i Yezerēli hafi y'ibwami kwa Ahabu umwami w'i Samariya.",
+      "start": 42.5,
+      "end": 43.37
+    },
+    "2": {
+      "text": "Ahabu abwira Naboti ati “Mpa uruzabibu rwawe, kugira ngo ndugire igihambo cy'imboga kuko ari hafi y'urugo rwanjye, nzaguhe urundi ruzabibu rururuta ubwiza, cyangwa washaka naguha ibiguzi byarwo ku ifeza.”",
+      "start": 11.8,
+      "end": 42.13
+    },
+    "3": {
+      "text": "Naboti abwira Ahabu ati “Biragatsindwa n'Uwiteka kuguha gakondo ya ba sogokuruza banjye.”",
+      "start": 14.05,
+      "end": 28.31
+    },
+    "4": {
+      "text": "Maze Ahabu ataha afite agahinda n'uburakari, ku bw'ijambo Naboti w'i Yezerēli yamubwiye ngo “Sinaguha gakondo ya ba sogokuruza banjye.” Nuko aryama ku gisasiro cye yerekeye ivure, yanga kugira icyo afungura.",
+      "start": 22.78,
+      "end": 44.78
+    },
+    "5": {
+      "text": "Hanyuma umugore we Yezebeli araza aramubaza ati “Ni iki kiguteye agahinda kikakubuza kurya?”",
+      "start": 3.98,
+      "end": 10.95
+    },
+    "6": {
+      "text": "Na we aramusubiza ati “Ni uko navuganye na Naboti w'i Yezerēli nkamubwira nti ‘Mpa uruzabibu rwawe turugure ifeza, cyangwa washaka naguha urundi mu cyimbo cyarwo.’ Na we akansubiza ati ‘Sinaguha uruzabibu rwanjye.’ ”",
+      "start": 33.69,
+      "end": 41.74
+    },
+    "7": {
+      "text": "Umugore we Yezebeli aramubwira ati “Dorere, ntutegeka ubwami bwa Isirayeli? Byuka ufungure ushire agahinda. Ni jye uzaguha urwo ruzabibu rwa Naboti w'i Yezerēli.”",
+      "start": 39.88,
+      "end": 44.25
+    },
+    "8": {
+      "text": "Aherako yandika inzandiko mu izina rya Ahabu azifatanisha ikimenyetso cye, azoherereza abatware n'impura bo mu murwa we n'abaturanyi ba Naboti.",
+      "start": 19.16,
+      "end": 23.25
+    },
+    "9": {
+      "text": "Yandika muri izo nzandiko ngo “Nimutegeke abantu biyirize ubusa maze mushyire Naboti imbere yabo.",
+      "start": 31.43,
+      "end": 36.87
+    },
+    "10": {
+      "text": "Imbere ye muhashyire abagabo babiri b'ibigoryi bamushinje bati ‘Watutse Imana n'umwami.’ Nuko muhereko mumujyane, mujye kumutera amabuye mumwice.”",
+      "start": 42.16,
+      "end": 44.66
+    },
+    "11": {
+      "text": "Nuko abatware bo mu murwa n'ab'impfra b'abanyarurembo babigenza uko Yezebeli yabatumyeho, nk'uko yanditse muri izo nzandiko yaboherereje.",
+      "start": 8.69,
+      "end": 32.58
+    },
+    "12": {
+      "text": "Bategeka abantu kwiyiriza ubusa, bashyira Naboti imbere yabo.",
+      "start": 6.11,
+      "end": 27.32
+    },
+    "13": {
+      "text": "Maze abagabo babiri b'ibigoryi barinjira bamwicara imbere. Abo bagabo b'ibigoryi bashinja Naboti bari imbere y'abantu bati “Naboti yatutse Imana n'umwami.” Uwo mwanya baramusumira bamuvana mu murwa, bamutera amabuye arapfa.",
+      "start": 9.4,
+      "end": 13.25
+    },
+    "14": {
+      "text": "Baherako batuma kuri Yezebeli ko Naboti bamuteye amabuye bakamwica.",
+      "start": 22.61,
+      "end": 40.83
+    },
+    "15": {
+      "text": "Yezebeli yumvise ko Naboti bamuteye amabuye agapfa, abwira Ahabu ati “Haguruka wende rwa ruzabibu Naboti w'i Yezerēli yangaga ko mugura, ntakiriho yapfuye.”",
+      "start": 1.78,
+      "end": 24.29
+    },
+    "16": {
+      "text": "Ahabu yumvise ko Naboti yapfuye arahaguruka, aramanuka ajya muri urwo ruzabibu rwa Naboti w'i Yezerēli kuruzungura.",
+      "start": 29.03,
+      "end": 38.24
+    },
+    "17": {
+      "text": "Ubwo ijambo ry'Uwiteka rigera kuri Eliya w'i Tishubi riti",
+      "start": 33.72,
+      "end": 34.49
+    },
+    "18": {
+      "text": "“Haguruka umanuke usange Ahabu umwami w'Abisirayeli utuye i Samariya, ubu ari mu ruzabibu rwa Naboti yagiye kuruzungura,",
+      "start": 16.71,
+      "end": 19.04
+    },
+    "19": {
+      "text": "umubwire uti ‘Uwiteka aravuze ngo: Ni uko urishe urazunguye?’ Maze umubwire uti ‘Umva uko Uwiteka avuga: Aho imbwa zarigatiye amaraso ya Naboti, ni ho zizarigatira n'ayawe.’ ”",
+      "start": 16.75,
+      "end": 29.31
+    },
+    "20": {
+      "text": "Ahabu abwira Eliya ati “Urambonye ga wa mwanzi wanjye we?”Na we ati “Ndakubonye koko, kuko wiguriye gukora ibyangwa n'Uwiteka.",
+      "start": 21.68,
+      "end": 37.58
+    },
+    "21": {
+      "text": "‘Umva nzakuzanira ibyago ngutsembe rwose, nzamara umuhungu wese kuri Ahabu, uw'imbata n'uw'umudendezo mu Bisirayeli.",
+      "start": 41.61,
+      "end": 42.85
+    },
+    "22": {
+      "text": "Nzahindura inzu yawe nk'iya Yerobowamu mwene Nebati, kandi nk'iya Bāsha mwene Ahiya, kuko wandakaje ukoshya Abisirayeli ngo bacumure.’",
+      "start": 28.65,
+      "end": 38.96
+    },
+    "23": {
+      "text": "Kandi ibya Yezebeli Uwiteka arabihamya atya ati ‘Imbwa zizarira Yezebeli ku nkike z'i Yezerēli.’",
+      "start": 42.08,
+      "end": 43.61
+    },
+    "24": {
+      "text": "Uwa Ahabu wese uzagwa mu mudugudu azaribwa n'imbwa, uzagwa ku gasozi azaribwa n'inkongoro.”",
+      "start": 16.29,
+      "end": 22.4
+    },
+    "25": {
+      "text": "Nta wigeze gusa na Ahabu wiguriye gukora ibyangwa n'Uwiteka, yohejwe n'umugore we Yezebeli.",
+      "start": 1.17,
+      "end": 2.64
+    },
+    "26": {
+      "text": "Nuko yajyaga akora nabi cyane, akurikira ibishushanyo bisengwa nk'uko Abamori babigenzaga kose, abo Uwiteka yirukanye imbere y'Abisirayeli.",
+      "start": 33.62,
+      "end": 39.34
+    },
+    "27": {
+      "text": "Nuko Ahabu amaze kumva ayo magambo, atanyaguza imyambaro ye yambara ibigunira, yiyiriza ubusa yirirwa aryamye ku bigunira, akagenda abebera.",
+      "start": 26.39,
+      "end": 42.39
+    },
+    "28": {
+      "text": "Hanyuma ijambo ry'Uwiteka rigera kuri Eliya w'i Tishubi riramubwira riti",
+      "start": 8.42,
+      "end": 21.97
+    },
+    "29": {
+      "text": "“Ubonye uko Ahabu yicishije bugufi imbere yanjye? Kuko yicishije bugufi imbere yanjye sinzamuteza ibyo byago ku ngoma ye, ahubwo nzabiteza inzu ye ku ngoma y'umuhungu we.”",
+      "start": 14.77,
+      "end": 21.19
+    }
+  }
+}

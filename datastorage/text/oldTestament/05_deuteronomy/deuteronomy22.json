@@ -1,0 +1,153 @@
+{
+  "book": "Book 5",
+  "book_canonical": "deuteronomy",
+  "book_number": 5,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Nubona inka cyangwa intama ya mwene wanyu izimiye, ntuzihugenze ngo udahura na yo, ahubwo ntuzabure kuyigarurira mwene wanyu.",
+      "start": 18.59,
+      "end": 31.69
+    },
+    "2": {
+      "text": "Kandi mwene wanyu uwo natakuba bugufi, cyangwa niba tamuzi, uyijyane iwawe uyigumane, ugeze aho mwene wanyu uwo azayishakira uyimuhe.",
+      "start": 30.93,
+      "end": 42.7
+    },
+    "3": {
+      "text": "Kandi n'indogobe ye uzayigenze utyo, n'umwambaro we, n'ikindi kintu cyose cya mwene wanyu cyari kizimiye ukakibona, ntukwiriye kwihugenza.",
+      "start": 17.69,
+      "end": 18.39
+    },
+    "4": {
+      "text": "Nubona indogobe ya mwene wanyu cyangwa inka ye iguye mu nzira ntuzihugenze, ntuzabure kumufasha kuyigandura.",
+      "start": 42.38,
+      "end": 42.45
+    },
+    "5": {
+      "text": "Umugore cyangwa umukobwa ntakambarane n'umugabo, kandi umugabo ntakambarane n'umugore, kuko ukora atyo wese ari ikizira Uwiteka Imana yawe yanga urunuka.",
+      "start": 41.28,
+      "end": 42.95
+    },
+    "6": {
+      "text": "Icyari cy'inyoni nikiba ku nzira imbere yawe, ku giti cyose cyangwa hasi, kirimo ibyana cyangwa amagi, nyina ibundikiye ibyana cyangwa amagi, ntuzajyanane nyina n'ibyana byayo.",
+      "start": 40.23,
+      "end": 41.45
+    },
+    "7": {
+      "text": "Ntuzabure kureka nyina ngo igende, ariko ibyana wemererwa kubyijyanira, urekere nyina kugira ngo ubone ibyiza, urame.",
+      "start": 13.06,
+      "end": 24.42
+    },
+    "8": {
+      "text": "Niwubaka inzu uzubake ku gisenge cyayo ikikigota kikarinda umuntu kugwa, kugira ngo umuntu atagwa avuye ku nzu yawe, bikayizanira urubanza rw'amaraso.",
+      "start": 8.49,
+      "end": 9.75
+    },
+    "9": {
+      "text": "Ntuzabibe imbuto z'amoko abiri mu ruzabibu rwawe, kugira ngo utazakwa ibyezemo byose, za mbuto wabibye n'imbuto z'imizabibu.",
+      "start": 42.89,
+      "end": 44.72
+    },
+    "10": {
+      "text": "Ntuzahingishe icyuma gikururwa n'inka n'indogobe zifatanije hamwe.",
+      "start": 0.99,
+      "end": 23.07
+    },
+    "11": {
+      "text": "Ntuzambare umwenda uboheshejwe ikivange cy'ubudodo bw'ubwoya bw'intama n'ubw'imigwegwe.",
+      "start": 8.14,
+      "end": 41.96
+    },
+    "12": {
+      "text": "Uzatere inshunda ku misozo y'impande enye z'umwenda wambara.",
+      "start": 32.35,
+      "end": 38.0
+    },
+    "13": {
+      "text": "Umuntu narongora umugeni akaryamana na we, akamwanga",
+      "start": 13.01,
+      "end": 28.21
+    },
+    "14": {
+      "text": "akamurega ibiteye isoni, akamwita izina ribi ati “Narongoye uyu mugeni mwegereye nsanga atagira ibimenyetso byerekana ko ari umwari”,",
+      "start": 7.03,
+      "end": 12.41
+    },
+    "15": {
+      "text": "maze se na nyina b'uwo mukobwa bajyane ibimenyetso by'uko ari umwari, babishyire abakuru b'umudugudu wabo, mu marembo yawo.",
+      "start": 3.59,
+      "end": 17.0
+    },
+    "16": {
+      "text": "Se w'uwo mukobwa abwire abakuru ati “Uyu mugabo namushyingiye umukobwa wanjye none aramwanze,",
+      "start": 13.56,
+      "end": 34.73
+    },
+    "17": {
+      "text": "kandi dore amureze ibiteye isoni ati ‘Sinasanganye umukobwa wawe ibimenyetso by'uko ari umwari.’ Ariko ibimenyetso by'ibyo ngibi.” Basase uwo mwenda imbere y'abakuru b'umudugudu.",
+      "start": 0.0,
+      "end": 20.99
+    },
+    "18": {
+      "text": "Abakuru b'uwo mudugudu bafate uwo mugabo bamukubite,",
+      "start": 12.75,
+      "end": 22.43
+    },
+    "19": {
+      "text": "bamuce icyiru cya shekeli z'ifeza ijana bazihe se w'uwo mukobwa, bamuhoye yuko yise umwari w'Abisirayeli izina ribi, na we abe umugore we, ntazamwirukane mu gihe akiriho cyose.",
+      "start": 11.71,
+      "end": 35.25
+    },
+    "20": {
+      "text": "Ariko icyo kirego niba ari icy'ukuri, uwo mukobwa atabonetseho ibimenyetso by'uko ari umwari,",
+      "start": 16.46,
+      "end": 28.42
+    },
+    "21": {
+      "text": "bamusohore bamujyane ku rugi rw'inzu ya se, abagabo bo mu mudugudu wabo bamwicishe amabuye bamuhōra gukorera ikizira mu Bisirayeli, ni cyo gusambanira kwa se. Uko abe ari ko mukura ikibi hagati muri mwe.",
+      "start": 26.88,
+      "end": 33.85
+    },
+    "22": {
+      "text": "Umugabo nafatwa asambana n'umugore ufite umugabo bombi babīce, umugabo n'umugore basambanye. Uko abe ari ko ukura ikibi mu Bisirayeli.",
+      "start": 9.53,
+      "end": 16.47
+    },
+    "23": {
+      "text": "Umugabo nasanga mu mudugudu umwari wasabwe n'undi mugabo akaryamana na we,",
+      "start": 15.73,
+      "end": 40.31
+    },
+    "24": {
+      "text": "bombi muzabajyane mu marembo y'uwo mudugudu mubicishe amabuye. Umukobwa mumwicire kuko atatatse ari mu mudugudu, umugabo mumwicire kuko yononnye muka mugenzi we. Uko abe ari ko mukura ikibi hagati muri mwe.",
+      "start": 20.46,
+      "end": 37.57
+    },
+    "25": {
+      "text": "Ariko umugabo nasanga mu gasozi umukobwa wasabwe akamufatirayo akamukinda, umugabo wamukinze azabe ari we wicwa wenyine.",
+      "start": 27.19,
+      "end": 36.32
+    },
+    "26": {
+      "text": "Umukobwa ntuzagire icyo umutwara, kuko adakoze icyaha gikwiriye kumwicisha, kuko bimeze nk'uko umuntu atera mugenzi we akamwica.",
+      "start": 6.99,
+      "end": 35.19
+    },
+    "27": {
+      "text": "Uwo mugabo yamusanze mu gasozi, uwo mukobwa wasabwe arataka, ntihagira umutabara.",
+      "start": 43.16,
+      "end": 44.87
+    },
+    "28": {
+      "text": "Umugabo nasanga umwari utarasabwa akamufata, akamukinda bakabafata,",
+      "start": 16.06,
+      "end": 30.37
+    },
+    "29": {
+      "text": "uwo mugabo wamukinze ahe se w'uwo mukobwa shekeli z'ifeza mirongo itanu, uwo mukobwa azabe umugore we kuko yamwononnye, ntazamwirukane iminsi yose akiriho.",
+      "start": 26.06,
+      "end": 35.9
+    }
+  }
+}

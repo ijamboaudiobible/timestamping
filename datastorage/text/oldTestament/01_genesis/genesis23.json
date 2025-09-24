@@ -1,0 +1,108 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Sara yaramye imyaka ijana na makumyabiri n'irindwi, iyo ni yo myaka Sara yaramye.",
+      "start": 4.83,
+      "end": 44.46
+    },
+    "2": {
+      "text": "Sara apfira i Kiriyataruba (ari ho Heburoni) mu gihugu cy'i Kanāni, Aburahamu aza kuborogera Sara, amuririra.",
+      "start": 30.42,
+      "end": 33.99
+    },
+    "3": {
+      "text": "Aburahamu arahaguruka ava ku ntumbi ye, abwira Abaheti ati",
+      "start": 35.47,
+      "end": 42.21
+    },
+    "4": {
+      "text": "“Ndi umushyitsi n'umusuhuke muri mwe, mumpe gakondo yo guhambamo, mpambe umupfu wanjye, mwivane mu maso.”",
+      "start": 44.67,
+      "end": 44.8
+    },
+    "5": {
+      "text": "Abaheti basubiza Aburahamu bati",
+      "start": 2.03,
+      "end": 6.11
+    },
+    "6": {
+      "text": "“Databuja, utwumve uri umuntu ukomeye cyane muri twe, uhambe umupfu wawe mu mva yacu uri buhitemo muri zose, nta wo muri twe uri bukwime imva ye ngo we guhambamo umupfu wawe.”",
+      "start": 30.19,
+      "end": 34.75
+    },
+    "7": {
+      "text": "Aburahamu arahaguruka, yikubita imbere ya bene igihugu, ni bo Baheti.",
+      "start": 27.72,
+      "end": 29.37
+    },
+    "8": {
+      "text": "Avugana na bo arababwira ati “Nimwemera yuko mpamba umupfu wanjye ngo mwivane mu maso, munyumvire, munyingingire Efuroni mwene Sohari,",
+      "start": 24.71,
+      "end": 43.8
+    },
+    "9": {
+      "text": "ampe ubuvumo bw'i Makipela afite, buri ku mpera y'isambu ye. Abungurishirize hagati yanyu igiciro kibukwiriye kitagabanije, bube gakondo yo guhambamo.”",
+      "start": 9.58,
+      "end": 30.14
+    },
+    "10": {
+      "text": "Efuroni yari yicaye hagati mu Baheti, Efuroni Umuheti asubiza Aburahamu, Abaheti bamwumva, abinjiraga mu irembo ry'umudugudu wabo bose ati",
+      "start": 0.07,
+      "end": 6.53
+    },
+    "11": {
+      "text": "“Ahubwo databuja, nyumva. Iyo sambu ndayiguhaye, n'ubuvumo burimo ndabuguhaye, mbiguhereye imbere y'ab'ubwoko bwacu, hamba umupfu wawe.”",
+      "start": 24.49,
+      "end": 31.31
+    },
+    "12": {
+      "text": "Aburahamu yikubita imbere ya bene igihugu.",
+      "start": 25.66,
+      "end": 30.98
+    },
+    "13": {
+      "text": "Abwira Efuroni bene igihugu bamwumva ati “Ndakwinginze, nyumvira. Ndakwishyura igiciro cy'iyo sambu, cyemere nkiguhe, mpambemo umupfu wanjye.”",
+      "start": 22.04,
+      "end": 34.65
+    },
+    "14": {
+      "text": "Efuroni asubiza Aburahamu ati",
+      "start": 16.11,
+      "end": 26.22
+    },
+    "15": {
+      "text": "“Databuja, nyumvira. Agasambu kaguze shekeli magana ane z'ifeza kanteranya nawe? Nuko hamba umupfu wawe.”",
+      "start": 31.03,
+      "end": 44.04
+    },
+    "16": {
+      "text": "Aburahamu yumvira Efuroni agerera Efuroni ifeza avuze, Abaheti bamwumva, shekeli magana ane z'ifeza, zemerwa n'abagenza.",
+      "start": 38.45,
+      "end": 40.84
+    },
+    "17": {
+      "text": "Nuko isambu ya Efuroni yari i Makipela, iri imbere y'i Mamure, yo n'ubuvumo burimo n'ibiti byo muri yo byose byayigotaga hose ku mpera yayo, bikomerezwa Aburahamu",
+      "start": 40.77,
+      "end": 42.27
+    },
+    "18": {
+      "text": "kuba gakondo ye, imbere y'Abaheti, imbere y'abinjiraga mu irembo ry'umudugudu wabo bose.",
+      "start": 24.91,
+      "end": 26.73
+    },
+    "19": {
+      "text": "Hanyuma y'ibyo, Aburahamu ahamba Sara umugore we muri ubwo buvumo bwo mu isambu y'i Makipela, iri imbere y'i Mamure (ni ho Heburoni) mu gihugu cy'i Kanāni.",
+      "start": 32.27,
+      "end": 35.24
+    },
+    "20": {
+      "text": "Nuko Abaheti bakomereza Aburahamu iyo sambu n'ubuvumo buyirimo kuba gakondo yo guhambamo.",
+      "start": 23.83,
+      "end": 24.11
+    }
+  }
+}

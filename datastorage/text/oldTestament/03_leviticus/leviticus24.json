@@ -1,0 +1,123 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 22.77,
+      "end": 35.04
+    },
+    "2": {
+      "text": "“Tegeka Abisirayeli bakuzanire amavuta aboneye ya elayo zasekuwe ya cya gitereko, kugira ngo bitume iryo tabaza rihora ryaka.",
+      "start": 34.57,
+      "end": 42.71
+    },
+    "3": {
+      "text": "Inyuma ya wa mwenda ukingiriza Ibihamya wo mu ihema ry'ibonaniro, abe ari ho Aroni ajya aritunganiriza iminsi yose kugira ngo ryake imbere y'Uwiteka, rihere nimugoroba rigeze mu gitondo. Iryo rizababere itegeko ridakuka mu bihe byanyu byose.",
+      "start": 30.21,
+      "end": 34.81
+    },
+    "4": {
+      "text": "Ajye atunganiriza amatabaza kuri icyo gitereko cyacuzwe mu izahabu nziza, kugira ngo ahore yakira imbere y'Uwiteka.",
+      "start": 14.59,
+      "end": 20.64
+    },
+    "5": {
+      "text": "“Kandi wende ifu y'ingezi, uyivugemo udutsima cumi na tubiri utwose, ibice bya cumi bibiri bya efa bivugwemo agatsima kamwe bityo bityo.",
+      "start": 12.19,
+      "end": 30.44
+    },
+    "6": {
+      "text": "Udutereke ibirundo bibiri kuri ya meza y'izahabu nziza imbere y'Uwiteka, ikirundo kimwe kibemo dutandatu.",
+      "start": 28.7,
+      "end": 41.29
+    },
+    "7": {
+      "text": "Ku kirundo cyose ugereke umubavu uboneye, ube kuri iyo mitsima ari urwibutso, ari ituro ryo guturwa Uwiteka rigakongorwa n'umuriro.",
+      "start": 9.78,
+      "end": 22.7
+    },
+    "8": {
+      "text": "Uko isabato itashye, ajye ayitereka imbere y'Uwiteka mu butereko bwayo abikorera Abisirayeli, bibe isezerano ritazashira.",
+      "start": 5.29,
+      "end": 32.63
+    },
+    "9": {
+      "text": "Kandi iyo mitsima ijye iba iya Aroni n'abana be, bajye bayirira ahantu hera. Itegeko ritazakuka ritegetse ko imubera iyera cyane mu maturo n'ibitambo bitambirwa Uwiteka, bigakongorwa n'umuriro.”",
+      "start": 31.32,
+      "end": 34.96
+    },
+    "10": {
+      "text": "Umuhungu w'Umwisirayelikazi yabyaranye n'Umunyegiputa, yari yaravanyeyo n'Abisirayeli, atonganira mu ngando n'Umwisirayeli.",
+      "start": 20.74,
+      "end": 27.81
+    },
+    "11": {
+      "text": "Uwo muhungu w'Umwisirayelikazi atuka rya Zina ararivuma, bamuzanira Mose. Nyina yitwa Shelomiti mwene Diburi, wo mu muryango wa Dani.",
+      "start": 9.22,
+      "end": 16.93
+    },
+    "12": {
+      "text": "Bamukingiranira kugira ngo bageze igihe babwirirwa ibyo Uwiteka yategeka.",
+      "start": 4.55,
+      "end": 20.77
+    },
+    "13": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 32.03,
+      "end": 33.98
+    },
+    "14": {
+      "text": "“Jyana uwamvumye inyuma y'ingando, abamwumvise bose bamushyire ibiganza ku mutwe, iteraniro ryose rimwicishe amabuye.",
+      "start": 28.97,
+      "end": 35.54
+    },
+    "15": {
+      "text": "Kandi ubwire Abisirayeli uti ‘Uzavuma Imana ye wese azagibwaho n'icyaha cye.",
+      "start": 31.38,
+      "end": 44.7
+    },
+    "16": {
+      "text": "Uzatuka izina ry'Uwiteka ntakabure kwicwa, iteraniro ryose ntirikabure kumwicisha amabuye naho yaba umunyamahanga cyangwa kavukire, natuka izina ry'Uwiteka azicwe.",
+      "start": 27.19,
+      "end": 36.65
+    },
+    "17": {
+      "text": "“ ‘Uzakubita umuntu akamwica ntakabure kwicwa.",
+      "start": 7.62,
+      "end": 41.81
+    },
+    "18": {
+      "text": "Uzakubita itungo akaryica aririhe, ubugingo burihwe ho ubundi.",
+      "start": 39.23,
+      "end": 40.22
+    },
+    "19": {
+      "text": "“ ‘Umuntu natera mugenzi we inenge, yiturwe nk'ibyo yagiriye undi.",
+      "start": 41.23,
+      "end": 43.31
+    },
+    "20": {
+      "text": "Kuvuna igufwa guhorerwe ukundi, ijisho rihorerwe irindi, iryinyo rihorerwe irindi. Uko yateye undi muntu inenge abe ari ko yiturwa.",
+      "start": 37.38,
+      "end": 42.1
+    },
+    "21": {
+      "text": "Uwishe itungo aririhe, uwishe umuntu ahōrwe.",
+      "start": 43.51,
+      "end": 44.97
+    },
+    "22": {
+      "text": "Kavukire n'umunyamahanga mujye mubasangiza itegeko rimwe, kuko ndi Uwiteka Imana yanyu.’ ”",
+      "start": 32.1,
+      "end": 44.33
+    },
+    "23": {
+      "text": "Mose ategeka Abisirayeli, bajyana inyuma y'ingando uwavumye Uwiteka, bamwicisha amabuye. Abisirayeli bagenza uko Uwiteka yategetse Mose.",
+      "start": 19.21,
+      "end": 24.71
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Hanyuma ya mugiga iyo, Uwiteka abwira Mose na Eleyazari mwene Aroni umutambyi ati",
+      "start": 16.13,
+      "end": 18.75
+    },
+    "2": {
+      "text": "“Mubare umubare w'iteraniro ry'Abisirayeli ryose, bamaze imyaka makumyabiri bavutse cyangwa isāga, abo mu Bisirayeli bose babasha gutabara, mubabare nk'uko amazu ya ba sekuru ari.”",
+      "start": 7.42,
+      "end": 35.57
+    },
+    "3": {
+      "text": "Mose na Eleyazari umutambyi bababwirira mu kibaya cy'i Mowabu kinini, bari kuri Yorodani ahateganye n'i Yeriko bati",
+      "start": 11.88,
+      "end": 13.91
+    },
+    "4": {
+      "text": "“Abamaze imyaka makumyabiri bavutse cyangwa isāga abe ari bo babarwa”, uko Uwiteka yategetse Mose n'Abisirayeli bavuye mu gihugu cya Egiputa.",
+      "start": 40.8,
+      "end": 44.09
+    },
+    "5": {
+      "text": "Rubeni ni we wari imfura ya Isirayeli. Bene Rubeni ni aba: Henoki wakomotsweho n'umuryango w'Abahenoki, na Palu wakomotsweho n'umuryango w'Abapalu,",
+      "start": 18.24,
+      "end": 44.01
+    },
+    "6": {
+      "text": "na Hesironi wakomotsweho n'umuryango w'Abahesironi, na Karumi wakomotsweho n'Abakarumi.",
+      "start": 37.72,
+      "end": 37.87
+    },
+    "7": {
+      "text": "Iyo ni yo miryango y'Abarubeni. Ababazwe bo muri bo bari inzovu enye n'ibihumbi bitatu na magana arindwi na mirongo itatu.",
+      "start": 31.1,
+      "end": 39.78
+    },
+    "8": {
+      "text": "Bene Palu ni Eliyabu.",
+      "start": 33.57,
+      "end": 39.9
+    },
+    "9": {
+      "text": "Bene Eliyabu ni Nemuweli na Datani na Abiramu. Abo ni bo Datani na Abiramu, ba bandi bahamagarwaga mu iteraniro bagomeye Mose na Aroni. Bafatanije n'iteraniro rya Kōra ubwo bagomeraga Uwiteka,",
+      "start": 7.37,
+      "end": 26.53
+    },
+    "10": {
+      "text": "ubutaka bukasama bukabamirana na Kōra ubwo iryo teraniro ryapfaga, umuriro ugakongora abagabo magana abiri na mirongo itanu, bakaba akābarore.",
+      "start": 22.46,
+      "end": 38.04
+    },
+    "11": {
+      "text": "Ariko abahungu ba Kōra ntibaragapfa.",
+      "start": 17.77,
+      "end": 35.23
+    },
+    "12": {
+      "text": "Bene Simiyoni nk'uko imiryango yabo iri ni aba: Nemuweli wakomotsweho n'umuryango w'Abanemuweli, na Yamini wakomotsweho n'umuryango w'Abayamini, na Yakini wakomotsweho n'umuryango w'Abayakini,",
+      "start": 40.22,
+      "end": 40.89
+    },
+    "13": {
+      "text": "na Zera wakomotsweho n'umuryango w'Abazera, na Shawuli wakomotsweho n'umuryango w'Abashawuli.",
+      "start": 18.54,
+      "end": 23.53
+    },
+    "14": {
+      "text": "Iyo ni yo miryango y'Abasimeyoni, bose bari inzovu ebyiri n'ibihumbi bibiri na magana abiri.",
+      "start": 27.79,
+      "end": 40.03
+    },
+    "15": {
+      "text": "Bene Gadi nk'uko imiryango yabo iri ni aba: Sefoni wakomotsweho n'umuryango w'Abasefoni, na Hagi wakomotsweho n'umuryango w'Abahagi, na Shuni wakomotsweho n'umuryango w'Abashuni,",
+      "start": 9.09,
+      "end": 17.85
+    },
+    "16": {
+      "text": "na Ozini wakomotsweho n'umuryango w'Abozini, na Eri wakomotsweho n'umuryango w'Aberi,",
+      "start": 18.98,
+      "end": 44.52
+    },
+    "17": {
+      "text": "na Arodi wakomotsweho n'umuryango w'Abarodi, na Areli wakomotsweho n'umuryango w'Abareli.",
+      "start": 5.53,
+      "end": 16.62
+    },
+    "18": {
+      "text": "Iyo ni yo miryango y'Abagadi. Ababazwe bo muri bo bari inzovu enye na magana atanu.",
+      "start": 40.95,
+      "end": 41.2
+    },
+    "19": {
+      "text": "Bene Yuda ni Eri na Onani. Eri na Onani bapfiriye mu gihugu cy'i Kanāni.",
+      "start": 0.08,
+      "end": 31.19
+    },
+    "20": {
+      "text": "Bene Yuda nk'uko imiryango yabo iri ni aba: Shela wakomotsweho n'umuryango w'Abashela, na Perēsi wakomotsweho n'umuryango w'Abaperēsi, na Zera wakomotsweho n'umuryango w'Abazera.",
+      "start": 44.15,
+      "end": 44.67
+    },
+    "21": {
+      "text": "Bene Perēsi ni aba: Hesironi wakomotsweho n'umuryango w'Abahesironi, na Hamuli wakomotsweho n'umuryango w'Abahamuli.",
+      "start": 4.62,
+      "end": 32.49
+    },
+    "22": {
+      "text": "Iyo ni yo miryango y'Abayuda. Ababazwe bo muri bo bari inzovu ndwi n'ibihumbi bitandatu na magana atanu.",
+      "start": 34.63,
+      "end": 44.2
+    },
+    "23": {
+      "text": "Bene Isakari nk'uko imiryango yabo iri ni aba: Tola wakomotsweho n'umuryango w'Abatola, na Puwa wakomotsweho n'umuryango w'Abapuwa,",
+      "start": 22.8,
+      "end": 26.25
+    },
+    "24": {
+      "text": "na Yashubu wakomotsweho n'umuryango w'Abayashubu, na Shimuroni wakomotsweho n'umuryango w'Abashimuroni.",
+      "start": 25.37,
+      "end": 28.52
+    },
+    "25": {
+      "text": "Iyo ni yo miryango y'Abisakari. Ababazwe bo muri bo bari inzovu esheshatu n'ibihumbi bine na magana atatu.",
+      "start": 8.85,
+      "end": 33.48
+    },
+    "26": {
+      "text": "Bene Zebuluni nk'uko imiryango yabo iri ni aba: Seredi wakomotsweho n'umuryango w'Abaseredi, na Eloni wakomotsweho n'umuryango w'Abeloni, na Yahilēli wakomotsweho n'umuryango w'Abayahilēli.",
+      "start": 36.66,
+      "end": 37.26
+    },
+    "27": {
+      "text": "Iyo ni yo miryango y'Abazebuluni. Ababazwe bo muri bo bari inzovu esheshatu na magana atanu.",
+      "start": 37.85,
+      "end": 41.82
+    },
+    "28": {
+      "text": "Bene Yosefu nk'uko imiryango yabo iri, ni Manase na Efurayimu.",
+      "start": 22.38,
+      "end": 33.58
+    },
+    "29": {
+      "text": "Bene Manase ni aba: Makiri wakomotsweho n'umuryango w'Abamakiri, Makiri yabyaye Gileyadi. Gileyadi yakomotsweho n'umuryango w'Abagileyadi.",
+      "start": 15.84,
+      "end": 33.16
+    },
+    "30": {
+      "text": "Bene Gileyadi ni aba: Yezeri wakomotsweho n'umuryango w'Abayezeri, na Heleki wakomotsweho n'Abaheleki,",
+      "start": 20.99,
+      "end": 41.81
+    },
+    "31": {
+      "text": "na Asiriyeli wakomotsweho n'umuryango w'Abasiriyeli, na Shekemu wakomotsweho n'umuryango w'Abashekemu,",
+      "start": 21.76,
+      "end": 34.25
+    },
+    "32": {
+      "text": "na Shemida wakomotsweho n'umuryango w'Abashemida, na Heferi wakomotsweho n'umuryango w'Abaheferi.",
+      "start": 3.42,
+      "end": 20.09
+    },
+    "33": {
+      "text": "Selofehadi mwene Heferi ntiyabyaye abahungu, ahubwo yabyaye abakobwa. Kandi abakobwa ba Selofehadi bitwa Mahila na Nowa, na Hogila na Miluka na Tirusa.",
+      "start": 29.4,
+      "end": 38.64
+    },
+    "34": {
+      "text": "Iyo ni yo miryango y'Abamanase. Ababazwe bo muri bo bari inzovu eshanu n'ibihumbi bibiri na magana arindwi.",
+      "start": 37.98,
+      "end": 40.73
+    },
+    "35": {
+      "text": "Bene Efurayimu nk'uko imiryango yabo iri ni aba: Shutela wakomotsweho n'umuryango w'Abashutela, na Bekeri wakomotsweho n'umuryango w'Ababekeri, na Tahani wakomotsweho n'umuryango w'Abatahani.",
+      "start": 37.19,
+      "end": 37.43
+    },
+    "36": {
+      "text": "Bene Shutela ni aba: Erani wakomotsweho n'umuryango w'Aberani.",
+      "start": 43.41,
+      "end": 44.4
+    },
+    "37": {
+      "text": "Iyo ni yo miryango y'Abefurayimu. Ababazwe bo muri bo bari inzovu eshatu n'ibihumbi bibiri na magana atanu.Abo ni bo buzukuruza ba Yosefu nk'uko imiryango yabo iri.",
+      "start": 10.86,
+      "end": 20.47
+    },
+    "38": {
+      "text": "Bene Benyamini nk'uko imiryango yabo iri ni aba: Bela wakomotsweho n'umuryango w'Ababela, na Ashibeli wakomotsweho n'umuryango w'Abashibeli, na Ahiramu wakomotsweho n'umuryango w'Abahiramu,",
+      "start": 30.37,
+      "end": 31.12
+    },
+    "39": {
+      "text": "na Shufamu wakomotsweho n'umuryango w'Abashufamu, na Hufamu wakomotsweho n'umuryango w'Abahufamu.",
+      "start": 23.99,
+      "end": 35.09
+    },
+    "40": {
+      "text": "Bene Bela ni Arudi na Nāmani. Arudi yakomotsweho n'umuryango w'Abarudi. Nāmani yakomotsweho n'umuryango w'Abanāmani.",
+      "start": 4.15,
+      "end": 28.24
+    },
+    "41": {
+      "text": "Abo ni bo buzukuruza ba Benyamini nk'uko imiryango yabo iri. Ababazwe bo muri bo bari inzovu enye n'ibihumbi bitanu na magana atandatu.",
+      "start": 5.91,
+      "end": 44.02
+    },
+    "42": {
+      "text": "Bene Dani nk'uko imiryango yabo iri ni aba: Shuhamu yakomotsweho n'umuryango w'Abashuhamu. Uwo ni wo wakomotsweho n'imiryango y'Abadani nk'uko imiryango yabo iri.",
+      "start": 24.55,
+      "end": 26.25
+    },
+    "43": {
+      "text": "Imiryango y'Abashuhamu yose, ababazwe bo muri yo bose bari inzovu esheshatu n'ibihumbi bine na magana ane.",
+      "start": 36.83,
+      "end": 39.1
+    },
+    "44": {
+      "text": "Bene Asheri nk'uko imiryango yabo iri ni aba: Imuna wakomotsweho n'umuryango w'Abimuna, na Ishivi wakomotsweho n'umuryango w'Abishivi, na Beriya wakomotsweho n'umuryango w'Ababeriya.",
+      "start": 31.81,
+      "end": 33.0
+    },
+    "45": {
+      "text": "Bene Beriya bakomotsweho n'iyi miryango: Heberi yakomotsweho n'umuryango w'Abaheberi. Malikiyeli yakomotsweho n'umuryango w'Abamalikiyeli.",
+      "start": 4.89,
+      "end": 39.93
+    },
+    "46": {
+      "text": "Umukobwa wa Asheri yitwa Sara.",
+      "start": 3.93,
+      "end": 20.8
+    },
+    "47": {
+      "text": "Iyo ni yo miryango yakomotse kuri bene Asheri. Ababazwe bo muri yo bari inzovu eshanu n'ibihumbi bitatu na magana ane.",
+      "start": 33.99,
+      "end": 42.9
+    },
+    "48": {
+      "text": "Bene Nafutali nk'uko imiryango yabo iri ni aba: Yahisēli wakomotsweho n'umuryango w'Abayahisēli, na Guni wakomotsweho n'umuryango w'Abaguni,",
+      "start": 4.22,
+      "end": 34.08
+    },
+    "49": {
+      "text": "na Yeseri wakomotsweho n'umuryango w'Abayeseri, na Shilemu wakomotsweho n'umuryango w'Abashilemu.",
+      "start": 8.49,
+      "end": 18.55
+    },
+    "50": {
+      "text": "Iyo ni yo miryango y'Abanafutali nk'uko imiryango yabo iri. Ababazwe bo muri bo bari inzovu enye n'ibihumbi bitanu na magana ane.",
+      "start": 20.0,
+      "end": 20.17
+    },
+    "51": {
+      "text": "Abo ni bo babazwe bo mu Bisirayeli, bose bari uduhumbi dutandatu n'igihumbi na magana arindwi na mirongo itatu.",
+      "start": 20.39,
+      "end": 38.44
+    },
+    "52": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 6.23,
+      "end": 6.36
+    },
+    "53": {
+      "text": "“Abo azabe ari bo bagabanywa igihugu ho gakondo, nk'uko umubare w'amazina yabo uri.",
+      "start": 27.83,
+      "end": 29.97
+    },
+    "54": {
+      "text": "Abaruta abandi ubwinshi uzabahe gakondo nini, abake uzabahe gakondo nto. Umuryango wose uzahabwe gakondo ihwanye n'umubare w'ababazwe bo muri wo.",
+      "start": 39.89,
+      "end": 41.72
+    },
+    "55": {
+      "text": "Ariko igihugu kizagabanywe n'ubufindo, gakondo zabo zose zizitirirwe amazina y'imiryango ya ba sekuruza.",
+      "start": 12.7,
+      "end": 42.02
+    },
+    "56": {
+      "text": "Uko ubufindo buzategeka, azabe ari ko gakondo yabo igabanywa abenshi n'abake.”",
+      "start": 40.08,
+      "end": 42.5
+    },
+    "57": {
+      "text": "Ababazwe bo mu Balewi nk'uko imiryango yabo iri ni aba: Gerushoni yakomotsweho n'umuryango w'Abagerushoni. Kohati yakomotsweho n'umuryango w'Abakohati. Merari yakomotsweho n'umuryango w'Abamerari.",
+      "start": 11.39,
+      "end": 21.53
+    },
+    "58": {
+      "text": "Iyi ni yo miryango y'Abalewi: umuryango w'Abalibuni n'uw'Abaheburoni, n'uw'Abamahali n'uw'Abamushi n'uw'Abakōra. Kandi Kohati yabyaye Amuramu.",
+      "start": 7.09,
+      "end": 34.52
+    },
+    "59": {
+      "text": "Muka Amuramu yitwa Yokebedi mwene Lewi, yabyariye muri Egiputa. Abyarana na Amuramu Aroni na Mose, na Miriyamu mushiki wabo.",
+      "start": 44.51,
+      "end": 44.85
+    },
+    "60": {
+      "text": "Aroni yabyaye Nadabu na Abihu, na Eleyazari na Itamari.",
+      "start": 36.04,
+      "end": 38.58
+    },
+    "61": {
+      "text": "Nadabu na Abihu, bapfuye ubwo boseserezaga umuriro udakwiriye imbere y'Uwiteka.",
+      "start": 11.53,
+      "end": 32.01
+    },
+    "62": {
+      "text": "Ababazwe bo muri bo bari inzovu ebyiri n'ibihumbi bitatu, abahungu n'abagabo bose bahereye ku bamaze ukwezi bavutse. Kandi ntibarakabaranwa n'Abisirayeli bandi, kuko batahawe gakondo mu Bisirayeli.",
+      "start": 32.82,
+      "end": 32.95
+    },
+    "63": {
+      "text": "Abo ni bo babazwe na Mose na Eleyazari umutambyi, babariye Abisirayeli mu kibaya cy'i Mowabu kinini, bari kuri Yorodani ahateganye n'i Yeriko.",
+      "start": 9.76,
+      "end": 39.25
+    },
+    "64": {
+      "text": "Ariko muri bo ntihaba n'umwe wo mu bari babazwe na Mose na Aroni umutambyi, babariye Abisirayeli mu butayu bwa Sinayi.",
+      "start": 23.19,
+      "end": 27.6
+    },
+    "65": {
+      "text": "Kuko Uwiteka yari yavuze ati “Ntibazabura gupfira mu butayu.” Ntihasigara n'umwe muri bo, keretse Kalebu mwene Yefune na Yosuwa mwene Nuni.",
+      "start": 39.06,
+      "end": 44.01
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "Uwiteka akomeza gusubiza Yobu ati",
+      "start": 14.24,
+      "end": 27.6
+    },
+    "2": {
+      "text": "“Mbese umunyampaka yagisha Ishoborabyose impaka?Ugayisha Imana nasubize.”",
+      "start": 4.71,
+      "end": 26.38
+    },
+    "3": {
+      "text": "Nuko Yobu asubiza Uwiteka ati",
+      "start": 25.14,
+      "end": 43.36
+    },
+    "4": {
+      "text": "“Dore ndi insuzugurwa, nagusubiza iki?Nifashe ku munwa.",
+      "start": 36.46,
+      "end": 44.84
+    },
+    "5": {
+      "text": "Navuze rimwe ariko sinzongera gusubiza,Ndetse kabiri ariko sinakongera.”",
+      "start": 20.2,
+      "end": 31.08
+    },
+    "6": {
+      "text": "Maze Uwiteka asubiriza Yobu muri serwakira ati",
+      "start": 40.79,
+      "end": 43.0
+    },
+    "7": {
+      "text": "“Noneho kenyera kigabo,Ngiye kukubaza nawe unsubize.",
+      "start": 40.9,
+      "end": 41.26
+    },
+    "8": {
+      "text": "Mbese ugiye kumvuguruza icyo nategetse?Ugiye kumpererezaho ibyaha kugira ngo ubone urubanza?",
+      "start": 10.64,
+      "end": 38.53
+    },
+    "9": {
+      "text": "Harya uhwanije n'Imana amaboko?Wabasha guhindisha ijwi nka yo?",
+      "start": 29.47,
+      "end": 34.56
+    },
+    "10": {
+      "text": "Noneho rimbana ikuzo no kwifata neza,Kandi wiyambike icyubahiro n'ubwiza.",
+      "start": 44.22,
+      "end": 44.81
+    },
+    "11": {
+      "text": "Sandaza uburakari bwawe busesekare,Kandi witegereze umwibone wese umucishe bugufi.",
+      "start": 34.92,
+      "end": 43.05
+    },
+    "12": {
+      "text": "Urebe umwiraririzi umuzitse acogore,Kandi ukandagirire abanyabyaha aho bari.",
+      "start": 20.03,
+      "end": 34.3
+    },
+    "13": {
+      "text": "Bose ubashyire mu mukungugu,Mu maso habo uhakingiranire mu bwihisho.",
+      "start": 12.52,
+      "end": 19.75
+    },
+    "14": {
+      "text": "Ni bwo nzakwemera,Yuko ukuboko kwawe kw'iburyo kubasha kugukiza.",
+      "start": 2.23,
+      "end": 35.98
+    },
+    "15": {
+      "text": "Nuko witegereze Behemoti iyo naremye nkawe,Irya ubwatsi nk'inka.",
+      "start": 10.77,
+      "end": 42.65
+    },
+    "16": {
+      "text": "Dore itegereze imbaraga zayo ziri mu matako yayo,N'ububasha bwayo buri mu mitsi y'inda yayo.",
+      "start": 4.02,
+      "end": 31.49
+    },
+    "17": {
+      "text": "Izunguza umurizo wayo nk'umwerezi,Imitsi yo mu matako yayo irasobekeranye.",
+      "start": 18.15,
+      "end": 44.83
+    },
+    "18": {
+      "text": "Amagufwa yayo ameze nk'imiheha y'umuringa,Amaguru yayo ameze nk'ibihindizo by'ibyuma.",
+      "start": 19.83,
+      "end": 35.43
+    },
+    "19": {
+      "text": "“Mu byaremwe n'Imana ni yo ngenzi,Umuremyi wayo ni we watinyuka kuyegera yitwaje inkota.",
+      "start": 20.7,
+      "end": 32.24
+    },
+    "20": {
+      "text": "Ni ukuri imisozi iyibera urwuri,Aho inyamaswa zose zo mu ishyamba zikinira.",
+      "start": 15.0,
+      "end": 32.69
+    },
+    "21": {
+      "text": "Yiryamira munsi y'ibiti bifite ibicucu,Mu bwihisho bwo mu rufunzo no mu nkuka.",
+      "start": 6.26,
+      "end": 22.94
+    },
+    "22": {
+      "text": "Ibiti bifite ibicucu biyikwizaho ibicucu byabyo,Igakikizwa n'imikingo yo ku mugezi.",
+      "start": 5.91,
+      "end": 35.24
+    },
+    "23": {
+      "text": "Dore iyo umugezi wuzuye ntiruha ihinda umushyitsi,Naho Yorodani yakuzura ikagera mu kanwa kayo ntiyabyitaho.",
+      "start": 27.43,
+      "end": 33.61
+    },
+    "24": {
+      "text": "Mbese hari uwayifata iri maso,Cyangwa agapfumuza izuru ryayo ikigobwe?",
+      "start": 9.03,
+      "end": 36.52
+    },
+    "25": {
+      "text": "“Mbese wabasha kurobesha Lewiyatani ururobo,Cyangwa gufatisha ururimi rwayo umugozi?",
+      "start": 27.19,
+      "end": 44.99
+    },
+    "26": {
+      "text": "Washobora gushyira umugozi mu izuru ryayo,Cyangwa gutoboza akasaya kayo ururobo?",
+      "start": 4.42,
+      "end": 37.37
+    },
+    "27": {
+      "text": "Mbese yagutakira cyane,Cyangwa yakubwira amagambo ashyeshya,",
+      "start": 34.97,
+      "end": 40.39
+    },
+    "28": {
+      "text": "Aho yasezerana nawe,Kugira ngo ikubere umugaragu iminsi yose?",
+      "start": 37.31,
+      "end": 39.51
+    },
+    "29": {
+      "text": "Wayikinisha nk'ukinisha inyoni?Cyangwa wayizirikira gusetsa abaja bawe?",
+      "start": 9.3,
+      "end": 11.65
+    },
+    "30": {
+      "text": "Abarobyi bayicuruza se?Bayigabanya abagenza?",
+      "start": 4.69,
+      "end": 5.64
+    },
+    "31": {
+      "text": "Cyo ye wabasha kuzuza uruhu rwayo imyambi,Cyangwa umutwe wayo ibigobe?",
+      "start": 31.66,
+      "end": 41.02
+    },
+    "32": {
+      "text": "Kuyibangurira ukuboko,Wibuke ko ari intambara ukugerure.",
+      "start": 8.39,
+      "end": 9.32
+    }
+  }
+}

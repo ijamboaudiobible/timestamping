@@ -1,0 +1,158 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Maze Elifazi w'Umutemani arasubiza ati",
+      "start": 5.57,
+      "end": 28.42
+    },
+    "2": {
+      "text": "“Mbese umuntu yabasha kugira icyo amarira Imana?Ni ukuri umunyabwenge agira icyo yimarira ubwe.",
+      "start": 22.45,
+      "end": 30.68
+    },
+    "3": {
+      "text": "Mbese Ishoborabyose inezezwa n'uko uri umukiranutsi?Cyangwa se gutunganya inzira zawe hari icyo biyunguye?",
+      "start": 14.64,
+      "end": 19.17
+    },
+    "4": {
+      "text": "Icyo iguhanira ikagushyira mu rubanza ni uko uyubaha?",
+      "start": 19.17,
+      "end": 29.83
+    },
+    "5": {
+      "text": "Ibibi byawe si byinshi?Ndetse ibicumuro byawe ntibigira urugero.",
+      "start": 2.9,
+      "end": 42.94
+    },
+    "6": {
+      "text": "Kuko wajyanye ingwate z'abo muva inda imwe ku busa,Kandi uwambaye ubusa wamwimye umwambaro.",
+      "start": 15.62,
+      "end": 30.41
+    },
+    "7": {
+      "text": "Ntiwahaye indushyi amazi yo kunywa,Kandi umushonji wamwimye ibyokurya.",
+      "start": 21.13,
+      "end": 43.35
+    },
+    "8": {
+      "text": "Ariko ukomeye we yagiraga igihugu,Kandi uwubahwaga ni we wakibagamo.",
+      "start": 19.09,
+      "end": 21.92
+    },
+    "9": {
+      "text": "Abapfakazi wabagenzaga ubusa,N'amaboko y'impfubyi akavunagurwa.",
+      "start": 15.46,
+      "end": 29.45
+    },
+    "10": {
+      "text": "Ni cyo gituma imitego ikugose,N'ibiteye ubwoba bigutunguye biguhagaritse umutima.",
+      "start": 12.55,
+      "end": 24.73
+    },
+    "11": {
+      "text": "N'umwijima na wo urakugose ukubuza kubona,Kandi amazi menshi akurenzeho.",
+      "start": 6.41,
+      "end": 36.74
+    },
+    "12": {
+      "text": "“Mbese Imana ntiri hejuru mu ijuru?Kandi dore umutwe w'inyenyeri uko ziri kure.",
+      "start": 3.4,
+      "end": 8.01
+    },
+    "13": {
+      "text": "Nawe ukavuga uti ‘Icyo Imana izi ni iki?’Mbese yabasha guca urubanza inyuze mu mwijima w'icuraburindi?",
+      "start": 16.24,
+      "end": 20.21
+    },
+    "14": {
+      "text": "Uti ‘Ibicu bya rukokoma biyibereye igitwikirizo,Biyibuza kureba,Kandi iratambagira ku gisenge cy'ijuru.’",
+      "start": 4.85,
+      "end": 28.6
+    },
+    "15": {
+      "text": "“Mbese uzakomeza inzira ya kera,Iyo abanyabyaha banyuzemo?",
+      "start": 24.51,
+      "end": 35.98
+    },
+    "16": {
+      "text": "Bakuweho igihe cyabo kitaragera,Urufatiro rwabo rutemba nk'umugezi.",
+      "start": 40.95,
+      "end": 42.32
+    },
+    "17": {
+      "text": "Bakabwira Imana bati ‘Tuveho.’Kandi bati ‘Icyo Ishoborabyose yatumarira ni iki?’",
+      "start": 37.55,
+      "end": 44.41
+    },
+    "18": {
+      "text": "Nyamara amazu yabo yayujujemo ibintu byiza,Ariko imigambi y'inkozi z'ibibi imba kure.",
+      "start": 13.01,
+      "end": 19.93
+    },
+    "19": {
+      "text": "Abakiranutsi barabireba bakishimaKandi abatariho urubanza barabaseka.",
+      "start": 21.23,
+      "end": 43.17
+    },
+    "20": {
+      "text": "Bati ‘Ni ukuri abari baduhagurukiye bararimbuwe,Kandi abasigaye babo batsembwe n'umuriro.’",
+      "start": 11.96,
+      "end": 29.37
+    },
+    "21": {
+      "text": "“Noneho iyuzuze na yo ubone amahoro,Ubwo ni bwo ibyiza bizakuzaho.",
+      "start": 25.83,
+      "end": 40.58
+    },
+    "22": {
+      "text": "Ndakwinginze wemere amategeko ava mu kanwa kayo,N'amagambo yayo uyashyire mu mutima wawe.",
+      "start": 30.28,
+      "end": 39.83
+    },
+    "23": {
+      "text": "Nugarukira Ishoborabyose,Ugashyira gukiranirwa kure y'urugo rwawe uzakomera.",
+      "start": 44.16,
+      "end": 44.74
+    },
+    "24": {
+      "text": "Ute ubutunzi bwawe mu mukungugu,N'izahabu ya Ofiri uyite mu mabuye yo mu masumo,",
+      "start": 42.43,
+      "end": 42.76
+    },
+    "25": {
+      "text": "Maze Ishoborabyose izakubera umutunzi,N'ifeza y'igiciro cyinshi.",
+      "start": 19.39,
+      "end": 38.4
+    },
+    "26": {
+      "text": "Ni bwo uzishimira Ishoborabyose,Ukerekeza amaso yawe ku Mana.",
+      "start": 38.67,
+      "end": 39.12
+    },
+    "27": {
+      "text": "Uzayisaba na yo izakumvira,Kandi uzahigura imihigo yawe.",
+      "start": 28.42,
+      "end": 42.03
+    },
+    "28": {
+      "text": "Uzagira icyo ugambirira kikubere uko ushaka,Kandi umucyo uzamurikira inzira zawe.",
+      "start": 2.02,
+      "end": 4.15
+    },
+    "29": {
+      "text": "Nibakugusha uzavuga uti ‘Hariho ikimbyutsa.’Kandi uwicisha bugufi izamukiza,",
+      "start": 40.58,
+      "end": 43.91
+    },
+    "30": {
+      "text": "Ndetse izarokora n'uriho urubanza,Ni ukuri azakizwa no kubonera kw'amaboko yawe.”",
+      "start": 27.64,
+      "end": 29.47
+    }
+  }
+}

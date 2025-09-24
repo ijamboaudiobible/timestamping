@@ -1,0 +1,358 @@
+{
+  "book": "Book 15",
+  "book_canonical": "ezra",
+  "book_number": 15,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Kandi abo muri icyo gihugu, Nebukadinezari umwami w'i Babuloni yajyanye ari imbohe, akabajyana i Babuloni, abavuye mu bunyage bagasubira i Yerusalemu n'i Buyuda, umuntu wese agasubira mu mudugudu w'iwabo ni aba.",
+      "start": 39.54,
+      "end": 41.45
+    },
+    "2": {
+      "text": "Ni bo bazanye na Zerubabeli na Yeshuwa na Nehemiya, na Seraya na Rēlaya na Moridekayi, na Bilishani na Misipari na Bigivayi, na Rehumu na Bāna.Umubare w'abagabo bo mu Bisirayeli ni uyu:",
+      "start": 4.06,
+      "end": 43.83
+    },
+    "3": {
+      "text": "Abo muri bene Paroshi ni ibihumbi bibiri n'ijana na mirongo irindwi na babiri.",
+      "start": 44.6,
+      "end": 44.8
+    },
+    "4": {
+      "text": "Abo muri bene Shefatiya ni magana atatu na mirongo irindwi na babiri.",
+      "start": 3.26,
+      "end": 19.01
+    },
+    "5": {
+      "text": "Abo muri bene Ara ni magana arindwi na mirongo irindwi na batanu.",
+      "start": 1.07,
+      "end": 9.35
+    },
+    "6": {
+      "text": "Abo muri bene Pahatimowabu, bo muri bene Yoshuwa na Yowabu ni ibihumbi bibiri na magana inani na cumi na babiri.",
+      "start": 20.53,
+      "end": 26.04
+    },
+    "7": {
+      "text": "Abo muri bene Elamu ni igihumbi na magana abiri na mirongo itanu na bane.",
+      "start": 26.83,
+      "end": 44.63
+    },
+    "8": {
+      "text": "Abo muri bene Zatu ni magana urwenda na mirongo ine na batanu.",
+      "start": 30.8,
+      "end": 37.87
+    },
+    "9": {
+      "text": "Abo muri bene Zakayi ni magana arindwi na mirongo itandatu.",
+      "start": 17.77,
+      "end": 43.88
+    },
+    "10": {
+      "text": "Abo muri bene Bani ni magana atandatu na mirongo ine na babiri.",
+      "start": 41.45,
+      "end": 41.54
+    },
+    "11": {
+      "text": "Abo muri bene Bebayi ni magana atandatu na makumyabiri na batandatu.",
+      "start": 27.81,
+      "end": 41.51
+    },
+    "12": {
+      "text": "Abo muri bene Azigadi ni igihumbi na magana abiri na makumyabiri na babiri.",
+      "start": 44.92,
+      "end": 44.93
+    },
+    "13": {
+      "text": "Abo muri bene Adonikamu ni magana atandatu na mirongo itandatu na batandatu.",
+      "start": 7.15,
+      "end": 19.75
+    },
+    "14": {
+      "text": "Abo muri bene Bigivayi ni ibihumbi bibiri na mirongo itanu na batandatu.",
+      "start": 29.15,
+      "end": 40.71
+    },
+    "15": {
+      "text": "Abo muri bene Adini ni magana ane na mirongo itanu na bane.",
+      "start": 40.2,
+      "end": 42.49
+    },
+    "16": {
+      "text": "Abo muri bene Ateri, ba Hezekiya, ni mirongo urwenda n'umunani.",
+      "start": 30.1,
+      "end": 32.32
+    },
+    "17": {
+      "text": "Abo muri bene Besayi ni magana atatu na makumyabiri na batatu.",
+      "start": 21.28,
+      "end": 31.84
+    },
+    "18": {
+      "text": "Abo muri bene Yora ni ijana na cumi na babiri.",
+      "start": 24.76,
+      "end": 44.62
+    },
+    "19": {
+      "text": "Abo muri bene Hashumu ni magana abiri na makumyabiri na batatu.",
+      "start": 21.38,
+      "end": 22.59
+    },
+    "20": {
+      "text": "Abo muri bene Gibari ni mirongo urwenda na batanu.",
+      "start": 11.1,
+      "end": 17.5
+    },
+    "21": {
+      "text": "Abakomoka mu mugi wa Betelehemu ni ijana na makumyabiri na batatu.",
+      "start": 1.99,
+      "end": 19.49
+    },
+    "22": {
+      "text": "Abagabo b'i Netofa ni mirongo itanu na batandatu.",
+      "start": 35.64,
+      "end": 38.21
+    },
+    "23": {
+      "text": "Abagabo ba Anatoti ni ijana na makumyabiri n'umunani.",
+      "start": 1.2,
+      "end": 13.34
+    },
+    "24": {
+      "text": "Abakomoka mu mugi wa Azimaveti ni mirongo ine na babiri.",
+      "start": 34.18,
+      "end": 40.67
+    },
+    "25": {
+      "text": "Abakomoka mu mugi wa Kiriyatarimu n'uwa Kefira n'uwa Bēroti, ni magana arindwi na mirongo ine na batatu.",
+      "start": 42.46,
+      "end": 44.98
+    },
+    "26": {
+      "text": "Abakomoka mu mugi wa Rama n'uwa Geba ni magana atandatu na makumyabiri n'umwe.",
+      "start": 7.17,
+      "end": 31.32
+    },
+    "27": {
+      "text": "Abakomoka mu mugi wa Mikimasi ni ijana na makumyabiri na babiri.",
+      "start": 35.24,
+      "end": 44.2
+    },
+    "28": {
+      "text": "Abakomoka mu mugi wa Beteli n'uwa Ayi ni magana abiri na makumyabiri na batatu.",
+      "start": 1.27,
+      "end": 26.51
+    },
+    "29": {
+      "text": "Abakomoka mu mugi wa Nebo ni mirongo itanu na babiri.",
+      "start": 31.68,
+      "end": 37.71
+    },
+    "30": {
+      "text": "Abakomoka mu mugi wa Magibishi ni ijana na mirongo itanu na batandatu.",
+      "start": 20.85,
+      "end": 38.75
+    },
+    "31": {
+      "text": "Abo muri bene Elamu wundi ni igihumbi na magana abiri na mirongo itanu na bane.",
+      "start": 21.0,
+      "end": 27.72
+    },
+    "32": {
+      "text": "Abo muri bene Harimu ni magana atatu na makumyabiri.",
+      "start": 11.65,
+      "end": 33.47
+    },
+    "33": {
+      "text": "Abakomoka mu mugi wa Lodi n'uwa Hadidi n'uwa Ono, ni magana arindwi na makumyabiri na batanu.",
+      "start": 9.99,
+      "end": 38.26
+    },
+    "34": {
+      "text": "Abakomoka mu mugi wa Yeriko ni magana atatu na mirongo ine na batanu.",
+      "start": 9.06,
+      "end": 13.46
+    },
+    "35": {
+      "text": "Abakomoka mu mugi wa Senaya ni ibihumbi bitatu na magana atandatu na mirongo itatu.",
+      "start": 32.26,
+      "end": 38.59
+    },
+    "36": {
+      "text": "Abatambyi bene Yedaya, bo muryango wa Yeshuwa ni magana urwenda na mirongo irindwi na batatu.",
+      "start": 29.03,
+      "end": 31.04
+    },
+    "37": {
+      "text": "Abo muri bene Imeri ni igihumbi na mirongo itanu na babiri.",
+      "start": 30.39,
+      "end": 44.03
+    },
+    "38": {
+      "text": "Abo muri bene Pashuri ni igihumbi na magana abiri na mirongo ine na barindwi.",
+      "start": 7.07,
+      "end": 26.85
+    },
+    "39": {
+      "text": "Abo muri bene Harimu ni igihumbi na cumi na barindwi.",
+      "start": 5.03,
+      "end": 15.99
+    },
+    "40": {
+      "text": "Abalewi bene Yeshuwa na Kadimiyeli, bo muri bene Hodaviya ni mirongo irindwi na bane.",
+      "start": 15.62,
+      "end": 42.08
+    },
+    "41": {
+      "text": "Abaririmbyi bene Asafu ni ijana na makumyabiri n'umunani.",
+      "start": 16.62,
+      "end": 39.65
+    },
+    "42": {
+      "text": "Abo mu bakumirizi bene Shalumu na bene Ateri, na bene Talimoni na bene Akubu, na bene Hatita na bene Shobayi, bose ni ijana na mirongo itatu n'icyenda.",
+      "start": 0.5,
+      "end": 15.31
+    },
+    "43": {
+      "text": "Abanetinimu bene Siha na bene Hasufa na bene Tabawoti,",
+      "start": 39.02,
+      "end": 40.77
+    },
+    "44": {
+      "text": "na bene Kerosi na bene Siyaha na bene Padoni,",
+      "start": 3.17,
+      "end": 30.43
+    },
+    "45": {
+      "text": "na bene Lebana na bene Hagaba na bene Akubu,",
+      "start": 6.79,
+      "end": 44.1
+    },
+    "46": {
+      "text": "na bene Hagabu na bene Shalumayi na bene Hanāni,",
+      "start": 20.62,
+      "end": 33.1
+    },
+    "47": {
+      "text": "na bene Gideli na bene Gahari na bene Reyaya,",
+      "start": 5.81,
+      "end": 44.84
+    },
+    "48": {
+      "text": "na bene Resini na bene Nekoda na bene Gazamu,",
+      "start": 34.02,
+      "end": 36.17
+    },
+    "49": {
+      "text": "na bene Uza na bene Paseya na bene Besayi,",
+      "start": 3.14,
+      "end": 9.24
+    },
+    "50": {
+      "text": "na bene Asina na bene Meyunimu na bene Nefusimu,",
+      "start": 31.85,
+      "end": 39.5
+    },
+    "51": {
+      "text": "na bene Bakibuki na bene Hakufa na bene Harihuri,",
+      "start": 2.54,
+      "end": 16.49
+    },
+    "52": {
+      "text": "na bene Basiluti na bene Mehida na bene Harisha,",
+      "start": 9.05,
+      "end": 15.76
+    },
+    "53": {
+      "text": "na bene Barikosi na bene Sisera na bene Tema,",
+      "start": 26.2,
+      "end": 31.1
+    },
+    "54": {
+      "text": "na bene Nesiya na bene Hatifa.",
+      "start": 34.26,
+      "end": 41.42
+    },
+    "55": {
+      "text": "N'abuzukuruza b'abagaragu ba Salomo ni bene Sotayi na bene Sofereti na bene Peruda,",
+      "start": 16.85,
+      "end": 23.99
+    },
+    "56": {
+      "text": "na bene Yāla na bene Darikoni na bene Gideli,",
+      "start": 0.31,
+      "end": 3.07
+    },
+    "57": {
+      "text": "na bene Shefatiya na bene Hatili, na bene Pokeretihasebayimu na bene Ami.",
+      "start": 4.16,
+      "end": 23.57
+    },
+    "58": {
+      "text": "Abanetinimu bose n'abuzukuruza b'abagaragu ba Salomo, bari magana atatu na mirongo urwenda na babiri.",
+      "start": 15.85,
+      "end": 33.78
+    },
+    "59": {
+      "text": "Kandi aba ni bo bazamutse bava i Telimela n'i Teliharisha, n'i Kerubu na Adani na Imeri, ariko ntibabasha kwerekana amazina ya ba sekuruza n'imbyaro zabo yuko ari Abisirayeli koko.",
+      "start": 40.38,
+      "end": 41.31
+    },
+    "60": {
+      "text": "Abo muri bene Delaya na bene Tobiya na bene Nekoda, ni magana atandatu ma mirongo itanu na babiri.",
+      "start": 16.6,
+      "end": 38.15
+    },
+    "61": {
+      "text": "Kandi n'abo mu batambyi bene Habaya na bene Hakosi, na bene Barizilayi w'Umunyagaleyadi, washatse umugeni mu bakobwa ba Barizilayi w'Umunyagaleyadi akamwitirirwa,",
+      "start": 1.35,
+      "end": 12.04
+    },
+    "62": {
+      "text": "abo bashatse amazina yabo mu mibare yo kuvuka kwabo ntibayabona, ni cyo cyatumye batekerezwa nk'abahumanye bagakurwa mu butambyi.",
+      "start": 42.16,
+      "end": 44.63
+    },
+    "63": {
+      "text": "Umutirushata ababwira yuko batarya ku bintu byejejwe cyane, kugeza ubwo hazaboneka umutambyi ufite Urimu na Tumimu.",
+      "start": 5.01,
+      "end": 14.14
+    },
+    "64": {
+      "text": "Nuko iteraniro ryose riteranye ryari inzovu enye n'ibihumbi bibiri na magana atatu na mirongo itandatu;",
+      "start": 4.85,
+      "end": 34.49
+    },
+    "65": {
+      "text": "udashyizeho abagaragu babo n'abaja babo, umubare wabo bari ibihumbi birindwi na magana atatu na mirongo itatu na barindwi, kandi bari bafite abagabo n'abagore b'abaririmbyi magana abiri.",
+      "start": 38.22,
+      "end": 44.3
+    },
+    "66": {
+      "text": "Amafarashi yabo yari magana arindwi na mirongo itatu n'atandatu, n'inyumbu zabo zari magana abiri na mirongo ine n'eshanu,",
+      "start": 13.9,
+      "end": 22.79
+    },
+    "67": {
+      "text": "n'ingamiya zabo na zo zari magana ane na mirongo itatu n'eshanu, n'indogobe zabo zari ibihumbi bitandatu na magana arindwi na makumyabiri.",
+      "start": 44.59,
+      "end": 44.75
+    },
+    "68": {
+      "text": "Bamwe mu batware b'amazu ya ba sekuruza, bageze ku nzu y'Uwiteka iri i Yerusalemu baturana umutima ukunze amaturo y'inzu y'Imana, ngo bayishinge ahantu hayo.",
+      "start": 28.54,
+      "end": 40.89
+    },
+    "69": {
+      "text": "Batanga uko babashije, bashyira mu bubiko bw'ibikoreshwa umurimo dariki z'izahabu inzovu esheshatu n'igihumbi, n'indatira z'ifeza ibihumbi bitanu, n'imyambaro ijana y'abatambyi.",
+      "start": 25.02,
+      "end": 37.19
+    },
+    "70": {
+      "text": "Nuko abatambyi n'Abalewi n'abantu bamwe, n'abaririmbyi n'abakumirizi n'Abanetinimu baba mu midugudu yabo, n'Abisirayeli bose mu midugudu yabo.",
+      "start": 21.36,
+      "end": 26.34
+    }
+  }
+}

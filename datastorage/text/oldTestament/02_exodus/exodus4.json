@@ -1,0 +1,163 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Mose arayisubiza ati “Ariko ntibazanyemera, ntibazanyumvira kuko bazambwira bati ‘Uwiteka ntiyakubonekeye.’ ”",
+      "start": 1.63,
+      "end": 33.03
+    },
+    "2": {
+      "text": "Uwiteka aramubaza ati “Icyo ufite mu ntoki ni iki?”Aramusubiza ati “Ni inkoni.”",
+      "start": 16.24,
+      "end": 34.93
+    },
+    "3": {
+      "text": "Aramubwira ati “Yijugunye hasi.” Ayijugunya hasi ihinduka inzoka, Mose arayihunga.",
+      "start": 44.48,
+      "end": 44.99
+    },
+    "4": {
+      "text": "Uwiteka aramubwira ati “Rambura ukuboko uyifate umurizo.” Arambura ukuboko arayifata, irongera iba inkoni mu ntoki ze.",
+      "start": 19.24,
+      "end": 44.58
+    },
+    "5": {
+      "text": "Uwiteka ati “Ni ukugira ngo bemere yuko Uwiteka Imana ya ba sekuruza, Imana ya Aburahamu, Imana ya Isaka, Imana ya Yakobo, yakubonekeye.”",
+      "start": 38.95,
+      "end": 44.31
+    },
+    "6": {
+      "text": "Kandi Uwiteka aramubwira ati “Ishyire ikiganza mu gituza.” Yishyira ikiganza mu gituza, agikuyemo kiza cyuzuyeho ibibembe, cyera nka shelegi.",
+      "start": 0.78,
+      "end": 1.34
+    },
+    "7": {
+      "text": "Aramubwira ati “Cyisubize mu gituza.” Acyisubiza mu gituza, agikuyemo kiza gihwanye n'undi mubiri wose.",
+      "start": 26.39,
+      "end": 30.44
+    },
+    "8": {
+      "text": "Uwiteka ati “Kandi nibatakwemera ngo bemezwe n'ikimenyetso cya mbere, bazemera icya kabiri.",
+      "start": 22.16,
+      "end": 31.46
+    },
+    "9": {
+      "text": "Kandi nibaramuka batemejwe n'ibyo bimenyetso byombi, ntibumvire amagambo yawe, uzavome amazi yo mu ruzi uyasuke imusozi, ayo mazi uvomye mu ruzi azahindukira amaraso imusozi.”",
+      "start": 40.35,
+      "end": 44.34
+    },
+    "10": {
+      "text": "Mose abwira Uwiteka ati “Mwami, na mbere sindi intyoza mu magambo, n'ubu nubwo uvuganye nanjye umugaragu wawe, kuko ntabasha kuvuga vuba, kandi ururimi rwanjye rugatinda.”",
+      "start": 22.59,
+      "end": 35.54
+    },
+    "11": {
+      "text": "Uwiteka aramubwira ati “Ni nde waremye akanwa k'umuntu? Cyangwa ni nde utera uburagi, cyangwa ubupfamatwi, cyangwa uhumūra, cyangwa uhumisha? Si jye Uwiteka ubikora?",
+      "start": 6.37,
+      "end": 28.84
+    },
+    "12": {
+      "text": "Nuko none genda, nanjye nzajya mbana n'akanwa kawe, nkwigishe ibyo uvuga.”",
+      "start": 7.51,
+      "end": 35.72
+    },
+    "13": {
+      "text": "Aramusubiza ati “Mwami ndakwingize, tuma uwo ushaka gutuma.”",
+      "start": 43.04,
+      "end": 44.99
+    },
+    "14": {
+      "text": "Mose yikongereza uburakari bw'Uwiteka, aramubwira ati “Aroni mwene so Umulewi, ntahari? Nzi yuko ari intyoza kandi aje kugusanganira, nakubona azishimira mu mutima we.",
+      "start": 36.5,
+      "end": 41.65
+    },
+    "15": {
+      "text": "Nawe uzajye uhora umubwira ushyire amagambo mu kanwa ke, nanjye nzajya mbana n'akanwa kawe n'ake mbigishe ibyo mukora.",
+      "start": 25.94,
+      "end": 41.37
+    },
+    "16": {
+      "text": "Kandi azajya akubwirira abantu, azakubere akanwa, nawe uzamubera nk'Imana.",
+      "start": 10.59,
+      "end": 31.45
+    },
+    "17": {
+      "text": "Kandi uzajye witwaza iyo nkoni, ni yo uzakoresha bya bimenyetso.”",
+      "start": 17.52,
+      "end": 35.5
+    },
+    "18": {
+      "text": "Mose aragenda asubira kwa Yetiro sebukwe aramubwira ati “Ndakwingize, reka nsubire muri bene wacu bari muri Egiputa, menye yuko bakiriho.” Yetiro asubiza Mose ati “Genda amahoro.”",
+      "start": 4.64,
+      "end": 13.62
+    },
+    "19": {
+      "text": "Uwiteka abwirira Mose i Midiyani ati “Genda usubire muri Egiputa, kuko abantu bose bashakaga kukwica bapfuye.”",
+      "start": 13.03,
+      "end": 15.26
+    },
+    "20": {
+      "text": "Mose ajyana umugore we n'abana be, abashyira ku ndogobe, asubira mu gihugu cya Egiputa, kandi yitwaza ya nkoni y'Imana.",
+      "start": 31.63,
+      "end": 44.89
+    },
+    "21": {
+      "text": "Uwiteka abwira Mose ati “Nusubira muri Egiputa ntuzabure gukorera imbere ya Farawo ibitangaza byose nguhaye gukora, ariko nzanangira umutima we ntazareka abantu bagenda.",
+      "start": 6.31,
+      "end": 37.29
+    },
+    "22": {
+      "text": "Kandi uzabwire Farawo uti ‘Uwiteka aravuze ati: ubwoko bw'Abisirayeli ni umwana wanjye w'impfura,",
+      "start": 41.58,
+      "end": 44.64
+    },
+    "23": {
+      "text": "kandi narakubwiye nti: rekura umwana wanjye agende ankorere, ariko wanze kumurekura. Nuko rero nzica umwana wawe w'impfura.’ ”",
+      "start": 16.22,
+      "end": 20.4
+    },
+    "24": {
+      "text": "Bukeye ari mu rugendo, Uwiteka amusanga mu ndaro yarayemo, ashaka kumwica.",
+      "start": 21.94,
+      "end": 38.44
+    },
+    "25": {
+      "text": "Maze Zipora yenda isarabwayi, akeba umunwa w'icyo umwana we yambariye, awujugunya imbere ya Mose aramubwira ati “Ni ukuri umbereye umukwe uvusha amaraso.”",
+      "start": 11.75,
+      "end": 18.51
+    },
+    "26": {
+      "text": "Uwiteka aramureka, maze Zipora aramubwira ati “Uri umukwe uvusha amaraso! Gukeba abana ni ko nkwitiye ntyo.”",
+      "start": 4.08,
+      "end": 27.59
+    },
+    "27": {
+      "text": "Uwiteka abwira Aroni ati “Jya mu butayu usanganirireyo Mose.” Aragenda amusanganirira ku musozi w'Imana, aramusoma.",
+      "start": 5.88,
+      "end": 17.36
+    },
+    "28": {
+      "text": "Mose abwira Aroni amagambo Uwiteka yamutumye yose, n'ibimenyetso byose yamutegetse gukora.",
+      "start": 28.31,
+      "end": 32.53
+    },
+    "29": {
+      "text": "Mose na Aroni baragenda, bateranya abakuru bose bo mu Bisirayeli.",
+      "start": 2.76,
+      "end": 8.02
+    },
+    "30": {
+      "text": "Aroni ababwira amagambo yose Uwiteka yatumye Mose, akorera bya bimenyetso imbere y'abantu.",
+      "start": 22.36,
+      "end": 27.51
+    },
+    "31": {
+      "text": "Abantu baremera, bumvise yuko Uwiteka yagendereye Abisirayeli akabona umubabaro wabo, barunama bikubita hasi.",
+      "start": 0.59,
+      "end": 4.5
+    }
+  }
+}

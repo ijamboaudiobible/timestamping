@@ -1,0 +1,223 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Ariko Sawuli akomeza gukangisha abigishwa b'Umwami ko bicwa, ajya ku mutambyi mukuru",
+      "start": 28.19,
+      "end": 42.5
+    },
+    "2": {
+      "text": "amusaba inzandiko zo guha ab'amasinagogi y'i Damasiko, kugira ngo nabona abantu b'Inzira ya Yesu, abagabo cyangwa abagore, ababohe abajyane i Yerusalemu.",
+      "start": 30.52,
+      "end": 44.97
+    },
+    "3": {
+      "text": "Akigenda yenda gusohora i Damasiko, umucyo uramutungura uvuye mu ijuru uramugota.",
+      "start": 16.47,
+      "end": 16.5
+    },
+    "4": {
+      "text": "Agwa hasi yumva ijwi rimubaza riti “Sawuli, Sawuli, undenganiriza iki?”",
+      "start": 13.98,
+      "end": 33.24
+    },
+    "5": {
+      "text": "Aramubaza ati “Uri nde, Mwami?”Na we ati “Ndi Yesu, uwo urenganya.",
+      "start": 44.04,
+      "end": 44.2
+    },
+    "6": {
+      "text": "Ariko haguruka ujye mu mudugudu, uzabwirwa ibyo ukwiriye gukora.”",
+      "start": 14.11,
+      "end": 26.34
+    },
+    "7": {
+      "text": "Abagabo bajyanye na we bahagarara badakoma, kuko bumvise iryo jwi batagize umuntu babona.",
+      "start": 22.16,
+      "end": 36.6
+    },
+    "8": {
+      "text": "Sawuli arabyuka arambuye amaso ntiyagira icyo areba, baramurandata bamujyana i Damasiko.",
+      "start": 32.58,
+      "end": 35.3
+    },
+    "9": {
+      "text": "Amarayo gatatu atareba, atarya kandi atanywa.",
+      "start": 37.74,
+      "end": 38.43
+    },
+    "10": {
+      "text": "I Damasiko hari umwigishwa witwaga Ananiya. Umwami Yesu aramubonekera aramuhamagara ati “Ananiya.”Na we ati “Karame, Mwami.”",
+      "start": 4.63,
+      "end": 15.86
+    },
+    "11": {
+      "text": "Umwami aramubwira ati “Haguruka ujye mu nzira yitwa Igororotse, ushakire mu nzu ya Yuda umuntu witwa Sawuli w'i Taruso, kuko ubu ngubu asenga.",
+      "start": 40.85,
+      "end": 41.44
+    },
+    "12": {
+      "text": "Kandi na we abonye mu iyerekwa umuntu witwa Ananiya yinjira, amurambikaho ibiganza kugira ngo ahumuke.”",
+      "start": 19.28,
+      "end": 41.75
+    },
+    "13": {
+      "text": "Ananiya aramusubiza ati “Mwami, uwo muntu numvise benshi bamuvuga, uko yagiriraga nabi abera bawe bari i Yerusalemu,",
+      "start": 3.14,
+      "end": 18.62
+    },
+    "14": {
+      "text": "kandi n'ino afite ubutware abuhawe n'abatambyi bakuru, bwo kuboha abāmbaza izina ryawe.”",
+      "start": 18.53,
+      "end": 39.98
+    },
+    "15": {
+      "text": "Umwami aramusubiza ati “Genda kuko uwo muntu ari igikoreshwa nitoranirije, ngo yogeze izina ryanjye imbere y'abanyamahanga n'abami n'Abisirayeli,",
+      "start": 1.41,
+      "end": 33.48
+    },
+    "16": {
+      "text": "nanjye nzamwereka ibyo azababazwa na we uburyo ari byinshi, bamuhora izina ryanjye.”",
+      "start": 31.11,
+      "end": 33.33
+    },
+    "17": {
+      "text": "Ananiya aragenda yinjira mu nzu, amurambikaho ibiganza aramubwira ati “Sawuli mwene Data, Umwami Yesu wakubonekereye mu nzira waturutsemo, arantumye ngo uhumuke wuzuzwe Umwuka Wera.”",
+      "start": 19.57,
+      "end": 41.34
+    },
+    "18": {
+      "text": "Uwo mwanya ibisa n'imboneranyi bimuva ku maso arahumuka, arahaguruka arabatizwa,",
+      "start": 10.07,
+      "end": 31.68
+    },
+    "19": {
+      "text": "amaze gufungura abona intege.Amarana iminsi n'abigishwa b'i Damasiko,",
+      "start": 23.2,
+      "end": 36.69
+    },
+    "20": {
+      "text": "aherako abwiriza mu masinagogi yuko Yesu ari Umwana w'Imana.",
+      "start": 43.67,
+      "end": 44.54
+    },
+    "21": {
+      "text": "Abamwumvise bose barumirwa bati “Uyu si we warimburiraga i Yerusalemu abāmbaza iryo zina? Kandi icyamuzanye n'ino si ukugira ngo ababohe, abashyīre abatambyi bakuru?”",
+      "start": 32.42,
+      "end": 37.0
+    },
+    "22": {
+      "text": "Ariko Sawuli arushaho kugwiza imbaraga, atsinda Abayuda batuye i Damasiko arabamwaza, abahamiriza yuko Yesu ari we Kristo.",
+      "start": 25.29,
+      "end": 25.83
+    },
+    "23": {
+      "text": "Hashize iminsi myinshi Abayuda bajya inama yo kumwica,",
+      "start": 25.91,
+      "end": 43.83
+    },
+    "24": {
+      "text": "ariko Sawuli amenya inama yabo. Bubikirira ku marembo ku manywa na nijoro, kugira ngo bamwice.",
+      "start": 28.81,
+      "end": 33.67
+    },
+    "25": {
+      "text": "Abigishwa be ni ko kumujyana nijoro, bamucisha mu nkike z'amabuye, bamumanurira mu gitebo.",
+      "start": 38.92,
+      "end": 41.36
+    },
+    "26": {
+      "text": "Asohoye i Yerusalemu agerageza kwifatanya n'abigishwa, ariko bose baramutinya ntibemera ko ari umwigishwa.",
+      "start": 33.45,
+      "end": 44.67
+    },
+    "27": {
+      "text": "Maze Barinaba aramujyana amushyīra intumwa, azisobanurira uko yabonye Umwami Yesu mu nzira, kandi uko yavuganye na we, n'uko yavuze ashize amanga mu izina rya Yesu i Damasiko.",
+      "start": 7.47,
+      "end": 10.96
+    },
+    "28": {
+      "text": "Abana na bo i Yerusalemu akajya abasura, abwiriza mu izina ry'Umwami ashize amanga,",
+      "start": 36.61,
+      "end": 38.72
+    },
+    "29": {
+      "text": "akaganira n'Abayuda ba kigiriki ajya impaka na bo, bigeza ubwo na bo bashaka kumwica.",
+      "start": 2.43,
+      "end": 10.78
+    },
+    "30": {
+      "text": "Ariko bene Data babimenye bamujyana i Kayisariya, bamwohereza i Taruso.",
+      "start": 13.86,
+      "end": 15.16
+    },
+    "31": {
+      "text": "Nuko Itorero ryose ryari i Yudaya hose n'i Galilaya n'i Samariya rigira amahoro, rirakomezwa kandi rigenda ryubaha Umwami Yesu, rifashwa n'Umwuka Wera riragwira.",
+      "start": 18.97,
+      "end": 28.88
+    },
+    "32": {
+      "text": "Nuko Petero ajya hose kubasūra, ajya no ku bera batuye i Luda,",
+      "start": 42.29,
+      "end": 44.06
+    },
+    "33": {
+      "text": "asangayo umugabo witwaga Ayineya wamaze imyaka munani atava ku buriri, kuko yari aremaye.",
+      "start": 7.01,
+      "end": 36.35
+    },
+    "34": {
+      "text": "Petero aramubwira ati “Ayineya, Yesu Kristo aragukijije, haguruka wisasire.” Uwo mwanya arahaguruka.",
+      "start": 2.92,
+      "end": 10.02
+    },
+    "35": {
+      "text": "Abatuye i Luda n'i Saroni bose bamubonye bahindukirira Umwami Yesu.",
+      "start": 26.85,
+      "end": 38.07
+    },
+    "36": {
+      "text": "Kandi i Yopa hari umugore w'umwigishwa witwaga Tabita, risobanurwa ngo “Doruka”. Uwo mugore yagiraga imirimo myiza myinshi n'ubuntu bwinshi.",
+      "start": 42.27,
+      "end": 42.56
+    },
+    "37": {
+      "text": "Muri iyo minsi ararwara arapfa, bamaze kumwuhagira bamushyira mu cyumba cyo hejuru.",
+      "start": 19.94,
+      "end": 34.95
+    },
+    "38": {
+      "text": "Kandi kuko i Luda hari bugufi bw'i Yopa, abigishwa bumvise ko Petero ari yo ari, bamutumaho abantu babiri bamwinginga bati “Ngwino uze iwacu, ntutinde.”",
+      "start": 32.7,
+      "end": 39.46
+    },
+    "39": {
+      "text": "Petero arahaguruka, ajyana na bo. Asohoyeyo bamujyana muri icyo cyumba cyo hejuru, abapfakazi bose bahagarara iruhande rwe barira, berekana amakanzu n'imyenda Doruka yababoheye akiriho.",
+      "start": 10.95,
+      "end": 14.28
+    },
+    "40": {
+      "text": "Petero abaheza bose, arapfukama arasenga, ahindukirira intumbi ati “Tabita, haguruka.” Arambura amaso, abonye Petero arabyuka aricara.",
+      "start": 25.01,
+      "end": 29.01
+    },
+    "41": {
+      "text": "Petero amufata ukuboko aramuhagurutsa. Maze ahamagara abera n'abapfakazi, amubaha ari muzima.",
+      "start": 3.44,
+      "end": 14.77
+    },
+    "42": {
+      "text": "Bimenyekana i Yopa hose, benshi bizera Umwami.",
+      "start": 37.07,
+      "end": 40.35
+    },
+    "43": {
+      "text": "Nuko amara iminsi myinshi i Yopa, acumbitse kwa Simoni w'umuhazi.",
+      "start": 18.5,
+      "end": 29.08
+    }
+  }
+}

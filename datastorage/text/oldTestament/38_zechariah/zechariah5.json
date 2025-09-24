@@ -1,0 +1,63 @@
+{
+  "book": "Book 38",
+  "book_canonical": "zechariah",
+  "book_number": 38,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Nuko nongera kūbura amaso, ngiye kubona mbona umuzingo w'igitabo uguruka.",
+      "start": 1.38,
+      "end": 18.27
+    },
+    "2": {
+      "text": "Arambaza ati “Ubonye iki?”Ndamusubiza nti “Mbonye umuzingo w'igitabo uguruka, uburebure bwawo ni mikono makumyabiri, n'ubugari bwawo ni mikono cumi.”",
+      "start": 34.81,
+      "end": 37.07
+    },
+    "3": {
+      "text": "Arambwira ati “Uwo ni umuvumo woherejwe gukwira isi yose, ku ruhande rumwe uhamya yuko uwiba wese azakurwaho, ku rundi uhamya yuko urahira ibinyoma wese azakurwaho.",
+      "start": 37.75,
+      "end": 39.22
+    },
+    "4": {
+      "text": "Uwo muvumo nzawohereza, ni ko Uwiteka Nyiringabo avuga, winjire mu nzu y'umujura no mu nzu y'urahira izina ryanjye ibinyoma. Uzaba mu mazu yabo imbere, uyatwikane n'ibiti n'amabuye byayo.”",
+      "start": 20.59,
+      "end": 27.0
+    },
+    "5": {
+      "text": "Maze marayika twavuganaga arasohoka arambwira ati “Noneho ubura amaso urebe kiriya gisohotse uko kimeze.”",
+      "start": 41.42,
+      "end": 44.15
+    },
+    "6": {
+      "text": "Ndabaza nti “Kiriya ni iki?”Aransubiza ati “Kiriya ni indengo isohotse.” Kandi ati “Mu gihugu cyose uko ni ko basa.”",
+      "start": 18.33,
+      "end": 23.12
+    },
+    "7": {
+      "text": "Kandi dore umutemeri w'ibati upfunduwe, mbona umugore wicaye imbere mu ndengo.",
+      "start": 39.02,
+      "end": 44.02
+    },
+    "8": {
+      "text": "Ati “Uyu ni we Bugome.” Maze amujugunya mu ndengo imbere, akubitaho uwo mutemeri w'ibati uremereye ku musozo wayo.",
+      "start": 4.09,
+      "end": 4.85
+    },
+    "9": {
+      "text": "Nuko nubura amaso ngiye kubona mbona abagore babiri basohotse bafite umuyaga mu mababa yabo, kandi bari bafite amababa nk'ay'igishondabagabo, baterura iyo ndengo bayitwarira mu kirere.",
+      "start": 7.35,
+      "end": 27.18
+    },
+    "10": {
+      "text": "Mbaza marayika twavuganaga nti “Iriya ndengo barayijyana he?”",
+      "start": 27.43,
+      "end": 30.89
+    },
+    "11": {
+      "text": "Aransubiza ati “Bagiye kubakira uwo mugore inzu mu gihugu cy'i Shinari, niyuzura azashyirwa ukwe muri icyo gihugu.”",
+      "start": 34.65,
+      "end": 38.79
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Yosiya yimye amaze imyaka munani avutse, amara imyaka mirongo itatu n'umwe i Yerusalemu ari ku ngoma. Nyina yitwaga Yedida mwene Adaya w'i Bosikati.",
+      "start": 39.0,
+      "end": 44.96
+    },
+    "2": {
+      "text": "Ariko we akora ibishimwa imbere y'Uwiteka, agendana ingeso nziza za sekuruza Dawidi zose, ntiyakebakeba.",
+      "start": 41.43,
+      "end": 42.02
+    },
+    "3": {
+      "text": "Kandi Umwami Yosiya amaze imyaka cumi n'umunani avutse, atuma umwanditsi we Shafani mwene Asaliya mwene Meshulamu mu nzu y'Uwiteka ati",
+      "start": 18.08,
+      "end": 27.37
+    },
+    "4": {
+      "text": "“Zamuka usange Hilukiya umutambyi mukuru, umubwire abare ifeza zizanwa mu nzu y'Uwiteka, izo abarinzi b'urugi basonzoranije mu bantu,",
+      "start": 12.14,
+      "end": 30.68
+    },
+    "5": {
+      "text": "bazihe abategeka umurimo wo mu nzu y'Uwiteka, kugira ngo zihembwe abakozi bo muri iyo nzu y'Uwiteka, basane aho isenyutse,",
+      "start": 15.61,
+      "end": 29.12
+    },
+    "6": {
+      "text": "nk'ababaji n'abubatsi n'abubakisha amabuye, kandi izindi bazigure ibiti n'amabuye abajwe byo gusana inzu.",
+      "start": 27.58,
+      "end": 30.66
+    },
+    "7": {
+      "text": "Ariko izo feza babahaye ntibagombaga kuzibamurikisha, kuko bakoraga ari abiringiwe.”",
+      "start": 6.77,
+      "end": 13.72
+    },
+    "8": {
+      "text": "Bukeye Hilukiya umutambyi mukuru abwira Shafani umwanditsi ati “Ntoye igitabo cy'amategeko mu nzu y'Uwiteka.” Hilukiya aherako agiha Shafani umwanditsi, aragisoma.",
+      "start": 23.91,
+      "end": 36.68
+    },
+    "9": {
+      "text": "Hanyuma umwanditsi Shafani asubira ibwami, atekereza umwami uko byagenze ati “Abagaragu bawe basutse mu masaho ifeza zabonetse mu nzu y'Uwiteka, baziha abakoresha imirimo yo mu nzu y'Uwiteka.”",
+      "start": 33.59,
+      "end": 41.35
+    },
+    "10": {
+      "text": "Shafani umwanditsi arongera abwira umwami ati “Kandi Hilukiya umutambyi ampaye igitabo.” Nuko Shafani agisomera imbere y'umwami.",
+      "start": 27.89,
+      "end": 41.19
+    },
+    "11": {
+      "text": "Umwami amaze kumva amagambo yo muri icyo gitabo cy'amategeko, ashishimura imyambaro ye.",
+      "start": 36.2,
+      "end": 36.85
+    },
+    "12": {
+      "text": "Umwami aherako ategeka Hilukiya umutambyi, na Ahikamu mwene Shafani, na Akibori mwene Mikaya, na Shafani umwanditsi, na Asaya umugaragu w'umwami ati",
+      "start": 4.71,
+      "end": 24.86
+    },
+    "13": {
+      "text": "“Nimugende mumbarize Uwiteka, jye n'aba bantu n'Abayuda bose, iby'amagambo yo muri iki gitabo cyabonetse mu nzu y'Uwiteka, kuko uburakari bw'Uwiteka budukongerejwe ari bwinshi, ku bwa ba sogokuruza batumviye amagambo yo muri iki gitabo, ntibakore ibyo twandikiwe byose.”",
+      "start": 9.55,
+      "end": 40.33
+    },
+    "14": {
+      "text": "Nuko Hilukiya umutambyi, na Ahikamu na Akibori, na Shafani na Asaya, baragenda basanga umuhanuzikazi. Hulida muka Shalumu umuhungu wa Tikuva, mwene Haruhasi umubitsi w'imyambaro (kandi uwo mugore yari atuye i Yerusalemu mu gice cyaho cya kabiri), bavugana na we.",
+      "start": 13.73,
+      "end": 22.68
+    },
+    "15": {
+      "text": "Arababwira ati “Uwiteka Imana ya Isirayeli iravuze ngo nimubwire uwo mugabo wabantumyeho muti",
+      "start": 28.57,
+      "end": 35.49
+    },
+    "16": {
+      "text": "‘Uwiteka aravuze ngo dore nzateza ibyago aha hantu n'abahatuye, nk'uko byanditswe mu magambo yo muri cya gitabo yose umwami w'Abayuda yasomye,",
+      "start": 39.89,
+      "end": 41.55
+    },
+    "17": {
+      "text": "kuko banyimūye bakosereza izindi mana imibavu, bakandakarisha ibyo bakoresha amaboko yabo byose. Ni cyo gitumye uburakari bwanjye bukongerezwa aha hantu, ntibuzimywe.’",
+      "start": 37.67,
+      "end": 39.0
+    },
+    "18": {
+      "text": "Ariko umwami w'Abayuda wabatumye kumbaza, mumubwire muti ‘Uwiteka Imana ya Isirayeli iravuga ku magambo wumvise iti:",
+      "start": 4.04,
+      "end": 5.36
+    },
+    "19": {
+      "text": "Kuko umutima wawe wari woroheje ubwo wumvaga ibyo navuze kuri aha hantu n'abaturage baho, ko hazahinduka umusaka n'ikivume ukicisha bugufi imbere y'Uwiteka, ugashishimura imyambaro yawe ukandirira imbere, nanjye ndakumvise, ni ko Uwiteka avuze.",
+      "start": 22.4,
+      "end": 34.3
+    },
+    "20": {
+      "text": "Nuko nzagusangisha ba sogokuruza ushyirwe mu mva yawe amahoro, kandi amaso yawe ntazareba ibyago nzateza aha hantu.’ ”Baherako baraza babitekerereza umwami.",
+      "start": 28.18,
+      "end": 30.47
+    }
+  }
+}

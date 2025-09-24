@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Mikitamu ya Dawidi.Mana undinde kuko ari wowe mpungiyeho.",
+      "start": 12.53,
+      "end": 42.33
+    },
+    "2": {
+      "text": "Nabwiye Uwiteka nti “Ni wowe Mwami wanjye,Nta mugisha mfite utari wowe.”",
+      "start": 44.35,
+      "end": 44.72
+    },
+    "3": {
+      "text": "Abera bo mu isi,Ni bo mpfura nishimira bonyine.",
+      "start": 3.95,
+      "end": 14.89
+    },
+    "4": {
+      "text": "Ibyago n'amakuba by'abagurana Uwiteka izindi mana bizagwira,Amaturo yazo y'amaraso sinzayatamba,Kandi amazina yazo sinzayarahira.",
+      "start": 27.22,
+      "end": 34.76
+    },
+    "5": {
+      "text": "Uwiteka ni wowe mugabane w'umwandu wanjye n'uw'igikombe cyanjye,Ni wowe ukomeza umugabane wanjye.",
+      "start": 30.8,
+      "end": 31.74
+    },
+    "6": {
+      "text": "Ubufindo bwatumye imigozi ingerera umugabane ahantu heza,Ni koko mfite umwandu mwiza.",
+      "start": 4.11,
+      "end": 26.98
+    },
+    "7": {
+      "text": "Ndahimbaza Uwiteka umujyanama wanjye,Ni koko umutima wanjye umpugura nijoro.",
+      "start": 24.86,
+      "end": 44.91
+    },
+    "8": {
+      "text": "Nashyize Uwiteka imbere yanjye iteka,Kuko ari iburyo bwanjye sinzanyeganyezwa.",
+      "start": 4.36,
+      "end": 22.69
+    },
+    "9": {
+      "text": "Ni cyo gituma umutima wanjye unezerwa,Ubwiza bwanjye bukishima,Kandi n'umubiri wanjye uzagira amahoro.",
+      "start": 18.18,
+      "end": 29.55
+    },
+    "10": {
+      "text": "Kuko utazareka ubugingo bwanjye ngo bujye ikuzimu,Kandi utazakundira umukunzi wawe ko abona kubora.",
+      "start": 36.45,
+      "end": 41.04
+    },
+    "11": {
+      "text": "Uzamenyesha inzira y'ubugingo,Imbere yawe ni ho hari ibyishimo byuzuye,Mu kuboko kwawe kw'iburyo hari ibinezeza iteka ryose.",
+      "start": 41.99,
+      "end": 42.73
+    }
+  }
+}

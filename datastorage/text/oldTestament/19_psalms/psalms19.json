@@ -1,0 +1,83 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 32.83,
+      "end": 44.77
+    },
+    "2": {
+      "text": "Ijuru rivuga icyubahiro cy'Imana,Isanzure ryerekana imirimo y'intoki zayo.",
+      "start": 2.53,
+      "end": 10.6
+    },
+    "3": {
+      "text": "Amanywa abwira andi manywa ibyayo,Ijoro ribimenyesha irindi joro.",
+      "start": 17.65,
+      "end": 29.16
+    },
+    "4": {
+      "text": "Nta magambo cyangwa ururimi biriho,Nta wumva ijwi ryabyo.",
+      "start": 2.27,
+      "end": 36.27
+    },
+    "5": {
+      "text": "Umugozi ugera wabyo wakwiriye isi yose,Amagambo yabyo yageze ku mpera y'isi.Muri ibyo yabambiye izuba ihema,",
+      "start": 19.21,
+      "end": 44.62
+    },
+    "6": {
+      "text": "Rimeze nk'umukwe usohoka mu nzu ye,Ryishima nk'umunyambaraga rinyura mu nzira yaryo.",
+      "start": 25.77,
+      "end": 44.55
+    },
+    "7": {
+      "text": "Riva ku mpera y'ijuru,Rikagera ku yindi mpera yaryo,Nta kintu gihishwa icyokere cyaryo.",
+      "start": 19.84,
+      "end": 29.92
+    },
+    "8": {
+      "text": "Amategeko y'Uwiteka atungana rwose asubiza intege mu bugingo,Ibyo Uwiteka yahamije ni ibyo kwizerwa biha umuswa ubwenge,",
+      "start": 40.5,
+      "end": 42.8
+    },
+    "9": {
+      "text": "Amategeko Uwiteka yigishije araboneye anezeza umutima,Ibyo Uwiteka yategetse ntibyanduye bihwejesha amaso.",
+      "start": 18.85,
+      "end": 29.0
+    },
+    "10": {
+      "text": "Kubaha Uwiteka ni kwiza guhoraho iteka ryose,Amateka y'Uwiteka ni ay'ukuri,Ni ayo gukiranuka rwose.",
+      "start": 3.76,
+      "end": 44.48
+    },
+    "11": {
+      "text": "Bikwiriye kwifuzwa kuruta izahabu,Naho yaba izahabu nziza nyinshi,Biryoherera kuruta ubuki n'umushongi w'ibinyagu utonyanga.",
+      "start": 9.39,
+      "end": 33.51
+    },
+    "12": {
+      "text": "Kandi ni byo bihana umugaragu wawe,Kubyitondera harimo ingororano ikomeye.",
+      "start": 40.43,
+      "end": 43.61
+    },
+    "13": {
+      "text": "Ni nde ubasha kwitegereza kujijwa kwe?Ntumbareho ibyaha byanyihishe,",
+      "start": 20.48,
+      "end": 22.68
+    },
+    "14": {
+      "text": "Kandi ujye urinda umugaragu wawe gukora ibyaha by'ibyitumano,Bye kuntwara uko ni ko nzatungana rwose,Urubanza rw'igicumuro gikomeye ntiruzantsinda.",
+      "start": 23.39,
+      "end": 44.21
+    },
+    "15": {
+      "text": "Amagambo yo mu kanwa kanjye,N'ibyo umutima wanjye wibwira bishimwe mu maso yawe,Uwiteka gitare cyanjye, mucunguzi wanjye.",
+      "start": 39.75,
+      "end": 42.07
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose hanyuma yo gupfa kwa ba bana ba Aroni babiri, ubwo bigiraga hafi imbere y'Uwiteka bagapfa,",
+      "start": 14.71,
+      "end": 35.68
+    },
+    "2": {
+      "text": "Uwiteka abwira Mose ati “Bwira Aroni mwene so, ye kujya yinjira igihe ashakiye cyose Ahera ho hirya y'umwenda ukinze, imbere y'intebe y'ihongerero iri ku isanduku yera adapfa, kuko nzabonekera ku ntebe y'ihongerero, ndi muri cya gicu.",
+      "start": 7.96,
+      "end": 14.75
+    },
+    "3": {
+      "text": "Uku azabe ari ko Aroni agenza, ngo abone kwinjira aho hera. Yende ikimasa cy'umusore ho igitambo cyo gutambirwa ibyaha, n'isekurume y'intama ho igitambo cyo koswa.",
+      "start": 43.62,
+      "end": 44.61
+    },
+    "4": {
+      "text": "“Yambare ya kanzu y'igitare yejejwe na ya kabutura y'igitare, akenyeze wa mushumi w'igitare, yambare mu mutwe cya gitambaro cy'igitare kizinze. Iyo ni yo myambaro yejejwe, abanze kwiyuhagira ayambare.",
+      "start": 19.74,
+      "end": 30.25
+    },
+    "5": {
+      "text": "“Yake iteraniro ry'Abisirayeli amasekurume y'ihene abiri ho ibitambo byo gutambirwa ibyaha, n'isekurume y'intama imwe ho igitambo cyo koswa.",
+      "start": 15.49,
+      "end": 18.61
+    },
+    "6": {
+      "text": "Aroni amurike cya kimasa cyo kwitambirira ibyaha, yihongererane n'inzu ye.",
+      "start": 29.14,
+      "end": 31.76
+    },
+    "7": {
+      "text": "Maze ajyane za hene zombi, azishyire imbere y'Uwiteka ku muryango w'ihema ry'ibonaniro.",
+      "start": 28.47,
+      "end": 28.78
+    },
+    "8": {
+      "text": "Aroni afindire izo hene zombi, icyo afindisha kimwe cyerekane iy'Uwiteka, ikindi cyerekane iyo koherwa.",
+      "start": 0.07,
+      "end": 6.82
+    },
+    "9": {
+      "text": "Aroni amurike ihene ifindiwe kuba iy'Uwiteka, ayitambe ho igitambo gitambirwa ibyaha.",
+      "start": 2.64,
+      "end": 32.72
+    },
+    "10": {
+      "text": "Maze iyafindiwe koherwa ishyirwe imbere y'Uwiteka ari nzima, ngo ihongererweho ibyaha, yohererezwe mu butayu koherwa.",
+      "start": 8.41,
+      "end": 26.38
+    },
+    "11": {
+      "text": "“Aroni amurike cya kimasa cyo kwitambirira ibyaha, yihongererane n'inzu ye, abīkīre icyo kimasa yitambiriye ibyaha.",
+      "start": 11.63,
+      "end": 12.34
+    },
+    "12": {
+      "text": "Yende icyotero acyuzuze amakara yaka akuye ku gicaniro cy'imbere y'Uwiteka, n'imibavu isekuwe cyane yuzuye amashyi, abijyane hirya ya wa mwenda ukingiriza Ahera cyane,",
+      "start": 29.97,
+      "end": 42.05
+    },
+    "13": {
+      "text": "iyo mibavu ayishyirire kuri uwo muriro imbere y'Uwiteka, uwo mubavu umere nk'igicu gikingiriza intebe y'ihongerero iri hejuru y'Ibihamya adapfa.",
+      "start": 15.75,
+      "end": 19.56
+    },
+    "14": {
+      "text": "Kandi yende ku maraso ya cya kimasa, ayaminjagize urutoki ku ntebe y'ihongerero mu ruhande rw'iburasirazuba, kandi n'imbere y'intebe y'ihongerero ayaminjagize urutoki karindwi.",
+      "start": 13.35,
+      "end": 43.9
+    },
+    "15": {
+      "text": "“Maze abīkīre ya hene y'igitambo cyo gutambirwa ibyaha by'abantu, ajyane amaraso yayo hirya ya wa mwenda ukingiriza Ahera cyane, ayagenze nk'uko yagenjeje aya cya kimasa, ayaminjagire ku ntebe y'ihongerero n'imbere yayo.",
+      "start": 6.33,
+      "end": 15.15
+    },
+    "16": {
+      "text": "Nuko ahongerere Ahera ku bwo guhumana kw'Abisirayeli kwinshi, no ku bw'ibicumuro byabo ku bw'ibyaha bakoze byose. Abe ari ko agenza n'ihema ry'ibonaniro, ribana na bo hagati yo guhumana kwabo kwinshi.",
+      "start": 9.04,
+      "end": 41.4
+    },
+    "17": {
+      "text": "Ntihakagire umuntu uba mu ihema ry'ibonaniro Aroni agiye kwinjira Ahera kuhahongererera ibyaha, kugeza aho asohokeye amaze kwihongererana n'inzu ye n'iteraniro ry'Abisirayeli ryose.",
+      "start": 27.45,
+      "end": 38.84
+    },
+    "18": {
+      "text": "Kandi asohoke ajye ku gicaniro cy'imbere y'Uwiteka agihongerere, yende ku maraso ya cya kimasa no ku ya ya hene, ayashyire ku mahembe y'igicaniro impande zose.",
+      "start": 25.08,
+      "end": 38.28
+    },
+    "19": {
+      "text": "Kandi akiminjagirisheho urutoki ayo maraso karindwi, agihumanure, acyeze gikurweho guhumana kw'Abisirayeli kwinshi.",
+      "start": 17.53,
+      "end": 40.95
+    },
+    "20": {
+      "text": "“Amaze guhongerera Ahera n'ihema ry'ibonaniro n'igicaniro, amurike ya hene nzima.",
+      "start": 42.28,
+      "end": 42.98
+    },
+    "21": {
+      "text": "Aroni arambike ibiganza bye byombi mu ruhanga rw'iyo hene nzima, yaturire hejuru yayo gukiranirwa kw'Abisirayeli kose n'ibicumuro byabo byose, ibyaha bakoze byose abishyire mu ruhanga rw'iyo hene, ayihe umuntu witeguriye ibyo ngo ayijyane mu butayu.",
+      "start": 14.22,
+      "end": 28.31
+    },
+    "22": {
+      "text": "Iyo hene ijye ahatagira abantu, yikoreye gukiranirwa kwabo kose, uwo muntu ayirekurire mu butayu.",
+      "start": 7.89,
+      "end": 16.79
+    },
+    "23": {
+      "text": "“Aroni yinjire mu ihema ry'ibonaniro, yiyambure ya myambaro y'ibitare yambaye agiye kwinjira Ahera, ayisigeyo.",
+      "start": 39.35,
+      "end": 43.65
+    },
+    "24": {
+      "text": "Yiyuhagirire ahantu hera, yambare imyambaro ye asohoke, yitambirire igitambo cye cyoswa, atambirire n'abantu icyabo, yihongerere, ahongerere n'abantu.",
+      "start": 44.95,
+      "end": 44.99
+    },
+    "25": {
+      "text": "Kandi urugimbu rwa cya gitambo cyatambiwe ibyaha, arwosereze ku gicaniro.",
+      "start": 26.27,
+      "end": 38.4
+    },
+    "26": {
+      "text": "Kandi uwarekuriye ya hene koherwa, amese imyenda ye yiyuhagire, abone kugaruka mu ngando zanyu.",
+      "start": 36.77,
+      "end": 39.73
+    },
+    "27": {
+      "text": "Kandi cya kimasa cy'igitambo cyatambiwe ibyaha, na ya hene y'igitambo cyatambiwe ibyaha, n'amaraso yabyo yinjirijwe Ahera guhongererwa ibyaha, babiterure babijyane inyuma y'ingando, bōse impu zabyo n'inyama zabyo n'amayezi yabyo.",
+      "start": 17.16,
+      "end": 44.97
+    },
+    "28": {
+      "text": "Uwabyosheje amese imyenda ye yiyuhagire, abone gusubira mu ngando.",
+      "start": 44.59,
+      "end": 44.88
+    },
+    "29": {
+      "text": "“Ibi bibabere itegeko ridakuka: mu kwezi kwa karindwi, ku munsi wako wa cumi, mujye mwibabaza imitima, ntimukagire umurimo muwukoraho, naho yaba kavukire cyangwa umunyamahanga usuhukiye muri mwe.",
+      "start": 8.56,
+      "end": 34.54
+    },
+    "30": {
+      "text": "Kuko uwo munsi ari ho muzajya muhongerererwa kugira ngo muhumanurwe, nuko imbere y'Uwiteka muzaba muhumanutse ibyaha byanyu byose.",
+      "start": 30.07,
+      "end": 41.07
+    },
+    "31": {
+      "text": "Uwo munsi ujye ubabera isabato yo kuruhuka, mujye muwibabarizaho imitima, iryo ni itegeko ridakuka.",
+      "start": 41.89,
+      "end": 43.82
+    },
+    "32": {
+      "text": "Kandi umutambyi uzasīgwa akerezwa kuba umutambyi ngo azungure se, ajye abahongerera, yambare iyo myambaro y'ibitare, imyambaro yejejwe,",
+      "start": 3.45,
+      "end": 24.33
+    },
+    "33": {
+      "text": "ahongerere ubuturo bwera n'ihema ry'ibonaniro n'igicaniro, kandi ahongerere n'abatambyi n'abantu b'iteraniro bose.",
+      "start": 21.59,
+      "end": 29.2
+    },
+    "34": {
+      "text": "Iryo ribabere itegeko ridakuka, ko ajya ahongerera Abisirayeli impongano y'ibyaha byabo byose, rimwe uko umwaka utashye.”Aroni agenza uko Uwiteka yategetse Mose.",
+      "start": 6.68,
+      "end": 11.76
+    }
+  }
+}

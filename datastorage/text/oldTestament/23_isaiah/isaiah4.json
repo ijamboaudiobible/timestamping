@@ -1,0 +1,38 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Uwo munsi abagore barindwi bazajya ku mugabo umwe bamubwire bati “Tuzitungirwa n'ibyokurya byacu kandi tuzajya twiyambika ubwacu, ariko uduhe kwitirirwa izina ryawe udukize urubwa rw'abantu.”",
+      "start": 3.63,
+      "end": 44.98
+    },
+    "2": {
+      "text": "Uwo munsi ishami ry'Uwiteka rizaba ryiza rifite icyubahiro. Abisirayeli bazarokoka, imyaka yo mu gihugu izabaryohera cyane ibabere myiza.",
+      "start": 31.87,
+      "end": 32.17
+    },
+    "3": {
+      "text": "Maze uzasigara i Siyoni n'i Yerusalemu wese, yanditswe mu bazima b'i Yerusalemu, azitwe uwera.",
+      "start": 8.51,
+      "end": 12.56
+    },
+    "4": {
+      "text": "Ubwo ngubwo Uwiteka azaba yuhagiye imyanda y'abakobwa b'i Siyoni ayimazeho, kandi azaba amaze amaraso muri Yerusalemu, ayamarishijemo umwuka ukiranuka n'umwuka wotsa.",
+      "start": 11.66,
+      "end": 38.42
+    },
+    "5": {
+      "text": "Kandi hejuru y'ubuturo bwose bwo ku musozi wa Siyoni no ku materaniro yaho, Uwiteka azaharemeraho igicu n'umwotsi ku manywa n'umuriro waka ukamurika nijoro. Maze hejuru y'ibyubahwa byose hazabeho igitwikirizo.",
+      "start": 19.91,
+      "end": 30.39
+    },
+    "6": {
+      "text": "Kandi ku manywa hazabaho ihema ryo kuzana igicucu ku bw'icyokere, ribe ubuhungiro n'ubwugamo bw'ishuheri n'imvura.",
+      "start": 1.37,
+      "end": 39.46
+    }
+  }
+}

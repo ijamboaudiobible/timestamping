@@ -1,0 +1,38 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 21.82,
+      "end": 32.12
+    },
+    "2": {
+      "text": "Uwiteka, uzageza he kunyibagirwa iteka ryose?Uzageza he kunyima amaso?",
+      "start": 23.87,
+      "end": 40.05
+    },
+    "3": {
+      "text": "Nzageza he kwigira inama,Mfite agahinda mu mutima wanjye uko bukeye?Umwanzi wanjye azageza he gushyirwa hejuru yanjye?",
+      "start": 42.06,
+      "end": 43.42
+    },
+    "4": {
+      "text": "Uwiteka Mana yanjye, birebe unsubize,Hwejesha amaso yanjye,Kugira ngo ne gusinzira ibitotsi by'urupfu.",
+      "start": 9.62,
+      "end": 23.84
+    },
+    "5": {
+      "text": "Umwanzi wanjye ye kuvuga ati “Ndamunesheje”,Abanteraga be kwishimira kunyeganyega kwanjye.",
+      "start": 43.14,
+      "end": 44.09
+    },
+    "6": {
+      "text": "Ariko niringiye imbabazi zawe,Umutima wanjye uzishimira agakiza kawe.Ndaririmbira Uwiteka,Kuko yangiriye neza.",
+      "start": 17.75,
+      "end": 19.02
+    }
+  }
+}

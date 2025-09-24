@@ -1,0 +1,88 @@
+{
+  "book": "Book 24",
+  "book_canonical": "jeremiah",
+  "book_number": 24,
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "Ijambo ryaje kuri Yeremiya rivuye ku Uwiteka, Nebuzaradani umutware w'abarinzi amaze kumurekura ngo ave i Rama, ubwo yari amujyanye aboheshejwe iminyururu amuvanye mu zindi mbohe zose z'i Yerusalemu n'i Buyuda, zagiye ari iminyago i Babuloni.",
+      "start": 21.27,
+      "end": 34.05
+    },
+    "2": {
+      "text": "Umutware w'abarinzi ajyana Yeremiya aramubwira ati “Uwiteka Imana yawe ni yo yategekeye aha hantu ibi byago,",
+      "start": 3.04,
+      "end": 4.78
+    },
+    "3": {
+      "text": "kandi Uwiteka yarabisohoje agenza uko yabivuze, kuko mwacumuye ku Uwiteka kandi ntimwumvira ijwi rye, ni cyo gitumye ibyo bibageraho.",
+      "start": 40.83,
+      "end": 44.81
+    },
+    "4": {
+      "text": "Noneho rero uyu munsi ndakubohora ngukureho iminyururu iri ku maboko yawe. Nushaka ko tujyana i Babuloni uze tugende, nzakugirira neza, ariko nudashaka ko tujyanayo urorere. Dore igihugu cyose kiri imbere yawe, aho ubona hakubonereye abe ari ho ujya.”",
+      "start": 30.81,
+      "end": 44.15
+    },
+    "5": {
+      "text": "Nuko Nebuzaradani ataragenda agitindiganije aramubwira ati “Noneho rero subirayo usange Gedaliya mwene Ahikamu mwene Shafani, uwo umwami w'i Babuloni yagize umutegeka w'imidugudu y'u Buyuda ubane na we no muri rubanda, cyangwa ujye aho ubona hagutunganiye hose.” Nuko umutware w'abarinzi amuha impamba n'impano, aramurekura aragenda.",
+      "start": 3.06,
+      "end": 26.0
+    },
+    "6": {
+      "text": "Maze Yeremiya asanga Gedaliya mwene Ahikamu i Misipa, kandi abana na we muri rubanda rwari rusigaye mu gihugu.",
+      "start": 9.61,
+      "end": 31.82
+    },
+    "7": {
+      "text": "Nuko abatware b'ingabo zari mu misozi, bo ubwabo n'abantu babo bumvise yuko umwami w'i Babuloni yagize Gedaliya mwene Ahikamu umutegeka mu gihugu, akamuha abagabo n'abagore n'abana n'abatindi bo mu gihugu, abatari bajyanywe ho imbohe i Babuloni,",
+      "start": 13.49,
+      "end": 13.94
+    },
+    "8": {
+      "text": "baherako basanga Gedaliya i Misipa. Amazina yabo ni aya: Ishimayeli mwene Netaniya na Yohanani na Yonatani bene Kareya, na Sheraya mwene Tanihumeti na bene Efayi b'i Netofa, na Yezaniya umwana w'umuntu w'i Māka bo n'abantu babo.",
+      "start": 31.0,
+      "end": 41.19
+    },
+    "9": {
+      "text": "Nuko Gedaliya mwene Ahikamu mwene Shafani arabarahira bo n'abantu babo ati “Ntimutinye kuyoboka Abakaludaya, mube mu gihugu muyoboke umwami w'i Babuloni, kandi muzaba amahoro.",
+      "start": 17.76,
+      "end": 32.18
+    },
+    "10": {
+      "text": "Nanjye ubwanjye nzaba i Misipa mbahakirwe ku Bakaludaya bazaza kudusūra: ariko mwebweho musarure imizabibu n'amatunda byo mu cyi n'amavuta ya elayo, mubyuzuze ibibindi byanyu kandi mube mu midugudu yanyu mwahindūye.”",
+      "start": 24.86,
+      "end": 28.98
+    },
+    "11": {
+      "text": "Na bo Abayuda bose bahoze i Mowabu, no muri bene Amoni no mu Edomu n'abari mu bihugu byose, bumvise ko umwami w'i Babuloni yasize abarokotse i Buyuda, akabaha Gedaliya mwene Ahikamu mwene Shafani ngo abatware,",
+      "start": 16.32,
+      "end": 37.3
+    },
+    "12": {
+      "text": "nuko Abayuda bose baragaruka bavuye aho bari batatanirijwe hose, baza mu gihugu cy'u Buyuda kwa Gedaliya i Misipa, basarura imizabibu n'amatunda byo mu cyi byinshi cyane.",
+      "start": 7.18,
+      "end": 37.66
+    },
+    "13": {
+      "text": "Maze kandi Yohanani mwene Kareya n'abatware b'ingabo zari mu misozi bose, basanga Gedaliya i Misipa baramubwira bati",
+      "start": 22.25,
+      "end": 29.45
+    },
+    "14": {
+      "text": "“Mbese ntuzi yuko Bālisi umwami wa bene Amoni yohereje Ishimayeli mwene Netaniya ngo akwice?” Ariko Gedaliya mwene Ahikamu ntiyabyemera.",
+      "start": 31.45,
+      "end": 33.07
+    },
+    "15": {
+      "text": "Maze Yohanani mwene Kareya abwirira Gedaliya i Misipa rwihishwa ati “Ndagusaba undeke njye kwica Ishimayeli mwene Netaniya, kandi nta wuzabimenya. Kuki yarinda kukwica byatuma Abayuda bose bagukoraniyeho batatana, n'abasigaye b'i Buyuda bashira?”",
+      "start": 24.79,
+      "end": 29.33
+    },
+    "16": {
+      "text": "Ariko Gedaliya mwene Ahikamu abwira Yohanani mwene Kareya ati “Uramenye ntuzakore ibyo kuko umubeshyeye.”",
+      "start": 32.89,
+      "end": 34.22
+    }
+  }
+}

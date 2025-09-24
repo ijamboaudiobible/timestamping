@@ -1,0 +1,118 @@
+{
+  "book": "Book 24",
+  "book_canonical": "jeremiah",
+  "book_number": 24,
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "Maze abatware b'ingabo bose na Yohanani mwene Kareya, na Yezaniya mwene Hoshaya n'abantu bose, uhereye ku muto hanyuma y'abandi ukageza ku mukuru uruta abandi, basanga umuhanuzi Yeremiya baramwegera bati",
+      "start": 34.47,
+      "end": 38.82
+    },
+    "2": {
+      "text": "“Turagusaba dukundire kugutakambira kugira ngo udusabire ku Uwiteka Imana yawe, n'aba bose basigaye kuko twari benshi, noneho dusigaye turi bake nk'uko utureba uku,",
+      "start": 36.88,
+      "end": 38.27
+    },
+    "3": {
+      "text": "kugira ngo Uwiteka Imana yawe itwereke inzira dukwiriye kunyuramo n'uko dukwiriye kugenza.”",
+      "start": 38.09,
+      "end": 38.5
+    },
+    "4": {
+      "text": "Nuko umuhanuzi Yeremiya arabasubiza ati “Ndabumvise yemwe, ngiye gusaba Uwiteka Imana yanyu nk'uko mwavuze kandi icyo Uwiteka azabasubiza cyose nzakibamenyesha, sinzagira icyo mbahisha.”",
+      "start": 11.76,
+      "end": 42.48
+    },
+    "5": {
+      "text": "Maze babwira Yeremiya bati “Uwiteka natubere umuhamya w'ukuri kandi wizerwa, nitudasohoza amagambo Uwiteka Imana yawe izakudutumaho yose",
+      "start": 20.36,
+      "end": 40.57
+    },
+    "6": {
+      "text": "naho yaba meza cyangwa mabi. Tuzumvira ijwi ry'Uwiteka Imana yacu tugutumyeho, kugira ngo tumererwe neza tubitewe n'uko twumviye ijwi ry'Uwiteka Imana yacu.”",
+      "start": 44.78,
+      "end": 44.8
+    },
+    "7": {
+      "text": "Nuko hashize iminsi cumi, ijambo ry'Uwiteka riza kuri Yeremiya.",
+      "start": 5.53,
+      "end": 22.96
+    },
+    "8": {
+      "text": "Maze ahamagara Yohanani mwene Kareya n'abatware b'ingabo bose bari kumwe na we, n'abantu bose uhereye ku muto hanyuma y'abandi ukageza ku mukuru uruta abandi,",
+      "start": 0.54,
+      "end": 30.61
+    },
+    "9": {
+      "text": "arababwira ati “Uku ni ko Uwiteka Imana ya Isirayeli, iyo mwantumyeho kuyibingingira ivuga iti",
+      "start": 25.52,
+      "end": 40.68
+    },
+    "10": {
+      "text": "‘Nimukomeza kuguma muri iki gihugu ni ho nzabubaka kandi sinzabasenya, nzabashoresha imizi kandi sinzabarandura kuko nicujije ikibi nabagiriye.",
+      "start": 21.88,
+      "end": 42.67
+    },
+    "11": {
+      "text": "Ntimugatinye umwami w'i Babuloni, uwo mutinya ntimukamutinye, ni ko Uwiteka avuga, kuko ndi kumwe namwe kugira ngo mbarokore mubakize.",
+      "start": 35.39,
+      "end": 38.83
+    },
+    "12": {
+      "text": "Kandi nzabaha igikundiro kugira ngo abababarire, abagarure mu gihugu cyanyu.’",
+      "start": 16.71,
+      "end": 33.56
+    },
+    "13": {
+      "text": "“Ariko nimuvuga muti ‘Ntituzatura muri iki gihugu’, ntimwumvire ijwi ry'Uwiteka Imana yanyu mukavuga muti",
+      "start": 21.35,
+      "end": 39.86
+    },
+    "14": {
+      "text": "‘Oya ahubwo tuzigira mu gihugu cya Egiputa aho tutazabona intambara, habe no kumva ijwi ry'impanda ndetse ntituhabure n'ibyokurya, aho ni ho tuzatura’,",
+      "start": 7.6,
+      "end": 10.12
+    },
+    "15": {
+      "text": "nuko noneho nimwumve ijambo ry'Uwiteka yemwe abasigaye i Buyuda mwe, uku ni ko Uwiteka Nyiringabo Imana ya Isirayeli ivuga iti ‘Nimuba mugamije rwose kujya muri Egiputa kugira ngo mwimukireyo,",
+      "start": 38.16,
+      "end": 40.5
+    },
+    "16": {
+      "text": "mumenye ko ya nkota mwatinyaga izabafatira mu gihugu cya Egiputa, kandi n'inzara yabateraga ubwoba izabakurikiranayo, ni ho muzagwa.",
+      "start": 13.31,
+      "end": 42.27
+    },
+    "17": {
+      "text": "Ni ko bizaba ku bantu bose bazaba bagamije kujya muri Egiputa kugira ngo bimukireyo, bazicwa n'inkota n'inzara n'icyorezo, kandi nta n'umwe wo muri bo uzarokoka ngo akire ibyago nzabateza.’",
+      "start": 24.49,
+      "end": 34.47
+    },
+    "18": {
+      "text": "“Uku ni ko Uwiteka Nyiringabo Imana ya Isirayeli ivuga iti ‘Nk'uko umujinya wanjye n'uburakari bwanjye bukaze byaroshywe ku baturage b'i Yerusalemu, ni ko namwe uburakari bwanjye bukaze buzabarohwaho mugeze muri Egiputa, kandi muzaba ibivume n'igitangarirwa, n'ibicibwa n'igiteye isoni, kandi ntabwo muzongera kureba aha hantu ukundi.’",
+      "start": 22.0,
+      "end": 32.65
+    },
+    "19": {
+      "text": "“Uwiteka yavuze ibyanyu yemwe abasigaye b'i Buyuda mwe, ‘Ntimujye muri Egiputa.’ Mubimenye rwose yuko nabihanangirije cyane uyu munsi.",
+      "start": 5.47,
+      "end": 15.03
+    },
+    "20": {
+      "text": "Mwarariganije mu mitima yanyu mukantuma ku Uwiteka Imana yanyu muti ‘Udusabire ku Uwiteka Imana yacu, kandi icyo Uwiteka Imana yacu izavuga cyose uzakitubwire, natwe tuzagikora.’",
+      "start": 39.49,
+      "end": 41.73
+    },
+    "21": {
+      "text": "None nakibabwiye ariko ntimwumviye ijwi ry'Uwiteka Imana yanyu ry'ibyo yabantumyeho byose.",
+      "start": 10.14,
+      "end": 16.79
+    },
+    "22": {
+      "text": "Nuko mumenye rwose ko muzicirwa n'inkota n'inzara n'icyorezo aho mushaka kujya gutura.”",
+      "start": 6.79,
+      "end": 24.16
+    }
+  }
+}

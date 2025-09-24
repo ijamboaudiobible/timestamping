@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi, babwirisha inanga ijwi ryo mu gituza. Ni Zaburi ya Dawidi.",
+      "start": 17.36,
+      "end": 25.14
+    },
+    "2": {
+      "text": "Uwiteka tabara kuko umunyarukundo ashira,Abanyamurava babura mu bantu.",
+      "start": 39.41,
+      "end": 40.3
+    },
+    "3": {
+      "text": "Bose barabeshyana,Bavugisha iminwa ishyeshya n'imitima ibiri.",
+      "start": 44.5,
+      "end": 44.95
+    },
+    "4": {
+      "text": "Uwiteka azatsemba iminwa yose ishyeshya,N'ururimi rwirarira,",
+      "start": 33.69,
+      "end": 43.44
+    },
+    "5": {
+      "text": "Abavuze bati “Tuzaneshesha indimi zacu,Iminwa yacu ni iyacu udutwara ni nde?”",
+      "start": 21.62,
+      "end": 31.89
+    },
+    "6": {
+      "text": "“Ku bwo kunyagwa k'umunyamubabaro,Ku bwo gusuhuza umutima k'umukene,Nonaha ndahaguruka”, ni ko Uwiteka avuga,“Ndashyira mu mahoro uwo bacurira ingoni.”",
+      "start": 27.53,
+      "end": 27.63
+    },
+    "7": {
+      "text": "Amagambo y'Uwiteka ni amagambo atanduye,Ahwanye n'ifeza igeragejwe mu ruganda rwo mu isi,Ivugutiwe karindwi.",
+      "start": 31.76,
+      "end": 42.02
+    },
+    "8": {
+      "text": "Uwiteka uzabarinda,Uzabakiza ab'iki gihe iteka ryose.",
+      "start": 4.32,
+      "end": 25.18
+    },
+    "9": {
+      "text": "Abanyabyaha bagenda hose impande zose,Iyo abatagira umumaro bashyizwe hejuru mu bantu.",
+      "start": 25.32,
+      "end": 30.16
+    }
+  }
+}

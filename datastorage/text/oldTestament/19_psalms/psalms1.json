@@ -1,0 +1,38 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Hahirwa umuntu udakurikiza imigambi y'ababi,Ntahagarare mu nzira y'abanyabyaha,Ntiyicarane n'abakobanyi.",
+      "start": 20.6,
+      "end": 21.77
+    },
+    "2": {
+      "text": "Ahubwo amategeko y'Uwiteka ni yo yishimira,Kandi amategeko ye ni yo yibwira ku manywa na nijoro.",
+      "start": 3.35,
+      "end": 34.13
+    },
+    "3": {
+      "text": "Uwo azahwana n'igiti cyatewe hafi y'umugezi,Cyera imbuto zacyo igihe cyacyo.Ibibabi byacyo ntibyuma,Icyo azakora cyose kizamubera cyiza.",
+      "start": 1.26,
+      "end": 18.43
+    },
+    "4": {
+      "text": "Ababi ntibamera batyo,Ahubwo bahwana n'umurama utumurwa n'umuyaga.",
+      "start": 2.93,
+      "end": 20.96
+    },
+    "5": {
+      "text": "Ni cyo gituma ababi bazatsindwa ku munsi w'amateka,N'abanyabyaha bazatsindirwa mu iteraniro ry'abakiranutsi.",
+      "start": 34.38,
+      "end": 37.81
+    },
+    "6": {
+      "text": "Kuko Uwiteka azi inzira y'abakiranutsi,Ariko inzira y'ababi izarimbuka.",
+      "start": 44.12,
+      "end": 44.8
+    }
+  }
+}

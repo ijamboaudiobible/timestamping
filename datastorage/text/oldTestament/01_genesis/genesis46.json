@@ -1,0 +1,178 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "Isirayeli aragenda, ajyana ibyo atunze byose agera i Bērisheba, atambirayo ibitambo Imana ya se Isaka.",
+      "start": 43.26,
+      "end": 44.08
+    },
+    "2": {
+      "text": "Imana ihamagara Isirayeli mu iyerekwa rya nijoro iti “Yakobo, Yakobo!”Aritaba ati “Karame.”",
+      "start": 28.57,
+      "end": 44.36
+    },
+    "3": {
+      "text": "Iramubwira iti “Ndi Imana, Imana ya so. Ntutinye kumanuka ngo ujye muri Egiputa, kuko ari ho nzakugirira ishyanga rikomeye.",
+      "start": 7.19,
+      "end": 42.04
+    },
+    "4": {
+      "text": "Ubwanjye nzajyana nawe muri Egiputa, kandi ubwanjye ni jye uzagukūrayo, kandi Yosefu ni we uzahumbya amaso yawe.”",
+      "start": 44.26,
+      "end": 44.58
+    },
+    "5": {
+      "text": "Yakobo arahaguruka ava i Bērisheba, abana ba Isirayeli bajyana Yakobo se n'abana babo bato, n'abagore babo mu magare Farawo yohereje kumuzana.",
+      "start": 4.54,
+      "end": 12.37
+    },
+    "6": {
+      "text": "Bajyana amatungo yabo n'ibintu byabo baronkeye mu gihugu cy'i Kanāni bajya muri Egiputa, Yakobo n'urubyaro rwe rwose rujyana na we:",
+      "start": 32.04,
+      "end": 36.12
+    },
+    "7": {
+      "text": "abahungu be n'abuzukuru be b'abahungu, n'abakobwa be n'abakobwa b'abahungu be, n'urubyaro rwe rwose rujyana na we muri Egiputa.",
+      "start": 41.22,
+      "end": 42.21
+    },
+    "8": {
+      "text": "Aya ni yo mazina y'Abisirayeli bagiye muri Egiputa: Yakobo n'abahungu be, imfura ye ni Rubeni.",
+      "start": 41.3,
+      "end": 44.87
+    },
+    "9": {
+      "text": "Bene Rubeni ni Henoki na Palu, na Hesironi na Karumi.",
+      "start": 18.81,
+      "end": 28.94
+    },
+    "10": {
+      "text": "Bene Simiyoni ni Yemuweli na Yamini, na Ohadi na Yakini, na Sohari na Shawuli umwana w'Umunyakanānikazi.",
+      "start": 21.39,
+      "end": 36.33
+    },
+    "11": {
+      "text": "Bene Lewi ni Gerushoni na Kohati na Merari.",
+      "start": 36.5,
+      "end": 43.9
+    },
+    "12": {
+      "text": "Bene Yuda ni Eri na Onani, na Shela na Perēsi na Zera, ariko Eri na Onani bapfiriye mu gihugu cy'i Kanāni. Bene Perēsi ni Hesironi na Hamuli.",
+      "start": 30.56,
+      "end": 40.62
+    },
+    "13": {
+      "text": "Bene Isakari ni Tola na Puwa, na Yobu na Shimuroni.",
+      "start": 35.99,
+      "end": 44.07
+    },
+    "14": {
+      "text": "Bene Zebuluni ni Seredi na Eloni na Yahilēli.",
+      "start": 9.14,
+      "end": 16.06
+    },
+    "15": {
+      "text": "Abo ni bo bene Leya yabyaraniye na Yakobo i Padanaramu, kandi babyarana n'umukobwa Dina. Abahungu be n'abakobwa be bose ni mirongo itatu na batatu.",
+      "start": 9.49,
+      "end": 14.58
+    },
+    "16": {
+      "text": "Bene Gadi ni Sifiyoni na Hagi, na Shuni na Esiboni na Eri, na Arodi na Areli.",
+      "start": 0.26,
+      "end": 16.01
+    },
+    "17": {
+      "text": "Bene Asheri ni Imuna na Ishiva, na Ishivi na Beriya, na mushiki wabo Sera. Bene Beriya ni Heberi na Malikiyeli.",
+      "start": 12.63,
+      "end": 31.13
+    },
+    "18": {
+      "text": "Abo ni bo bene Zilupa, Labani yahaye Leya umukobwa we ho indongoranyo. Abo ni bo yabyaranye na Yakobo, ni abantu cumi na batandatu.",
+      "start": 34.96,
+      "end": 43.95
+    },
+    "19": {
+      "text": "Bene Rasheli muka Yakobo ni Yosefu na Benyamini.",
+      "start": 43.67,
+      "end": 43.71
+    },
+    "20": {
+      "text": "Yosefu yabyariye mu gihugu cya Egiputa Manase na Efurayimu, ababyarana na Asenati umukobwa wa Potifera, umutambyi wo mu mudugudu wa Oni.",
+      "start": 11.91,
+      "end": 13.37
+    },
+    "21": {
+      "text": "Bene Benyamini ni Bela na Bekeri, na Ashibeli na Gera, na Nāmani na Ehi, na Roshi na Mupimu, na Hupimu na Arudi.",
+      "start": 25.06,
+      "end": 31.53
+    },
+    "22": {
+      "text": "Abo ni bo bene Rasheli yabyaranye na Yakobo, bose ni cumi na bane.",
+      "start": 7.35,
+      "end": 29.17
+    },
+    "23": {
+      "text": "Mwene Dani ni Hushimu.",
+      "start": 9.17,
+      "end": 22.45
+    },
+    "24": {
+      "text": "Bene Nafutali ni Yahisēli na Guni, na Yeseri na Shilemu.",
+      "start": 9.28,
+      "end": 19.88
+    },
+    "25": {
+      "text": "Abo ni bo bene Biluha, Labani yahaye Rasheli umukobwa we ho indongoranyo. Abo ni bo yabyaranye na Yakobo, bose ni barindwi.",
+      "start": 17.98,
+      "end": 32.2
+    },
+    "26": {
+      "text": "Abantu bose bajyanye na Yakobo muri Egiputa bakomotse mu rukiryi rwe, utabariyemo abakazana ba Yakobo, bose bari mirongo itandatu na batandatu.",
+      "start": 31.21,
+      "end": 36.91
+    },
+    "27": {
+      "text": "Abahungu ba Yosefu yabyariye muri Egiputa ni babiri, abantu bose b'inzu ya Yakobo bagiye muri Egiputa bari mirongo irindwi.",
+      "start": 9.87,
+      "end": 10.05
+    },
+    "28": {
+      "text": "Yakobo atuma Yuda imbere ye kuri Yosefu ngo amuhe inzira yo kujya i Gosheni, bagera mu gihugu cy'i Gosheni.",
+      "start": 21.77,
+      "end": 25.9
+    },
+    "29": {
+      "text": "Yosefu yitegura igare rye, arazamuka ajya gusanganira se Isirayeli i Gosheni, aramwiyereka, aramuhobera begamiranya amajosi, aririra ku ijosi rye umwanya munini.",
+      "start": 14.48,
+      "end": 23.94
+    },
+    "30": {
+      "text": "Isirayeli abwira Yosefu ati “Naho napfa, ni byo bizi, ubwo nkubonye nkamenya yuko ukiriho.”",
+      "start": 30.88,
+      "end": 32.6
+    },
+    "31": {
+      "text": "Yosefu abwira bene se n'inzu ya se ati “Ndagenda mbwire Farawo, yuko bene data n'inzu ya data bari mu gihugu cy'i Kanāni bansanze,",
+      "start": 8.65,
+      "end": 19.72
+    },
+    "32": {
+      "text": "kandi ko ari abashumba kuko baragira amatungo, kandi ko bazanye imikumbi yabo n'amashyo yabo, n'ibyo bafite byose.",
+      "start": 37.87,
+      "end": 39.78
+    },
+    "33": {
+      "text": "Nuko Farawo nabahamagaza akababaza ati",
+      "start": 30.03,
+      "end": 42.41
+    },
+    "34": {
+      "text": "‘Umwuga wanyu ni umuki?’ Muzamusubize muti ‘Abagaragu bawe turagira amatungo, twahereye mu buto bwacu tugeza n'ubu, twebwe ubwacu na ba sogokuruza.’ Muvugire mutyo kugira ngo muture mu gihugu cy'i Gosheni, kuko umushumba wese ari ikizira ku Banyegiputa.”",
+      "start": 10.08,
+      "end": 10.11
+    }
+  }
+}

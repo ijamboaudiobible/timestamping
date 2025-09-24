@@ -1,0 +1,58 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "Ubutayu n'umutarwe bizanezerwa, ikidaturwa kizishima kirabye uburabyo nka habaseleti.",
+      "start": 7.83,
+      "end": 8.52
+    },
+    "2": {
+      "text": "Buzarabya uburabyo bwinshi, buzishimana umunezero n'indirimbo, buzahabwa ubwiza bw'i Lebanoni n'igikundiro cy'i Karumeli n'i Sharoni. Bazareba ubwiza bw'Uwiteka n'igikundiro cy'Imana yacu.",
+      "start": 28.11,
+      "end": 28.65
+    },
+    "3": {
+      "text": "Mukomeze amaboko atentebutse, mukomeze amavi asukuma.",
+      "start": 7.87,
+      "end": 35.96
+    },
+    "4": {
+      "text": "Mubwire abafite imitima itinya muti “Mukomere ntimutinye, dore Imana yanyu izazana guhōra, ari ko kwitura kw'Imana, izaza ibakize.”",
+      "start": 5.11,
+      "end": 42.55
+    },
+    "5": {
+      "text": "Icyo gihe impumyi zizahumurwa, n'ibipfamatwi bizaziburwa.",
+      "start": 27.07,
+      "end": 31.45
+    },
+    "6": {
+      "text": "Icyo gihe ikirema kizasimbuka nk'impara, ururimi rw'ikiragi ruzaririmba kuko amazi azadudubiriza mu butayu, imigezi igatembera mu kidaturwa.",
+      "start": 40.32,
+      "end": 40.84
+    },
+    "7": {
+      "text": "Kandi umusenyi wotsa utera ibishashi uzahinduka ikidendezi, n'umutarwe uzahinduka amasōko. Mu ikutiro ry'ingunzu, aho zaryamaga, hazaba ubwatsi n'uruberanya n'urufunzo.",
+      "start": 37.36,
+      "end": 41.24
+    },
+    "8": {
+      "text": "Kandi hazabayo inzira nyabagendwa, iyo nzira izitwa inzira yo kwera. Abanduye imitima ntibazayicamo, ahubwo izaba iya ba bandi. Abagenzi naho baba ari abaswa ntibazayiyoba.",
+      "start": 38.32,
+      "end": 41.43
+    },
+    "9": {
+      "text": "Nta ntare izahaba, inyamaswa yose y'inkazi ntizayigeramo, ntibizayibonekamo, ahubwo abacunguwe ni bo bazayinyuramo.",
+      "start": 13.61,
+      "end": 34.14
+    },
+    "10": {
+      "text": "Abacunguwe n'Uwiteka bazagaruka bagere i Siyoni baririmba, ibyishimo bihoraho bizaba kuri bo, bazabona umunezero n'ibyishimo kandi umubabaro no gusuhuza umutima bizahunga.",
+      "start": 2.41,
+      "end": 6.91
+    }
+  }
+}

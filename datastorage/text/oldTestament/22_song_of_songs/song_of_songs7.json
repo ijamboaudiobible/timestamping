@@ -1,0 +1,78 @@
+{
+  "book": "Book 22",
+  "book_canonical": "song_of_songs",
+  "book_number": 22,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Garuka, garuka wa Mushulami we,Garuka, garuka kugira ngo tukwitegereze. Umugeni:Kuki mushaka kwitegereza Umushulami,Nk'imbyino z'i Mahanayimu? Abakobwa:",
+      "start": 44.31,
+      "end": 44.34
+    },
+    "2": {
+      "text": "Ibirenge byawe bikwese ni byiza,Wa mukobwa w'umwami we.Amatako yawe ameze nk'iby'umurimbo by'igiciro cyinshi,Byakozwe n'iminwe y'umuhanga.",
+      "start": 42.38,
+      "end": 42.41
+    },
+    "3": {
+      "text": "Umukondo wawe ni igitega,Inda yawe imeze nk'ingano zitonze neza,Zikikijweho n'imyangange.",
+      "start": 28.33,
+      "end": 36.37
+    },
+    "4": {
+      "text": "Amabere yawe ameze nk'inyagazi ebyiri,Nk'impanga z'isirabo.",
+      "start": 44.67,
+      "end": 44.91
+    },
+    "5": {
+      "text": "Ijosi ryawe rimeze nk'umunara wubakishijwe amahembe y'inzovu,Inkesha zo mu maso yawe zimeze nk'ibidendezi by'i Heshiboni,Biri ku irembo ry'i Batirabimu.Izuru ryawe rimeze nka wa munara w'i Lebanoni,Werekeye i Damasiko.",
+      "start": 35.28,
+      "end": 35.98
+    },
+    "6": {
+      "text": "Umutwe wawe wemye nka Karumeli,N'umusatsi wawe usa n'umwenda w'umuhengeri,Umwami atonesha uwo musatsi uboshye. Umukwe:",
+      "start": 24.59,
+      "end": 42.43
+    },
+    "7": {
+      "text": "Ko uri mwiza kandi unezeza,Yewe, uwo mporanira urukundo rwishimirwa.",
+      "start": 36.77,
+      "end": 37.45
+    },
+    "8": {
+      "text": "Uburebure bwawe buhwanye n'umukindo,N'amabere yawe ahwanye n'amaseri yawo.",
+      "start": 11.73,
+      "end": 33.42
+    },
+    "9": {
+      "text": "Naravuze nti “Nzurira umukindo,Mfate amashami yawo.”Reka amabere yawe amere nk'amaseri y'umuzabibu,N'impumuro y'umwuka wawe nk'impumuro y'amatapuwa,",
+      "start": 1.5,
+      "end": 44.78
+    },
+    "10": {
+      "text": "N'akanwa kawe kamere nka vino nziza,Ibera umukunzi wanjye ikimirwa kimanukana uburyohe,Iramizwa mu kanwa k'abasinzira. Umugeni:",
+      "start": 41.26,
+      "end": 43.11
+    },
+    "11": {
+      "text": "Ndi uw'umukunzi wanjye,Kandi urukundo rwe ararungaragariza.",
+      "start": 35.44,
+      "end": 40.03
+    },
+    "12": {
+      "text": "Ngwino mukunzi wanjye tujyane ku gasozi,Turebe imihana ducumbikamo,",
+      "start": 25.66,
+      "end": 33.11
+    },
+    "13": {
+      "text": "Tuzindukire mu nzabibu,Turebe ko imizabibu yatoshye,Cyangwa ko yapfunditse ururabo,N'ibikomamanga ko byarabije.Aho ni ho uzabonera urukundo rwanjye.",
+      "start": 8.94,
+      "end": 31.15
+    },
+    "14": {
+      "text": "Ubu amadudayimu azana impumuro nziza,Ku irembo ryacu nejeje imbuto nziza z'amoko yose za vuba n'iza kera,Ni zo nagusaruriye, mukunzi wanjye we.",
+      "start": 6.81,
+      "end": 33.66
+    }
+  }
+}

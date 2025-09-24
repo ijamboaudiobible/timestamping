@@ -1,0 +1,73 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Uwo munsi Uwiteka azahana Lewiyatani ya nzoka yihuta, na Lewiyatani ya nzoka yihotagura, abihanishe inkota ye nini ikomeye ifite ubugi, kandi azica ikiyoka cyo mu nyanja.",
+      "start": 34.19,
+      "end": 34.71
+    },
+    "2": {
+      "text": "Uwo munsi bazavuga bati “Nimuririmbire uruzabibu rwa vino.”",
+      "start": 2.34,
+      "end": 7.1
+    },
+    "3": {
+      "text": "Jyewe Uwiteka ni jye ururinda, nzajya ndwuhira ibihe byose, nzarurinda ku manywa na nijoro ngo hatagira urwangiza.",
+      "start": 13.47,
+      "end": 40.35
+    },
+    "4": {
+      "text": "Nta burakari mfite, ariko imifatangwe n'amahwa naho byaza, nabirwanya nkabitwikira hamwe.",
+      "start": 36.08,
+      "end": 44.67
+    },
+    "5": {
+      "text": "Naho bitaba bityo, ahubwo yisunge imbaraga zanjye abone kūzura nanjye, ndetse niyuzure nanjye.",
+      "start": 39.86,
+      "end": 43.61
+    },
+    "6": {
+      "text": "Iminsi izaza Yakobo azashinga imizi, Isirayeli azapfundika arabye ururabyo, kandi bazakwiza isi yose imbuto.",
+      "start": 3.96,
+      "end": 21.07
+    },
+    "7": {
+      "text": "Mbese yabakubise nk'uko yakubise ababakubitaga, cyangwa bishwe nk'uko ababicaga bishwe?",
+      "start": 33.46,
+      "end": 43.98
+    },
+    "8": {
+      "text": "Ubwo wabirukanaga wabahannye bitarenza urugero, mu munsi w'umuyaga uturuka iburasirazuba yabimirije umuyaga w'ishuheri.",
+      "start": 18.41,
+      "end": 40.26
+    },
+    "9": {
+      "text": "Ibyo ni byo bizatuma gukiranirwa kwa Yakobo kuzatwikīrwa, kandi iyo ni yo mbuto yose yo kumukuraho icyaha, ubwo amabuye y'igicaniro yose azayahindura ibishonyi bihondagurwa, bituma Ashera n'ibishushanyo by'izuba bisengwa bitazongera kubyuka.",
+      "start": 42.04,
+      "end": 42.54
+    },
+    "10": {
+      "text": "Umudugudu ugoswe n'inkike ubaye umusaka n'amatongo yatawe ameze nk'ubutayu, aho inyana zizarishiriza zikaharyama zikarya amashami yaho.",
+      "start": 6.42,
+      "end": 16.9
+    },
+    "11": {
+      "text": "Amashami yaho niyuma azahwanyurwa, abagore bazaza bayatwike kuko ari ubwoko butazi ubwenge. Ni cyo gituma Iyabaremye itazabababarira, kandi Iyababumbye itazabagirira imbabazi.",
+      "start": 21.03,
+      "end": 25.9
+    },
+    "12": {
+      "text": "Uwo munsi Uwiteka azakubita imbuto ze ngo ziragarike, uhereye ku Ruzi ukageza ku kagezi ka Egiputa. Nuko muzatoragurwa umwe umwe, mwa Bisirayeli mwe.",
+      "start": 3.83,
+      "end": 40.99
+    },
+    "13": {
+      "text": "Uwo munsi ikondera rinini rizavuga, abari bagiye kurimbukira mu gihugu cya Ashuri n'abaciriwe mu gihugu cya Egiputa, bazaza basengere Uwiteka ku musozi wera i Yerusalemu.",
+      "start": 12.43,
+      "end": 39.9
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 112,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Hahirwa uwubaha Uwiteka,Akishimira cyane amategeko ye.",
+      "start": 37.59,
+      "end": 37.7
+    },
+    "2": {
+      "text": "Urubyaro rw'uwo ruzagira amaboko mu isi,Umuryango w'abatunganye uzahabwa umugisha.",
+      "start": 26.36,
+      "end": 39.12
+    },
+    "3": {
+      "text": "Ubutunzi n'ubukire biri mu rugo rwe,Gukiranuka kwe guhoraho iteka ryose.",
+      "start": 37.74,
+      "end": 42.37
+    },
+    "4": {
+      "text": "Abatunganye umucyo ubavira mu mwijima,Uvira ūgira imbabazi n'ibambe agakiranuka.",
+      "start": 3.1,
+      "end": 10.41
+    },
+    "5": {
+      "text": "Hahirwa ugira imbabazi akaguriza abandi,Agakora imirimo ye uburyo butunganye.",
+      "start": 26.23,
+      "end": 43.68
+    },
+    "6": {
+      "text": "Kuko atazanyeganyezwa iteka,Umukiranutsi azibukwa iteka ryose.",
+      "start": 36.57,
+      "end": 38.64
+    },
+    "7": {
+      "text": "Ntazatinya inkuru mbi,Umutima we urakomeye wiringiye Uwiteka.",
+      "start": 44.49,
+      "end": 44.74
+    },
+    "8": {
+      "text": "Umutima we urahamye ntazatinya,Kugeza aho azabonera ibyo ashakira abanzi be.",
+      "start": 14.7,
+      "end": 28.64
+    },
+    "9": {
+      "text": "Yaranyanyagije yahaye abakene,Gukiranuka kwe guhoraho iteka ryose,Ihembe rye rizashyiranwa hejuru icyubahiro.",
+      "start": 38.23,
+      "end": 41.32
+    },
+    "10": {
+      "text": "Umunyabyaha azabireba ababare,Ahekenye amenyo, ayage,Icyo umunyabyaha yifuza kizabura.",
+      "start": 40.03,
+      "end": 44.69
+    }
+  }
+}

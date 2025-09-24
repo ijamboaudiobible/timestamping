@@ -1,0 +1,53 @@
+{
+  "book": "Book 28",
+  "book_canonical": "hosea",
+  "book_number": 28,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Ijambo ry'Uwiteka ryaje kuri Hoseya mwene Bēri, ku ngoma ya Uziya n'iya Yotamu, n'iya Ahazi n'iya Hezekiya abami b'u Buyuda, no ku ngoma ya Yerobowamu mwene Yehowasi, umwami wa Isirayeli. 26.1--27.8; 28.1--32.33",
+      "start": 23.09,
+      "end": 34.0
+    },
+    "2": {
+      "text": "Igihe Uwiteka yatangiye kuvugana na Hoseya ubwa mbere aramubwira ati “Genda ucyure umugore wa maraya ufite abana b'ibinyandaro, kuko iki gihugu cyakabije ubusambanyi bwo kureka Uwiteka.”",
+      "start": 21.78,
+      "end": 35.3
+    },
+    "3": {
+      "text": "Nuko aragenda acyura Gomeri umukobwa wa Dibulayimu, asama inda amubyaraho umuhungu.",
+      "start": 21.22,
+      "end": 34.71
+    },
+    "4": {
+      "text": "Maze Uwiteka aramubwira ati “Izina rye umwite Yezerēli, kuko hasigaye igihe gito ngahōra inzu ya Yehu amaraso ya Yezerēli, kandi nzamaraho ubwami bw'inzu ya Isirayeli.",
+      "start": 11.47,
+      "end": 25.89
+    },
+    "5": {
+      "text": "Uwo munsi nzavunagurira umuheto wa Isirayeli mu kibaya cy'i Yezerēli.”",
+      "start": 42.42,
+      "end": 43.46
+    },
+    "6": {
+      "text": "Nuko asubizamo inda, abyara umukobwa. Uwiteka aramubwira ati “Izina rye umwite Loruhama, uko ntazongera kugirira inzu ya Isirayeli imbabazi, ntabwo nzongera kubababarira ukundi.",
+      "start": 26.85,
+      "end": 40.25
+    },
+    "7": {
+      "text": "Ariko ya nzu ya Yuda nzayibabarira mbakize ngiriye Uwiteka Imana yabo, kandi sinzabakirisha umuheto cyangwa inkota, cyangwa intambara cyangwa amafarashi, cyangwa abagendera ku mafarashi.”",
+      "start": 19.19,
+      "end": 37.65
+    },
+    "8": {
+      "text": "Nuko acukije Loruhama arongera asama inda, abyara umuhungu. Uwiteka ati",
+      "start": 10.09,
+      "end": 42.53
+    },
+    "9": {
+      "text": "“Izina rye umwite Lowami, kuko mutari ubwoko bwanjye nanjye sinzaba Imana yanyu",
+      "start": 7.18,
+      "end": 37.02
+    }
+  }
+}

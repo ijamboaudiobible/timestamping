@@ -1,0 +1,128 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Bukeye Sawuli abwira umuhungu we Yonatani n'abagaragu be bose ngo bice Dawidi.",
+      "start": 12.74,
+      "end": 39.71
+    },
+    "2": {
+      "text": "Ariko Yonatani mwene Sawuli yakundaga Dawidi cyane. Nuko Yonatani aburira Dawidi ati “Data Sawuli arenda kukwica, none ndakwinginze ejo mu gitondo uzirinde, wihishe ahiherereye.",
+      "start": 36.61,
+      "end": 43.8
+    },
+    "3": {
+      "text": "Nanjye nzasohoka mpagararane na data ku gasozi aho uzaba uri, mvugane na we ibyawe, ningira icyo numva nzabikubwira.”",
+      "start": 9.33,
+      "end": 38.62
+    },
+    "4": {
+      "text": "Bukeye Yonatani avugana na se Sawuli, amushimagiriza Dawidi aravuga ati “Nyagasani, ntuzagirire nabi uwo mugaragu wawe Dawidi kuko nta nabi yakugiriye, ahubwo imirimo ye yakubereye myiza cyane.",
+      "start": 21.67,
+      "end": 38.83
+    },
+    "5": {
+      "text": "Yahaze amagara ye yica wa Mufilisitiya, Uwiteka atanga agakiza gakomeye mu Bisirayeli bose, ubibonye urabyishimira. None ni iki gituma ushaka gucumura ukavusha amaraso y'utacumuye, ugahora Dawidi ubusa?”",
+      "start": 22.12,
+      "end": 29.84
+    },
+    "6": {
+      "text": "Sawuli yumvira Yonatani ararahira ati “Ndahiye Uwiteka uhoraho, ntazicwa.”",
+      "start": 39.87,
+      "end": 42.43
+    },
+    "7": {
+      "text": "Yonatani aherako ahamagara Dawidi, amutekerereza ayo magambo yose. Nuko Yonatani azana Dawidi kwa Sawuli, aguma imbere ye nk'uko yari asanzwe.",
+      "start": 30.81,
+      "end": 37.79
+    },
+    "8": {
+      "text": "Bukeye hongera kubaho intambara, Dawidi aratabara arwana n'Abafilisitiya yica benshi cyane, baramuhunga.",
+      "start": 31.54,
+      "end": 34.89
+    },
+    "9": {
+      "text": "Bukeye Sawuli yari yicaye mu nzu ye afite icumu mu ntoki, Dawidi amucurangira imbere. Maze umwuka mubi uvuye ku Uwiteka ahanga kuri Sawuli.",
+      "start": 7.98,
+      "end": 22.55
+    },
+    "10": {
+      "text": "Sawuli agerageza gutera Dawidi icumu ngo rimushite ku nzu, Dawidi ararizibukira amuva imbere rihama urusika. Nuko Dawidi aracika, arigendera muri iryo joro.",
+      "start": 9.37,
+      "end": 31.81
+    },
+    "11": {
+      "text": "Sawuli aherako atuma intumwa kwa Dawidi ngo bamurinde, bazamwice mu gitondo. Maze Mikali muka Dawidi aramuburira, aramubwira ati “Iri joro nutiyarura, ejo uzapfa.”",
+      "start": 43.79,
+      "end": 44.67
+    },
+    "12": {
+      "text": "Nuko Mikali amanurira Dawidi mu idirishya, agenda yiruka arahunga.",
+      "start": 15.81,
+      "end": 24.44
+    },
+    "13": {
+      "text": "Mikali aherako yenda igishushanyo cya terafimu yabo akirambika ku buriri, yenda uruhu rw'ubwoya bw'ihene arushyira ku musego, acyorosaho imyenda.",
+      "start": 27.6,
+      "end": 32.46
+    },
+    "14": {
+      "text": "Sawuli atuma intumwa gufata Dawidi, Mikali arazibwira ati “Ararwaye.”",
+      "start": 15.9,
+      "end": 39.0
+    },
+    "15": {
+      "text": "Hanyuma Sawuli yongera gutuma intumwa kureba Dawidi, arazibwira ati “Mumuterure ku buriri mumunzanire mwice.”",
+      "start": 38.2,
+      "end": 44.8
+    },
+    "16": {
+      "text": "Nuko intumwa zinjiyemo zisanga cya gishushanyo cya terafimu ku buriri, ku mutwe wacyo hari uruhu rw'ubwoya bw'ihene.",
+      "start": 32.16,
+      "end": 44.99
+    },
+    "17": {
+      "text": "Sawuli abyumvise atonganya Mikali ati “Ni iki cyatumye umbeshya utyo ukarekura umwanzi wanjye, none akaba acitse?”Mikali asubiza Sawuli ati “Yambwiye ati ‘Reka ngende’. Nakwica nguhoye iki?”",
+      "start": 31.36,
+      "end": 38.12
+    },
+    "18": {
+      "text": "Nuko Dawidi arahunga, aracika asanga Samweli i Rama, amutekerereza ibyo Sawuli yamukoreye byose. Bukeye ahagurukana na Samweli, batura i Nayoti.",
+      "start": 21.06,
+      "end": 40.85
+    },
+    "19": {
+      "text": "Hanyuma babwira Sawuli bati “Dawidi ari i Nayoti i Rama.”",
+      "start": 29.57,
+      "end": 38.71
+    },
+    "20": {
+      "text": "Sawuli atuma intumwa gufata Dawidi. Zihageze zisanga umutwe w'abahanuzi bahanura, Samweli ahagaze aho nk'umutware wabo, maze umwuka w'Imana aza ku ntumwa za Sawuli na zo zirahanura.",
+      "start": 8.19,
+      "end": 12.77
+    },
+    "21": {
+      "text": "Babibwiye Sawuli atuma izindi ntumwa, na zo zirahanura. Arongera atuma izindi ubwa gatatu, na zo zirahanura.",
+      "start": 17.24,
+      "end": 33.45
+    },
+    "22": {
+      "text": "Bukeye arihagurukira ajya i Rama ubwe, arasukira ku iriba rinini ry'i Seku arabaza ati “Samweli na Dawidi bari he?” Umuntu umwe aramusubiza ati “Bari i Nayoti i Rama.”",
+      "start": 32.59,
+      "end": 33.33
+    },
+    "23": {
+      "text": "Nuko ajya i Nayoti i Rama. Maze umwuka w'Imana amuzaho na we, agenda ahanura kugeza aho yagereye i Nayoti i Rama.",
+      "start": 25.72,
+      "end": 32.43
+    },
+    "24": {
+      "text": "Ahageze yiyambura imyambaro ye, ahanurira imbere ya Samweli arambaraye hasi yambaye ubusa, yiriza umunsi akesha ijoro. Ni cyo cyatumye bavuga bati “Mbega Sawuli na we ari mu bahanuzi?”",
+      "start": 20.76,
+      "end": 26.83
+    }
+  }
+}

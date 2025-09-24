@@ -1,0 +1,143 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Maze Mose n'Abisirayeli baririmbira Uwiteka iyi ndirimbo bati“Ndaririmbira Uwiteka kuko yanesheje bitangaje,Ifarashi n'uwo ihetse yabiroshye mu nyanja.",
+      "start": 4.85,
+      "end": 31.03
+    },
+    "2": {
+      "text": "Uwiteka ni imbaraga zanjye n'indirimbo yanjye,Ampindukiye agakiza.Uwo ni we Mana yanjye, nanjye ndayihimbaza,Ni yo Mana ya data, nanjye ndayishyira hejuru.",
+      "start": 10.9,
+      "end": 20.04
+    },
+    "3": {
+      "text": "Uwiteka ni intwari mu ntambara,Uwiteka ni ryo zina rye.",
+      "start": 39.52,
+      "end": 43.03
+    },
+    "4": {
+      "text": "“Amagare ya Farawo n'ingabo ze yabiroshye mu nyanja,Abatwara imitwe yatoranije barengewe n'Inyanja Itukura.",
+      "start": 6.21,
+      "end": 12.41
+    },
+    "5": {
+      "text": "Imuhengeri habarenzeho,Barokeye imuhengeri nk'ibuye.",
+      "start": 10.3,
+      "end": 16.12
+    },
+    "6": {
+      "text": "“Uwiteka, ukuboko kwawe kw'iburyo gutewe icyubahiro n'ububasha bwako,Uwiteka, ukuboko kwawe kw'iburyo kwashenjaguye ababisha.",
+      "start": 29.81,
+      "end": 42.3
+    },
+    "7": {
+      "text": "Isumbe ryawe ryinshi ryatumye utura hasi abaguhagurukiye,Watumye umujinya wawe ubakongeza nk'ibitsinsi by'inganagano.",
+      "start": 0.78,
+      "end": 30.22
+    },
+    "8": {
+      "text": "Umwuka wo mu mazuru yawe warundanije amazi,Amazi yatembaga yema nk'ikirundo,Imuhengeri muri nyina w'inyanja haravura.",
+      "start": 0.01,
+      "end": 10.43
+    },
+    "9": {
+      "text": "“Umubisha yaravuze ati‘Ndabakurikira mbafatīre, nyage iminyago nyigabane,Nzabimariraho agahinda,Nzakura inkota, ukuboko kwanjye kubarimbure.’",
+      "start": 40.61,
+      "end": 42.67
+    },
+    "10": {
+      "text": "Wahuhishije umuyaga wawe inyanja irabarengera:Barokera nk'icyuma cy'isasu mu mazi y'umuvumba.",
+      "start": 8.34,
+      "end": 27.79
+    },
+    "11": {
+      "text": "“Uwiteka, mu byitwa imana hari ihwanye nawe?Ni iyihe ihwanye nawe?Kwera kwawe ni ko kuguhesha icyubahiro,Ishimwe ryawe rituma abantu bagutinya kuko ukora ibitangaza!",
+      "start": 11.57,
+      "end": 44.23
+    },
+    "12": {
+      "text": "Warambuye ukuboko kw'iburyo isi irabamira.",
+      "start": 25.68,
+      "end": 31.05
+    },
+    "13": {
+      "text": "Ku bw'imbabazi zawe wagiye imbere y'abantu wacunguye,Wabayoboje imbaraga zawe inzira ijya mu buturo bwawe bwera.",
+      "start": 35.78,
+      "end": 36.21
+    },
+    "14": {
+      "text": "Amahanga yarumvise ahinda imishyitsi,Ubwoba bufata abatuye i Filisitiya.",
+      "start": 35.64,
+      "end": 39.51
+    },
+    "15": {
+      "text": "Icyo gihe abatware ba Edomu baratangara,Intwari z'i Mowabu zifatwa no guhinda imishyitsi,Abatuye i Kanāni bose barayagāra.",
+      "start": 10.54,
+      "end": 21.36
+    },
+    "16": {
+      "text": "Ubwoba no gutinya bizabafata,Gukomera k'ukuboko kwawe kuzabajunjika nk'ibuye.Uwiteka, bageze aho ubwoko bwawe buzarengera urugabano,Bageze aho ubwoko wacunguye buzarurengera.",
+      "start": 37.65,
+      "end": 44.85
+    },
+    "17": {
+      "text": "Uzabugezayo ubushinge ku musozi w'umwandu wawe,Ahantu witunganirije kuba ubuturo bwawe, Uwiteka,Ahera amaboko yawe yashyizeho, Mwami.",
+      "start": 15.68,
+      "end": 29.43
+    },
+    "18": {
+      "text": "Uwiteka azahora ku ngoma iteka ryose.”",
+      "start": 22.19,
+      "end": 31.31
+    },
+    "19": {
+      "text": "Kuko amafarashi ya Farawo yajyananye mu nyanja n'amagare ye, n'abahetswe n'amafarashi be, Uwiteka agasubiza amazi y'inyanja ahayo akabirengera, ariko Abisirayeli bo bagaca hagati mu nyanja nko ku butaka.",
+      "start": 16.15,
+      "end": 22.15
+    },
+    "20": {
+      "text": "Kandi Miriyamu umuhanuzikazi mushiki wa Aroni, ajyana ishako, abagore bose barasohoka bamukurikira bafite amashako babyina.",
+      "start": 43.54,
+      "end": 44.63
+    },
+    "21": {
+      "text": "Miriyamu akabikiriza ati“Muririmbire Uwiteka kuko yanesheje bitangaje,Ifarashi n'uwo ihetse yabiroshye mu nyanja.”",
+      "start": 19.62,
+      "end": 34.92
+    },
+    "22": {
+      "text": "Mose agendesha Abisirayeli bakomeza urugendo, bava ku Nyanja Itukura bajya mu butayu bw'i Shuri, bagenda iminsi itatu mu butayu babura amazi.",
+      "start": 33.65,
+      "end": 37.74
+    },
+    "23": {
+      "text": "Bageze i Mara ntibabasha kunywa amazi y'i Mara, kuko yaruraga. Ni cyo cyatumye hitwa Mara.",
+      "start": 41.62,
+      "end": 41.76
+    },
+    "24": {
+      "text": "Abantu bitotombera Mose bati “Turanywa iki?”",
+      "start": 24.58,
+      "end": 30.59
+    },
+    "25": {
+      "text": "Atakira Uwiteka, Uwiteka amwereka igiti akijugunya muri ayo mazi, ahinduka meza.",
+      "start": 23.08,
+      "end": 40.33
+    },
+    "26": {
+      "text": "Arababwira ati “Nugira umwete wo kumvira Uwiteka Imana yawe, ugakora ibitunganye mu maso yayo, ukumvira amategeko yayo, ukitondera ibyo yategetse byose, nta ndwara nzaguteza mu zo nateje Abanyegiputa, kuko ari jye Uwiteka ugukiza indwara.”",
+      "start": 14.05,
+      "end": 19.45
+    },
+    "27": {
+      "text": "Bagera muri Elimu hari amasōko cumi n'abiri n'imikindo mirongo irindwi, babamba amahema kuri ayo mazi.",
+      "start": 5.38,
+      "end": 42.93
+    }
+  }
+}

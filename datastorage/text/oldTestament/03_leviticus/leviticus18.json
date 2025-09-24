@@ -1,0 +1,158 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 29.23,
+      "end": 38.95
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli uti: Ndi Uwiteka Imana yanyu.",
+      "start": 38.08,
+      "end": 43.87
+    },
+    "3": {
+      "text": "Ntimugakore nk'ibyo abo mu gihugu cya Egiputa bajya bakora, abo mwahoze mutuyemo, kandi ntimuzakore nk'ibyo abo mu gihugu cy'i Kanāni bajya bakora, aho mbajyana, kandi ntimuzakurikize amategeko yabo.",
+      "start": 0.7,
+      "end": 11.46
+    },
+    "4": {
+      "text": "Amateka yanjye abe ari yo mujya mwumvira, amategeko yanjye abe ari yo mujya mwitondera, abe ari byo mugenderamo. Ndi Uwiteka Imana yanyu.",
+      "start": 38.49,
+      "end": 43.41
+    },
+    "5": {
+      "text": "Nuko mujye mwitondera amategeko yanjye n'amateka yanjye, ibyo uzabikora azabeshwaho na byo. Ndi Uwiteka. 3.12.",
+      "start": 2.21,
+      "end": 38.12
+    },
+    "6": {
+      "text": "“Ntihakagire uwo muri mwe wiyegereza mwene wabo wa bugufi ngo amwambike ubusa. Ndi Uwiteka.",
+      "start": 15.69,
+      "end": 42.73
+    },
+    "7": {
+      "text": "Ubwambure bwa so ni bwo bwambure bwa nyoko ntukamwambike ubusa, uwo ni nyoko ntukamwambike ubusa.",
+      "start": 32.15,
+      "end": 40.05
+    },
+    "8": {
+      "text": "Ntukambike ubusa muka so, kuko ari ubwambure bwa so.",
+      "start": 9.6,
+      "end": 32.67
+    },
+    "9": {
+      "text": "Ntukambike ubusa mushiki wawe musangiye so cyangwa nyoko, naho yavutse iwanyu cyangwa ahandi, ntukamwambike ubusa.",
+      "start": 20.95,
+      "end": 39.71
+    },
+    "10": {
+      "text": "Ntukambike ubusa umukobwa w'umuhungu wawe cyangwa uw'umukobwa wawe, ntukabambike ubusa kuko ubwambure bwabo ari ubwawe.",
+      "start": 0.75,
+      "end": 14.99
+    },
+    "11": {
+      "text": "Ntukambike ubusa umukobwa wa muka so wabyawe na so, uwo ni mushiki wawe ntukamwambike ubusa.",
+      "start": 10.26,
+      "end": 31.91
+    },
+    "12": {
+      "text": "Ntukambike ubusa nyogosenge, ni mwene wabo wa so wa bugufi.",
+      "start": 9.47,
+      "end": 18.76
+    },
+    "13": {
+      "text": "Ntukambike ubusa nyoko wanyu, kuko ari mwene wabo wa nyoko wa bugufi.",
+      "start": 30.53,
+      "end": 31.34
+    },
+    "14": {
+      "text": "Ntukambike ubusa so wanyu, ntukiyegereze umugore we, kuko ari nyoko wanyu.",
+      "start": 8.15,
+      "end": 26.41
+    },
+    "15": {
+      "text": "Ntukambike ubusa umukazana wawe: uwo ni we mugore w'umuhungu wawe ntukamwambike ubusa.",
+      "start": 4.25,
+      "end": 16.16
+    },
+    "16": {
+      "text": "Ntukambike ubusa umugore wanyu, ubwambure bwe ni ubwa mwene so.",
+      "start": 32.87,
+      "end": 35.07
+    },
+    "17": {
+      "text": "Ntukambike ubusa umugore n'umukobwa we, ntukende umukobwa w'umuhungu we cyangwa uw'umukobwa we ngo umwambike ubusa: abo ni bene wabo b'umugore wawe ba bugufi, icyo ni icyaha gikomeye.",
+      "start": 12.77,
+      "end": 22.07
+    },
+    "18": {
+      "text": "Ntugaharike umugore mwene se ngo abe mukeba we, ngo umwambikane ubusa na wa wundi akiriho.",
+      "start": 18.73,
+      "end": 29.36
+    },
+    "19": {
+      "text": "“Ntukiyegereze umugore ngo umwambike ubusa, agihumanijwe n'umuhango w'abakobwa.",
+      "start": 40.11,
+      "end": 41.5
+    },
+    "20": {
+      "text": "Ntugasambane na muka mugenzi wawe ngo umwiyandurishe.",
+      "start": 15.54,
+      "end": 42.47
+    },
+    "21": {
+      "text": "“Ntugatange uwo mu rubyaro rwawe ngo umutambire Moleki, kandi ntugasuzuguze izina ry'Imana yawe. Ndi Uwiteka.",
+      "start": 3.52,
+      "end": 11.45
+    },
+    "22": {
+      "text": "Ntugatinge abagabo, ni ikizira.",
+      "start": 21.57,
+      "end": 41.38
+    },
+    "23": {
+      "text": "Ntukaryamane n'itungo ryose cyangwa n'inyamaswa yose ngo ucyiyandurishe, kandi he kugira umugore cyangwa umukobwa uhagarara imbere y'itungo ngo aryamane na ryo, ibyo ni ukuvanga ibidahuye.",
+      "start": 8.01,
+      "end": 21.48
+    },
+    "24": {
+      "text": "“Ntimukagire icyo muri ibyo byose mwiyandurisha, kuko ibyo byose byanduje amahanga nzirukana akabahunga,",
+      "start": 3.93,
+      "end": 14.38
+    },
+    "25": {
+      "text": "igihugu cyayo kikaba cyanduye. Ni cyo gituma ngihora gukiranirwa kwacyo, kikaruka abagituyemo.",
+      "start": 5.66,
+      "end": 32.71
+    },
+    "26": {
+      "text": "Nuko mwebweho mujye mwitondera amategeko yanjye n'amateka yanjye, ntimukagire icyo muri ibyo bizira mukora, naho yaba kavukire cyangwa umunyamahanga ubasuhukiyemo.",
+      "start": 25.15,
+      "end": 34.56
+    },
+    "27": {
+      "text": "Kuko ibyo bizira byose bene icyo gihugu bakoze, batuyemo mbere yanyu, icyo gihugu kikaba cyanduye.",
+      "start": 0.45,
+      "end": 26.96
+    },
+    "28": {
+      "text": "Ntimuzabikore kugira ngo icyo gihugu kitabaruka namwe nimucyanduza, nk'uko kirutse ishyanga ryatuyemo mbere yanyu.",
+      "start": 9.31,
+      "end": 39.96
+    },
+    "29": {
+      "text": "Umuntu wese uzakora icyo muri ibyo bizira, ubugingo bw'ababikora buzakurwa mu bwoko bwabo.",
+      "start": 1.42,
+      "end": 42.66
+    },
+    "30": {
+      "text": "“Ni cyo gituma mukwiriye kwitondera ibyo mbihanangirije, kugira ngo mutagira iyo muri iyo mihango izira mukora, yakorwaga n'abababanjirije mukayiyandurisha. Ndi Uwiteka Imana yanyu.”",
+      "start": 28.39,
+      "end": 38.12
+    }
+  }
+}

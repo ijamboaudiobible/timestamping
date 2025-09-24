@@ -1,0 +1,178 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Bazabona ishyano abategeka amategeko yo guca urwa kibera, n'abanditsi bandikira ibigoramye,",
+      "start": 25.58,
+      "end": 37.24
+    },
+    "2": {
+      "text": "kugira ngo birengagize abakene badaca urubanza rwabo, bagahuguza abatindi bo mu bantu banjye, n'abapfakazi bakaba umunyago wabo, kandi impfubyi bazigira umuhigo wabo.",
+      "start": 39.01,
+      "end": 39.79
+    },
+    "3": {
+      "text": "None se ku munsi w'amakuba no mu irimbura rizaturuka kure muzamera mute? Muzahungira kuri nde ngo abakize, kandi icyubahiro cyawe uzagisiga he?",
+      "start": 35.73,
+      "end": 39.21
+    },
+    "4": {
+      "text": "Bazacishwa bugufi babe hasi y'imbohe, kandi bazagwa babe munsi y'intumbi. Nyamara uburakari bw'Uwiteka ntiburashira, ahubwo ukuboko kwe kuracyabanguye.",
+      "start": 15.64,
+      "end": 33.06
+    },
+    "5": {
+      "text": "Ashuri ni yo ngegene y'umujinya wanjye, kandi inkoni yitwaje ni yo burakari bwanjye.",
+      "start": 26.75,
+      "end": 29.51
+    },
+    "6": {
+      "text": "Nzamuteza ishyanga risuzugura Imana n'ubwoko narakariraga, nzaritegeka kubanyaga bakabajyana ho iminyago, bakabanyukanyukira hasi nk'ibyondo byo mu nzira.",
+      "start": 43.17,
+      "end": 44.27
+    },
+    "7": {
+      "text": "Ariko ibyo si we wabyitumaga ubwe, umutima we ntiwabyibwiraga, ahubwo yamaraniraga kurimbura no kumaraho amahanga atari make.",
+      "start": 44.26,
+      "end": 44.98
+    },
+    "8": {
+      "text": "Kuko avuga ati “Mbese abatware banjye bose uko bangana si abami?",
+      "start": 44.91,
+      "end": 44.92
+    },
+    "9": {
+      "text": "I Kalino ntihameze nk'i Karikemeshi? N'i Hamati ntihameze nka Arupadi? N'i Samariya ntihameze nk'i Damasiko?",
+      "start": 32.26,
+      "end": 44.99
+    },
+    "10": {
+      "text": "Nk'uko ukuboko kwanjye kwageze ku bihugu by'ibigirwamana byari bifite ibishushanyo bibajwe byarutaga ibiri i Yerusalemu n'i Samariya,",
+      "start": 39.67,
+      "end": 40.85
+    },
+    "11": {
+      "text": "ibyo nagiriye i Samariya n'ibigirwamana byaho, sinzabigirira i Yerusalemu n'ibigirwamana byaho?”",
+      "start": 2.9,
+      "end": 25.4
+    },
+    "12": {
+      "text": "Nuko Umwami Imana nimara gusohoza ibyo yagambiriye ku musozi wa Siyoni n'i Yerusalemu byose, nzaherako mpane umwami wa Ashuri, muhora ibyo yakoreshejwe n'umutima w'igitsure n'ubwibone by'icyubahiro cye.",
+      "start": 35.26,
+      "end": 44.53
+    },
+    "13": {
+      "text": "Kuko yavuze ati “Narabikoze ubwanjye mbikoresheje imbaraga z'ukuboko kwanjye n'ubwenge bwanjye, kuko ndi umunyabwenge. Nakuyeho ingabano z'amahanga, nanyaze ubutunzi bwabo, nagize ubutwari, nimikūra abari bicaye ku ntebe z'ubwami.",
+      "start": 17.13,
+      "end": 37.39
+    },
+    "14": {
+      "text": "Ukuboko kwanjye kwiboneye ubutunzi bw'amahanga nk'uwiboneye icyari cy'inyoni, kandi nk'uko umuntu ateranya amagi inyoni yaretse, ni ko nanjye nateranije ibihugu byo mu isi yose. Nta winyagambuye ngo arambure ibaba, nta wabumbuye akanwa kandi nta n'uwajwigiriye.”",
+      "start": 44.43,
+      "end": 44.63
+    },
+    "15": {
+      "text": "Mbese intorezo yakwirata ku uyitemesha? Urukero rwakwiyogeza ku urukeresha? Ni nk'aho inkoni yazunguza uyiteruye, cyangwa inshyimbo ikiterura nk'aho atari igiti.",
+      "start": 18.92,
+      "end": 44.11
+    },
+    "16": {
+      "text": "Ni byo bizatuma Uwiteka Umwami Nyiringabo ateza abantu be babyibushye konda, kandi mu bwiza bwe hazakongezwa hatwikwe nk'ahatwikwa n'umuriro.",
+      "start": 38.82,
+      "end": 41.24
+    },
+    "17": {
+      "text": "Umucyo wa Isirayeli uzaba umuriro, kandi Uwera we azaba ikirimi, bazatwika bamareho imifatangwe n'amahwa bye umunsi umwe.",
+      "start": 31.28,
+      "end": 44.6
+    },
+    "18": {
+      "text": "Kandi azamaraho ubwiza bw'ishyamba rye, n'ubw'imirima ye yera cyane, azamaraho n'ubugingo n'umubiri, hazabaho ubwihebe nk'uko bimera iyo ūtwara ibendera yiheba.",
+      "start": 27.55,
+      "end": 39.45
+    },
+    "19": {
+      "text": "Ibiti bizasigara mu ishyamba rye bizaba bike, ibyo umwana muto yakwandika umubare.",
+      "start": 38.27,
+      "end": 44.86
+    },
+    "20": {
+      "text": "Nuko uwo munsi abazaba barokotse muri Isirayeli n'abazaba bacitse ku icumu mu nzu ya Yakobo, bazaba batacyisunga ababakubise, ahubwo bazisunga Uwiteka by'ukuri, Uwera wa Isirayeli.",
+      "start": 31.97,
+      "end": 40.21
+    },
+    "21": {
+      "text": "Abarokotse bo mu Bayakobo bazagarukira Imana ikomeye,",
+      "start": 10.51,
+      "end": 13.53
+    },
+    "22": {
+      "text": "ariko nubwo ubwoko bwawe bwa Isirayeli bungana n'umusenyi wo ku nyanja, igice cyabwo ni cyo kizarokoka kigaruke. Byaragambiriwe gusohozwa rwose n'urubanza rutabera,",
+      "start": 18.68,
+      "end": 35.37
+    },
+    "23": {
+      "text": "kuko Uwiteka Umwami Nyiringabo yagambiriye kuzabisohoza hagati mu bihugu byose.",
+      "start": 12.78,
+      "end": 30.77
+    },
+    "24": {
+      "text": "Ni cyo gituma Uwiteka Umwami Nyiringabo avuga ati “Yemwe bantu banjye batura i Siyoni, ntimutinye Abashuri nubwo babakubita inkoni bakababangurira inshyimbo, bakabagirira nk'uko Abanyegiputa babagize.",
+      "start": 30.45,
+      "end": 38.14
+    },
+    "25": {
+      "text": "Hasigaye igihe gito cyane, uburakari n'umujinya byanjye bizabageraho mbarimbure.”",
+      "start": 39.13,
+      "end": 39.18
+    },
+    "26": {
+      "text": "Nuko Uwiteka Nyiringabo azamubangurira ibiboko nk'ubwo Abamidiyani bicirwaga ku gitare cya Orebu, kandi inkoni ye azaba ayibanguriye hejuru y'inyanja, nk'uko yabigenje muri Egiputa.",
+      "start": 34.08,
+      "end": 43.86
+    },
+    "27": {
+      "text": "Uwo munsi umutwaro baguhekeshaga uzakuva ku bitugu, kandi uzakurwa no ku buretwa bagushyizeho, uburetwa buzamarwa no gusīgwa.",
+      "start": 32.68,
+      "end": 40.76
+    },
+    "28": {
+      "text": "Dore bageze Ayati banyuze i Miguroni, i Mikimashi ni ho babitse imitwaro yabo,",
+      "start": 23.73,
+      "end": 28.56
+    },
+    "29": {
+      "text": "bageze aharenga baganditse i Geba. Ab'i Rama bahinze imishyitsi, ab'i Gibeya yo kwa Sawuli barahunze.",
+      "start": 33.67,
+      "end": 42.17
+    },
+    "30": {
+      "text": "Rangurura ijwi ryawe utake, wa mukobwa w'i Galimu we, ubyumve nawe Layishi, yewe Anatoti wa mutindi we!",
+      "start": 27.29,
+      "end": 27.55
+    },
+    "31": {
+      "text": "Ab'i Madumana babaye impunzi, n'abaturage b'i Gebimu baraterana ngo bahunge.",
+      "start": 37.15,
+      "end": 42.41
+    },
+    "32": {
+      "text": "Uyu munsi wa none arataha i Nobu, arakōrēra ukuboko ku musozi w'umukobwa w'i Siyoni, ari wo Yerusalemu.",
+      "start": 42.19,
+      "end": 42.22
+    },
+    "33": {
+      "text": "Dore Uwiteka Umwami Nyiringabo azatemesha amashami imbaraga ze ziteye ubwoba, abasumba abandi cyane bazatemwa, n'abarebare bazacishwa bugufi.",
+      "start": 4.89,
+      "end": 19.02
+    },
+    "34": {
+      "text": "Kandi azamaraho ibihuru byo mu ishyamba abitemesheje icyuma, n'i Lebanoni hazatsindwa n'iyo ntwari.",
+      "start": 28.07,
+      "end": 31.14
+    }
+  }
+}

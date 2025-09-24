@@ -1,0 +1,133 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Nuko muri icyo gihe Umwami Herode afatira abo mu Itorero bamwe kubagirira nabi.",
+      "start": 11.83,
+      "end": 14.33
+    },
+    "2": {
+      "text": "Yicisha Yakobo inkota, mwene se wa Yohana.",
+      "start": 0.52,
+      "end": 12.46
+    },
+    "3": {
+      "text": "Abonye ko anejeje Abayuda, ariyongeza afata na Petero. Icyo gihe hari mu minsi y'imitsima idasembuwe.",
+      "start": 6.82,
+      "end": 31.45
+    },
+    "4": {
+      "text": "Amaze kumufata amushyira mu nzu y'imbohe, amuha abasirikare cumi na batandatu kumurinda bane bane, agira ngo azamushyīre abantu Pasika ishize.",
+      "start": 19.92,
+      "end": 39.83
+    },
+    "5": {
+      "text": "Nuko Petero arindirwa mu nzu y'imbohe, ariko ab'Itorero bagira umwete wo kumusabira ku Mana.",
+      "start": 42.18,
+      "end": 42.76
+    },
+    "6": {
+      "text": "Herode araye ari bumusohore, iryo joro Petero yari asinziriye hagati y'abasirikare babiri, aboheshejwe iminyururu ibiri, abarinzi na bo bari ku rugi barinda inzu y'imbohe.",
+      "start": 44.07,
+      "end": 44.34
+    },
+    "7": {
+      "text": "Nuko marayika w'Umwami Imana ahagarara aho, umucyo waka mu nzu, marayika akoma Petero mu mbavu aramukangura ati “Byuka n'ingoga.” Iminyururu imuva ku maboko iragwa.",
+      "start": 5.91,
+      "end": 27.58
+    },
+    "8": {
+      "text": "Marayika aramubwira ati “Kenyera ukwete inkweto zawe.” Abigenza atyo. Arongera aramubwira ati “Wifubike umwitero wawe, unkurikire.”",
+      "start": 1.03,
+      "end": 40.62
+    },
+    "9": {
+      "text": "Arasohoka aramukurikira, ariko ntiyamenya ibyo marayika akoze ko ari iby'ukuri, ahubwo agira ngo abirose mu nzozi.",
+      "start": 34.87,
+      "end": 37.67
+    },
+    "10": {
+      "text": "Banyuze ku barinzi ba mbere no ku ba kabiri, bagera ku irembo rikingishijwe urugi rw'icyuma rijya mu murwa. Rurabīkingurira ubwarwo barasohoka banyura inzira imwe, uwo mwanya marayika amusiga aho.",
+      "start": 10.82,
+      "end": 39.41
+    },
+    "11": {
+      "text": "Petero agaruye umutima aribwira ati “Noneho menye by'ukuri yuko Umwami Imana yatumye marayika wayo, ikankura mu maboko ya Herode, ikankiza ibyo ubwoko bw'Abayuda bwategerezaga byose.”",
+      "start": 20.6,
+      "end": 35.53
+    },
+    "12": {
+      "text": "Akibitekereza atyo, asohora kwa Mariya nyina wa Yohana wahimbwe Mariko, aho abantu benshi bari bateraniye basenga.",
+      "start": 18.89,
+      "end": 40.86
+    },
+    "13": {
+      "text": "Petero akomanga ku rugi rw'irembo, umuja witwaga Rode ajya kubyumva.",
+      "start": 25.59,
+      "end": 41.79
+    },
+    "14": {
+      "text": "Amenya ijwi rya Petero, ibinezaneza bimubuza gukingura, nuko yirukanka asubira mu nzu ababwira yuko Petero ahagaze ku irembo.",
+      "start": 21.39,
+      "end": 23.12
+    },
+    "15": {
+      "text": "Baramusubiza bati “Urasaze!” Ariko akomeza guhamya ko ari koko. Bati “Ahubwo ni marayika we.”",
+      "start": 27.37,
+      "end": 44.26
+    },
+    "16": {
+      "text": "Ariko Petero akomeza gukomanga, bakinguye basanga ari we koko barumirwa.",
+      "start": 11.95,
+      "end": 41.54
+    },
+    "17": {
+      "text": "Arabamama, abasobanurira uko Umwami Imana yamukuye mu nzu y'imbohe, arababwira ati “Mubitekerereze Yakobo na bene Data bandi.” Arasohoka ajya ahandi.",
+      "start": 31.77,
+      "end": 34.45
+    },
+    "18": {
+      "text": "Bukeye abasirikare bashiguka imitima cyane, bananirwa kumenya uko Petero yabaye.",
+      "start": 13.62,
+      "end": 38.38
+    },
+    "19": {
+      "text": "Herode na we amushatse aramubura abaza abo barinzi, ategeka ko babīca. Ava i Yudaya ajya i Kayisariya, aba ari ho aba.",
+      "start": 39.5,
+      "end": 42.17
+    },
+    "20": {
+      "text": "Bukeye Herode arakarira ab'i Tiro n'i Sidoni, ariko bahuza inama baramusanga, bahongera Bulasito umutware w'abashashi b'umwami, basaba amahoro kuko igihugu cyabo cyahahaga mu cy'Umwami Herode.",
+      "start": 33.69,
+      "end": 37.51
+    },
+    "21": {
+      "text": "Nuko ku munsi wategetswe Herode yambara imyenda y'ubugabe, yicara ku ntebe y'ubwami arabaganirira.",
+      "start": 21.71,
+      "end": 42.78
+    },
+    "22": {
+      "text": "Abantu barasakuza bati “Yemwe noneho ni ijwi ry'Imana, si iry'umuntu!”",
+      "start": 32.82,
+      "end": 36.56
+    },
+    "23": {
+      "text": "Ariko muri ako kanya marayika w'Umwami Imana aramukumbanya kuko adahaye Imana icyubahiro, aherako agwa inyo umwuka urahera.",
+      "start": 6.52,
+      "end": 41.72
+    },
+    "24": {
+      "text": "Ariko ijambo ry'Imana riragwira riramamara.",
+      "start": 18.28,
+      "end": 26.66
+    },
+    "25": {
+      "text": "Kandi Barinaba na Sawuli bamaze kubashyikiriza za mfashanyo bahawe, bava i Yerusalemu basubirayo, bajyana Yohana wahimbwe Mariko.",
+      "start": 17.71,
+      "end": 36.36
+    }
+  }
+}

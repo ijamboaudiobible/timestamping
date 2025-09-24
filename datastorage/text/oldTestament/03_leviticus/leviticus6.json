@@ -1,0 +1,123 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 36.27,
+      "end": 42.65
+    },
+    "2": {
+      "text": "“Tegeka Aroni n'abana be uti: Iri ni itegeko ry'igitambo cyoswa, kijye kiba ku nkwi zacyo zo ku gicaniro kirareho bucye, umuriro wo ku gicaniro uhore waka.",
+      "start": 19.68,
+      "end": 30.12
+    },
+    "3": {
+      "text": "Umutambyi yambare ikanzu ye y'igitare, n'ikabutura y'igitare ayambare ku mubiri we, ayore ivu ry'igitambo cyoshejwe cyakongorewe n'umuriro ku gicaniro, ariyorere iruhande rw'igicaniro.",
+      "start": 34.21,
+      "end": 38.61
+    },
+    "4": {
+      "text": "Yiyambure iyo myambaro yambare indi, ajye gusesa iryo vu inyuma y'ingando z'amahema, ahantu hadahumanijwe.",
+      "start": 39.79,
+      "end": 40.27
+    },
+    "5": {
+      "text": "Umuriro wo ku gicaniro uhore waka ntugasinzire, umutambyi ajye awushyiramo inkwi uko bukeye, awushyiremo igitambo cyo koswa igice cyose mu bwoserezo bwacyo, awoserezemo urugimbu rw'ibitambo by'uko bari amahoro.",
+      "start": 33.97,
+      "end": 39.95
+    },
+    "6": {
+      "text": "Umuriro wake ku gicaniro urudaca, ntugasinzire.",
+      "start": 13.78,
+      "end": 29.94
+    },
+    "7": {
+      "text": "“Iri ni itegeko ry'ituro ry'ifu: bene Aroni barimurike imbere y'Uwiteka, imbere y'igicaniro.",
+      "start": 19.22,
+      "end": 37.94
+    },
+    "8": {
+      "text": "Ku ifu y'ingezi y'iryo turo n'amavuta ya elayo yaryo akureho ibyuzuye urushyi, abikuraneho n'umubavu wose uririho, abyosereze ku gicaniro bibere Uwiteka impumuro nziza, bibe urwibutso rwaryo.",
+      "start": 11.98,
+      "end": 34.38
+    },
+    "9": {
+      "text": "Igisigaye kuri iryo turo Aroni n'abana be bakirye, bakirīre ahantu hera kidasembuwe, mu rugo rw'ihema ry'ibonaniro abe ari ho bakirīra.",
+      "start": 33.12,
+      "end": 39.07
+    },
+    "10": {
+      "text": "Be kucyotsanya umusemburo, nkibahaye ho umugabane wabo ku maturo nturwa agakongorwa n'umuriro. Ni icyera cyane nk'uko igitambo gitambirwa ibyaha kimeze, n'igikuraho urubanza.",
+      "start": 11.45,
+      "end": 17.87
+    },
+    "11": {
+      "text": "Umugabo wese wo muri bene Aroni yakiryaho. Iryo ni itegeko ridakuka ribategeka mu bihe byanyu byose, ritegeka iby'amaturo aturwa Uwiteka agakongorwa n'umuriro, uzayakoraho wese azaba ari uwera.”",
+      "start": 11.87,
+      "end": 37.56
+    },
+    "12": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 40.35,
+      "end": 44.15
+    },
+    "13": {
+      "text": "“Iri ni ryo turo rya Aroni n'abana be bazaba bakwiriye kujya batura Uwiteka, uhereye ku munsi Aroni azasigirwa: bature igice cya cumi cya efa y'ifu y'ingezi ho ituro ry'ifu badasiba gutura, umucagate wayo ujye uturwa mu gitondo, undi ujye uturwa nimugoroba.",
+      "start": 3.36,
+      "end": 32.55
+    },
+    "14": {
+      "text": "Bayivuganire n'amavuta ya elayo ku cyuma gikaranga, nimara gutota uyinjirane, uyigabanyemo ibice, uyikarange, abe ari ko utura iryo turo ry'ifu ribere Uwiteka impumuro nziza.",
+      "start": 6.8,
+      "end": 11.79
+    },
+    "15": {
+      "text": "Umutambyi uzasīgwa wo mu bana be umuzunguye ajye atura iryo turo, itegeko ritazakuka ritegetse yuko rizajya ryoserezwa Uwiteka ritagabanije.",
+      "start": 2.96,
+      "end": 21.45
+    },
+    "16": {
+      "text": "Ituro ry'ifu riturwa n'umutambyi ryose rijye ryoswa ritagabanije, ntirikaribwe.”",
+      "start": 10.21,
+      "end": 20.37
+    },
+    "17": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 33.77,
+      "end": 44.59
+    },
+    "18": {
+      "text": "“Bwira Aroni n'abana be uti ‘Iri ni itegeko ry'igitambo gitambirwa ibyaha, aho bakererera igitambo cyoswa abe ari ho bakererera igitambo gitambirwa ibyaha imbere y'Uwiteka, ni icyera cyane.",
+      "start": 23.18,
+      "end": 30.64
+    },
+    "19": {
+      "text": "Umutambyi ugitambiye ibyaha akirye, kirirwe ahantu hera ari ho mu rugo rw'ihema ry'ibonaniro.",
+      "start": 0.59,
+      "end": 30.91
+    },
+    "20": {
+      "text": "Uzakora ku nyama zacyo wese azabe ari uwera, nihagira amaraso yacyo atarukira ku mwambaro wose, ujye umesera ahantu hera uwatarukiweho na yo.",
+      "start": 1.55,
+      "end": 30.67
+    },
+    "21": {
+      "text": "Kandi nigitekwa mu nkono y'ibumba bayimene, nigitekwa mu nkono y'umuringa bayihanagure bayoze.",
+      "start": 27.92,
+      "end": 39.67
+    },
+    "22": {
+      "text": "Umutambyi w'umugabo wese yakiryaho, ni icyera cyane.",
+      "start": 17.84,
+      "end": 42.54
+    },
+    "23": {
+      "text": "Kandi igitambo gitambiwe ibyaha cyose bazendaho amaraso, bakayazanira mu ihema ry'ibonaniro guhongerwa Ahera, ntikikaribwe ahubwo kijye cyoswa.’",
+      "start": 3.08,
+      "end": 12.73
+    }
+  }
+}

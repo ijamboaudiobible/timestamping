@@ -1,0 +1,73 @@
+{
+  "book": "Book 46",
+  "book_canonical": "1_corinthians",
+  "book_number": 46,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Ibyerekeye ku byaterekerejwe ibishushanyo bisengwa turabizi, (kuko twese twahawe ubwenge. Ubwenge butera kwihimbaza ariko urukundo rurakomeza.",
+      "start": 7.45,
+      "end": 12.12
+    },
+    "2": {
+      "text": "Umuntu niyibwira yuko hari icyo azi, ntaba yari yagira icyo amenya ukurikije ibyo yari akwiriye kumenya.",
+      "start": 33.68,
+      "end": 38.47
+    },
+    "3": {
+      "text": "Ariko ukunda Imana ni we umenywa na yo).",
+      "start": 42.46,
+      "end": 43.01
+    },
+    "4": {
+      "text": "Nuko rero ibyerekeye ibyo kurya ibyaterekerejwe ibishushanyo bisengwa, tuzi yuko igishushanyo ari nta cyo ari cyo mu isi, kandi yuko ari nta mana yindi iriho keretse imwe.",
+      "start": 30.55,
+      "end": 33.39
+    },
+    "5": {
+      "text": "Nubwo hariho ibindi byitwa imana, ari ibyo mu ijuru cyangwa mu isi, (nk'uko hariho imana nyinshi n'abami benshi),",
+      "start": 9.89,
+      "end": 31.27
+    },
+    "6": {
+      "text": "ariko kuri twe hariho Imana imwe ari yo Data wa twese ikomokwamo na byose, ari yo natwe dukesha byose, kandi hariho Umwami umwe ari we Yesu Kristo ubeshaho byose, natwe akatubeshaho.",
+      "start": 23.04,
+      "end": 38.02
+    },
+    "7": {
+      "text": "Ariko ubwo bwenge ntibuzwi n'abantu bose kuko bamwe ku bwo kumenyera gukorera ibigirwamana barya inyama zabiterekerejwe, bakiyumvamo ko ari imana nyamana baziterekereje, nuko ibyo bigatuma imitima yabo idakomeye yononekara.",
+      "start": 5.07,
+      "end": 5.67
+    },
+    "8": {
+      "text": "Nyamara ibyokurya si byo bitwegereza Imana, iyo tutabiriye nta cyo dutubirwa, cyangwa iyo tubiriye nta cyo twunguka.",
+      "start": 32.22,
+      "end": 39.28
+    },
+    "9": {
+      "text": "Ariko mwirinde kugira ngo uwo mudendezo wanyu udahindukira abadakomeye igisitaza na hato,",
+      "start": 2.27,
+      "end": 28.47
+    },
+    "10": {
+      "text": "kuko umuntu nakubona wowe ujijutse wicaye urīra mu ngoro y'ikigirwamana, mbese ibyo ntibizatera umutima we udakomeye guhangāra kurya ibiterekerejwe ibigirwamana,",
+      "start": 0.38,
+      "end": 37.64
+    },
+    "11": {
+      "text": "maze udakomeye akaba arimbuwe no kujijuka kwawe, kandi ari we mwene Data Kristo yapfiriye?",
+      "start": 35.33,
+      "end": 36.54
+    },
+    "12": {
+      "text": "Nuko ubwo mucumura kuri bene Data mugakomeretsa imitima yabo idakomeye, muba mucumuye no kuri Kristo.",
+      "start": 11.96,
+      "end": 39.61
+    },
+    "13": {
+      "text": "Nuko rero niba ibyokurya bigusha mwene Data, sinzarya inyama iteka ryose kugira ngo ntagusha mwene Data.",
+      "start": 10.57,
+      "end": 35.05
+    }
+  }
+}

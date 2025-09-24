@@ -1,0 +1,93 @@
+{
+  "book": "Book 30",
+  "book_canonical": "amos",
+  "book_number": 30,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Ibi ni byo Uwiteka Imana yanyeretse: dore yaremeye inzige uruhira, rutangiye kumera. Urwo ruhira ni urwameze ubwatsi bw'umwami bumaze gutemwa.",
+      "start": 8.83,
+      "end": 43.49
+    },
+    "2": {
+      "text": "Zimaze kurya ubwatsi bwo mu gihugu ndataka nti “Uwiteka Mana, babarira ndakwinginze! Yakobo yabyihanganira ate, ko ari muto?”",
+      "start": 38.01,
+      "end": 38.29
+    },
+    "3": {
+      "text": "Nuko Uwiteka arigarura ati “Ntibizabaho.” Ni ko Uwiteka yavuze.",
+      "start": 41.96,
+      "end": 44.23
+    },
+    "4": {
+      "text": "Ibi ni byo Uwiteka Imana yanyeretse: Uwiteka Imana yahamagaye umuriro ngo awucishe amateka ukongora mu mworera w'ikuzimu, kandi wendaga no gutwika igihugu.",
+      "start": 4.11,
+      "end": 11.41
+    },
+    "5": {
+      "text": "Maze ndataka nti “Uwiteka Mana, rekera aho ndakwinginze. Yakobo yabyihanganira ate, ko ari muto?”",
+      "start": 12.28,
+      "end": 29.0
+    },
+    "6": {
+      "text": "Uwiteka arigarura ati “Na byo ntibizabaho.” Ni ko Uwiteka Imana yavuze.",
+      "start": 4.37,
+      "end": 31.07
+    },
+    "7": {
+      "text": "Ibi ni byo yanyeretse: Umwami yari ahagaze ku nkike yubakishijwe timasi, afite timasi mu ntoke.",
+      "start": 8.36,
+      "end": 20.18
+    },
+    "8": {
+      "text": "Maze Uwiteka arambaza ati “Amosi we, ubonye iki?”Nti “Mbonye timasi.”Umwami ati “Dore nzashyira timasi mu bwoko bwanjye Isirayeli, sinzongera kubanyuraho ukundi",
+      "start": 3.0,
+      "end": 31.18
+    },
+    "9": {
+      "text": "kandi ingoro za Isaka zizaba imisaka, n'ubuturo bwera bwa Isirayeli buzasenywa, kandi nzahagurukira inzu ya Yerobowamu nitwaje inkota.”",
+      "start": 44.9,
+      "end": 44.91
+    },
+    "10": {
+      "text": "Maze Amasiya umutambyi w'i Beteli atuma kuri Yerobowamu, umwami wa Isirayeli ati “Amosi yakugambaniye mu b'inzu ya Isirayeli, ntabwo igihugu cyakwihanganira amagambo ye yose,",
+      "start": 35.66,
+      "end": 44.18
+    },
+    "11": {
+      "text": "kuko Amosi avuga ati ‘Yerobowamu azicishwa inkota, kandi Isirayeli azajyanwa ari imbohe akurwe mu gihugu cye.’ ”",
+      "start": 22.98,
+      "end": 31.64
+    },
+    "12": {
+      "text": "Kandi Amasiya abwira Amosi ati “Wa bamenya we, genda uhungire mu gihugu cy'u Buyuda urireyo ibyokurya byawe kandi abe ari ho uhanurira,",
+      "start": 3.94,
+      "end": 41.23
+    },
+    "13": {
+      "text": "ariko ntukongere guhanurira i Beteli ukundi, kuko hari ubuturo bwera bw'umwami n'inzu y'ubwami.”",
+      "start": 15.82,
+      "end": 27.9
+    },
+    "14": {
+      "text": "Maze Amosi asubiza Amasiya ati “Ntabwo nari umuhanuzi cyangwa umwana w'umuhanuzi, ahubwo nari umushumba kandi nari umuhinzi w'ibiti by'umutini.",
+      "start": 23.49,
+      "end": 23.76
+    },
+    "15": {
+      "text": "Uwiteka yantoye ndagiye amatungo, maze Uwiteka arambwira ati ‘Genda uhanurire ubwoko bwanjye Isirayeli.’",
+      "start": 5.99,
+      "end": 27.76
+    },
+    "16": {
+      "text": "Noneho wumve ijambo ry'Uwiteka. Uravuga uti ‘Ntuhanurire Isirayeli ibibi, kandi ntugirire inzu ya Isaka ijambo ribi’,",
+      "start": 27.95,
+      "end": 35.61
+    },
+    "17": {
+      "text": "ni cyo gituma Uwiteka avuga ati ‘Umugore wawe azaba maraya mu mudugudu, kandi abahungu bawe n'abakobwa bawe bazicishwa inkota, n'ingobyi yawe na yo izagabanishwa umugozi, kandi nawe uzagwa mu kindi gihugu cyanduye, Isirayeli na we rwose azajyanwa ari imbohe, akurwe mu gihugu cye.’ ”",
+      "start": 27.8,
+      "end": 44.7
+    }
+  }
+}

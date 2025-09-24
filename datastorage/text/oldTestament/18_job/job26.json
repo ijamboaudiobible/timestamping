@@ -1,0 +1,78 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Maze Yobu arasubiza ati",
+      "start": 19.16,
+      "end": 26.65
+    },
+    "2": {
+      "text": "“Wafashije umunyantegenke ntugasekwe,Wakijije uw'amaboko adakomeye,",
+      "start": 22.84,
+      "end": 39.76
+    },
+    "3": {
+      "text": "Wagiriye inama udafite ubwenge,Werekanye rwose ubwenge bw'ukuri!",
+      "start": 42.07,
+      "end": 44.72
+    },
+    "4": {
+      "text": "Uwo wabwiye ayo magambo ni nde?N'umwuka wakuvuyemo ni uwa nde?",
+      "start": 6.35,
+      "end": 43.82
+    },
+    "5": {
+      "text": "“Abapfuye bahindira umushyitsiMunsi y'amazi menshi n'ibiyabamo.",
+      "start": 3.04,
+      "end": 3.88
+    },
+    "6": {
+      "text": "Ikuzimu hatwikururiwe imbere y'Imana,Na Kirimbuzi nta gitwikirizo afite.",
+      "start": 3.06,
+      "end": 34.04
+    },
+    "7": {
+      "text": "Ikasikazi yahashanjije hejuru y'ubusa,N'isi yayitendetse ku busa.",
+      "start": 28.93,
+      "end": 37.83
+    },
+    "8": {
+      "text": "Ipfunyika amazi mu bicu byayo bya rukokoma,Kandi ibicu ntibitoborwe na yo.",
+      "start": 20.39,
+      "end": 38.62
+    },
+    "9": {
+      "text": "Intebe yayo irayikingira imbere,Ikayitwikiriza igicu cyayo.",
+      "start": 8.83,
+      "end": 9.68
+    },
+    "10": {
+      "text": "Amazi menshi yayashyizeho urugabano,Rugeza aho umucyo n'umwijima biherera.",
+      "start": 44.61,
+      "end": 44.66
+    },
+    "11": {
+      "text": "Inkingi z'ijuru ziranyeganyega,Zigatangazwa no gucyaha kwayo.",
+      "start": 29.46,
+      "end": 31.39
+    },
+    "12": {
+      "text": "Ibirinduza inyanja ububasha bwayo,N'ubwenge bwayo ibutemesha imiraba y'ubwibone.",
+      "start": 3.74,
+      "end": 25.79
+    },
+    "13": {
+      "text": "Umwuka wayo utera ijuru kurabagirana,N'ukuboko kwayo ikagusogotesha inzoka yihuta.",
+      "start": 8.7,
+      "end": 26.06
+    },
+    "14": {
+      "text": "Dore ibyo ni ibyo ku mpera y'imigenzereze yayo gusa,Ibyo twumva byayo ni bike cyane ni nk'ibyongorerano,Ariko guhinda k'ububasha bwayo ni nde wagusobanura?”",
+      "start": 33.94,
+      "end": 38.96
+    }
+  }
+}

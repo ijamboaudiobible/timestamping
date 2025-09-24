@@ -1,0 +1,123 @@
+{
+  "book": "Book 49",
+  "book_canonical": "ephesians",
+  "book_number": 49,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Pawulo wagizwe intumwa ya Kristo Yesu nk'uko Imana yabishatse, ndabandikiye mwebwe abera bari muri Efeso bizera Kristo Yesu,",
+      "start": 21.87,
+      "end": 24.34
+    },
+    "2": {
+      "text": "ubuntu bube muri mwe n'amahoro biva ku Mana Data wa twese no ku Mwami Yesu Kristo.",
+      "start": 20.35,
+      "end": 39.66
+    },
+    "3": {
+      "text": "Imana y'Umwami wacu Yesu Kristo, ari yo na Se ishimwe, kuko yaduhereye muri Kristo imigisha yose y'umwuka yo mu ijuru,",
+      "start": 4.44,
+      "end": 35.38
+    },
+    "4": {
+      "text": "nk'uko yadutoranirije muri we isi itararemwa, kugira ngo tube abera tutariho umugayo imbere yayo.",
+      "start": 13.91,
+      "end": 25.53
+    },
+    "5": {
+      "text": "Kuko yagambiriye kera ku bw'urukundo rwayo ko duhinduka abana bayo, tubiheshejwe na Yesu Kristo ku bw'ineza y'ubushake bwayo,",
+      "start": 41.09,
+      "end": 42.56
+    },
+    "6": {
+      "text": "kugira ngo ubuntu bwayo butagira akagero bushimwe, ubwo yaduhereye mu Mukunzi wayo.",
+      "start": 33.19,
+      "end": 36.6
+    },
+    "7": {
+      "text": "Ni we waduhesheje gucungurwa ku bw'amaraso ye, ari ko kubabarirwa ibicumuro byacu nk'uko ubutunzi bw'ubuntu bwayo buri,",
+      "start": 25.25,
+      "end": 40.41
+    },
+    "8": {
+      "text": "ubwo yadushagirijeho bukatubera ubwenge bwose no kumenya,",
+      "start": 4.63,
+      "end": 27.4
+    },
+    "9": {
+      "text": "itumenyesheje ubwiru bw'ibyo ishaka ku bw'ineza y'ubushake bwayo, ari byo yagambiriye kera",
+      "start": 2.45,
+      "end": 33.94
+    },
+    "10": {
+      "text": "kugira ngo ibihe nibisohora ibone uko iteraniriza ibintu byose muri Kristo, ari ibiri mu ijuru cyangwa ibiri mu isi.",
+      "start": 11.23,
+      "end": 15.98
+    },
+    "11": {
+      "text": "Ku bw'uwo natwe twarazwe umurage tubitoranirijwe kera nk'uko Imana yabigambiriye, ikora byose nk'uko ibishaka mu mutima wayo",
+      "start": 31.93,
+      "end": 39.74
+    },
+    "12": {
+      "text": "ngo tube abo gushimisha ubwiza bwayo, twebwe abiringiye Kristo uhereye kera.",
+      "start": 2.62,
+      "end": 36.66
+    },
+    "13": {
+      "text": "Ni we namwe mwiringiye mumaze kumva ijambo ry'ukuri, ari ryo butumwa bwiza bw'agakiza kanyu, kandi mumaze kwizera ni we wabashyizeho ikimenyetso, ari cyo Mwuka Wera mwasezeranijwe,",
+      "start": 3.54,
+      "end": 34.04
+    },
+    "14": {
+      "text": "uwo twahawe ho ingwate yo kuzaragwa wa murage kugeza ubwo abo Imana yaronse izabacungura. Ubwiza bwayo bushimwe.",
+      "start": 2.54,
+      "end": 31.05
+    },
+    "15": {
+      "text": "Ni cyo gituma nanjye maze kumva uburyo mwizera Umwami Yesu mugakunda abera bose,",
+      "start": 12.24,
+      "end": 21.93
+    },
+    "16": {
+      "text": "mbashimira Imana urudaca nkabasabira uko nsenze,",
+      "start": 35.31,
+      "end": 36.69
+    },
+    "17": {
+      "text": "kugira ngo Imana y'Umwami wacu Yesu Kristo, ari yo Data wa twese w'icyubahiro, ibahe umwuka w'ubwenge no guhishurirwa bitume muyimenya,",
+      "start": 16.1,
+      "end": 41.85
+    },
+    "18": {
+      "text": "ngo amaso y'imitima yanyu abone uko ahweza mumenye ibyo mwiringizwa n'Iyabahamagaye, mumenye n'ubutunzi bw'ubwiza bw'ibyo azaraga abera,",
+      "start": 15.06,
+      "end": 31.48
+    },
+    "19": {
+      "text": "mumenye n'ubwinshi bw'imbaraga zayo butagira akagero, izo iha twebwe abizeye nk'uko imbaraga z'ububasha bwayo bukomeye ziri,",
+      "start": 8.9,
+      "end": 17.78
+    },
+    "20": {
+      "text": "izo yakoreye muri Kristo ubwo yamuzuraga mu bapfuye ikamwicaza iburyo bwayo ahantu ho mu ijuru,",
+      "start": 7.11,
+      "end": 19.03
+    },
+    "21": {
+      "text": "imushyize hejuru y'ubutware bwose n'ubushobozi bwose, n'imbaraga zose n'ubwami bwose, n'izina ryose rivugwa uretse muri iki gihe gusa, ahubwo no mu bihe bizaza.",
+      "start": 16.92,
+      "end": 23.37
+    },
+    "22": {
+      "text": "Kandi yamuhaye gutwara byose ibishyira munsi y'ibirenge bye, imuha Itorero ngo abe umutwe waryo usumba byose,",
+      "start": 9.46,
+      "end": 36.14
+    },
+    "23": {
+      "text": "na ryo ribe umubiri we ushyitse kandi ushyikirwamo na byose.",
+      "start": 9.35,
+      "end": 34.61
+    }
+  }
+}

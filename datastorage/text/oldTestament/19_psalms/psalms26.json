@@ -1,0 +1,68 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Uwiteka uncire urubanza,Kuko gukiranuka kwanjye ari ko ngenderamo,Kandi niringira Uwiteka ntashidikanya.",
+      "start": 7.35,
+      "end": 8.85
+    },
+    "2": {
+      "text": "Uwiteka, unyitegereze ungerageze,Gerageza umutima wanjye n'ubwenge bwanjye,",
+      "start": 15.67,
+      "end": 27.45
+    },
+    "3": {
+      "text": "Kuko imbabazi zawe nzireba mu maso yanjye,Kandi ngendera mu murava wawe.",
+      "start": 12.72,
+      "end": 42.92
+    },
+    "4": {
+      "text": "Sinicarana n'abatagira umumaro,Kandi sinzagenderera indyarya.",
+      "start": 16.87,
+      "end": 39.71
+    },
+    "5": {
+      "text": "Nanga iteraniro ry'inkozi z'ibibi,Kandi sinzicarana n'abanyabyaha.",
+      "start": 21.35,
+      "end": 35.98
+    },
+    "6": {
+      "text": "Nzakaraba ntafite igicumuro,Ni ko nzazenguruka igicaniro cyawe Uwiteka,",
+      "start": 7.19,
+      "end": 29.26
+    },
+    "7": {
+      "text": "Kugira ngo numvikanishe ijwi ry'ishimwe,Mvuge imirimo yose itangaza wakoze.",
+      "start": 10.37,
+      "end": 40.32
+    },
+    "8": {
+      "text": "Uwiteka, nkunda ubuturo ari bwo nzu yawe,N'ahantu ubwiza bwawe buba.",
+      "start": 28.86,
+      "end": 41.78
+    },
+    "9": {
+      "text": "Ntukureho umwuka wanjye ubwo uzakuraho abanyabyaha,Cyangwa ubugingo bwanjye nk'abavusha amaraso.",
+      "start": 30.79,
+      "end": 35.68
+    },
+    "10": {
+      "text": "Amaboko yabo arimo igomwa,Ukuboko kwabo kw'iburyo kuzuye impongano.",
+      "start": 44.15,
+      "end": 44.91
+    },
+    "11": {
+      "text": "Ariko jyeweho gukiranuka kwanjye ni ko nzagenderamo,Uncungure, umbabarire.",
+      "start": 29.95,
+      "end": 31.72
+    },
+    "12": {
+      "text": "Ikirenge cyanjye gihagaze aharinganiye,Mu materaniro nzashimiramo Uwiteka.",
+      "start": 12.12,
+      "end": 39.34
+    }
+  }
+}

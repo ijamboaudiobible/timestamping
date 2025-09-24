@@ -1,0 +1,108 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 33,
+  "verses": {
+    "1": {
+      "text": "Yakobo yubura amaso, arebye abona Esawu azanye n'abantu magana ane. Agabanya abana, aha Leya abe, na Rasheli abe, n'inshoreke zombi abazo.",
+      "start": 0.96,
+      "end": 42.91
+    },
+    "2": {
+      "text": "Ashyira imbere inshoreke n'abana bazo, akurikizaho Leya n'abana be, basezererwa na Rasheli na Yosefu.",
+      "start": 44.11,
+      "end": 44.58
+    },
+    "3": {
+      "text": "Maze ubwe abarangaza imbere, yikubita hasi karindwi, arinda agera aho yegereye mwene se.",
+      "start": 2.41,
+      "end": 41.46
+    },
+    "4": {
+      "text": "Esawu arirukanka ajya kumusanganira, aramuhobera begamiranya amajosi, aramusoma, bombi bararira.",
+      "start": 12.98,
+      "end": 29.6
+    },
+    "5": {
+      "text": "Esawu yubura amaso abona ba bagore n'abana, aramubaza ati “Abo muri kumwe bariya ni abahe?”Aramusubiza ati “Abo ni abana Imana yahereye umugaragu wawe ubuntu bwayo.”",
+      "start": 12.35,
+      "end": 25.61
+    },
+    "6": {
+      "text": "Maze za nshoreke zīgira hafi zo n'abana bazo, bikubita hasi.",
+      "start": 0.5,
+      "end": 8.8
+    },
+    "7": {
+      "text": "Na Leya n'abana be bigira hafi, bikubita hasi, hakurikiraho Yosefu na Rasheli, bigira hafi, bikubita hasi.",
+      "start": 6.03,
+      "end": 31.55
+    },
+    "8": {
+      "text": "Aramubaza ati “Umukumbi twahuye wose ni uw'iki?”Aramusubiza ati “Ni ukugira ngo nkugirireho umugisha, databuja.”",
+      "start": 38.72,
+      "end": 44.85
+    },
+    "9": {
+      "text": "Esawu aramusubiza ati “Ibyo mfite birahagije. Mwana wa data, ibyo ufite ubyiharire.”",
+      "start": 7.77,
+      "end": 36.75
+    },
+    "10": {
+      "text": "Yakobo aramubwira ati “Oya ndakwinginze, niba nkugiriyeho umugisha, emera impano nguhaye, kuko mbonye mu maso hawe nk'uko umuntu abona mu maso h'Imana, ukanezererwa.",
+      "start": 10.48,
+      "end": 39.68
+    },
+    "11": {
+      "text": "Ndakwinginze, emera impano yanjye bakuzaniye, kuko Imana yampereye ubuntu, kandi mfite ibinkwiriye byose.” Aramugomēra, arayemera.",
+      "start": 24.54,
+      "end": 25.13
+    },
+    "12": {
+      "text": "Aramubwira ati “Dukomeze urugendo tugende, nanjye ndakujya imbere.”",
+      "start": 27.06,
+      "end": 42.79
+    },
+    "13": {
+      "text": "Aramubwira ati “Databuja, uzi yuko abana badafite imbaraga kandi ko imikumbi n'amashyo mfite byonsa, babigendesha uruhato, naho waba umunsi umwe gusa, byapfa byose.",
+      "start": 10.71,
+      "end": 26.47
+    },
+    "14": {
+      "text": "Ndakwinginze databuja, ujye imbere y'umugaragu wawe, nanjye ndagenda buhoro, nk'uko kugenda kw'amatungo nshoreye kuri, kandi nk'uko kugenda kw'abana kuri, ngusange databuja, i Seyiri.”",
+      "start": 37.72,
+      "end": 42.34
+    },
+    "15": {
+      "text": "Esawu aramusubiza ati “Reka ngusigire bamwe mu bo turi kumwe.”Yakobo aramubaza ati “Ni ab'iki? Nkugirireho umugisha databuja.”",
+      "start": 10.32,
+      "end": 26.2
+    },
+    "16": {
+      "text": "Nuko Esawu uwo munsi asubirayo, agumya kugenda, ajya i Seyiri.",
+      "start": 23.61,
+      "end": 38.76
+    },
+    "17": {
+      "text": "Yakobo ajya i Sukoti yubakayo inzu, acirayo amatungo ye ibirāro. Ni cyo cyatumye aho hantu hitwa i Sukoti.",
+      "start": 39.54,
+      "end": 44.23
+    },
+    "18": {
+      "text": "Yakobo asohora amahoro mu mudugudu Shekemu, wo mu gihugu cy'i Kanāni, ubwo yavaga i Padanaramu, abamba amahema imbere y'umudugudu.",
+      "start": 2.51,
+      "end": 16.62
+    },
+    "19": {
+      "text": "Isambu yabambyeho ihema rye ayigura na bene Hamori, se wa Shekemu, ibice by'ifeza ijana.",
+      "start": 28.94,
+      "end": 35.33
+    },
+    "20": {
+      "text": "Yubakayo igicaniro, acyita “Eli Elohe Isirayeli.”",
+      "start": 16.16,
+      "end": 25.49
+    }
+  }
+}

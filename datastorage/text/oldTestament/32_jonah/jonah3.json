@@ -1,0 +1,58 @@
+{
+  "book": "Book 32",
+  "book_canonical": "jonah",
+  "book_number": 32,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Maze ijambo ry'Uwiteka rigera kuri Yona ubwa kabiri riramubwira riti",
+      "start": 6.09,
+      "end": 31.11
+    },
+    "2": {
+      "text": "“Haguruka ujye i Nineve wa murwa munini, uwuburire imiburo nzakubwira.”",
+      "start": 7.21,
+      "end": 19.55
+    },
+    "3": {
+      "text": "Nuko Yona arahaguruka ajya i Nineve nk'uko Uwiteka yamutegetse. Kandi Nineve wari umurwa munini cyane, kuwuzenguka rwari urugendo rw'iminsi itatu.",
+      "start": 5.19,
+      "end": 39.09
+    },
+    "4": {
+      "text": "Yona atangira kujya mu mudugudu, agenda urugendo rw'umunsi umwe ararangurura ati “Hasigaye iminsi mirongo ine Nineve hakarimbuka.”",
+      "start": 2.83,
+      "end": 22.18
+    },
+    "5": {
+      "text": "Maze ab'i Nineve bemera Imana, bamamaza itegeko ryo kwiyiriza ubusa, bose bakambara ibigunira uhereye ku mukuru ukageza ku uworoheje hanyuma y'abandi.",
+      "start": 30.25,
+      "end": 35.46
+    },
+    "6": {
+      "text": "Ijambo rigera ku mwami w'i Nineve ahaguruka ku ntebe ye y'ubwami, yiyambura umwambaro we yambara ibigunira, yicara mu ivu.",
+      "start": 8.73,
+      "end": 33.98
+    },
+    "7": {
+      "text": "Ategekana itegeko n'abatware be b'intebe baryamamaza i Nineve bati “Umuntu wese ye kugira icyo asogongeraho, kandi amatungo y'amashyo n'imikumbi bye kurisha kandi bye kunywa amazi,",
+      "start": 6.31,
+      "end": 40.83
+    },
+    "8": {
+      "text": "ahubwo abantu n'amatungo byose byambare ibigunira, abantu batakambire Imana bakomeje, kandi bahindukire umuntu wese areke inzira ye mbi, bareke n'urugomo bagira.",
+      "start": 28.27,
+      "end": 32.39
+    },
+    "9": {
+      "text": "Nta wubizi ahari aho Imana yahindukira ikigarura, ikareka uburakari bw'inkazi yari ifite ntiturimbuke!”",
+      "start": 44.03,
+      "end": 44.05
+    },
+    "10": {
+      "text": "Imana ibonye imirimo yabo, uko bahindukiye bakareka inzira yabo mbi irigarura, ireka ibyago yari yabageneye ntiyabibateza.",
+      "start": 31.32,
+      "end": 35.94
+    }
+  }
+}

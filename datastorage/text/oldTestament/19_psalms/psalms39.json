@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe Yedutuni, umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 39.61,
+      "end": 39.88
+    },
+    "2": {
+      "text": "Naribwiye nti “Nzirindira mu nzira zanjye,Kugira ngo ntacumuza ururimi rwanjye.Nzajya mfata ururimi rwanjye,Umunyabyaha akiri imbere yanjye.”",
+      "start": 3.12,
+      "end": 12.63
+    },
+    "3": {
+      "text": "Nabeshejwe nk'ikiragi no kutavuga,narahoze naho byaba ibyiza sinabivuga,Umubabaro wanjye uragwira.",
+      "start": 27.24,
+      "end": 44.92
+    },
+    "4": {
+      "text": "Umutima wanjye ungurumana mu nda,Ngitekereza umuriro unyakamo,Maze mvugisha ururimi nti",
+      "start": 12.24,
+      "end": 26.15
+    },
+    "5": {
+      "text": "“Uwiteka, umenyeshe iherezo ryanjye,N'urugero rw'iminsi yanjye,Menye ko ndi igikenya.”",
+      "start": 36.43,
+      "end": 41.82
+    },
+    "6": {
+      "text": "Dore wahinduye iminsi yanjye nk'intambwe z'intoki,Igihe cy'ubugingo bwanjye kuri wowe kimeze nk'ubusa,Ni ukuri umuntu wese nubwo akomeye, ni umwuka gusa.Sela.",
+      "start": 32.81,
+      "end": 36.53
+    },
+    "7": {
+      "text": "Ni ukuri umuntu wese agenda nk'igicucu,Ni ukuri bahagarikira umutima ubusa,Umuntu arundanya ubutunzi atazi uzabujyana.",
+      "start": 9.12,
+      "end": 33.69
+    },
+    "8": {
+      "text": "Mwami, none ntegereje iki?Ni wowe niringira.",
+      "start": 37.99,
+      "end": 44.47
+    },
+    "9": {
+      "text": "Unkize ibicumuro byanjye byose,Ntumpindure uwo gutukwa n'abapfu.",
+      "start": 20.56,
+      "end": 35.29
+    },
+    "10": {
+      "text": "Narahoze sinabumbura akanwa,Kuko ari wowe wabikoze.",
+      "start": 6.78,
+      "end": 21.83
+    },
+    "11": {
+      "text": "Unkureho inkoni yawe,Mazwe no gukubitwa n'ukuboko kwawe.",
+      "start": 8.1,
+      "end": 18.43
+    },
+    "12": {
+      "text": "Iyo uhaniye umuntu gukiranirwa kwe umuhanisha ibihano,Unyenzura ubwiza bwe nk'inyenzi,Ni ukuri umuntu wese ni umwuka gusa.Sela.",
+      "start": 8.47,
+      "end": 36.44
+    },
+    "13": {
+      "text": "Uwiteka umva gusenga kwanjye,tegera ugutwi gutaka kwanjye,Ntiwicire amatwi amarira yanjye.Kuko ndi umusuhuke imbere yawe,N'umwimukira nk'uko ba sogokuruza bose bari bari.",
+      "start": 34.48,
+      "end": 36.84
+    },
+    "14": {
+      "text": "Rekera aho kundeba igitsure,Mbone uko nsubizwamo intege,Ntarava hano ntakibaho.",
+      "start": 8.45,
+      "end": 32.32
+    }
+  }
+}

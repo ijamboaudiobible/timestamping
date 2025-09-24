@@ -1,0 +1,133 @@
+{
+  "book": "Book 40",
+  "book_canonical": "matthew",
+  "book_number": 40,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Amasekuruza ya Yesu Kristo, mwene Dawidi, mwene Aburahamu ngaya:",
+      "start": 39.29,
+      "end": 40.02
+    },
+    "2": {
+      "text": "Aburahamu yabyaye Isaka, Isaka yabyaye Yakobo, Yakobo yabyaye Yuda na bene se,",
+      "start": 37.63,
+      "end": 39.62
+    },
+    "3": {
+      "text": "Yuda yabyaye Peresi na Zera kuri Tamari, Peresi yabyaye Hesironi, Hesironi yabyaye Ramu,",
+      "start": 7.58,
+      "end": 42.13
+    },
+    "4": {
+      "text": "Ramu yabyaye Aminadabu, Aminadabu yabyaye Nahashoni, Nahashoni yabyaye Salumoni,",
+      "start": 31.0,
+      "end": 34.16
+    },
+    "5": {
+      "text": "Salumoni yabyaye Bowazi kuri Rahabu, Bowazi yabyaye Obedi kuri Rusi, Obedi yabyaye Yesayi,",
+      "start": 15.79,
+      "end": 44.84
+    },
+    "6": {
+      "text": "Yesayi yabyaye Umwami Dawidi.Dawidi yabyaye Salomo kuri muka Uriya,",
+      "start": 2.86,
+      "end": 14.16
+    },
+    "7": {
+      "text": "Salomo yabyaye Rehobowamu, Rehobowamu yabyaye Abiya, Abiya yabyaye Asa,",
+      "start": 24.31,
+      "end": 44.96
+    },
+    "8": {
+      "text": "Asa yabyaye Yehoshafati, Yehoshafati yabyaye Yoramu, Yoramu yabyaye Uziya,",
+      "start": 16.37,
+      "end": 35.96
+    },
+    "9": {
+      "text": "Uziya yabyaye Yotamu, Yotamu yabyaye Ahazi, Ahazi yabyaye Hezekiya,",
+      "start": 12.12,
+      "end": 22.76
+    },
+    "10": {
+      "text": "Hezekiya yabyaye Manase, Manase yabyaye Amoni, Amoni yabyaye Yosiya,",
+      "start": 31.31,
+      "end": 37.09
+    },
+    "11": {
+      "text": "Yosiya yabyaye Yekoniya na bene se, igihe bimuriwe i Babuloni.",
+      "start": 12.65,
+      "end": 34.2
+    },
+    "12": {
+      "text": "Bamaze kwimurirwa i Babuloni, Yekoniya yabyaye Shalutiyeli, Shalutiyeli yabyaye Zerubabeli,",
+      "start": 8.09,
+      "end": 14.0
+    },
+    "13": {
+      "text": "Zerubabeli yabyaye Abihudi, Abihudi yabyaye Eliyakimu, Eliyakimu yabyaye Azori,",
+      "start": 25.25,
+      "end": 26.77
+    },
+    "14": {
+      "text": "Azori yabyaye Sadoki, Sadoki yabyaye Akimu, Akimu yabyaye Elihudi,",
+      "start": 26.36,
+      "end": 37.94
+    },
+    "15": {
+      "text": "Elihudi yabyaye Eleyazari, Eleyazari yabyaye Matani, Matani yabyaye Yakobo,",
+      "start": 44.54,
+      "end": 44.7
+    },
+    "16": {
+      "text": "Yakobo yabyaye Yosefu umugabo wa Mariya, ari we nyina wa Yesu witwa Kristo.",
+      "start": 19.38,
+      "end": 33.99
+    },
+    "17": {
+      "text": "Nuko ba sekuruza bose, uhereye kuri Aburahamu ukageza kuri Dawidi ni cumi na bane, kandi uhereye kuri Dawidi ukageza igihe bimuriwe i Babuloni ni cumi na bane, kandi uhereye icyo gihe bimuriwe i Babuloni ukageza kuri Kristo ni cumi na bane.",
+      "start": 35.62,
+      "end": 36.17
+    },
+    "18": {
+      "text": "Kuvuka kwa Yesu Kristo kwagenze gutya. Nyina Mariya yari yarasabwe na Yosefu, ariko yari ataramurongora, babona afite inda y'Umwuka Wera.",
+      "start": 36.82,
+      "end": 40.17
+    },
+    "19": {
+      "text": "Umugabo we Yosefu kuko yari umukiranutsi kandi adashaka kumukoza isoni ku mugaragaro, yigira inama yo kumubenga rwihishwa.",
+      "start": 34.76,
+      "end": 40.62
+    },
+    "20": {
+      "text": "Akibitekereza, marayika w'Umwami Imana amubonekera mu nzozi ati “Yosefu mwene Dawidi, witinya kurongora umugeni wawe Mariya, kuko imbuto imurimo ari iy'Umwuka Wera.",
+      "start": 39.82,
+      "end": 44.61
+    },
+    "21": {
+      "text": "Azabyara umuhungu uzamwite YESU, kuko ari we uzakiza abantu be ibyaha byabo.”",
+      "start": 34.99,
+      "end": 42.72
+    },
+    "22": {
+      "text": "Nuko ibyo byose byabereyeho kugira ngo ibyo Umwami Imana yavugiye mu kanwa k'umuhanuzi bisohore ngo",
+      "start": 9.59,
+      "end": 26.55
+    },
+    "23": {
+      "text": "“Dore umwari azasama inda kandi azabyara umuhungu,Azitwa Imanweli”,risobanurwa ngo “Imana iri kumwe natwe”.",
+      "start": 3.36,
+      "end": 15.22
+    },
+    "24": {
+      "text": "Yosefu akangutse abigenza uko marayika w'Umwami Imana yamutegetse, arongora umugeni we.",
+      "start": 33.91,
+      "end": 35.38
+    },
+    "25": {
+      "text": "Ariko ntibaryamana arinda ageza igihe yabyariye umuhungu, amwita YESU.",
+      "start": 40.06,
+      "end": 42.29
+    }
+  }
+}

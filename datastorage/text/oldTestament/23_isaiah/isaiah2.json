@@ -1,0 +1,118 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Ibyo Yesaya mwene Amosi yeretswe ku Bayuda no ku b'i Yerusalemu.",
+      "start": 17.08,
+      "end": 23.23
+    },
+    "2": {
+      "text": "Mu minsi y'imperuka umusozi wubatsweho inzu y'Uwiteka uzakomerezwa mu mpinga z'imisozi, ushyirwe hejuru usumbe iyindi kandi amahanga yose azawushikira.",
+      "start": 32.57,
+      "end": 35.75
+    },
+    "3": {
+      "text": "Amahanga menshi azahaguruka avuge ati “Nimuze tuzamuke tujye ku musozi w'Uwiteka, ku nzu y'Imana ya Yakobo kugira ngo ituyobore inzira zayo tuzigenderemo.” Kuko i Siyoni ari ho hazava amategeko, i Yerusalemu hagaturuka ijambo ry'Uwiteka.",
+      "start": 37.17,
+      "end": 37.84
+    },
+    "4": {
+      "text": "Azacira amahanga imanza, azahana amoko menshi. Inkota zabo bazazicuramo amasuka n'amacumu bazayacuramo impabuzo, nta shyanga rizabangurira irindi shyanga inkota, kandi ntabwo bazongera kwiga kurwana.",
+      "start": 8.92,
+      "end": 28.4
+    },
+    "5": {
+      "text": "Mwa nzu ya Yakobo mwe, nimuze tugendere mu mucyo w'Uwiteka.",
+      "start": 22.49,
+      "end": 26.91
+    },
+    "6": {
+      "text": "Ubwoko bwawe ari bwo nzu ya Yakobo, waburekeshejwe n'uko buzuye imigenzo ivuye iburasirazuba, bakaraguza nk'Abafilisitiya kandi bakifatanya n'abanyamahanga.",
+      "start": 23.54,
+      "end": 41.77
+    },
+    "7": {
+      "text": "Igihugu cyabo cyuzuye ifeza n'izahabu, ubutunzi bwabo ntibugira uko bungana kandi cyuzuye n'amafarashi, amagare yabo ntagira urugero.",
+      "start": 42.36,
+      "end": 43.68
+    },
+    "8": {
+      "text": "Igihugu cyabo cyuzuye ibishushanyo bisengwa, baramya iby'ubukorikori bw'amaboko yabo, intoki zabo ubwabo ari zo zabiremye.",
+      "start": 42.94,
+      "end": 44.6
+    },
+    "9": {
+      "text": "Uworoheje yikubita hasi, ukomeye akicisha bugufi, ku bw'ibyo ntubababarire.",
+      "start": 22.7,
+      "end": 44.39
+    },
+    "10": {
+      "text": "Injira mu isenga wihishe mu mukungugu, uhunge igitinyiro cy'Uwiteka n'ubwiza bw'icyubahiro cye.",
+      "start": 12.57,
+      "end": 31.42
+    },
+    "11": {
+      "text": "Agasuzuguro k'abantu kazacishwa bugufi n'ubwibone bw'abantu buzashyirwa hasi, uwo munsi Uwiteka ni we uzogezwa wenyine,",
+      "start": 41.71,
+      "end": 42.29
+    },
+    "12": {
+      "text": "kuko hazaba umunsi w'Uwiteka Nyiringabo wo gutungura ibyibona n'ibigamika byose n'ikintu cyose cyishyira hejuru, bikazacishwa bugufi.",
+      "start": 21.99,
+      "end": 41.37
+    },
+    "13": {
+      "text": "Uwo munsi uzaba no ku myerezi miremire y'i Lebanoni yose yishyira hejuru, no ku myela y'i Bashani yose,",
+      "start": 1.53,
+      "end": 35.1
+    },
+    "14": {
+      "text": "no ku misozi miremire yose no ku misozi yose yishyira hejuru,",
+      "start": 40.1,
+      "end": 41.16
+    },
+    "15": {
+      "text": "no ku munara muremure wose no ku nkike yose,",
+      "start": 0.73,
+      "end": 16.25
+    },
+    "16": {
+      "text": "no ku nkuge z'i Tarushishi zose no ku bishushanyo binezeza byose.",
+      "start": 38.38,
+      "end": 43.77
+    },
+    "17": {
+      "text": "Nuko agasuzuguro k'abantu kazashyirwa hasi n'ubwibone bw'abantu buzacishwa bugufi, uwo munsi Uwiteka ni we uzogezwa wenyine.",
+      "start": 31.88,
+      "end": 41.79
+    },
+    "18": {
+      "text": "Ibigirwamana bizashiraho rwose.",
+      "start": 8.5,
+      "end": 15.31
+    },
+    "19": {
+      "text": "Abantu bazinjira mu buvumo bwo mu bitare no mu nzobo zo mu butaka, bahunge igitinyiro cy'Uwiteka n'ubwiza bw'icyubahiro cye, ubwo azahagurukana imbaraga aje guhindisha isi umushyitsi.",
+      "start": 36.08,
+      "end": 39.35
+    },
+    "20": {
+      "text": "Uwo munsi abantu bazajugunya ibishushanyo byabo bisengwa by'ifeza n'iby'izahabu, byacuriwe gusengwa, babijugunyire imbeba n'ubucurama,",
+      "start": 7.44,
+      "end": 32.79
+    },
+    "21": {
+      "text": "bajye kwihisha mu buvumo bwo mu bitare no mu bihanamanga, bahunge igitinyiro cy'Uwiteka n'ubwiza bw'icyubahiro cye, ubwo azahagurukana imbaraga aje gutera isi umushyitsi.",
+      "start": 0.29,
+      "end": 24.76
+    },
+    "22": {
+      "text": "Nimureke kwishingikiriza ku bantu bafite umwuka mu mazuru. Mbese mubaca iki?",
+      "start": 24.91,
+      "end": 41.0
+    }
+  }
+}

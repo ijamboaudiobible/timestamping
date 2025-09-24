@@ -1,0 +1,188 @@
+{
+  "book": "Book 15",
+  "book_canonical": "ezra",
+  "book_number": 15,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Aba ni bo batware b'amazu ya ba sekuruza, kandi uko ni ko kuvuka kwabo, abo twazamukanye tuva i Babuloni ku ngoma y'Umwami Aritazeruzi.",
+      "start": 32.86,
+      "end": 41.5
+    },
+    "2": {
+      "text": "Muri bene Finehasi ni Gerushomu, muri bene Itamari ni Daniyeli, muri bene Dawidi ni Hatushi.",
+      "start": 41.16,
+      "end": 44.62
+    },
+    "3": {
+      "text": "Muri bene Shekaniya; muri bene Paroshi ni Zekariya kandi yabaranywe n'abagabo ijana na mirongo itanu, ukurikiranije imivukire yabo.",
+      "start": 6.82,
+      "end": 28.55
+    },
+    "4": {
+      "text": "Muri bene Pahatimowabu ni Eliyowenayi mwene Zerahiya, kandi yari kumwe n'abagabo magana abiri.",
+      "start": 27.44,
+      "end": 34.11
+    },
+    "5": {
+      "text": "Muri bene Shekaniya ni mwene Yahaziyeli, kandi uwo yari kumwe n'abagabo magana atatu.",
+      "start": 5.34,
+      "end": 5.54
+    },
+    "6": {
+      "text": "Muri bene Adini ni Ebedi mwene Yonatani, uwo yari kumwe n'abagabo mirongo itanu.",
+      "start": 42.08,
+      "end": 43.26
+    },
+    "7": {
+      "text": "Muri bene Elamu ni Yeshaya mwene Ataliya, na we yari kumwe n'abagabo mirongo irindwi.",
+      "start": 1.83,
+      "end": 24.25
+    },
+    "8": {
+      "text": "Muri bene Shefatiya ni Zebadiya mwene Mikayeli, na we yari kumwe n'abagabo mirongo inani.",
+      "start": 42.98,
+      "end": 44.41
+    },
+    "9": {
+      "text": "Muri bene Yowabu ni Obadiya mwene Yehiyeli, na we yari kumwe n'abagabo magana abiri na cumi n'umunani.",
+      "start": 11.58,
+      "end": 36.44
+    },
+    "10": {
+      "text": "Muri bene Shelomiti ni mwene Yosifiya, na we yari kumwe n'abagabo ijana na mirongo itandatu.",
+      "start": 41.79,
+      "end": 43.52
+    },
+    "11": {
+      "text": "Muri bene Bebayi ni Zekariya mwene Bebayi, na we yari kumwe n'abagabo makumyabiri n'umunani.",
+      "start": 44.37,
+      "end": 44.52
+    },
+    "12": {
+      "text": "Muri bene Azigadi ni Yohanani mwene Hakatani, na we yari kumwe n'abagabo ijana n'icumi.",
+      "start": 11.73,
+      "end": 34.5
+    },
+    "13": {
+      "text": "Muri bene Adonikamu bo hanyuma aya ni yo mazina yabo: Elifeleti na Yeyeli na Shemaya, na bo bari kumwe n'abagabo mirongo itandatu.",
+      "start": 16.39,
+      "end": 32.72
+    },
+    "14": {
+      "text": "Kandi muri bene Bigivayi ni Utayi na Zabudi, na bo bari kumwe n'abagabo mirongo irindwi.",
+      "start": 39.55,
+      "end": 43.07
+    },
+    "15": {
+      "text": "Abo mbateraniriza ku mugezi ujya Ahava, tuhaca ingando tuhamara gatatu. Nitegereza abantu n'abatambyi, nsanga nta n'umwe wo muri bene Lewi ubarimo.",
+      "start": 39.09,
+      "end": 42.13
+    },
+    "16": {
+      "text": "Ntumira Eliyezeri na Ariyeli na Shemaya, na Elunatani na Yaribu na Elunatani, na Natani na Zekariya na Meshulamu b'abakuru, kandi na Yoyaribu na Elunatani b'abigisha.",
+      "start": 11.73,
+      "end": 37.69
+    },
+    "17": {
+      "text": "Mbatuma kwa Ido umutware w'i Kasifiya, mbabwira ubutumwa bazabwira Ido na bene se b'Abanetinimu aho babaga i Kasifiya, ngo batwoherereze abahereza b'inzu y'Imana yacu.",
+      "start": 17.23,
+      "end": 25.34
+    },
+    "18": {
+      "text": "Maze ku bw'ukuboko kwiza kw'Imana yacu kwari kuri twe, batuzanira umugabo w'umunyabwenge wo muri bene Mahali mwene Lewi mwene Isirayeli, na Sherebiya n'abahungu be na bene se uko ari cumi n'umunani,",
+      "start": 29.69,
+      "end": 41.1
+    },
+    "19": {
+      "text": "na Hashabiya hamwe na Yeshaya wo muri bene Merari, na bene se n'abahungu babo uko ari makumyabiri,",
+      "start": 43.04,
+      "end": 45.0
+    },
+    "20": {
+      "text": "n'abo mu Banetinimu, abo Dawidi n'abatware be batanze ngo bakorere Abalewi, Abanetinimu magana abiri na makumyabiri bose bavugwa mu mazina yabo.",
+      "start": 26.0,
+      "end": 28.49
+    },
+    "21": {
+      "text": "Maze ntegekera kwiyiriza ubusa aho ngaho kuri uwo mugezi Ahava, kugira ngo twicishe bugufi imbere y'Imana yacu, ngo tuyiyoboze inzira idutunganiye twebwe n'abana bacu bato n'ibintu byacu byose,",
+      "start": 9.43,
+      "end": 28.45
+    },
+    "22": {
+      "text": "kuko nagize isoni zo gusaba umwami umutwe w'ingabo z'abasirikare n'iz'abagendera ku mafarashi, ngo badutabare ku babisha bacu bari mu nzira, kuko twari twavuganye n'umwami tuti “Amaboko y'Imana yacu ari ku bayishaka bose ngo abagirire neza, ariko imbaraga zayo n'uburakari bwayo birwanye abayireka bose.”",
+      "start": 39.23,
+      "end": 39.81
+    },
+    "23": {
+      "text": "Nuko twiyiriza ubusa, dusaba Imana yacu tuyinginga yemera kutwumvira.",
+      "start": 1.89,
+      "end": 17.44
+    },
+    "24": {
+      "text": "Maze ntora cumi na babiri mu batware b'abatambyi, Sherebiya na Hashabiya n'abandi cumi muri bene se.",
+      "start": 41.32,
+      "end": 42.71
+    },
+    "25": {
+      "text": "Mbagerera ifeza n'izahabu n'ibintu by'amaturo y'inzu y'Imana yacu, ibyo umwami n'abajyanama be n'abatware be n'Abisirayeli bari bahari bose batuye.",
+      "start": 5.77,
+      "end": 31.66
+    },
+    "26": {
+      "text": "Nuko mbagerera italanto z'ifeza magana atandatu na mirongo itanu, n'ibintu by'ifeza italanto ijana n'italanto z'izahabu ijana,",
+      "start": 40.47,
+      "end": 41.42
+    },
+    "27": {
+      "text": "n'ibyungu by'izahabu makumyabiri byari dariki igihumbi, n'ibikoreshwa bibiri by'imiringa myiza isenwe y'igiciro cyinshi nk'icy'izahabu, ndabibashyikiriza.",
+      "start": 16.83,
+      "end": 39.85
+    },
+    "28": {
+      "text": "Ndababwira nti “Mwebwe muri aberejwe Uwiteka, n'ibintu bikoreshwa na byo ni ibyera, hamwe n'izo feza n'izahabu n'ituro batuye Uwiteka Imana ya ba sogokuruza babikunze.",
+      "start": 33.59,
+      "end": 44.07
+    },
+    "29": {
+      "text": "Mube maso mubirinde kugeza aho muzabigerera imbere y'abatware b'abatambyi n'Abalewi, n'abatware b'amazu ya ba sogokuruza b'Abisirayeli mu byumba byo mu nzu y'Uwiteka i Yerusalemu.”",
+      "start": 13.15,
+      "end": 24.0
+    },
+    "30": {
+      "text": "Nuko abatambyi n'Abalewi benda ifeza n'izahabu n'ibindi bintu uko indatira zabyo zanganaga, ngo babijyane i Yerusalemu mu nzu y'Imana yacu.",
+      "start": 23.93,
+      "end": 34.85
+    },
+    "31": {
+      "text": "Bukeye ku munsi wa cumi n'ibiri w'ukwezi kwa mbere, duhaguruka ku mugezi Ahava tujya i Yerusalemu ukuboko kw'Imana yacu kuba kuri twe, idukiza amaboko y'ababisha n'abaduciriye ibico mu nzira.",
+      "start": 31.05,
+      "end": 42.19
+    },
+    "32": {
+      "text": "Tugeze i Yerusalemu, tuhasibira gatatu.",
+      "start": 7.12,
+      "end": 18.33
+    },
+    "33": {
+      "text": "Nuko ku munsi wa kane bagera ifeza n'izahabu n'ibindi bintu, babigerera mu nzu y'Imana yacu tubishyikiriza Meremoti mwene Uriya umutambyi ari kumwe na Eleyazari mwene Finehasi, kandi bari bafatanije na Yozabadi mwene Yoshuwa na Nowadiya mwene Binuwi b'Abalewi.",
+      "start": 41.32,
+      "end": 42.11
+    },
+    "34": {
+      "text": "Byose barabimurika uko umubare wabyo n'indatira zabyo byari biri. Icyo gihe indatira zabyo byose zirandikwa.",
+      "start": 16.55,
+      "end": 44.94
+    },
+    "35": {
+      "text": "Maze abavukiye mu bunyage bakabuvamo batambira Imana ya Isirayeli ibitambo byoswa, batamba inka cumi n'ebyiri z'igitambo cyoswa cy'Abisirayeli bose, n'amasekurume y'intama mirongo urwenda n'atandatu, n'abana b'intama mirongo irindwi na barindwi, n'amasekurume y'ihene cumi n'abiri, biba igitambo cyo gukuraho ibyaha. Ibyo byose byabaye igitambo cyoserezwa Uwiteka.",
+      "start": 32.6,
+      "end": 44.32
+    },
+    "36": {
+      "text": "Maze bashyikiriza abatware b'umwami n'ibisonga bye bo hakurya y'uruzi amategeko y'umwami, na bo bafasha abantu n'inzu y'Imana.",
+      "start": 8.23,
+      "end": 32.86
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "Yakobo yumva yuko ubuhashyi buri muri Egiputa abaza abana be ati “Ni iki gituma murebana?”",
+      "start": 26.71,
+      "end": 31.83
+    },
+    "2": {
+      "text": "Kandi ati “Numvise yuko hari ubuhashyi muri Egiputa, nimumanuke mujyeyo muduhahireyo tubeho tudapfa.”",
+      "start": 31.68,
+      "end": 43.41
+    },
+    "3": {
+      "text": "Bene se wa Yosefu cumi baramanuka, bajya guhaha imyaka y'impeke muri Egiputa.",
+      "start": 10.45,
+      "end": 15.72
+    },
+    "4": {
+      "text": "Ariko Benyamini mwene nyina wa Yosefu, Yakobo ntiyamutumana na bene se, kuko yibwiraga ati “Ahari yagira ibyago.”",
+      "start": 13.92,
+      "end": 32.69
+    },
+    "5": {
+      "text": "Abana ba Isirayeli bajya guhahana n'abandi, kuko inzara yateye mu gihugu cy'i Kanāni.",
+      "start": 38.86,
+      "end": 38.87
+    },
+    "6": {
+      "text": "Kandi Yosefu ni we wari umutware w'igihugu cya Egiputa, ni we wahahishaga abo muri icyo gihugu bose. Bene se wa Yosefu baraza, bamwikubita imbere bubamye.",
+      "start": 34.6,
+      "end": 37.5
+    },
+    "7": {
+      "text": "Yosefu abona bene se arabamenya, arabirengagiza, ababwira nabi. Arababaza ati “Murava he?”Baramusubiza bati “Turava mu gihugu cy'i Kanāni tuje guhaha.”",
+      "start": 43.0,
+      "end": 44.12
+    },
+    "8": {
+      "text": "Yosefu amenya bene se ariko bo ntibamumenya.",
+      "start": 41.85,
+      "end": 44.44
+    },
+    "9": {
+      "text": "Yosefu yibuka za nzozi yabaroteye arababwira ati “Muri abatasi muje gutata aho igihugu gifite amaboko make.”",
+      "start": 16.67,
+      "end": 35.86
+    },
+    "10": {
+      "text": "Baramusubiza bati “Si ko biri databuja, ahubwo abagaragu bawe tuzanywe no guhaha.",
+      "start": 36.72,
+      "end": 39.66
+    },
+    "11": {
+      "text": "Twese tuva inda imwe, turi abanyakuri, abagaragu bawe ntituri abatasi.”",
+      "start": 23.06,
+      "end": 25.42
+    },
+    "12": {
+      "text": "Arababwira ati “Si ko biri, ahubwo gutata aho igihugu gifite amaboko make ni ko kubazanye.”",
+      "start": 17.59,
+      "end": 34.22
+    },
+    "13": {
+      "text": "Baramusubiza bati “Abagaragu bawe turi abavandimwe turi cumi na babiri, turi abana b'umwe wo mu gihugu cy'i Kanāni, umuhererezi yasigaranye na data, undi ntakiriho.”",
+      "start": 39.54,
+      "end": 40.85
+    },
+    "14": {
+      "text": "Yosefu arababwira ati “Icyo ni cyo nababwiye nti ‘Muri abatasi.’",
+      "start": 17.35,
+      "end": 27.23
+    },
+    "15": {
+      "text": "Iki ni cyo kizabahakanira: ndahiye ubugingo bwa Farawo, ntimuzava hano umuhererezi wanyu ataje.",
+      "start": 30.91,
+      "end": 38.66
+    },
+    "16": {
+      "text": "Mutume umwe muri mwe azane murumuna wanyu, namwe murabohwa, amagambo yanyu ageragezwe yuko muri abanyakuri. Nibitaba bityo, ndahiye ubugingo bwa Farawo, muri abatasi.”",
+      "start": 1.33,
+      "end": 15.14
+    },
+    "17": {
+      "text": "Bose abamaza mu nzu y'imbohe iminsi itatu.",
+      "start": 13.98,
+      "end": 40.7
+    },
+    "18": {
+      "text": "Ku munsi wa gatatu Yosefu arababwira ati “Mugenze mutya mudapfa kuko nubaha Imana:",
+      "start": 42.48,
+      "end": 44.33
+    },
+    "19": {
+      "text": "niba muri abanyakuri umwe muri mwe abavandimwe, asigare abohewe mu nzu yanyu y'imbohe, abandi mugende mujyane imyaka y'impeke yo kubamara inzara mu ngo zanyu,",
+      "start": 40.83,
+      "end": 41.43
+    },
+    "20": {
+      "text": "maze munzanire umuhererezi wanyu. Ni ho amagambo yanyu azamenyekana ko ari ay'ukuri, bigatuma mudapfa.”Bagenza batyo.",
+      "start": 25.92,
+      "end": 37.65
+    },
+    "21": {
+      "text": "Baravugana bati “Ni ukuri turiho urubanza rw'ibyo twagiriye mwene data, kuko twabonye uko umutima we wari ubabaye ubwo yatwingingaga natwe ntitumwumvire, ni byo biduteye aya makuba.”",
+      "start": 10.19,
+      "end": 15.65
+    },
+    "22": {
+      "text": "Rubeni arababwira ati “Sinababwiye nti, mwe gukora icyaha kuri uwo mwana mukanga kunyumvira? Ni cyo gitumye amaraso ye adushakirwaho.”",
+      "start": 10.03,
+      "end": 32.53
+    },
+    "23": {
+      "text": "Ntibamenya yuko Yosefu yumva ibyo bavuga, kuko yavugirwaga n'umusemyi.",
+      "start": 6.43,
+      "end": 42.01
+    },
+    "24": {
+      "text": "Abatera umugongo abasiga aho ararira, abagarukaho avugana na bo, abakuramo Simiyoni, amubohera mu maso yabo.",
+      "start": 12.2,
+      "end": 38.01
+    },
+    "25": {
+      "text": "Yosefu ategeka ko babuzuriza imyaka y'impeke mu masaho yabo, kandi ngo basubize ifeza y'umuntu wese mu isaho ye, kandi babahe n'impamba. Babagirira batyo.",
+      "start": 8.49,
+      "end": 19.09
+    },
+    "26": {
+      "text": "Bahekesha indogobe zabo ihaho ryabo, bavayo.",
+      "start": 10.12,
+      "end": 16.89
+    },
+    "27": {
+      "text": "Aho baraye, umwe muri bo ahambuye isaho ye ngo agaburire indogobe ye, abona ifeza ye, asanga iri mu munwa w'isaho.",
+      "start": 32.11,
+      "end": 44.49
+    },
+    "28": {
+      "text": "Abwira bene se ati “Ifeza yanjye irangarukiye, dore iri mu isaho yanjye.” Bakuka imitima, barebana bahinda imishyitsi bati “Ibi ni ibiki, ibyo Imana itugiriye?”",
+      "start": 4.1,
+      "end": 22.65
+    },
+    "29": {
+      "text": "Basohora kuri se Yakobo mu gihugu cy'i Kanāni, bamubwira ibyababayeho byose bati",
+      "start": 39.14,
+      "end": 41.31
+    },
+    "30": {
+      "text": "“Umugabo ukomeye utwara icyo gihugu, yatubwiye nabi akeka yuko turi abatasi babatata.",
+      "start": 17.27,
+      "end": 29.26
+    },
+    "31": {
+      "text": "Natwe turamubwira tuti ‘Turi abanyakuri, ntituri abatasi.",
+      "start": 26.83,
+      "end": 42.02
+    },
+    "32": {
+      "text": "Turi abavandimwe turi cumi na babiri dusangiye data umwe, umwe ntakiriho, umuhererezi yasigaranye na data mu gihugu cy'i Kanāni.’",
+      "start": 28.23,
+      "end": 33.51
+    },
+    "33": {
+      "text": "Uwo mugabo ukomeye utwara icyo gihugu aratubwira ati ‘Iki ni cyo kizambwira ko muri abanyakuri: nimunsigire umwe muri mwe abavandimwe, mujyane ibyo kubamara inzara mu ngo zanyu, mugende",
+      "start": 20.19,
+      "end": 25.2
+    },
+    "34": {
+      "text": "munzanire umuhererezi wanyu. Ni ho nzamenya yuko mutari abatasi, ahubwo ko muri abanyakuri, nanjye nzabaha mwene so kandi muzatunda mu gihugu.’ ”",
+      "start": 24.17,
+      "end": 41.77
+    },
+    "35": {
+      "text": "Basutse ibyo mu masaho yabo babona igipfunyika cy'ifeza cy'umuntu wese kiri mu isaho ye, bo na se babonye ibipfunyika byabo baratinya.",
+      "start": 21.44,
+      "end": 34.55
+    },
+    "36": {
+      "text": "Se Yakobo arababwira ati “Mungize incike: Yosefu ntakiriho, Simiyoni ntariho, none kandi murashaka kunkuraho na Benyamini! Ibyo ni jye bibayeho byose!”",
+      "start": 23.7,
+      "end": 40.22
+    },
+    "37": {
+      "text": "Rubeni abwira se ati “Nintamukugarurira uzice abahungu banjye bombi, mumpe ndamwishingiye nzamukugarurira.”",
+      "start": 21.43,
+      "end": 40.98
+    },
+    "38": {
+      "text": "Aramusubiza ati “Umwana wanjye ntazajyana namwe, kuko mwene nyina yapfuye akaba asigaye ari ikinege, yagirira ibyago mu nzira muzacamo, muzatuma imvi zanjye zimanukana ishavu zijya ikuzimu.”",
+      "start": 18.36,
+      "end": 40.98
+    }
+  }
+}

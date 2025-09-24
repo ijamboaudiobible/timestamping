@@ -1,0 +1,183 @@
+{
+  "book": "Book 40",
+  "book_canonical": "matthew",
+  "book_number": 40,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Icyo gihe abigishwa begera Yesu baramubaza bati “Umukuru mu bwami bwo mu ijuru ni nde?”",
+      "start": 29.17,
+      "end": 40.76
+    },
+    "2": {
+      "text": "Ahamagara umwana muto amuhagarika hagati yabo,",
+      "start": 8.98,
+      "end": 30.43
+    },
+    "3": {
+      "text": "arababwira ati “Ndababwira ukuri yuko nimudahinduka ngo mumere nk'abana bato, mutazinjira mu bwami bwo mu ijuru.",
+      "start": 42.85,
+      "end": 44.95
+    },
+    "4": {
+      "text": "Nuko uzicisha bugufi nk'uyu mwana muto, ni we mukuru mu bwami bwo mu ijuru.",
+      "start": 11.07,
+      "end": 43.54
+    },
+    "5": {
+      "text": "Uwemera umwana umwe muto nk'uyu mu izina ryanjye, ni jye aba yemeye.",
+      "start": 15.89,
+      "end": 22.39
+    },
+    "6": {
+      "text": "“Ariko ushuka umwe muri aba bato banyizera akamugusha, ikiruta ni uko yahambirwa urusyo mu ijosi rye, akazikwa imuhengeri mu nyanja.",
+      "start": 39.82,
+      "end": 44.52
+    },
+    "7": {
+      "text": "Isi izaboneshwa ishyano n'ibigusha abantu, kuko ibyo bigusha bitazabura kuza, ariko uwo muntu uzana ibigusha azabona ishyano.",
+      "start": 28.25,
+      "end": 37.4
+    },
+    "8": {
+      "text": "“Ariko ukuboko kwawe cyangwa ukuguru kwawe nibigucumuza uguce ugute kure yawe. Ibyiza ni uko wakwinjira mu bugingo usigaranye ukuboko kumwe cyangwa ukuguru, biruta ko wajugunywa mu muriro utazima ufite amaboko yombi cyangwa amaguru yombi.",
+      "start": 23.66,
+      "end": 32.41
+    },
+    "9": {
+      "text": "Cyangwa ijisho ryawe nirikugusha urinogore urite kure yawe. Ibyiza ni uko wakwinjira mu bugingo usigaranye ijisho rimwe gusa, biruta ko wajugunywa muri Gehinomu y'umuriro ufite amaso yombi.",
+      "start": 36.15,
+      "end": 38.19
+    },
+    "10": {
+      "text": "“Mwirinde mudasuzugura umwe muri aba bana bato. Ndababwira yuko abamarayika babo bo mu ijuru bahora bareba mu maso ha Data wo mu ijuru. [",
+      "start": 37.72,
+      "end": 41.75
+    },
+    "11": {
+      "text": "Umwana w'umuntu yaje gukiza icyari cyazimiye.]",
+      "start": 40.34,
+      "end": 43.22
+    },
+    "12": {
+      "text": "“Mbese muratekereza mute? Umuntu ufite intama ijana, imwe muri zo iyo izimiye ntasiga izo mirongo urwenda n'icyenda, akajya ku misozi agashaka iyazimiye?",
+      "start": 3.65,
+      "end": 21.68
+    },
+    "13": {
+      "text": "Kandi iyo ayibonye, ndababwira ukuri yuko ayishimira cyane kurusha izo mirongo urwenda n'icyenda zitazimiye.",
+      "start": 18.17,
+      "end": 19.42
+    },
+    "14": {
+      "text": "Nuko So wo mu ijuru ntashaka ko hagira n'umwe muri aba bato urimbuka.",
+      "start": 11.0,
+      "end": 20.77
+    },
+    "15": {
+      "text": "“Mwene so nakugirira nabi, ugende umumenyeshe icyaha cye mwiherereye, nakumvira uzaba ubonye mwene so.",
+      "start": 22.09,
+      "end": 35.5
+    },
+    "16": {
+      "text": "Ariko natakumvira umuteze undi cyangwa babiri, ngo ‘Ijambo ryose rikomere mu kanwa k'abagabo babiri cyangwa batatu.’",
+      "start": 36.53,
+      "end": 37.58
+    },
+    "17": {
+      "text": "Kandi niyanga kumvira abo uzabibwire Itorero, niyanga kuryumvira na ryo, azakubeho nk'umupagani cyangwa umukoresha w'ikoro.",
+      "start": 0.43,
+      "end": 27.68
+    },
+    "18": {
+      "text": "“Ndababwira ukuri yuko ibyo muzahambira mu isi bizaba bihambiriwe mu ijuru, kandi ibyo muzahambura mu isi bizaba bihambuwe mu ijuru.",
+      "start": 13.99,
+      "end": 41.17
+    },
+    "19": {
+      "text": "“Kandi ndababwira yuko ababiri muri mwe nibahuza umutima mu isi wo kugira icyo basaba cyose, bazagikorerwa na Data wo mu ijuru.",
+      "start": 22.7,
+      "end": 38.33
+    },
+    "20": {
+      "text": "Kuko aho babiri cyangwa batatu bateraniye mu izina ryanjye, nanjye mba ndi hagati yabo.”",
+      "start": 0.05,
+      "end": 27.81
+    },
+    "21": {
+      "text": "Nuko Petero aramwegera aramubaza ati “Databuja, mwene data nangirira nabi nzamubabarira kangahe? Ngeze karindwi?”",
+      "start": 11.77,
+      "end": 15.8
+    },
+    "22": {
+      "text": "Yesu aramusubiza ati “Sinkubwiye yuko ugeza karindwi, ahubwo yuko ugeza mirongo irindwi karindwi.",
+      "start": 2.34,
+      "end": 18.87
+    },
+    "23": {
+      "text": "Ni cyo gituma ubwami bwo mu ijuru bwagereranywa n'umwami washatse kubarana n'abagaragu be umubare w'ibyo yababikije.",
+      "start": 15.42,
+      "end": 18.6
+    },
+    "24": {
+      "text": "Abanje kubara, bamuzanira umwe muri bo yishyuza italanto inzovu.",
+      "start": 4.22,
+      "end": 38.31
+    },
+    "25": {
+      "text": "Ariko kuko yari adafite ibyo kwishyura, shebuja ategeka kumugura n'umugore we n'abana be n'ibyo afite byose, ngo umwenda ushire.",
+      "start": 31.43,
+      "end": 38.42
+    },
+    "26": {
+      "text": "Umugaragu aramupfukamira aramwinginga ati ‘Mwami, nyihanganira nzakwishyura byose.’",
+      "start": 20.79,
+      "end": 37.46
+    },
+    "27": {
+      "text": "Shebuja aramubabarira aramureka, amuharira umwenda.",
+      "start": 34.89,
+      "end": 44.83
+    },
+    "28": {
+      "text": "“Ariko uwo mugaragu arasohoka, asanga umugaragu mugenzi we yagurije idenariyo ijana, aramufata aramuniga, aramubwira ati ‘Nyishyura umwenda wanjye.’",
+      "start": 3.15,
+      "end": 4.79
+    },
+    "29": {
+      "text": "Umugaragu mugenzi we yikubita hasi, aramwinginga ati ‘Nyihanganira nzakwishyura.’",
+      "start": 25.15,
+      "end": 36.34
+    },
+    "30": {
+      "text": "Ntiyakunda maze aragenda amushyira mu nzu y'imbohe, kugeza aho azamarira kwishyura umwenda.",
+      "start": 38.94,
+      "end": 41.1
+    },
+    "31": {
+      "text": "Abagaragu bagenzi be babonye ibibaye barababara cyane, baragenda babibwira shebuja uko bibaye byose.",
+      "start": 19.65,
+      "end": 37.56
+    },
+    "32": {
+      "text": "Maze shebuja aramuhamagara aramubwira ati ‘Wa mugaragu mubi we, naguhariye wa mwenda wose kuko wanyinginze,",
+      "start": 6.18,
+      "end": 30.77
+    },
+    "33": {
+      "text": "nawe ntiwari ukwiriye kubabarira mugenzi wawe nk'uko nakubabariye?’",
+      "start": 0.46,
+      "end": 38.38
+    },
+    "34": {
+      "text": "Shebuja ararakara, amuha abasirikare kugeza aho azamarira kwishyura umwenda wose.",
+      "start": 42.48,
+      "end": 43.43
+    },
+    "35": {
+      "text": "“Na Data wo mu ijuru ni ko azabagira, nimutababarira umuntu wese mwene so mubikuye mu mutima.”",
+      "start": 41.19,
+      "end": 41.5
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "book": "Book 47",
+  "book_canonical": "2_corinthians",
+  "book_number": 47,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Bene Data, turabamenyesha ubuntu bw'Imana amatorero y'i Makedoniya yahawe.",
+      "start": 23.67,
+      "end": 35.56
+    },
+    "2": {
+      "text": "Bakigeragezwa cyane n'amakuba menshi, umunezero wabo uhebuje n'ubukene bwabo bwinshi byasesekariyemo ubutunzi, ku bw'iby'ubuntu batanze.",
+      "start": 5.62,
+      "end": 16.87
+    },
+    "3": {
+      "text": "Ndahamya yuko babutanze ku bwende bwabo nk'uko bashoboye, ndetse no kurenza ibyo bashoboye,",
+      "start": 5.94,
+      "end": 41.08
+    },
+    "4": {
+      "text": "batwingingira cyane kugira ngo twakire ubuntu bwabo batanze, babone uko bafatanya umurimo wo gukenura abera.",
+      "start": 5.44,
+      "end": 33.65
+    },
+    "5": {
+      "text": "Icyakora ntibagenje nk'uko twibwiraga ko bazabigenza, ahubwo babanje kwitanga ubwabo bīha Umwami wacu, kandi bīha natwe nk'uko Imana yashatse.",
+      "start": 11.73,
+      "end": 21.17
+    },
+    "6": {
+      "text": "Ibyo ni byo byaduteye guhugura Tito ngo asohoze umurimo w'ubuntu, uwo yatangiye muri mwe namwe kera.",
+      "start": 9.69,
+      "end": 40.68
+    },
+    "7": {
+      "text": "Nuko rero nk'uko musāga muri byose, ari ukwizera no kuvuga neza no kumenya, no kugira umwete no kudukunda, mube ari ko murushaho kugirira umwete uwo murimo wo kugira ubuntu na wo.",
+      "start": 18.81,
+      "end": 39.19
+    },
+    "8": {
+      "text": "Ibyo simbivugiye kubategeka, ahubwo mbivugiye kugerageza urukundo rwanyu ndugerageresha umwete w'abandi kugira ngo menye ko ari urw'ukuri,",
+      "start": 35.58,
+      "end": 37.44
+    },
+    "9": {
+      "text": "kuko muzi ubuntu bw'Umwami wacu Yesu Kristo uko yari umutunzi, maze agahinduka umukene ku bwanyu kugira ngo ubukene bwe bubatungishe.",
+      "start": 2.93,
+      "end": 7.25
+    },
+    "10": {
+      "text": "Ibyo mbibabwiriye kubagisha inama kuko bibakwiriye kubikora, mwebwe ababanjirije abandi uhereye mu mwaka ushize, nyamara si ugupfa kubikora gusa, ahubwo ni ukugira ngo mubikore mubikunze.",
+      "start": 39.46,
+      "end": 39.65
+    },
+    "11": {
+      "text": "Nuko rero mubirangize, kugira ngo nk'uko mwakunze kubyemera abe ari ko mubisohoza mukurikije ibyo mufite,",
+      "start": 20.6,
+      "end": 29.0
+    },
+    "12": {
+      "text": "kuko iyo umuntu yemeye gutanga akurikije ibyo afite, ibyo birahagije nta wukwiriye gutanga ibyo adafite.",
+      "start": 38.16,
+      "end": 43.28
+    },
+    "13": {
+      "text": "Simvugiye ntyo kugira ngo abandi boroherezwe namwe ngo murushywe,",
+      "start": 9.19,
+      "end": 22.92
+    },
+    "14": {
+      "text": "ahubwo ni ukugira ngo munganye, ngo ibibasagutse muri iki gihe bihabwe abandi mu bukene bwabo, kandi ngo ibizasaguka ba bandi na byo muzabihabwe mu bukene bwanyu, munganye",
+      "start": 2.04,
+      "end": 22.78
+    },
+    "15": {
+      "text": "nk'uko byanditswe ngo “Uwatoraguye byinshi nta cyo yatubukiwe, kandi n'uwatoraguye bike nta cyo yatubiwe.”",
+      "start": 37.36,
+      "end": 39.9
+    },
+    "16": {
+      "text": "Ariko Imana ishimwe, ishyize mu mutima wa Tito kubagirira umwete nkanjye,",
+      "start": 39.96,
+      "end": 41.75
+    },
+    "17": {
+      "text": "kuko yemeye guhwiturwa kwacu kandi kuko afite umwete mwinshi, yagiye iwanyu ari nta wumuhase.",
+      "start": 17.67,
+      "end": 38.71
+    },
+    "18": {
+      "text": "Twamutumanye na mwene Data wundi, washimwaga mu matorero yose ku by'ubutumwa bwiza yakoze.",
+      "start": 42.83,
+      "end": 44.88
+    },
+    "19": {
+      "text": "Ariko uretse ibyo gusa, ahubwo ni na we watoranijwe n'amatorero kujya ajyana natwe ku bw'uwo murimo w'ubuntu dushyiraho umwete, kugira ngo Umwami wacu ahimbazwe kandi ngo twerekane umutima wacu ukunze.",
+      "start": 11.3,
+      "end": 17.18
+    },
+    "20": {
+      "text": "Kuko twirinda ngo hatagira umuntu utugaya ku bw'izo mpano nyinshi tugwiza hose",
+      "start": 32.69,
+      "end": 41.61
+    },
+    "21": {
+      "text": "dushaka gukora ibyiza, uretse imbere y'Umwami wacu gusa ahubwo n'imbere y'abantu.",
+      "start": 21.28,
+      "end": 38.57
+    },
+    "22": {
+      "text": "Twatumanye na bo mwene Data wundi, uwo twagerageje kenshi akaboneka ko ari umunyamwete muri byinshi, ariko none arushaho kugira umwete kuko abiringira cyane.",
+      "start": 14.64,
+      "end": 30.0
+    },
+    "23": {
+      "text": "Ibyerekeye Tito: uwo ni we dufatanya umurimo kandi ni mugenzi wanjye dukorana ibyanyu, kandi ibya bene Data abo bandi ni intumwa z'amatorero zihimbaza Kristo.",
+      "start": 19.58,
+      "end": 36.91
+    },
+    "24": {
+      "text": "Nuko muberekere imbere y'amatorero ibihamya urukundo rwanyu, kugira ngo bibemeze ko nabirase ibyirato nyakuri.",
+      "start": 18.81,
+      "end": 24.4
+    }
+  }
+}

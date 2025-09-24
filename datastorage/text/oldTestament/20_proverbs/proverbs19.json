@@ -1,0 +1,153 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Umukene ugenda atunganye,Aruta ufite ururimi rugoreka kandi ari umupfapfa.",
+      "start": 42.42,
+      "end": 44.36
+    },
+    "2": {
+      "text": "Kubaho udafite ubwenge si byiza,Umuntu wihutira ibyo atazi ayoba inzira.",
+      "start": 2.08,
+      "end": 32.67
+    },
+    "3": {
+      "text": "Ubupfapfa bw'umuntu bumuyobya inzira ye,Kandi umutima we winubira Uwiteka.",
+      "start": 34.23,
+      "end": 35.97
+    },
+    "4": {
+      "text": "Ubutunzi bugwiza incuti,Ariko umukene we atandukana na mugenzi we.",
+      "start": 11.73,
+      "end": 15.5
+    },
+    "5": {
+      "text": "Umugabo w'indarikwa ntazabura guhanwa,Kandi uvuga ibinyoma ntazabikira.",
+      "start": 6.46,
+      "end": 43.23
+    },
+    "6": {
+      "text": "Benshi bavuga amagambo ashyeshya imbere y'umunyabuntu,Kandi umuntu wese akunda utanga.",
+      "start": 7.24,
+      "end": 20.9
+    },
+    "7": {
+      "text": "Abavandimwe b'umukene bose baramwanga,Incuti ze zikarushaho kumwirengagiza,Iyo abaganirije baramuninira bakigendera.",
+      "start": 19.35,
+      "end": 21.9
+    },
+    "8": {
+      "text": "Uwishakira ubwenge aba akunda ubugingo bwe,Ukomeza kwitonda azabona ibyiza.",
+      "start": 31.97,
+      "end": 32.57
+    },
+    "9": {
+      "text": "Umugabo w'indarikwa ntazabura guhanwa,Kandi uvuga ibinyoma azapfa abizize.",
+      "start": 2.83,
+      "end": 19.24
+    },
+    "10": {
+      "text": "Umupfapfa ntakwiriye ibinezeza,N'umugaragu ntakwiriye gutegeka ibikomangoma.",
+      "start": 36.49,
+      "end": 39.83
+    },
+    "11": {
+      "text": "Amakenga umuntu afite amubuza kwihutira kurakara,Kandi bimuha icyubahiro kwirengagiza inabi yagiriwe.",
+      "start": 30.78,
+      "end": 39.62
+    },
+    "12": {
+      "text": "Uburakari bw'umwami bumera nk'ubw'intare itontoma,Ariko ineza ye ni nk'ikime gitonze ku bwatsi.",
+      "start": 18.59,
+      "end": 27.74
+    },
+    "13": {
+      "text": "Umwana upfapfana abera se ikirumbo,Kandi intonganya z'umugore ni nk'ibitonyanga bidatuza.",
+      "start": 11.67,
+      "end": 33.59
+    },
+    "14": {
+      "text": "Urugo n'amatungo umuntu abiragwa n'ababyeyi be,Ariko umugore witonda amuhabwa n'Uwiteka.",
+      "start": 1.77,
+      "end": 7.61
+    },
+    "15": {
+      "text": "Ubute butera gusinzira ubuticura,Kandi uwinaniwe arananuka.",
+      "start": 19.36,
+      "end": 43.0
+    },
+    "16": {
+      "text": "Ukomeza amategeko aba arinda ubugingo bwe,Ariko utita ku nzira ze azapfa.",
+      "start": 31.39,
+      "end": 37.33
+    },
+    "17": {
+      "text": "Ubabariye umukene aba agurije Uwiteka,Na we azamwishyurira ineza ye.",
+      "start": 19.28,
+      "end": 22.14
+    },
+    "18": {
+      "text": "Hana umwana wawe ubwo ukimwiringiye,Ariko ntumuhanire kumwica.",
+      "start": 13.67,
+      "end": 41.57
+    },
+    "19": {
+      "text": "Umunyamujinya mwinshi azabihanirwa,Kandi naho wabimukiza uzongera wihete.",
+      "start": 41.62,
+      "end": 43.37
+    },
+    "20": {
+      "text": "Emera inama kandi wumve icyo wigishijwe,Kugira ngo mu maherezo yawe uzabe uzi ubwenge.",
+      "start": 32.3,
+      "end": 39.19
+    },
+    "21": {
+      "text": "Mu mutima w'umuntu habamo imigambi myinshi,Ariko inama y'Uwiteka ni yo ihoraho.",
+      "start": 42.26,
+      "end": 43.73
+    },
+    "22": {
+      "text": "Ineza y'umuntu ni yo imutera gukundwa,Kandi umukene aruta umunyabinyoma.",
+      "start": 19.05,
+      "end": 44.03
+    },
+    "23": {
+      "text": "Kūbaha Uwiteka bitera ubugingo,Umwubashye azahora ahaze,Ntazagerwaho n'ibibi.",
+      "start": 43.71,
+      "end": 44.58
+    },
+    "24": {
+      "text": "Inyanda ishyira ukuboko ku mbehe,Ariko ntiyitamike.",
+      "start": 39.56,
+      "end": 40.05
+    },
+    "25": {
+      "text": "Kubita umukobanyi kandi abaswa baziga kwitonda,Bwiriza ujijutse na we azamenya ubwenge.",
+      "start": 13.72,
+      "end": 21.19
+    },
+    "26": {
+      "text": "Usesagura ibya se agasendesha nyina,Ni umwana ukoza isoni akaba n'igitutsi.",
+      "start": 43.74,
+      "end": 44.04
+    },
+    "27": {
+      "text": "Mwana wanjye, reka gupfa kumva ibyo ubwirizwa,Ngo wiyobagize amagambo y'ubwenge.",
+      "start": 6.79,
+      "end": 42.23
+    },
+    "28": {
+      "text": "Umuhamya utagira umumaro agayisha imanza zitabera,Kandi akanwa k'umunyabyaha karyohera ibibi kakabimira.",
+      "start": 0.72,
+      "end": 32.56
+    },
+    "29": {
+      "text": "Ibihano biringanirijwe abakobanyi,Kandi inkoni zitegekewe ibitugu by'abapfapfa.",
+      "start": 0.83,
+      "end": 22.96
+    }
+  }
+}

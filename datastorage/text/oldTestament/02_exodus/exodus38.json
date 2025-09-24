@@ -1,0 +1,163 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "Kandi abāza igicaniro cyo koserezaho ibitambo mu mushita, uburebure bwacyo bw'umurambararo buba mikono itanu, n'ubugari bwacyo buba mikono itanu, kingana impande zose, uburebure bw'igihagararo buba mikono itatu.",
+      "start": 7.5,
+      "end": 44.53
+    },
+    "2": {
+      "text": "Mu nkokora zacyo uko ari enye abāzaho amahembe, ayabāzanya na cyo akiyagirizaho imiringa.",
+      "start": 29.06,
+      "end": 44.73
+    },
+    "3": {
+      "text": "Kandi acura ibintu byacyo byose: ibibindi n'ibintu byo kuyoza ivu, n'inzabya n'ibyo kwaruza inyama n'ibyo gushyiramo umuriro w'amakara. Ibintu byacyo byose abicura mu miringa.",
+      "start": 20.86,
+      "end": 43.8
+    },
+    "4": {
+      "text": "Agicurira mu miringa igisobekerane nk'urushundura, agishyira munsi y'umuguno ugose icyo gicaniro, gihera hasi kiringaniza igicaniro.",
+      "start": 11.96,
+      "end": 21.44
+    },
+    "5": {
+      "text": "Ateka imiringa ivamo ibifunga bine, abishyira ku nkokora z'icyo gisobekerane cy'umuringa uko ari enye, ngo bisesekwemo imijisho.",
+      "start": 36.66,
+      "end": 39.67
+    },
+    "6": {
+      "text": "Abāza iyo mijisho mu mushita ayiyagirizaho imiringa.",
+      "start": 19.32,
+      "end": 36.46
+    },
+    "7": {
+      "text": "Ayiseseka muri ibyo bifunga byo mu mbavu z'igicaniro ngo bajye bayikiremereza, akibāza mu mbaho kiba umurangara mu nda.",
+      "start": 5.59,
+      "end": 23.91
+    },
+    "8": {
+      "text": "Kandi acura igikarabiro mu miringa, n'igitereko cyacyo agicura mu miringa, abicura mu miringa y'indorerwamo z'abagore bateraniraga gukorera ku muryango w'ihema ry'ibonaniro.",
+      "start": 14.12,
+      "end": 44.76
+    },
+    "9": {
+      "text": "Kandi akora urugo rw'ubwo buturo: iburyo ruba imyenda ikinzwe iboheshejwe ubudodo bw'ibitare byiza buboheranije, umuhururu warwo uba mikono ijana.",
+      "start": 34.42,
+      "end": 39.73
+    },
+    "10": {
+      "text": "Inkingi zayo ziba makumyabiri n'imyobo yo kuzishingamo iba makumyabiri, bicurwa mu miringa. Inkonzo zo kuri izo nkingi n'imitambiko yo kuri zo bicurwa mu ifeza.",
+      "start": 39.68,
+      "end": 44.49
+    },
+    "11": {
+      "text": "No mu ruhande rw'ibumoso, umuhururu w'urugo uba mikono ijana, inkingi z'imyenda yarwo ziba makumyabiri, n'imyobo yo kuzishingamo iba makumyabiri, bicurwa mu miringa. Inkonzo zo kuri izo nkingi n'imitambiko yo kuri zo bicurwa mu ifeza.",
+      "start": 44.54,
+      "end": 44.92
+    },
+    "12": {
+      "text": "Mu ruhande rw'iburengerazuba urugo ruba imyenda ikinzwe, ubugari bwarwo buba mikono mirongo itanu, inkingi zayo ziba icumi, n'imyobo yo kuzishingamo iba icumi. Inkonzo zo kuri izo nkingi n'imitambiko yo kuri zo bicurwa mu ifeza.",
+      "start": 9.76,
+      "end": 20.09
+    },
+    "13": {
+      "text": "Mu ruhande rw'iburasirazuba, ubugari bw'urwo rugo buba mikono mirongo itanu.",
+      "start": 6.85,
+      "end": 21.18
+    },
+    "14": {
+      "text": "Mu ruhande rw'irembo rumwe, ubugari bw'imyenda ikinzwe buba mikono cumi n'itanu. Inkingi zayo ziba eshatu, n'imyobo yo kuzishingamo iba itatu,",
+      "start": 35.65,
+      "end": 39.62
+    },
+    "15": {
+      "text": "no mu rundi ruhande rwaryo aba ari ko bimera: mu mpande z'irembo z'urwo rugo zombi, ubugari bw'imyenda ikinzwe buba mikono cumi n'itanu cumi n'itanu. Inkingi zayo ziba eshatu eshatu, n'imyobo yo kuzishingamo ibe itatu itatu.",
+      "start": 14.4,
+      "end": 29.42
+    },
+    "16": {
+      "text": "Imyenda ikinzwe y'urwo rugo y'impande zose yari iboheshejwe ubudodo bw'ibitare byiza buboheranije.",
+      "start": 19.6,
+      "end": 21.16
+    },
+    "17": {
+      "text": "Imyobo yo gushingamo inkingi zarwo yari icuzwe mu miringa, inkonzo zo kuri zo n'imitambiko yo kuri zo byari bicuzwe mu ifeza, imitwe y'izo nkingi yari iyagirijweho ifeza. Inkingi zose z'urwo rugo zari zifite imitambiko y'ifeza yo kuzifatanya.",
+      "start": 1.16,
+      "end": 30.36
+    },
+    "18": {
+      "text": "Irembo ry'urwo rugo ryugarirwa n'imyenda yaremwe n'abahanga bo kudoda amabara, bayiremesheje ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije. Ubugari bwayo buba mikono makumyabiri, uburebure bw'igihagararo buba mikono itanu bureshya n'ubw'iyindi myenda ikinzwe y'urwo rugo.",
+      "start": 38.69,
+      "end": 40.5
+    },
+    "19": {
+      "text": "Inkingi zayo ziba enye n'imyobo yo kuzishingamo iba ine, bicurwa mu miringa; inkonzo zo kuri zo zicurwa mu ifeza, imitwe y'izo nkingi iyagirizwaho ifeza, imitambiko yo kuri zo icurwa mu ifeza.",
+      "start": 37.67,
+      "end": 43.05
+    },
+    "20": {
+      "text": "Imambo z'ubwo buturo n'iz'urugo rubugose impande zose zicurwa mu miringa.",
+      "start": 10.13,
+      "end": 19.57
+    },
+    "21": {
+      "text": "Uyu ni wo mubare w'ibyaturiwe ubwo buturo, ubuturo bw'Ibihamya n'ibyo babiremesheje nk'uko Mose yategetse ko bibarwa. Abalewi aba ari bo babibara babarishwa na Itamari, mwene Aroni umutambyi.",
+      "start": 37.52,
+      "end": 42.71
+    },
+    "22": {
+      "text": "Besalēli mwene Uri ya Huri, wo mu muryango wa Yuda, arema ibyo Uwiteka ategetse Mose byose.",
+      "start": 43.84,
+      "end": 44.83
+    },
+    "23": {
+      "text": "Afatanya na Oholiyabu mwene Ahisamaki wo mu muryango wa Dani, umukebyi w'amabuye n'umuhanga wo guhimba, n'umudozi w'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba n'ubw'ibitare byiza.",
+      "start": 28.89,
+      "end": 31.17
+    },
+    "24": {
+      "text": "Izahabu zose baremesheje ibyaremewe ubuturo bwera byose, izahabu za ya maturo, zari italanto makumyabiri n'icyenda na shekeli magana arindwi na mirongo itatu, zigezwe kuri shekeli y'ahera.",
+      "start": 44.77,
+      "end": 44.8
+    },
+    "25": {
+      "text": "Ifeza z'ababazwe bo mu iteraniro zari italanto ijana, na shekeli igihumbi na magana arindwi na mirongo irindwi n'eshanu, zigezwe kuri shekeli y'ahera.",
+      "start": 13.0,
+      "end": 28.48
+    },
+    "26": {
+      "text": "Ni zo maturo y'abagabo uduhumbi dutandatu n'ibihumbi bitatu na magana atanu na mirongo itanu. Umugabo wese ugiye mu babazwe, umaze imyaka makumyabiri avutse cyangwa isaga atura beka imwe. Ni yo gice cya kabiri cya shekeli igezwe kuri shekeli y'ahera.",
+      "start": 28.87,
+      "end": 40.06
+    },
+    "27": {
+      "text": "Izo talanto z'ifeza uko ari ijana, zari izo gutekwa ngo zivemo imyobo yo gushingamo inkingi z'ihema ryera, n'iza wa mwenda ukingiriza ahera cyane. Imyobo ijana iva muri izo talanto uko ari ijana, umwobo wose uva mu italanto imwe.",
+      "start": 35.5,
+      "end": 39.22
+    },
+    "28": {
+      "text": "Za shekeli na zo uko ari igihumbi na magana arindwi na mirongo irindwi n'eshanu, azicuramo inkonzo zo ku nkingi n'imitambiko yo kuri zo, kandi aziyagiriza ku mitwe yazo.",
+      "start": 39.77,
+      "end": 42.47
+    },
+    "29": {
+      "text": "Kandi imiringa y'amaturo yari italanto mirongo irindwi, na shekeli ibihumbi bibiri na magana ane.",
+      "start": 27.49,
+      "end": 43.99
+    },
+    "30": {
+      "text": "Na yo ayicuramo imyobo yo gushingamo inkingi za wa mwenda wo gukinga umuryango w'ihema ry'ibonaniro, ayicuramo na cya gicaniro cy'umuringa n'igisobekerane cyayo cy'umuringa, n'ibintu byacyo byose,",
+      "start": 41.77,
+      "end": 44.76
+    },
+    "31": {
+      "text": "n'imyobo yo gushingamo inkingi z'urugo z'impande zose, n'iyo gushingamo iz'irembo ryarwo, n'imambo z'ubwo buturo zose n'iz'urugo rwabwo rubugose impande zose.",
+      "start": 15.68,
+      "end": 42.26
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 75,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi babwirisha inanga ijwi ryitwa “Witsemba.” Ni indirimbo ya Asafu yitwa Zaburi.",
+      "start": 11.39,
+      "end": 37.75
+    },
+    "2": {
+      "text": "Mana, turagushima,Turagushimira kuko izina ryawe riri bugufi,Abantu bamamaza imirimo itangaza wakoze.",
+      "start": 43.59,
+      "end": 43.92
+    },
+    "3": {
+      "text": "“Nimbona igihe cyashyizweho,Nzaca imanza zitabera.",
+      "start": 7.58,
+      "end": 13.12
+    },
+    "4": {
+      "text": "Isi n'abayibamo bose bacikamo igikuba,Ni jye wateye inkingi zayo.Sela.",
+      "start": 17.38,
+      "end": 30.74
+    },
+    "5": {
+      "text": "Mbwira abibone nti ‘Ntimukībone’,N'abanyabyaha nti ‘Ntimugashyire hejuru amahembe yanyu.",
+      "start": 18.09,
+      "end": 22.51
+    },
+    "6": {
+      "text": "Ntimugashyire hejuru cyane amahembe yanyu,Ntimukavuge iby'agasuzuguro mugamitse ijosi.’ ”",
+      "start": 17.38,
+      "end": 44.95
+    },
+    "7": {
+      "text": "Kuko agakiza kadaturuka iburasirazuba cyangwa iburengerazuba,Cyangwa mu butayu bw'imisozi,",
+      "start": 19.44,
+      "end": 31.66
+    },
+    "8": {
+      "text": "Ahubwo Imana ni yo mucamanza,Icisha umwe bugufi igashyira undi hejuru.",
+      "start": 15.81,
+      "end": 28.51
+    },
+    "9": {
+      "text": "Kuko mu ntoki z'Uwiteka hariho agacuma karimo vino ibira,Kuzuye vino ivanze n'ibiyiryoshya arayisuka.Ni ukuri abanyabyaha bo mu isi,Baziranguza itende ryayo barinywe.",
+      "start": 16.91,
+      "end": 37.72
+    },
+    "10": {
+      "text": "Ariko jyeweho iteka nzajya namamaza ibyo,Nzaririmbira Imana ya Yakobo ishimwe.",
+      "start": 36.33,
+      "end": 43.28
+    },
+    "11": {
+      "text": "Kandi amahembe yose y'abanyabyaha nzayaca,Ariko amahembe y'abakiranutsi azashyirwa hejuru.",
+      "start": 21.46,
+      "end": 31.46
+    }
+  }
+}

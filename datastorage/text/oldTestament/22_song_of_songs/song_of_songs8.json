@@ -1,0 +1,78 @@
+{
+  "book": "Book 22",
+  "book_canonical": "song_of_songs",
+  "book_number": 22,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Iyaba wari nka musaza wanjye wonkejwe na mama,Nagusanga hanze nkagusoma,Kandi nta wabingaya.",
+      "start": 11.77,
+      "end": 37.8
+    },
+    "2": {
+      "text": "Nakujyana nkakugeza mu nzu ya mama akanyigisha,Nkagusomya kuri vino ituriye,No ku mazi y'imikomamanga.",
+      "start": 9.49,
+      "end": 20.86
+    },
+    "3": {
+      "text": "Wasanga ansheguje ukuboko kw'ibumoso,Ukw'iburyo kumpfumbase. Umukwe:",
+      "start": 9.27,
+      "end": 14.81
+    },
+    "4": {
+      "text": "Yemwe bakobwa b'i Yerusalemu ndabarahirije,Ntimukangure umukunzi wanjye ngo abyuke,Kugeza igihe abyishakira. Abakobwa:",
+      "start": 28.99,
+      "end": 32.26
+    },
+    "5": {
+      "text": "Uriya ni nde uje azamuka ava mu butayu,Yegamiranye n'umukunzi we? Umukwe:Nakubyukije munsi y'umutapuwa,Aho ni ho nyoko yakuramukwaga,Ni koko uwakubyaye ni ho yakuramutswe. Umugeni:",
+      "start": 4.17,
+      "end": 25.95
+    },
+    "6": {
+      "text": "Unshyire mu gituza cyawe mbe ikimenyetso,Mbe no ku kuboko kwawe.Kuko urukundo rukomeye nk'urupfu,Kandi ifuha ntirigondeka ni nk'imva,Ibirimi byarwo ni nk'iby'umuriro,Ni umuriro rwose w'Uwiteka. Umukwe:",
+      "start": 26.76,
+      "end": 37.27
+    },
+    "7": {
+      "text": "Amazi menshi ntiyazimya urukundo,N'inzuzi zuzuye ntizarurenga hejuru.Umuntu watanga ibyo afite mu rugo rwe byose,Kugira ngo agure urukundo,Yagawa rwose. Umugeni:",
+      "start": 1.96,
+      "end": 26.59
+    },
+    "8": {
+      "text": "Dufite murumuna wacu utarapfundura amabere,Tuzamugira dute igihe azasabirwa? Umukwe:",
+      "start": 7.16,
+      "end": 17.78
+    },
+    "9": {
+      "text": "Niba ameze nk'inkike z'amabuye,Tuzamwubakaho umunara w'ifeza,Niba ameze nk'umuryango,Tuzamukingira n'imbaho z'imyerezi. Umugeni:",
+      "start": 19.23,
+      "end": 22.94
+    },
+    "10": {
+      "text": "Jyeweho ndi inkike z'amabuye,N'amabere yanjye ni nk'iminara yazo,Ni cyo cyatumye mu maso h'umugabo wanjye mubera nk'ubonye amahoro.",
+      "start": 33.83,
+      "end": 44.73
+    },
+    "11": {
+      "text": "Salomo yari afite uruzabibu i Bālihamoni.Arugabanya abarinzi,Umuntu wese muri bo yategetswe kujya atanga ibice by'ifeza igihumbi ku mwero warwo.",
+      "start": 36.71,
+      "end": 37.28
+    },
+    "12": {
+      "text": "Uruzabibu rwanjye bwite ruri imbere yanjye,Yewe Salomo, uzabona igihumbi cyawe,Kandi abarinzi b'imbuto na bo bazabona magana abiri.",
+      "start": 37.58,
+      "end": 44.37
+    },
+    "13": {
+      "text": "Yewe uba mu mirima,Bagenzi banjye bategere ijwi ryawe amatwi,Urinyumvishe.",
+      "start": 26.66,
+      "end": 30.19
+    },
+    "14": {
+      "text": "Mukunzi wanjye banguka,Umere nk'isirabo cyangwa umucanzogera w'impara,Mu mpinga z'imisozi y'imibavu.",
+      "start": 36.38,
+      "end": 38.36
+    }
+  }
+}

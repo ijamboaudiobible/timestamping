@@ -1,0 +1,33 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 93,
+  "verses": {
+    "1": {
+      "text": "Uwiteka ari ku ngoma yambaye icyubahiro,Uwiteka arambaye yikenyeje imbaraga,Kandi isi irakomeye ntibasha kunyeganyega.",
+      "start": 29.84,
+      "end": 38.27
+    },
+    "2": {
+      "text": "Intebe yawe yakomeye uhereye kera,Wowe uhoraho wahereye kera kose.",
+      "start": 35.13,
+      "end": 42.81
+    },
+    "3": {
+      "text": "Uwiteka, inzuzi ziteye hejuru,Inzuzi ziteye hejuru amajwi yazo,Inzuzi zitera hejuru guhōrera kwazo.",
+      "start": 32.19,
+      "end": 37.72
+    },
+    "4": {
+      "text": "Amajwi y'amazi menshi,Umuraba ukomeye w'inyanja,Uwiteka uri hejuru abirusha imbaraga.",
+      "start": 7.07,
+      "end": 28.07
+    },
+    "5": {
+      "text": "Ibyo wahamije ni ibyo kwiringirwa cyane,Uwiteka, kwera gukwiriye inzu yawe iteka ryose.",
+      "start": 32.71,
+      "end": 38.27
+    }
+  }
+}

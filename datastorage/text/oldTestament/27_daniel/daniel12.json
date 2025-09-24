@@ -1,0 +1,73 @@
+{
+  "book": "Book 27",
+  "book_canonical": "daniel",
+  "book_number": 27,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "“Maze icyo gihe Mikayeli, wa mutware ukomeye ujya ahagarikira abantu bawe azahaguruka, hazaba ari igihe cy'umubabaro utigeze kubaho uhereye igihe amahanga yabereyeho ukageza icyo gihe. Nuko icyo gihe abantu bawe bazaba banditswe mu gitabo, bazarokorwa.",
+      "start": 43.32,
+      "end": 44.85
+    },
+    "2": {
+      "text": "Kandi benshi bo muri bo bazaba barasinziriye mu gitaka bazakanguka, bamwe bazakangukira ubugingo buhoraho, abandi bazakangukira gukorwa n'isoni no gusuzugurwa iteka ryose.",
+      "start": 9.92,
+      "end": 22.94
+    },
+    "3": {
+      "text": "Kandi abanyabwenge bazarabagirana nk'umucyo wo mu isanzure ry'ijuru, n'abahinduriye benshi ku bukiranutsi bazaka nk'inyenyeri iteka ryose.",
+      "start": 38.65,
+      "end": 39.83
+    },
+    "4": {
+      "text": "“Nuko Daniyeli, bumba igitabo ugifatanishe ikimenyetso kugeza igihe cy'imperuka, benshi bazajarajara hirya no hino kandi ubwenge buzagwira.”",
+      "start": 5.63,
+      "end": 31.61
+    },
+    "5": {
+      "text": "Nuko jyewe Daniyeli nditegereza mbona abandi bagabo babiri bahagaze, umwe ku nkombe yo hakuno y'uruzi, undi ku yo hakurya.",
+      "start": 42.18,
+      "end": 42.72
+    },
+    "6": {
+      "text": "Umwe abaza wa mugabo wari wambaye umwenda w'igitare wari hejuru y'amazi y'urwo ruzi ati “Ibyo bitangaza bizagarukira he?”",
+      "start": 37.91,
+      "end": 43.78
+    },
+    "7": {
+      "text": "Mbona wa mugabo wari wambaye umwenda w'igitare wari hejuru y'amazi y'uruzi, atunga ukuboko kw'iburyo n'ukw'imoso ku ijuru, numva arahira Ihoraho iteka ryose ngo bizamara igihe n'ibihe n'igice cy'igihe kandi ati “Nibamara kumenagura imbaraga z'abera, ibyo byose bizaherako birangire.”",
+      "start": 41.58,
+      "end": 42.0
+    },
+    "8": {
+      "text": "Ndabyumva ariko sinabimenya, mperako ndabaza nti “Databuja, ikizaheruka ibindi muri ibyo ni ikihe?”",
+      "start": 29.22,
+      "end": 30.65
+    },
+    "9": {
+      "text": "Aransubiza ati “Igendere Daniyeli, kuko ayo magambo ahishwe kandi afatanishijwe ikimenyetso kugeza igihe cy'imperuka.",
+      "start": 6.15,
+      "end": 31.41
+    },
+    "10": {
+      "text": "Benshi bazatunganywa bazezwa, bazacishwa mu ruganda, ariko ababi bazakomeza gukora ibibi. Kandi nta n'umwe muri bo uzayamenya, ariko abanyabwenge bazayamenya.",
+      "start": 19.67,
+      "end": 29.12
+    },
+    "11": {
+      "text": "“Uhereye igihe igitambo gihoraho kizakurirwaho bagashyiraho ikizira cy'umurimbuzi, hazacaho iminsi igihumbi na magana abiri na mirongo urwenda.",
+      "start": 32.66,
+      "end": 40.0
+    },
+    "12": {
+      "text": "Hahirwa uzategereza, akageza ku minsi igihumbi na magana atatu na mirongo itatu n'itanu.",
+      "start": 43.37,
+      "end": 43.41
+    },
+    "13": {
+      "text": "“Nuko igendere utegereze imperuka, kuko uzaruhuka kandi ukazahagarara mu mugabane wawe iyo minsi nishira.”",
+      "start": 19.72,
+      "end": 24.74
+    }
+  }
+}

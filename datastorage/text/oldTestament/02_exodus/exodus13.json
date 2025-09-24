@@ -1,0 +1,118 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 19.12,
+      "end": 21.3
+    },
+    "2": {
+      "text": "“Mweze uburiza bwose bwo mu Bisirayeli bube ubwanjye, imfura z'abantu n'uburiza bw'amatungo ni ibyanjye.”",
+      "start": 26.34,
+      "end": 32.31
+    },
+    "3": {
+      "text": "Mose abwira abantu ati “Mujye mwibuka uyu munsi muviriye muri Egiputa, mu nzu y'uburetwa, kuko Uwiteka yabakujeyo amaboko. Ntimuzagire imitsima yasembuwe murya.",
+      "start": 36.58,
+      "end": 41.8
+    },
+    "4": {
+      "text": "Uyu munsi muviriyeyo ni uwo mu kwezi Abibu.",
+      "start": 16.64,
+      "end": 38.64
+    },
+    "5": {
+      "text": "Kandi Uwiteka nakujyana mu gihugu cy'Abanyakanāni n'Abaheti, n'Abamori n'Abahivi n'Abayebusi, icyo yarahiriye ba sekuruza bawe ko azakiguha, igihugu cy'amata n'ubuki, uzajye uziririza uwo muhango wera uko uko kwezi gutashye.",
+      "start": 9.72,
+      "end": 39.57
+    },
+    "6": {
+      "text": "Iminsi irindwi ujye urya imitsima itasembuwe, ku munsi wa karindwi hazabeho umunsi mukuru w'Uwiteka.",
+      "start": 24.34,
+      "end": 39.38
+    },
+    "7": {
+      "text": "Imitsima itasembuwe ijye iribwa muri iyo minsi uko ari irindwi. Ntihakagire imitsima yasembuwe ikubonekaho, kandi ntihakagire umusemburo ukubonekaho mu gihugu cyawe cyose.",
+      "start": 21.27,
+      "end": 30.53
+    },
+    "8": {
+      "text": "Kandi kuri uwo munsi uzabwire umwana wawe uti ‘Ibi byatewe n'ibyo Uwiteka yankoreye, ubwo navaga muri Egiputa.’",
+      "start": 29.28,
+      "end": 43.39
+    },
+    "9": {
+      "text": "Uwo muhango uzakubere nk'ikimenyetso gishyizwe ku kuboko kwawe, n'urwibutso rushyizwe hagati y'amaso yawe, kugira ngo amategeko y'Uwiteka abe mu kanwa kawe, kuko Uwiteka yagukuje amaboko muri Egiputa.",
+      "start": 34.16,
+      "end": 35.3
+    },
+    "10": {
+      "text": "Ni cyo gituma ukwiriye kuziririza iryo tegeko mu gihe cyaryo, uko umwaka utashye.",
+      "start": 22.32,
+      "end": 33.82
+    },
+    "11": {
+      "text": "“Kandi Uwiteka nakujyana mu gihugu cy'Abanyakanāni, akakiguha nk'uko yakurahiye akarahira na ba sekuruza bawe,",
+      "start": 34.32,
+      "end": 41.53
+    },
+    "12": {
+      "text": "uzarobanurire Uwiteka umwana w'uburiza wese n'uburiza bwose ufite mu matungo yawe, abahungu bazaba ab'Uwiteka.",
+      "start": 44.13,
+      "end": 44.78
+    },
+    "13": {
+      "text": "Kandi uburiza bw'indogobe bwose uzabucunguze umwana w'intama, kandi nudashaka kuyicungura uzayivune ijosi, kandi imfura z'abantu, iz'abahungu bawe uzazicungure.",
+      "start": 22.72,
+      "end": 44.05
+    },
+    "14": {
+      "text": "Kandi umwana wawe nakubaza mu gihe kizaza ati ‘Ibi ni ibiki?’ Uzamusubize uti ‘Uwiteka yadukuje amaboko muri Egiputa, mu nzu y'uburetwa.",
+      "start": 42.58,
+      "end": 44.57
+    },
+    "15": {
+      "text": "Farawo yinangiye ngo yange kuturekura, Uwiteka yica uburiza bwose bwo mu gihugu cya Egiputa: imfura z'abantu n'uburiza bw'amatungo. Ni cyo gituma njya ntambira Uwiteka uburiza bwose bw'ibigabo, ariko imfura z'abahungu banjye zose njya nzicungura.’",
+      "start": 14.15,
+      "end": 38.15
+    },
+    "16": {
+      "text": "Uwo muhango uzabe nk'ikimenyetso gishyizwe ku kuboko kwawe kandi nk'ibishyizwe mu ruhanga rwawe hagati y'amaso yawe, kuko Uwiteka yadukuje amaboko muri Egiputa.”",
+      "start": 36.24,
+      "end": 42.4
+    },
+    "17": {
+      "text": "Farawo amaze kureka ubwo bwoko bugenda, Imana ntiyabacisha mu nzira inyura mu gihugu cy'Abafilisitiya nubwo ari yo busamo, kuko Imana yibwiraga iti “Abantu be kwicuza ubwo bazabona intambara, ngo basubire muri Egiputa.”",
+      "start": 9.44,
+      "end": 19.79
+    },
+    "18": {
+      "text": "Ahubwo Imana ibagendesha ibizigu, ibacishije mu nzira inyura mu butayu ikajya ku Nyanja Itukura, Abisirayeli bava mu gihugu cya Egiputa bafite intwaro.",
+      "start": 0.93,
+      "end": 38.05
+    },
+    "19": {
+      "text": "Mose ajyana amagufwa ya Yosefu, kuko yari yararahirije Abisirayeli indahiro ikomeye ati “Imana ntizabura kubagenderera, namwe muzajyana amagufwa yanjye nimuva ino.”",
+      "start": 38.21,
+      "end": 40.62
+    },
+    "20": {
+      "text": "Bava i Sukoti babamba amahema muri Etamu, aho ubutayu butangirira.",
+      "start": 37.47,
+      "end": 38.04
+    },
+    "21": {
+      "text": "Uwiteka ku manywa yabagendaga imbere ari mu nkingi y'igicu ngo abayobore, nijoro yabagendaga imbere ari mu nkingi y'umuriro ngo abamurikire, babone uko bagenda ku manywa na nijoro.",
+      "start": 6.0,
+      "end": 36.84
+    },
+    "22": {
+      "text": "Ya nkingi y'igicu ntiyavaga imbere y'ubwo bwoko ku manywa, kandi iyo nkingi y'umuriro ntiyabuvaga imbere nijoro.",
+      "start": 38.64,
+      "end": 44.64
+    }
+  }
+}

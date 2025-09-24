@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Uwiteka ndagutakira,Gitare cyanjye ntiwice amatwi,Kuko wanyihorera,Nahinduka nk'abamanuka bajya muri rwa rwobo.",
+      "start": 30.31,
+      "end": 43.24
+    },
+    "2": {
+      "text": "Tyariza ugutwi ijwi ryo kwinginga kwanjye uko ngutakiye,Uko manitse amaboko nyerekeje ahera h'urusengero rwawe.",
+      "start": 35.56,
+      "end": 42.03
+    },
+    "3": {
+      "text": "Ntunkururire hamwe n'abanyabyaha n'inkozi z'ibibi,Bavugana iby'amahoro na bagenzi babo,Ariko igomwa rikaba mu mitima yabo.",
+      "start": 7.96,
+      "end": 16.42
+    },
+    "4": {
+      "text": "Ubahe ibikwiriye imirimo yabo,Ibikwiriye gukiranirwa kwabo.Ubahe ibikwiriye ibyo intoki zabo zakoze,Ubīture ibibakwiriye.",
+      "start": 18.1,
+      "end": 28.05
+    },
+    "5": {
+      "text": "Kuko batita ku mirimo y'Uwiteka,Cyangwa ku byo intoki ze zikora,Azabasenya ntazabubaka.",
+      "start": 38.92,
+      "end": 41.94
+    },
+    "6": {
+      "text": "Uwiteka ahimbazwe,Kuko yumviye ijwi ryo kwinginga kwanjye.",
+      "start": 16.18,
+      "end": 29.52
+    },
+    "7": {
+      "text": "Uwiteka ni we mbaraga zanjye n'ingabo inkingira,Umutima wanjye ujya umwiringira ngatabarwa.Ni cyo gituma umutima wanjye wishima cyane,Kandi nzamushimisha indirimbo yanjye.",
+      "start": 7.98,
+      "end": 32.97
+    },
+    "8": {
+      "text": "Uwiteka ni imbaraga z'abantu be,Kandi ni igihome uwo yasīze ahungiramo agakira.",
+      "start": 7.55,
+      "end": 33.47
+    },
+    "9": {
+      "text": "Kiza ubwoko bwawe uhe umwandu wawe umugisha,Kandi ubaragire ujye ubaramira iteka ryose.",
+      "start": 42.37,
+      "end": 43.87
+    }
+  }
+}

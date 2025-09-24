@@ -1,0 +1,133 @@
+{
+  "book": "Book 45",
+  "book_canonical": "romans",
+  "book_number": 45,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Mbese bene Data muzi amategeko, ntimuzi yuko amategeko atwara umuntu gusa akiriho?",
+      "start": 5.23,
+      "end": 36.97
+    },
+    "2": {
+      "text": "Ni cyo gituma amategeko ahambira umugore ku mugabo we akiriho, ariko iyo umugabo amaze gupfa, umugore aba ahambuwe ku mategeko y'umugabo we.",
+      "start": 32.98,
+      "end": 38.42
+    },
+    "3": {
+      "text": "Nuko rero, ni cyo gituma iyo umugabo we akiriho, niba abaye uw'undi mugabo yitwa umusambanyikazi, ariko iyo umugabo we apfuye, ntaba agitegekwa n'ayo mategeko, ni cyo gituma atāba umusambanyikazi naho yacyurwa n'undi mugabo.",
+      "start": 40.21,
+      "end": 44.13
+    },
+    "4": {
+      "text": "Nuko rero bene Data, ni ko namwe mwapfuye ku mategeko ku bw'umubiri wa Kristo, kugira ngo mubone uko muba ab'undi ari we wa wundi wazutse, mubone no kwerera Imana imbuto.",
+      "start": 10.75,
+      "end": 43.88
+    },
+    "5": {
+      "text": "Ubwo twari tukiri abantu ba kamere, irari ry'ibibi ryabyukijwe n'amategeko ryakoreraga mu ngingo zacu, kugira ngo ryere imbuto z'urupfu.",
+      "start": 7.86,
+      "end": 34.38
+    },
+    "6": {
+      "text": "Ariko noneho ntitugitwarwa n'amategeko, kuko twapfuye ku mategeko yari atuboshye. Ni cyo gituma turi imbata mu bubata bushya bw'Umwuka, butari bwa bundi bwa kera bw'inyuguti.",
+      "start": 22.41,
+      "end": 29.17
+    },
+    "7": {
+      "text": "Nuko rero tuvuge iki? Amategeko ni icyaha? Ntibikabeho! Icyakora simba naramenye icyaha iyo ntakimenyeshwa n'amategeko, kuko ntaba naramenye kwifuza iyaba amategeko atavuze ngo “Ntukīfuze.”",
+      "start": 7.46,
+      "end": 15.73
+    },
+    "8": {
+      "text": "Ariko icyaha kibonye akīto mu mategeko ni ko gukorera muri jye kwifuza kose, kuko aho amategeko atari icyaha kiba gipfuye.",
+      "start": 19.91,
+      "end": 41.71
+    },
+    "9": {
+      "text": "Nanjye kera nari muzima ntafite amategeko, maze itegeko rije icyaha kirahembuka mperako ndapfa.",
+      "start": 31.06,
+      "end": 42.49
+    },
+    "10": {
+      "text": "Nuko iryo tegeko ryagenewe kuzana ubugingo mbona rinzanira urupfu,",
+      "start": 1.3,
+      "end": 37.29
+    },
+    "11": {
+      "text": "kuko icyaha kibonye ako kīto mu mategeko, kiranyoshya kirayanyicisha.",
+      "start": 24.46,
+      "end": 31.57
+    },
+    "12": {
+      "text": "Noneho amategeko ni ayera, ndetse n'itegeko ryose ni iryera, rirakiranuka kandi ni ryiza.",
+      "start": 10.98,
+      "end": 21.46
+    },
+    "13": {
+      "text": "Mbese none icyo cyiza cyampindukiye urupfu? Ntibikabeho! Ahubwo icyaha ni cyo cyaruhindutse, kugira ngo kigaragare ko ari icyaha koko, kuko cyakoresheje icyiza kunzanira urupfu ngo amategeko agaragaze uburyo icyaha ari kibi bikabije.",
+      "start": 28.45,
+      "end": 43.49
+    },
+    "14": {
+      "text": "Tuzi yuko amategeko ari ay'umwuka, ariko jyewe ndi uwa kamere ndetse naguriwe gutegekwa n'ibyaha.",
+      "start": 12.79,
+      "end": 19.83
+    },
+    "15": {
+      "text": "Sinzi ibyo nkora kuko ibyo nshaka atari byo nkora, ahubwo ibyo nanga akaba ari byo nkora.",
+      "start": 20.72,
+      "end": 26.42
+    },
+    "16": {
+      "text": "Ariko ubwo nkora ibyo ndashaka, nemera ko amategeko ari meza.",
+      "start": 21.59,
+      "end": 24.76
+    },
+    "17": {
+      "text": "Nuko rero noneho si jye uba nkibikora, ahubwo ni icyaha kimbamo.",
+      "start": 5.62,
+      "end": 5.89
+    },
+    "18": {
+      "text": "Nzi yuko muri jye, ibyo ni ukuvuga muri kamere yanjye, nta cyiza kimbamo, kuko mpora nifuza gukora icyiza ariko kugikora nta ko,",
+      "start": 14.72,
+      "end": 26.32
+    },
+    "19": {
+      "text": "kuko icyiza nshaka atari cyo nkora, ahubwo ikibi nanga akaba ari cyo nkora.",
+      "start": 17.46,
+      "end": 27.47
+    },
+    "20": {
+      "text": "Ariko ubwo nkora ibyo nanga si jye uba nkibikora, ahubwo ni icyaha kimbamo.",
+      "start": 1.34,
+      "end": 32.88
+    },
+    "21": {
+      "text": "Nuko rero mbona yuko amategeko anyifuriza gukora ibyiza, nyamara ibibi bikaba ari byo bintanga imbere.",
+      "start": 32.49,
+      "end": 37.92
+    },
+    "22": {
+      "text": "Nishimira amategeko y'Imana mu mutima wanjye,",
+      "start": 31.4,
+      "end": 33.25
+    },
+    "23": {
+      "text": "ariko mbona irindi tegeko ryo mu ngingo zanjye, rirwanya itegeko ry'ibyaha ryo mu ngingo zanjye.",
+      "start": 39.48,
+      "end": 40.08
+    },
+    "24": {
+      "text": "Yemwe, mbonye ishyano! Ni nde wankiza uyu mubiri untera urupfu?",
+      "start": 4.98,
+      "end": 31.26
+    },
+    "25": {
+      "text": "Imana ishimwe! Kuko izajya inkiza ku bwa Yesu Kristo Umwami wacu.Nuko jyewe mu mutima wanjye ndi imbata y'amategeko y'Imana, ariko muri kamere ndi imbata y'amategeko y'ibyaha.",
+      "start": 17.71,
+      "end": 37.76
+    }
+  }
+}

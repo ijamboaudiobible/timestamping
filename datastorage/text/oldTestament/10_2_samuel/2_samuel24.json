@@ -1,0 +1,133 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Bukeye umujinya w'Uwiteka wongera gukongerezwa Abisirayeli, abateza Dawidi, ubwo yavugaga ati “Genda ubare Abisirayeli n'Abayuda.”",
+      "start": 5.36,
+      "end": 16.42
+    },
+    "2": {
+      "text": "Umwami abwira Yowabu umugaba w'ingabo ze wari kumwe na we ati “Genda imiryango y'Abisirayeli yose uhereye i Dani ukageza i Bērisheba, mubare abantu kugira ngo menye umubare wabo.”",
+      "start": 38.82,
+      "end": 44.93
+    },
+    "3": {
+      "text": "Yowabu abwira umwami ati “Uwiteka Imana yawe igwize umubare wari usanzwe incuro ijana, kandi umwami abyirebere. ariko se Mwami nyagasani, ni iki gitumye wishimira ibyo?”",
+      "start": 1.7,
+      "end": 23.41
+    },
+    "4": {
+      "text": "Ariko ijambo ry'umwami riganza irya Yowabu n'abatware b'ingabo. Nuko Yowabu n'abatware b'ingabo bava imbere y'umwami bajya kubara Abisirayeli.",
+      "start": 3.95,
+      "end": 43.53
+    },
+    "5": {
+      "text": "Barahaguruka bambuka Yorodani, bagandika muri Aroweri mu ruhande rw'iburyo bw'umudugudu wari hagati mu kibaya cy'i Gadi, berekeye i Yazeri.",
+      "start": 12.34,
+      "end": 29.1
+    },
+    "6": {
+      "text": "Baherako basohora i Galeyadi no mu gihugu cy'i Tahatimuhodishi, kandi bagera i Daniyāni barazenguruka barinda bagera i Sidoni.",
+      "start": 19.41,
+      "end": 42.99
+    },
+    "7": {
+      "text": "Bukeye basohora mu gihugu cy'i Tiro no mu midugudu yose y'Abahivi n'iy'Abanyakanāni, bagarukira ikusi h'i Buyuda i Bērisheba.",
+      "start": 20.62,
+      "end": 23.05
+    },
+    "8": {
+      "text": "Bamaze kugenda igihugu cyose, basubira i Yerusalemu bamaze amezi cyenda n'iminsi makumyabiri.",
+      "start": 0.41,
+      "end": 40.54
+    },
+    "9": {
+      "text": "Maze Yowabu aha umwami umubare w'abantu babaze. Muri Isirayeli harimo abagabo b'intwari bitwaza inkota, uduhumbi munani, abo mu Bayuda na bo bari uduhumbi dutanu.",
+      "start": 20.97,
+      "end": 22.27
+    },
+    "10": {
+      "text": "Dawidi amaze kubara abantu, umutima we uramukubita. Abwira Uwiteka ati “Ndacumuye cyane ku byo nkoze ibyo, ariko none Uwiteka ndakwinginze, kuraho gukiranirwa k'umugaragu wawe kuko nkoze iby'ubupfu bwinshi.”",
+      "start": 5.26,
+      "end": 41.91
+    },
+    "11": {
+      "text": "Dawidi yibambuye mu gitondo, ijambo ry'Uwiteka ribonekera umuhanuzi Gadi bamenya wa Dawidi riti",
+      "start": 39.08,
+      "end": 42.67
+    },
+    "12": {
+      "text": "“Genda ubwire Dawidi uti ‘Uku ni ko Uwiteka avuze ngo: Agushyize imbere ibihano bitatu, hitamo kimwe muri byo abe ari cyo aguhanisha.’ ”",
+      "start": 20.62,
+      "end": 27.25
+    },
+    "13": {
+      "text": "Nuko Gadi ajya kwa Dawidi arabimubwira, aravuga ati “Mbese urashaka ko inzara yatera mu gihugu cyawe ikamara imyaka irindwi? Cyangwa se ni uko wajya uhunga ababisha bawe bakugenza ukamara amezi atatu, cyangwa ni uko mugiga yatera mu gihugu cyawe ikamara iminsi itatu? Nuko wigire inama umenye icyo njya gusubiza Iyantumye.”",
+      "start": 25.62,
+      "end": 36.0
+    },
+    "14": {
+      "text": "Dawidi abwira Gadi ati “Ndashobewe rwose, twigwire mu maboko y'Uwiteka kuko imbabazi ze ari nyinshi, ne kugwa mu maboko y'abantu.”",
+      "start": 12.07,
+      "end": 34.3
+    },
+    "15": {
+      "text": "Nuko Uwiteka ateza Isirayeli mugiga, uhereye muri icyo gitondo ukageza igihe cyategetswe. Hapfa abantu inzovu ndwi, uhereye i Dani ukageza i Bērisheba.",
+      "start": 16.07,
+      "end": 38.68
+    },
+    "16": {
+      "text": "Ariko marayika agitunze ukuboko kwe kuri Yerusalemu ngo aharimbure, Uwiteka arakuruka iyo nabi, abwira marayika warimburaga abantu ati “Birahagije, noneho unamura ukuboko kwawe.” Kandi marayika uwo w'Uwiteka yari bugufi bw'imbuga ya Arawuna w'Umuyebusi.",
+      "start": 3.18,
+      "end": 40.61
+    },
+    "17": {
+      "text": "Dawidi abonye marayika wishe abantu, abwira Uwiteka ati “Umva naracumuye kandi nabaye ikigoryi, ariko nk'izi ntama zacumuye iki? Ndakwinginze, ukuboko kwawe abe ari jye kurwanya n'inzu ya data.”",
+      "start": 16.07,
+      "end": 31.45
+    },
+    "18": {
+      "text": "Uwo munsi Gadi asanga Dawidi aramubwira ati “Zamuka wubakire Uwiteka igicaniro ku mbuga ya Arawuna w'Umuyebusi.”",
+      "start": 43.25,
+      "end": 44.39
+    },
+    "19": {
+      "text": "Dawidi arazamuka nk'uko Gadi yamubwiye ko ari ko Uwiteka yategetse.",
+      "start": 15.6,
+      "end": 29.23
+    },
+    "20": {
+      "text": "Arawuna arungurutse abona umwami n'abagaragu be baza bamusanga. Arawuna arasohoka yikubita hasi imbere y'umwami yubamye.",
+      "start": 21.11,
+      "end": 34.3
+    },
+    "21": {
+      "text": "Arawuna arabaza ati “Mwami nyagasani, uzanywe n'iki ku mugaragu wawe?”Dawidi aramusubiza ati “Nzanywe no kugura imbuga yawe ngo nubakire Uwiteka igicaniro, kugira ngo mugiga ive mu bantu.”",
+      "start": 10.69,
+      "end": 36.64
+    },
+    "22": {
+      "text": "Arawuna abwira Dawidi ati “Umwami databuja najyane ibyo ashatse byose abitange. Dore ngizi inka z'igitambo cyoswa, n'ibihurisho n'amatandiko y'inka mubigire inkwi.",
+      "start": 27.17,
+      "end": 35.12
+    },
+    "23": {
+      "text": "Ibi byose nyagasani, jye Arawuna mbihaye umwami.” Arongera abwira umwami ati “Uwiteka Imana yawe igushime.”",
+      "start": 27.03,
+      "end": 38.02
+    },
+    "24": {
+      "text": "Ariko umwami abwira Arawuna ati “Oya, ahubwo ndabigura nawe ntange igiciro cyabyo, sinabasha gutambira Uwiteka Imana yanjye ibitambo byoswa, ntabitanzeho ibyanjye.” Nuko Dawidi agura iyo mbuga n'inka, atanga shekeli z'ifeza mirongo itanu.",
+      "start": 27.76,
+      "end": 39.62
+    },
+    "25": {
+      "text": "Dawidi yubakirayo Uwiteka igicaniro, atamba ibitambo byoswa, n'ibitambo by'ishimwe yuko ari amahoro. Nuko Uwiteka abona guhendahenderwa igihugu, mugiga ishira mu Bisirayeli.",
+      "start": 22.03,
+      "end": 33.1
+    }
+  }
+}

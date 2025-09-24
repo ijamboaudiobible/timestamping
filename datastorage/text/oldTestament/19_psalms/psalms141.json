@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 141,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Uwiteka ndagutakiye, tebuka uze aho ndi,Utegere ugutwi ijwi ryanjye ningutakira.",
+      "start": 18.05,
+      "end": 20.38
+    },
+    "2": {
+      "text": "Gusenga kwanjye gushyirwe imbere yawe nk'umubavu,No kumanika amaboko yanjye kube nk'igitambo cya nimugoroba.",
+      "start": 40.28,
+      "end": 42.26
+    },
+    "3": {
+      "text": "Uwiteka, shyira umurinzi imbere y'akanwa kanjye,Rinda umuryango w'iminwa yanjye.",
+      "start": 33.87,
+      "end": 34.78
+    },
+    "4": {
+      "text": "Ntuhindurire umutima wanjye mu kibi cyose,Ngo njye nkorana imirimo yo gukiranirwa n'inkozi z'ibibi,Ne gusangira na zo ibyokurya byazo by'ingenzi.",
+      "start": 32.1,
+      "end": 35.24
+    },
+    "5": {
+      "text": "Umukiranutsi ankubite biraba kungirira neza,Ampane biraba nk'amavuta asīga ku mutwe wanjye.Umutwe wanjye we kubyanga,Ariko gusenga kwanjye gukomeze kurwanya ibyaha bya ba bandi.",
+      "start": 35.84,
+      "end": 36.48
+    },
+    "6": {
+      "text": "Ubwo abacamanza babo bazatembagazwa mu manga,Abantu bazumvira amagambo yanjye kuko aryoshye.",
+      "start": 35.21,
+      "end": 40.91
+    },
+    "7": {
+      "text": "Nk'uko umuntu ahinga agaca impavu,Ni ko amagufwa yacu asandariye ku munwa w'ikuzimu.",
+      "start": 8.74,
+      "end": 34.56
+    },
+    "8": {
+      "text": "Uwiteka Mwami, ni wowe mpanga amaso,Ni wowe niringira ntusuke ubugingo bwanjye.",
+      "start": 31.27,
+      "end": 33.75
+    },
+    "9": {
+      "text": "Undinde umutego banteze,N'ibico by'inkozi z'ibibi.",
+      "start": 24.6,
+      "end": 35.27
+    },
+    "10": {
+      "text": "Abanyabyaha abe ari bo bafatwa n'ibigoyi byabo,Ariko jyeweho mbitambuke.",
+      "start": 44.69,
+      "end": 44.75
+    }
+  }
+}

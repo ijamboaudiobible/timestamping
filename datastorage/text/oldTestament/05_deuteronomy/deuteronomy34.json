@@ -1,0 +1,68 @@
+{
+  "book": "Book 5",
+  "book_canonical": "deuteronomy",
+  "book_number": 5,
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "Mose ava mu kibaya cy'i Mowabu kinini, azamuka umusozi wa Nebo agera mu mpinga ya Pisiga, iteganye n'i Yeriko. Uwiteka amwereka igihugu cy'i Galeyadi cyose ageza i Dani,",
+      "start": 29.17,
+      "end": 44.73
+    },
+    "2": {
+      "text": "n'icy'Abanafutali cyose, n'icy'Abefurayimu n'Abamanase, n'icy'Abayuda cyose ageza ku Nyanja y'iburengerazuba.",
+      "start": 40.33,
+      "end": 41.52
+    },
+    "3": {
+      "text": "Amwereka n'i Negebu, n'ikibaya cyo kuri Yorodani, ari cyo gikombe cy'i Yeriko, umudugudu w'imikindo ageza i Sowari.",
+      "start": 9.99,
+      "end": 36.6
+    },
+    "4": {
+      "text": "Uwiteka aramubwira ati “Ngikiriya igihugu narahiye Aburahamu na Isaka na Yakobo nti ‘Nzagiha urubyaro rwawe.’ None nguhaye kukirebesha amaso, ariko ntuzambuka ngo ukijyemo.”",
+      "start": 30.93,
+      "end": 39.56
+    },
+    "5": {
+      "text": "Nuko Mose umugaragu w'Uwiteka apfira aho ngaho mu gihugu cy'i Mowabu, uko Uwiteka yategetse.",
+      "start": 13.32,
+      "end": 38.29
+    },
+    "6": {
+      "text": "Amuhamba mu gikombe cyo mu gihugu cy'i Mowabu giteganye n'i Betipewori, ariko nta wuzi igituro cye na bugingo n'ubu.",
+      "start": 1.07,
+      "end": 28.63
+    },
+    "7": {
+      "text": "Mose yapfuye amaze imyaka ijana na makumyabiri avutse, ijisho rye ritabaye ibirorirori, intege ze zari zitagabanutse.",
+      "start": 40.93,
+      "end": 42.86
+    },
+    "8": {
+      "text": "Abisirayeli bamara iminsi mirongo itatu bariririra Mose mu kibaya cy'i Mowabu kinini, nuko iminsi yo kuririra Mose no kumwiraburira irashira.",
+      "start": 27.34,
+      "end": 33.01
+    },
+    "9": {
+      "text": "Yosuwa mwene Nuni yari yuzuye umwuka w'ubwenge, kuko Mose yari yaramurambitseho ibiganza. Abisirayeli baramwumvira, bagenza uko Uwiteka yategetse Mose.",
+      "start": 24.34,
+      "end": 28.44
+    },
+    "10": {
+      "text": "Mu Bisirayeli ntihabonetse ukundi umuhanuzi uhwanye na Mose, uwo Uwiteka yamenyaga barebana.",
+      "start": 29.19,
+      "end": 44.05
+    },
+    "11": {
+      "text": "Ntawagereranywa na we, ku bw'ibimenyetso n'ibitangaza byose Uwiteka yamutumye gukorera mu gihugu cya Egiputa, ngo abigirire Farawo n'abagaragu be bose n'igihugu cye cyose,",
+      "start": 13.63,
+      "end": 16.25
+    },
+    "12": {
+      "text": "no ku bw'iby'amaboko menshi byose n'ibiteye ubwoba byose, Mose yakoreye mu maso y'Abisirayeli bose.",
+      "start": 42.45,
+      "end": 44.23
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 7.75,
+      "end": 33.55
+    },
+    "2": {
+      "text": "“Bwira Aroni n'abana be n'Abisirayeli bose uti: Iki ni cyo Uwiteka ategetse ati",
+      "start": 34.09,
+      "end": 34.22
+    },
+    "3": {
+      "text": "‘Umuntu wese wo mu nzu ya Isirayeli uzabagira inka cyangwa umwana w'intama cyangwa ihene mu ngando, cyangwa uzakibagira inyuma yazo,",
+      "start": 36.0,
+      "end": 38.07
+    },
+    "4": {
+      "text": "ntakijyane ku muryango w'ihema ry'ibonaniro ngo agitambirire Uwiteka imbere y'ubuturo bwe, uwo muntu azabazwa ayo maraso, azaba avushije amaraso akurwe mu bwoko bwe.",
+      "start": 36.6,
+      "end": 40.93
+    },
+    "5": {
+      "text": "Ibyo bitegekewe kugira ngo ibitambo Abisirayeli bajya batambira mu gasozi, noneho babijyanire Uwiteka ku muryango w'ihema ry'ibonaniro, babishyire umutambyi, babitambire Uwiteka ho ibitambo by'uko bari amahoro.",
+      "start": 37.26,
+      "end": 40.43
+    },
+    "6": {
+      "text": "Uwo mutambyi amishe amaraso yabyo ku gicaniro cyo ku muryango w'ihema ry'ibonaniro, yose urugimbu rwabyo rube umubabwe uhumurira Uwiteka neza.",
+      "start": 3.97,
+      "end": 6.49
+    },
+    "7": {
+      "text": "Ntibakongere ukundi gutambira ibitambo byabo amapfizi y'ihene, ayo basambanisha gusenga. Iryo ribabere itegeko ridakuka mu bihe byabo byose.’",
+      "start": 42.64,
+      "end": 42.91
+    },
+    "8": {
+      "text": "“Kandi ubabwire uti: Umuntu wese wo mu nzu ya Isirayeli, cyangwa wo mu banyamahanga babasuhukiyemo, utamba igitambo cyo koswa cyangwa igitambo kindi,",
+      "start": 18.99,
+      "end": 30.24
+    },
+    "9": {
+      "text": "ntakijyane ku muryango w'ihema ry'ibonaniro ngo agitambire Uwiteka, uwo muntu azakurwe mu bwoko bwe.",
+      "start": 22.48,
+      "end": 28.67
+    },
+    "10": {
+      "text": "“Kandi umuntu wese wo mu nzu ya Isirayeli, cyangwa wo mu banyamahanga babasuhukiyemo, urya amaraso y'uburyo bwose, nzahoza igitsure cyanjye kuri uwo muntu uriye amaraso, mukure mu bwoko bwe.",
+      "start": 36.01,
+      "end": 37.12
+    },
+    "11": {
+      "text": "Kuko ubugingo bw'inyama buba mu maraso, nanjye nyabahereye gusukwa ku gicaniro ngo abe impongano y'ubugingo bwanyu, kuko amaraso ari yo mpongano, ayihindurwa n'ubugingo buyarimo.",
+      "start": 35.03,
+      "end": 36.62
+    },
+    "12": {
+      "text": "Ni cyo cyatumye mbwira Abisirayeli nti ‘Ntihakagire umuntu muri mwe urya amaraso, kandi ntihakagire umunyamahanga ubasuhukiyemo uyarya.’",
+      "start": 20.78,
+      "end": 36.12
+    },
+    "13": {
+      "text": "“Kandi umuntu wese wo mu Bisirayeli cyangwa wo mu banyamahanga babasuhukiyemo, ufatira mu muhigo inyamaswa cyangwa igisiga cyangwa inyoni mwemererwa kurya, akivushirize amaraso hasi, ayatwikirize umukungugu.",
+      "start": 36.5,
+      "end": 39.01
+    },
+    "14": {
+      "text": "Kuko ubugingo bw'inyama zose ari ubu: amaraso yazo ari amwe n'ubugingo bwazo, ni cyo cyatumye mbwira Abisirayeli nti ‘Ntimukarye amaraso y'inyama z'uburyo bwose, kuko ubugingo bw'inyama zose ari amaraso yazo, uyarya wese azakurweho.’",
+      "start": 34.73,
+      "end": 35.36
+    },
+    "15": {
+      "text": "“Kandi umuntu wese urya intumbi cyangwa ikirīra, naho yaba kavukire cyangwa umunyamahanga, amese imyenda ye yiyuhagire, abe ahumanye ageze nimugoroba, ni ho azabona guhumanurwa.",
+      "start": 42.82,
+      "end": 44.39
+    },
+    "16": {
+      "text": "Ariko natayimesa ntiyiyuhagire, azagibwaho no gukiranirwa kwe.”",
+      "start": 42.25,
+      "end": 43.23
+    }
+  }
+}

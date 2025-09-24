@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 6.87,
+      "end": 42.44
+    },
+    "2": {
+      "text": "Uwiteka umwami azishimira imbaraga zawe,Erega agakiza kawe azakanezererwa cyane!",
+      "start": 34.11,
+      "end": 34.94
+    },
+    "3": {
+      "text": "Wamuhaye icyo umutima we ushaka,Ntiwamwimye icyo iminwa ye yasabye.Sela.",
+      "start": 21.14,
+      "end": 42.98
+    },
+    "4": {
+      "text": "Kuko umusanganije imigisha y'ibyiza,Wamwambitse ikamba ry'izahabu nziza.",
+      "start": 13.36,
+      "end": 43.26
+    },
+    "5": {
+      "text": "Yagusabye ubugingo urabumuha,Umuha kurama iteka ryose.",
+      "start": 32.75,
+      "end": 35.78
+    },
+    "6": {
+      "text": "Igitinyiro cye ni cyinshi ku bw'agakiza kawe,Icyubahiro no gukomera ubimushyizeho.",
+      "start": 28.52,
+      "end": 40.44
+    },
+    "7": {
+      "text": "Umugize icyitegererezo cy'ihirwe iteka ryose,Umwishimishije ibyishimo mu maso yawe.",
+      "start": 35.99,
+      "end": 43.55
+    },
+    "8": {
+      "text": "Kuko umwami yiringira Uwiteka,Ku bw'imbabazi z'Usumba byose ntazanyeganyezwa.",
+      "start": 39.47,
+      "end": 41.01
+    },
+    "9": {
+      "text": "Ukuboko kwawe kuzashyikira ababisha bawe bose,Ukuboko kwawe kw'iburyo kuzashyikira abakwanga bose.",
+      "start": 18.6,
+      "end": 44.65
+    },
+    "10": {
+      "text": "Uzabahindura nk'ikōme ryaka mu gihe cy'umujinya wawe,Uwiteka azabamirisha umujinya we,Umuriro uzarabya.",
+      "start": 32.22,
+      "end": 42.68
+    },
+    "11": {
+      "text": "Nawe uzatsemba imbuto zabo mu isi,Urubyaro rwabo uzarutsemba mu bana b'abantu.",
+      "start": 40.26,
+      "end": 43.87
+    },
+    "12": {
+      "text": "Kuko bagambiriye kukugirira nabi,Bagiye inama batabasha gusohoza.",
+      "start": 8.35,
+      "end": 32.6
+    },
+    "13": {
+      "text": "Uzatuma baguha ibitugu,Uzatamika imyambi mu ruge rw'umuheto wawe mu maso yabo.",
+      "start": 28.7,
+      "end": 35.4
+    },
+    "14": {
+      "text": "Uwiteka wishyirishe hejuru imbaraga zawe,Uko ni ko tuzaririmba dushima ubutware bwawe.",
+      "start": 41.19,
+      "end": 43.41
+    }
+  }
+}

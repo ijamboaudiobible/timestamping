@@ -1,0 +1,113 @@
+{
+  "book": "Book 24",
+  "book_canonical": "jeremiah",
+  "book_number": 24,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Maze Uwiteka arambwira ati “Nubwo Mose na Samweli bampagarara imbere, umutima wanjye ntabwo nawerekeza kuri aba bantu. Ubankure mu maso bagende.",
+      "start": 6.49,
+      "end": 22.06
+    },
+    "2": {
+      "text": "Nibakubaza bati ‘Tujye he?’ Nawe uzababwire uti ‘Uku ni ko Uwiteka avuze ngo: Abakwiriye gupfa bapfe, n'abakwiriye inkota barimbuzwe inkota, kandi abakwiriye inzara bicwe n'inzara, n'abakwiriye kujyanwa ari imbohe bagendeho imbohe.’",
+      "start": 37.03,
+      "end": 39.49
+    },
+    "3": {
+      "text": "Kandi nzabategekera uburyo bune bwo guhanwa. Ni ko Uwiteka avuga: Inkota yo kwica, imbwa zo gutanyagura, ibisiga byo mu kirere, n'inyamaswa zo mu ishyamba byo kugasha no kurimbura.",
+      "start": 39.9,
+      "end": 40.63
+    },
+    "4": {
+      "text": "Kandi nzatuma bateraganwa hirya no hino mu bihugu byose byo mu isi, mbahoye ibyo Manase mwene Hezekiya, umwami w'u Buyuda yakoreye i Yerusalemu byose.”",
+      "start": 39.35,
+      "end": 41.44
+    },
+    "5": {
+      "text": "Ni nde wakugirira imbabazi Yerusalemu we? Cyangwa ni nde wakuborogera? Cyangwa ni nde wahindukira ngo agusuhuze?",
+      "start": 18.09,
+      "end": 28.19
+    },
+    "6": {
+      "text": "Uwiteka aravuga ati “Waranyanze wasubiye inyuma, ni cyo cyatumye nkuramburiraho ukuboko nkakurimbura, ndarambiwe noneho guhora mbagirira imbabazi.",
+      "start": 9.39,
+      "end": 24.12
+    },
+    "7": {
+      "text": "Kandi nabagoshoje intara mu marembo y'igihugu, nabiciye abana, narimbuye ubwoko bwanjye ntibarakangarukira ngo bave mu nzira mbi zabo.",
+      "start": 36.49,
+      "end": 40.01
+    },
+    "8": {
+      "text": "Abapfakazi babo bambereye benshi kuruta umusenyi wo ku nyanja, na ba nyina w'abasore nabateje umurimbuzi ku manywa y'ihangu, nabatunguje ubwoba n'umubabaro.",
+      "start": 26.3,
+      "end": 27.28
+    },
+    "9": {
+      "text": "Uwabyaye barindwi arihebye ararabiranye, izuba rye rirenze butarīra, yakozwe n'isoni no kumwara: kandi abasigaye bo muri bo nzabarimburiza inkota imbere y'ababisha babo.” Ni ko Uwiteka avuga.",
+      "start": 24.81,
+      "end": 40.11
+    },
+    "10": {
+      "text": "Mbonye ishyano mama, kuko wambyariye kuba umuntu wo kujya impaka no kurwanya abo mu isi yose! Nta we nagurije, kandi nta wangurije, nyamara umuntu wese wo muri bo aramvuma.",
+      "start": 44.32,
+      "end": 44.49
+    },
+    "11": {
+      "text": "Uwiteka yaravuze ati “Ni ukuri nzagukomeza ugubwe neza, ni ukuri nzatera abanzi bawe kukwisunga mu gihe cy'amakuba no mu gihe cy'umubabaro.",
+      "start": 1.62,
+      "end": 3.32
+    },
+    "12": {
+      "text": "Mbese hariho uwabasha kuvuna icyuma, icyuma cy'ikasikazi n'umuringa?",
+      "start": 16.33,
+      "end": 34.07
+    },
+    "13": {
+      "text": "“Ibintu byawe n'ubutunzi bwawe nzabitanga ho iminyago ari nta cyo biguzwe, babimareho mu ngabano zawe zose ari ibyaha byawe byose nguhoye.",
+      "start": 30.74,
+      "end": 38.09
+    },
+    "14": {
+      "text": "Nzakunyuza mu gihugu utazi uri kumwe n'abanzi bawe, kuko umuriro wakijwe n'uburakari bwanjye wo kuzabatwika.”",
+      "start": 37.65,
+      "end": 38.95
+    },
+    "15": {
+      "text": "Ayii Uwiteka, ni wowe ubizi. Unyibuke kandi unsure, umporere abandenganya ku bwo kwihangana kwawe ntunkureho, umenye yuko nababajwe ngatukwa ku bwawe.",
+      "start": 17.75,
+      "end": 42.79
+    },
+    "16": {
+      "text": "Amagambo yawe amaze kuboneka ndayarya, maze ambera umunezero n'ibyishimo byo mu mutima wanjye, kuko nitiriwe izina ryawe Uwiteka Mana Nyiringabo.",
+      "start": 34.79,
+      "end": 44.07
+    },
+    "17": {
+      "text": "Sinicaye mu iteraniro ry'abantu bishima bakanezerwa, ahubwo nicaye ukwanjye ku bw'amaboko yawe, kuko wanyujujemo uburakari.",
+      "start": 21.78,
+      "end": 41.1
+    },
+    "18": {
+      "text": "Kuki mporana umubabaro, uruguma rwanjye rutavurika rukaba rwanze gukira? Mbese koko uzambera isōko ishukana, cyangwa nk'amazi akama?",
+      "start": 5.72,
+      "end": 29.87
+    },
+    "19": {
+      "text": "Ni cyo gituma Uwiteka avuga atya ati “Nugaruka nzakugarura kugira ngo uhagarare imbere yanjye, kandi ibishimwa nubivana mu bigawa uzaba nk'akanwa kanjye. Bazakugarukira ariko ntuzabagarukire.",
+      "start": 3.68,
+      "end": 44.69
+    },
+    "20": {
+      "text": "Kandi nzakugira inkike yubakishijwe imiringa ibe igihome gikingiye abo bantu, na bo bazakurwanya ariko ntibazakunesha, kuko ndi kumwe nawe ngo ngukize kandi nkurokore. Ni ko Uwiteka avuga.",
+      "start": 1.44,
+      "end": 36.74
+    },
+    "21": {
+      "text": "Nzakurokora nkuvane mu maboko y'abanyabyaha, kandi nzagukiza amaboko y'abateye ubwoba.”",
+      "start": 14.76,
+      "end": 37.74
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Mbere na mbere Imana yaremye ijuru n'isi.",
+      "start": 38.03,
+      "end": 42.65
+    },
+    "2": {
+      "text": "Isi yari itagira ishusho, yariho ubusa busa, umwijima wari hejuru y'imuhengeri, maze Umwuka w'Imana yagendagendaga hejuru y'amazi.",
+      "start": 9.09,
+      "end": 25.27
+    },
+    "3": {
+      "text": "Imana iravuga iti “Habeho umucyo”, umucyo ubaho.",
+      "start": 18.95,
+      "end": 41.68
+    },
+    "4": {
+      "text": "Imana ibona umucyo ko ari mwiza, Imana itandukanya umucyo n'umwijima.",
+      "start": 43.14,
+      "end": 44.15
+    },
+    "5": {
+      "text": "Imana yita umucyo amanywa, umwijima iwita ijoro. Buragoroba buracya, uwo ni umunsi wa mbere.",
+      "start": 13.88,
+      "end": 20.38
+    },
+    "6": {
+      "text": "Imana iravuga iti “Habeho isanzure hagati y'amazi, rigabanye amazi n'andi mazi.”",
+      "start": 2.77,
+      "end": 29.93
+    },
+    "7": {
+      "text": "Imana irema iryo sanzure, igabanya amazi yo munsi y'isanzure n'ayo hejuru yaryo, biba bityo.",
+      "start": 37.5,
+      "end": 43.37
+    },
+    "8": {
+      "text": "Imana yita iryo sanzure Ijuru. Buragoroba buracya, uwo ni umunsi wa kabiri.",
+      "start": 2.51,
+      "end": 4.25
+    },
+    "9": {
+      "text": "Imana iravuga iti “Amazi yo munsi y'ijuru ateranire hamwe, ahumutse haboneke.” Biba bityo.",
+      "start": 10.2,
+      "end": 13.55
+    },
+    "10": {
+      "text": "Imana yita ahumutse Ubutaka, iteraniro ry'amazi iryita Inyanja. Imana ibona ko ari byiza.",
+      "start": 34.79,
+      "end": 42.81
+    },
+    "11": {
+      "text": "Imana iravuga iti “Ubutaka bumeze ubwatsi n'ibimera byose byerere imbuto ku butaka, n'ibiti byerere imbuto ku butaka zirimo utubuto twabyo, igiti cyose cyere imbuto zikwiriye ubwoko bwacyo.” Biba bityo.",
+      "start": 44.87,
+      "end": 44.97
+    },
+    "12": {
+      "text": "Ubutaka bumeza ubwatsi, ibimera byose byera imbuto zikwiriye amoko yabyo, n'ibiti byera imbuto zirimo utubuto twabyo, zikwiriye amoko yabyo. Imana ibona ko ari byiza.",
+      "start": 19.58,
+      "end": 25.24
+    },
+    "13": {
+      "text": "Buragoroba buracya, uwo ni umunsi wa gatatu.",
+      "start": 27.71,
+      "end": 41.13
+    },
+    "14": {
+      "text": "Imana iravuga iti “Mu isanzure ry'ijuru habeho ibiva bitandukanya amanywa n'ijoro, bibereho kuba ibimenyetso no kwerekana ibihe n'iminsi n'imyaka,",
+      "start": 40.06,
+      "end": 42.9
+    },
+    "15": {
+      "text": "bibereho kuvira mu isanzure ry'ijuru kugira ngo bivire isi.” Biba bityo.",
+      "start": 44.15,
+      "end": 44.81
+    },
+    "16": {
+      "text": "Imana irema ibiva bibiri binini, ikiva kinini cyo gutegeka amanywa, n'igito cyo gutegeka ijoro, irema n'inyenyeri.",
+      "start": 6.02,
+      "end": 10.81
+    },
+    "17": {
+      "text": "Imana ibishyirira mu isanzure ry'ijuru kugira ngo bivire isi,",
+      "start": 37.11,
+      "end": 38.9
+    },
+    "18": {
+      "text": "kandi bitegeke amanywa n'ijoro, bitandukanye umucyo n'umwijima, Imana ibona ko ari byiza.",
+      "start": 40.99,
+      "end": 41.18
+    },
+    "19": {
+      "text": "Buragoroba buracya, uwo ni umunsi wa kane.",
+      "start": 27.97,
+      "end": 37.65
+    },
+    "20": {
+      "text": "Imana iravuga iti “Amazi yuzuremo ibyigenza byinshi cyane bifite ubugingo, kandi inyoni n'ibisiga biguruke mu isanzure ry'ijuru.”",
+      "start": 39.31,
+      "end": 42.7
+    },
+    "21": {
+      "text": "Imana irema ibifi binini byo mu nyanja, n'ibintu byose byigenza bifite ubugingo, amazi biyuzuramo nk'uko amoko yabyo ari. Irema n'inyoni n'ibisiga byose nk'uko amoko yabyo ari, Imana ibona ko ari byiza.",
+      "start": 36.44,
+      "end": 37.47
+    },
+    "22": {
+      "text": "Imana ibiha umugisha, iti “Mwororoke, mugwire, mwuzure amazi yo mu nyanja, inyoni n'ibisiga byororoke mu isi.”",
+      "start": 8.63,
+      "end": 36.07
+    },
+    "23": {
+      "text": "Buragoroba buracya, uwo ni umunsi wa gatanu.",
+      "start": 23.29,
+      "end": 41.08
+    },
+    "24": {
+      "text": "Imana iravuga iti “Isi izane ibifite ubugingo, amatungo n'ibikururuka, nk'uko amoko yabyo ari, n'inyamaswa zo mu isi, nk'uko amoko yazo ari.” Biba bityo.",
+      "start": 29.0,
+      "end": 34.08
+    },
+    "25": {
+      "text": "Imana irema inyamaswa zo mu isi nk'uko amoko yazo ari, n'amatungo nk'uko amoko yayo ari, n'ibintu byose bikururuka hasi nk'uko amoko yabyo ari, Imana ibona ko ari byiza.",
+      "start": 13.68,
+      "end": 34.09
+    },
+    "26": {
+      "text": "Imana iravuga iti “Tureme umuntu agire ishusho yacu ase natwe, batware amafi yo mu nyanja, n'inyoni n'ibisiga byo mu kirere, n'amatungo n'isi yose, n'igikururuka hasi cyose.”",
+      "start": 16.62,
+      "end": 35.71
+    },
+    "27": {
+      "text": "Imana irema umuntu ngo agire ishusho yayo, afite ishusho y'Imana ni ko yamuremye, umugabo n'umugore ni ko yabaremye.",
+      "start": 3.92,
+      "end": 23.45
+    },
+    "28": {
+      "text": "Imana ibaha umugisha, Imana irababwira iti “Mwororoke mugwire, mwuzure isi, mwimenyereze ibiyirimo, mutware amafi yo mu nyanja, n'inyoni n'ibisiga byo mu kirere, n'ibintu byose bifite ubugingo byigenza ku isi.”",
+      "start": 9.28,
+      "end": 15.42
+    },
+    "29": {
+      "text": "Kandi Imana irababwira iti “Dore mbahaye ibimera byose byera imbuto biri mu isi yose, n'igiti cyose gifite imbuto zirimo utubuto twacyo, bizabe ibyokurya byanyu.",
+      "start": 2.17,
+      "end": 24.9
+    },
+    "30": {
+      "text": "Kandi inyamaswa yose yo mu isi, n'inyoni n'ibisiga byo mu kirere, n'ikintu cyose gikururuka ku isi gifite ubugingo, mbihaye ibimera bibisi byose ngo bibe ibyokurya byabyo.” Biba bityo.",
+      "start": 10.19,
+      "end": 29.88
+    },
+    "31": {
+      "text": "Imana ireba ibyo yaremye byose, n'uko byari byiza cyane. Buragoroba buracya, uwo ni umunsi wa gatandatu.",
+      "start": 40.35,
+      "end": 43.1
+    }
+  }
+}

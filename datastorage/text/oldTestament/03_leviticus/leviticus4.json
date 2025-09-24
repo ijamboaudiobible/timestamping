@@ -1,0 +1,183 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 38.25,
+      "end": 40.35
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli uti: Nihagira umuntu ukora icyaha atacyitumye, cyo mu byo Uwiteka yabuzanije agakora kimwe muri byo,",
+      "start": 5.08,
+      "end": 39.59
+    },
+    "3": {
+      "text": "“Niba ari umutambyi wasīzwe ukora icyaha, agashyirisha ku bwoko bwose urubanza, atambire icyo cyaha yakoze ikimasa cy'umusore kidafite inenge, agitambire Uwiteka ho igitambo gitambirwa ibyaha.",
+      "start": 30.81,
+      "end": 35.37
+    },
+    "4": {
+      "text": "Azane icyo kimasa ku muryango w'ihema ry'ibonaniro imbere y'Uwiteka, akirambike ikiganza mu ruhanga akibīkīrire imbere y'Uwiteka.",
+      "start": 16.76,
+      "end": 17.96
+    },
+    "5": {
+      "text": "Uwo mutambyi wasīzwe yende ku maraso yacyo ayazane mu ihema ry'ibonaniro,",
+      "start": 43.39,
+      "end": 44.14
+    },
+    "6": {
+      "text": "akoze urutoki muri ayo maraso ayaminjagire karindwi imbere y'Uwiteka, imbere ya wa mwenda ukingiriza Ahera cyane.",
+      "start": 31.03,
+      "end": 36.03
+    },
+    "7": {
+      "text": "Yende kuri ayo maraso, ayashyire ku mahembe y'igicaniro cyoserezwaho imibavu, kiri imbere y'Uwiteka mu ihema ry'ibonaniro, andi maraso y'icyo kimasa yose ayabyarire ku gicaniro hasi cyoserezweho ibitambo, kiri ku muryango w'ihema ry'ibonaniro.",
+      "start": 22.42,
+      "end": 36.27
+    },
+    "8": {
+      "text": "Kandi urugimbu rwose rw'icyo kimasa gitambirwa ibyaha arugikūre, uruta rutwikira amara n'urugimbu rwo hagati yayo rwose,",
+      "start": 28.16,
+      "end": 35.21
+    },
+    "9": {
+      "text": "n'impyiko zombi n'urugimbu rwo kuri zo rufatanye n'urukiryi, n'umwijima w'ityazo awukurane n'impyiko,",
+      "start": 26.2,
+      "end": 31.42
+    },
+    "10": {
+      "text": "nk'uko babikura ku kimasa cy'igitambo cy'uko bari amahoro. Umutambyi abyosereze ku gicaniro cyoserezwaho ibitambo.",
+      "start": 31.05,
+      "end": 31.23
+    },
+    "11": {
+      "text": "Kandi uruhu rw'icyo kimasa n'inyama zacyo zose, zirimo igihanga cyacyo n'ibinyita byacyo, n'amara yacyo n'amayezi yacyo,",
+      "start": 41.1,
+      "end": 42.28
+    },
+    "12": {
+      "text": "icyo kimasa cyose akijyane inyuma y'ingando z'amahema, ahantu hadahumanijwe, aho basesa ivu, agishyire ku nkwi acyose, aho basesa ivu abe ari ho bacyosereza.",
+      "start": 2.87,
+      "end": 32.54
+    },
+    "13": {
+      "text": "“Kandi niba ari iteraniro ry'Abisirayeli ryose rikoze icyaha ritacyitumye kigahishwa amaso yaryo, bakaba bakoze kimwe mu byo Uwiteka yabuzanije bakagibwaho n'urubanza,",
+      "start": 13.11,
+      "end": 41.36
+    },
+    "14": {
+      "text": "icyaha bakoze nikimenyekana iteraniro ritambe ikimasa cy'umusore ho igitambo gitambirwa ibyaha, bakizane imbere y'ihema ry'ibonaniro.",
+      "start": 7.76,
+      "end": 21.95
+    },
+    "15": {
+      "text": "Abakuru bo mu iteraniro barambikire ibiganza mu ruhanga rw'icyo kimasa imbere y'Uwiteka, gikerererwe imbere ye.",
+      "start": 5.53,
+      "end": 44.65
+    },
+    "16": {
+      "text": "Umutambyi wasīzwe azane ku maraso yacyo mu ihema ry'ibonaniro,",
+      "start": 25.59,
+      "end": 41.25
+    },
+    "17": {
+      "text": "ayakozemo urutoki, ayaminjagire karindwi imbere y'Uwiteka, imbere ya wa mwenda ukingiriza Ahera cyane.",
+      "start": 40.13,
+      "end": 41.68
+    },
+    "18": {
+      "text": "Yende kuri ayo maraso, ayashyire ku mahembe y'igicaniro cy'imbere y'Uwiteka kiri mu ihema ry'ibonaniro, andi maraso yose ayabyarire ku gicaniro hasi cyoserezwaho ibitambo, kiri ku muryango w'ihema ry'ibonaniro.",
+      "start": 23.03,
+      "end": 41.08
+    },
+    "19": {
+      "text": "Kandi urugimbu rw'icyo kimasa rwose arugikūre, arwosereze ku gicaniro.",
+      "start": 31.54,
+      "end": 33.12
+    },
+    "20": {
+      "text": "Abe ari ko agirira icyo kimasa, nk'uko yagiriye cya kimasa kindi cy'igitambo gitambirwa ibyaha, abe ari ko agirira n'icyo. Nuko umutambyi abahongerere impongano, maze abo bazababarirwa.",
+      "start": 17.78,
+      "end": 24.83
+    },
+    "21": {
+      "text": "Kandi ajyane icyo kimasa inyuma y'amahema yabo, acyose nk'uko yosheje icya mbere. Icyo ni igitambo gitambirwa ibyaha by'iteraniro.",
+      "start": 15.31,
+      "end": 41.57
+    },
+    "22": {
+      "text": "“Umutware nakora icyaha, agakora atacyitumye kimwe mu byo Uwiteka Imana ye yabuzanije byose, akagibwaho n'urubanza,",
+      "start": 14.64,
+      "end": 39.59
+    },
+    "23": {
+      "text": "icyaha yakoze nakimenyeshwa, azane isekurume y'ihene idafite inenge ho igitambo.",
+      "start": 28.24,
+      "end": 34.14
+    },
+    "24": {
+      "text": "Ayirambike ikiganza mu ruhanga, ayibīkīrire imbere y'Uwiteka aho bakererera igitambo cyoswa. Icyo ni igitambo gitambirwa ibyaha.",
+      "start": 32.03,
+      "end": 34.29
+    },
+    "25": {
+      "text": "Umutambyi yendeshe urutoki ku maraso y'icyo gitambo gitambirwa ibyaha, ayashyire ku mahembe y'igicaniro cyoserezwaho ibitambo, andi maraso yacyo ayabyarire kuri icyo gicaniro hasi.",
+      "start": 2.06,
+      "end": 17.56
+    },
+    "26": {
+      "text": "Urugimbu rwacyo rwose arwosereze ku gicaniro, nk'uko bosa urw'igitambo cy'uko umuntu ari amahoro. Nuko umutambyi amuhongerere impongano y'icyo cyaha cye, maze uwo muntu azacyibabarirwa.",
+      "start": 20.92,
+      "end": 24.87
+    },
+    "27": {
+      "text": "“Kandi nihagira uwo mu boroheje ukora icyaha atacyitumye, cyo mu byo Uwiteka yabuzanije, akagibwaho n'urubanza,",
+      "start": 16.64,
+      "end": 28.66
+    },
+    "28": {
+      "text": "icyaha yakoze nakimenyeshwa, azane umwagazi w'ihene udafite inenge ho igitambo cyo gutambirwa icyaha yakoze.",
+      "start": 16.74,
+      "end": 41.43
+    },
+    "29": {
+      "text": "Arambike ikiganza mu ruhanga rw'icyo gitambo gitambirwa ibyaha, akibīkīrire aho babīkīrira igitambo cyoswa.",
+      "start": 41.1,
+      "end": 41.2
+    },
+    "30": {
+      "text": "Umutambyi yendeshe urutoki ku maraso yacyo, ayashyire ku mahembe y'igicaniro cyoserezwaho ibitambo, andi maraso yacyo yose ayabyarire kuri icyo gicaniro hasi.",
+      "start": 32.32,
+      "end": 37.96
+    },
+    "31": {
+      "text": "Urugimbu rwacyo rwose arukūre nk'uko bakūra urw'igitambo cy'uko bari amahoro, umutambyi arwosereze ku gicaniro rube umubabwe uhumurira Uwiteka neza. Nuko umutambyi amuhongerere impongano, maze uwo muntu azababarirwa.",
+      "start": 30.78,
+      "end": 32.93
+    },
+    "32": {
+      "text": "“Kandi nazana umwana w'intama ho igitambo gitambirwa ibyaha, azane umwagazi udafite inenge.",
+      "start": 28.18,
+      "end": 29.3
+    },
+    "33": {
+      "text": "Arambike ikiganza mu ruhanga rw'icyo gitambo gitambirwa ibyaha, akibīkīrire aho babīkīrira igitambo cyoswa, kibe igitambo gitambirwa ibyaha.",
+      "start": 34.87,
+      "end": 43.79
+    },
+    "34": {
+      "text": "Umutambyi yendeshe urutoki ku maraso y'icyo gitambo gitambirwa ibyaha, ayashyire ku mahembe y'igicaniro cyoserezwaho ibitambo, andi maraso yacyo yose ayabyarire kuri icyo gicaniro hasi.",
+      "start": 29.95,
+      "end": 39.28
+    },
+    "35": {
+      "text": "Urugimbu rwacyo rwose arukūre nk'uko bakūra urw'umwana w'intama w'igitambo cy'uko bari amahoro, umutambyi arwosereze ku gicaniro, hejuru y'ibitambo byatambiwe Uwiteka bigakongorwa n'umuriro. Nuko umutambyi amuhongerere impongano y'icyaha yakoze, maze uwo muntu azakibabarirwa.",
+      "start": 27.8,
+      "end": 41.74
+    }
+  }
+}

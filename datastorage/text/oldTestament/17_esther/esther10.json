@@ -1,0 +1,23 @@
+{
+  "book": "Book 17",
+  "book_canonical": "esther",
+  "book_number": 17,
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Nuko Umwami Ahasuwerusi akoresha ikoro abo mu gihugu n'abo mu birwa byo mu nyanja nini.",
+      "start": 34.94,
+      "end": 35.66
+    },
+    "2": {
+      "text": "Ariko ibyo yakoreshaga ububasha bwe n'imbaraga ze byose, n'ibyerekana neza uko umwami yakujije Moridekayi akaba umuntu ukomeye, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'u Bumedi n'u Buperesi?",
+      "start": 27.77,
+      "end": 37.62
+    },
+    "3": {
+      "text": "Kuko uwo Muyuda Moridekayi yari uwa kabiri ku Mwami Ahasuwerusi, kandi yari akomeye mu Bayuda agashimwa na bene se uko bangana, agashakira ubwoko bwabo ibyiza kandi akajya abwira urubyaro rwe amahoro.",
+      "start": 38.59,
+      "end": 39.42
+    }
+  }
+}

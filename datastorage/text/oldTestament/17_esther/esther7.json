@@ -1,0 +1,58 @@
+{
+  "book": "Book 17",
+  "book_canonical": "esther",
+  "book_number": 17,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Nuko umwami na Hamani bazana na Esiteri umwamikazi mu nkera.",
+      "start": 3.72,
+      "end": 30.73
+    },
+    "2": {
+      "text": "Kuri uwo munsi wa kabiri umwami yongera kubaza Esiteri bari mu nkera ati “Urasaba iki Mwamikazi Esiteri, ukagihabwa? Urashaka iki? Naho wansaba umugabane w'igihugu nawuguha.”",
+      "start": 28.75,
+      "end": 32.1
+    },
+    "3": {
+      "text": "Nuko Umwamikazi Esiteri aramusubiza ati “Niba ngutonnyeho nyagasani ukabishima, ngusabye agahanga kanjye ndetse ukize n'ubwoko bwacu. Ni cyo nsaba",
+      "start": 16.87,
+      "end": 38.69
+    },
+    "4": {
+      "text": "kuko jyewe n'ubwoko bwacu twaguzwe ngo twicwe, turimburwe tumarweho. Iyaba twaraguriwe kuba imbata n'abaja nta cyo mba mvuze, nubwo uwo mwanzi atabasha kuriha umwami ibyo aba yishe.”",
+      "start": 35.25,
+      "end": 35.95
+    },
+    "5": {
+      "text": "Maze Umwami Ahasuwerusi abaza Umwamikazi Esiteri ati “Ni nde uhangaye kwigira iyo nama, kandi ari he?”",
+      "start": 11.78,
+      "end": 44.74
+    },
+    "6": {
+      "text": "Esiteri aramusubiza ati “Umwanzi wacu uturenganya ni uyu mugome Hamani.” Hamani agirira ubwoba imbere y'umwami n'umwamikazi.",
+      "start": 40.89,
+      "end": 40.99
+    },
+    "7": {
+      "text": "Muri ako kanya umwami ahagurukana uburakari ava mu nkera, arasohoka ajya mu murima w'ibwami. Hamani na we ahagurutswa no gusaba Umwamikazi Esiteri agahanga ke, kuko yari abonye ko umwami amaramaje kumugirira nabi.",
+      "start": 16.73,
+      "end": 30.98
+    },
+    "8": {
+      "text": "Hanyuma umwami agaruka ava mu murima w'ibwami, yinjira mu nzu y'inkera asanga Hamani yikubise ku gisasiro aho Esiteri yari ari. Umwami aherako aravuga ati “Mbese agiye no gufatira umwamikazi mu nzu aho ndora?”Ijambo rigihinguka mu kanwa k'umwami, Hamani bamupfuka mu maso.",
+      "start": 23.55,
+      "end": 41.19
+    },
+    "9": {
+      "text": "Maze Haribona, umwe mu nkone zakoreraga umwami aravuga ati “Ndetse mu rugo rwa Hamani hashinze igiti kirekire cya mikono mirongo itanu, Hamani yiteguriye kumanikaho Moridekayi kandi ari we wavuze ibyagiriye umwami neza.”Umwami arategeka ati “Abe ari cyo mumumanikaho.”",
+      "start": 28.88,
+      "end": 30.6
+    },
+    "10": {
+      "text": "Nuko Hamani bamumanika ku giti yiteguriye Moridekayi, maze uburakari bw'umwami buracogora.",
+      "start": 43.64,
+      "end": 44.35
+    }
+  }
+}

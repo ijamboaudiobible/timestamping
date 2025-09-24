@@ -1,0 +1,138 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Imana ivuga aya magambo yose iti",
+      "start": 42.15,
+      "end": 43.14
+    },
+    "2": {
+      "text": "“Ndi Uwiteka Imana yawe yagukuye mu gihugu cya Egiputa, mu nzu y'uburetwa.",
+      "start": 12.67,
+      "end": 14.92
+    },
+    "3": {
+      "text": "“Ntukagire izindi mana mu maso yanjye.",
+      "start": 17.62,
+      "end": 37.06
+    },
+    "4": {
+      "text": "“Ntukiremere igishushanyo kibajwe, cyangwa igisa n'ishusho yose iri hejuru mu ijuru, cyangwa hasi ku butaka cyangwa mu mazi yo hepfo y'ubutaka.",
+      "start": 31.56,
+      "end": 42.05
+    },
+    "5": {
+      "text": "Ntukabyikubite imbere, ntukabikorere kuko Uwiteka Imana yawe ndi Imana ifuha, mpōra abana gukiranirwa kwa ba se, nkageza ku buzukuruza n'ubuvivi bw'abanyanga,",
+      "start": 5.05,
+      "end": 43.15
+    },
+    "6": {
+      "text": "nkababarira abankunda bakitondera amategeko yanjye, nkageza ku buzukuruza babo b'ibihe igihumbi.",
+      "start": 44.35,
+      "end": 44.45
+    },
+    "7": {
+      "text": "“Ntukavugire ubusa izina ry'Uwiteka Imana yawe, kuko Uwiteka atazamubara nk'utacumuye, uvugiye ubusa izina rye.",
+      "start": 20.83,
+      "end": 40.22
+    },
+    "8": {
+      "text": "“Wibuke kweza umunsi w'isabato.",
+      "start": 13.94,
+      "end": 39.26
+    },
+    "9": {
+      "text": "Mu minsi itandatu ujya ukora, abe ari yo ukoreramo imirimo yawe yose,",
+      "start": 33.0,
+      "end": 41.63
+    },
+    "10": {
+      "text": "ariko uwa karindwi ni wo sabato y'Uwiteka Imana yawe. Ntukagire umurimo wose uwukoraho, wowe ubwawe, cyangwa umuhungu wawe cyangwa umukobwa wawe, cyangwa umugaragu wawe cyangwa umuja wawe, cyangwa itungo ryawe cyangwa umunyamahanga wawe uri iwanyu,",
+      "start": 9.59,
+      "end": 32.23
+    },
+    "11": {
+      "text": "kuko iminsi itandatu ari yo Uwiteka yaremeyemo ijuru n'isi n'inyanja n'ibirimo byose, akaruhukira ku wa karindwi. Ni cyo cyatumye Uwiteka aha umugisha umunsi w'isabato, akaweza.",
+      "start": 17.11,
+      "end": 17.28
+    },
+    "12": {
+      "text": "“Wubahe so na nyoko, kugira ngo uramire mu gihugu Uwiteka Imana yawe iguha. 18.20; Ef 6.2-3",
+      "start": 38.44,
+      "end": 41.66
+    },
+    "13": {
+      "text": "“Ntukice. 18.20; Rom 13.9; Yak 2.11",
+      "start": 1.63,
+      "end": 9.21
+    },
+    "14": {
+      "text": "“Ntugasambane. 13.9; Yak 2.11",
+      "start": 33.37,
+      "end": 37.88
+    },
+    "15": {
+      "text": "“Ntukibe.",
+      "start": 16.97,
+      "end": 26.51
+    },
+    "16": {
+      "text": "“Ntugashinje ibinyoma mugenzi wawe.",
+      "start": 30.78,
+      "end": 40.03
+    },
+    "17": {
+      "text": "“Ntukifuze inzu ya mugenzi wawe, ntukifuze umugore wa mugenzi wawe, cyangwa umugaragu we cyangwa umuja we, cyangwa inka ye cyangwa indogobe ye, cyangwa ikindi kintu cyose cya mugenzi wawe.”",
+      "start": 23.92,
+      "end": 25.03
+    },
+    "18": {
+      "text": "Abantu bose bumva za nkuba zikubita, babona ya mirabyo irabya, bumva ijwi rya rya hembe, babona wa musozi ucumba umwotsi, babibonye bahinda imishyitsi, bahagarara kure.",
+      "start": 26.76,
+      "end": 33.09
+    },
+    "19": {
+      "text": "Babwira Mose bati “Ba ari wowe utubwira ni ho turi bwumve, ariko Imana ye kutubwira tudapfa.”",
+      "start": 41.15,
+      "end": 44.95
+    },
+    "20": {
+      "text": "Mose abwira abantu ati “Nimuhumure kuko Imana izanywe no kubagerageza, no kugira ngo gutera ubwoba kwayo guhore imbere yanyu mudakora ibyaha.”",
+      "start": 0.2,
+      "end": 25.32
+    },
+    "21": {
+      "text": "Abantu bahagarara kure. Mose yigira hafi y'umwijima w'icuraburindi Imana irimo.",
+      "start": 25.11,
+      "end": 38.27
+    },
+    "22": {
+      "text": "Uwiteka abwira Mose ati “Uku abe ari ko ubwira Abisirayeli, uti ‘Ubwanyu mwiboneye ko mbabwiye ndi mu ijuru.",
+      "start": 26.41,
+      "end": 39.3
+    },
+    "23": {
+      "text": "Ntimukareme izindi mana ngo muzibangikanye nanjye, imana z'ifeza cyangwa imana z'izahabu ntimukazicurire.",
+      "start": 40.65,
+      "end": 43.71
+    },
+    "24": {
+      "text": "Undundire igicaniro cy'ibitaka, ugitambireho ibitambo byawe byoswa n'ibitambo by'uko uri amahoro, intama zawe n'inka zawe. Aho nzibukiriza izina ryanjye hose, nzaza aho uri nguhe umugisha.",
+      "start": 43.7,
+      "end": 44.44
+    },
+    "25": {
+      "text": "Kandi nunyubakira igicaniro cy'amabuye, ntuzacyubakishe amabuye abajwe, kuko nukimanikaho icyuma cyawe uzaba ugihumanije.",
+      "start": 7.01,
+      "end": 7.9
+    },
+    "26": {
+      "text": "Kandi ntugashyire urwuririro rw'amabuye ku gicaniro cyanjye ngo ucyurire, kugira ngo ubwambure bwawe butakigaragariraho.’",
+      "start": 6.75,
+      "end": 42.28
+    }
+  }
+}

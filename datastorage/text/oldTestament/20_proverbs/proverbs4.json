@@ -1,0 +1,143 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Bana, nimutegere amatwi ibyo so abigisha,Mushishikarire kwiga ubuhanga.",
+      "start": 25.69,
+      "end": 36.04
+    },
+    "2": {
+      "text": "Ntimukareke amategeko yanjye,Kuko mbigisha ibyigisho byiza.",
+      "start": 5.78,
+      "end": 34.9
+    },
+    "3": {
+      "text": "Nabereye data umwana,Kandi ndi ikinege gikundwa na mama cyane.",
+      "start": 33.58,
+      "end": 43.97
+    },
+    "4": {
+      "text": "Yaranyigishaga akambwira ati“Ukomeze amagambo yanjye mu mutima wawe,Witondere amategeko yanjye,Ubone kubaho.",
+      "start": 13.12,
+      "end": 27.1
+    },
+    "5": {
+      "text": "Shaka ubwenge shaka n'ubuhanga,Ntubwibagirwe, ntuteshuke amagambo ava mu kanwa kanjye.",
+      "start": 13.78,
+      "end": 30.91
+    },
+    "6": {
+      "text": "Ntubureke buzakurinda,Ubukunde buzagukiza.",
+      "start": 16.52,
+      "end": 42.99
+    },
+    "7": {
+      "text": "Ubwenge muri byose ni bwo ngenzi,Nuko rero shaka ubwenge,Ndetse ibyo utunze byose ubishakishe ubuhanga.",
+      "start": 14.64,
+      "end": 29.16
+    },
+    "8": {
+      "text": "Ubukuze na bwo buzagukuza,Nubukomeza buzaguhesha icyubahiro.",
+      "start": 2.93,
+      "end": 31.54
+    },
+    "9": {
+      "text": "Buzagutamiriza imbabazi ho umurimbo,Buzakwambika ikamba ry'ubwiza.”",
+      "start": 41.13,
+      "end": 42.39
+    },
+    "10": {
+      "text": "Mwana wanjye, umva kandi emera amagambo yanjye,Ni bwo imyaka yo kubaho kwawe izagwira.",
+      "start": 29.33,
+      "end": 33.8
+    },
+    "11": {
+      "text": "Nakwigishije ingeso z'ubwenge,Nakuyoboye mu nzira zitunganye.",
+      "start": 30.63,
+      "end": 43.5
+    },
+    "12": {
+      "text": "Nugenda intambwe zawe ntizizateba,Kandi niwiruka ntuzasitara.",
+      "start": 38.46,
+      "end": 39.81
+    },
+    "13": {
+      "text": "Ukomeze cyane icyo wigishijwe ntukireke,Ugihamane kuko ari cyo bugingo bwawe.",
+      "start": 39.23,
+      "end": 39.65
+    },
+    "14": {
+      "text": "Ntukajye mu nzira y'inkozi z'ibibi,Kandi ntukagendere mu migenzereze y'abantu babi.",
+      "start": 4.93,
+      "end": 39.93
+    },
+    "15": {
+      "text": "Ujye uyitaza ntuyinyuremo,Uyiteshuke uce mu yindi.",
+      "start": 9.26,
+      "end": 36.51
+    },
+    "16": {
+      "text": "Ababi ntibasinzira keretse bakoze ibibi,Kandi ntibatora agatotsi batagize uwo bagusha,",
+      "start": 4.92,
+      "end": 42.36
+    },
+    "17": {
+      "text": "Kuko barya umutsima wo gukiranirwa,Kandi banywa vino y'urugomo.",
+      "start": 23.3,
+      "end": 30.73
+    },
+    "18": {
+      "text": "Ariko inzira y'umukiranutsi ni nk'umuseke utambitse,Ugakomeza gukura ukageza ku manywa y'ihangu.",
+      "start": 13.05,
+      "end": 38.04
+    },
+    "19": {
+      "text": "Inzira y'abanyabyaha ni nk'umwijima,Ntibazi ikibasitaza.",
+      "start": 25.57,
+      "end": 29.07
+    },
+    "20": {
+      "text": "Mwana wanjye, ita ku magambo yanjye,Tegere ugutwi ibyo mvuga.",
+      "start": 1.77,
+      "end": 37.24
+    },
+    "21": {
+      "text": "Ntibive imbere y'amaso yawe,Ubikomeze mu mutima wawe imbere.",
+      "start": 25.69,
+      "end": 44.21
+    },
+    "22": {
+      "text": "Kuko ari byo bugingo bw'ababibonye,Bikaba umuze muke w'umubiri wabo wose.",
+      "start": 5.06,
+      "end": 17.59
+    },
+    "23": {
+      "text": "Rinda umutima wawe kuruta ibindi byose birindwa,Kuko ari ho iby'ubugingo bikomokaho.",
+      "start": 34.84,
+      "end": 43.28
+    },
+    "24": {
+      "text": "Ikureho umunwa uvuga iby'ubugome,Kandi ururimi ruvuga iby'ubugoryi urushyire kure yawe.",
+      "start": 20.45,
+      "end": 37.73
+    },
+    "25": {
+      "text": "Boneza amaso imbere yawe,Ugumye uhatumbire.",
+      "start": 17.19,
+      "end": 36.52
+    },
+    "26": {
+      "text": "Tunganya inzira y'ibirenge byawe,Kandi imigendere yawe yose ikomezwe.",
+      "start": 17.4,
+      "end": 33.06
+    },
+    "27": {
+      "text": "Ntuhindukirire iburyo cyangwa ibumoso,Ukure ikirenge cyawe mu bibi.",
+      "start": 34.83,
+      "end": 44.62
+    }
+  }
+}

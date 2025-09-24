@@ -1,0 +1,83 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Gusenga kwa Dawidi.Uwiteka, umva iby'ukuri byanjye,Tyariza ugutwi gutaka kwanjye,Tegera ugutwi gusenga kwanjye,Kudaturuka mu minwa iryarya.",
+      "start": 43.89,
+      "end": 44.18
+    },
+    "2": {
+      "text": "Urubanza rwanjye ruturuke imbere yawe,Amaso yawe arebe ibitunganye.",
+      "start": 15.34,
+      "end": 15.73
+    },
+    "3": {
+      "text": "Wagerageje umutima wanjye,wangendereye nijoro.Warantase ntiwambonana umugambi mubi,Namaramaje kudacumuza ururimi rwanjye.",
+      "start": 22.51,
+      "end": 22.97
+    },
+    "4": {
+      "text": "Ku by'imirimo y'abantu,kwitondera ijambo ry'iminwa yawe,Ni ko kumpa kwirinda inzira z'abanyarugomo.",
+      "start": 7.7,
+      "end": 8.36
+    },
+    "5": {
+      "text": "Intambwe zanjye zikomerera mu nzira zawe,Ibirenge byanjye ntibinyerera.",
+      "start": 32.76,
+      "end": 36.98
+    },
+    "6": {
+      "text": "Mana, ndakwambaje kuko uri bunsubize,Ntegera ugutwi wumve ibyo mvuga.",
+      "start": 10.76,
+      "end": 39.8
+    },
+    "7": {
+      "text": "Erekana imbabazi zawe zitangaza,Wowe ukiza abakwiringira,Ababahagurukira ubakirishe ukuboko kwawe kw'iburyo.",
+      "start": 39.93,
+      "end": 44.41
+    },
+    "8": {
+      "text": "Undinde nk'imboni y'ijisho,Umpishe mu gicucu cy'amababa yawe.",
+      "start": 3.53,
+      "end": 44.15
+    },
+    "9": {
+      "text": "Umpishe abanyabyaha banyaga,Ni bo banzi banjye bashaka kunyica bangose.",
+      "start": 44.15,
+      "end": 44.83
+    },
+    "10": {
+      "text": "Bakinze imitima yabo,Akanwa kabo bakavugisha iby'ubwibone.",
+      "start": 0.3,
+      "end": 21.18
+    },
+    "11": {
+      "text": "None bagose intambwe zacu,Baduhangiye amaso kudutsinda hasi.",
+      "start": 8.06,
+      "end": 14.84
+    },
+    "12": {
+      "text": "Ahwanye n'intare ifite ipfa ry'icyo yafata,Nk'umugunzu w'intare wubikirira mu bico.",
+      "start": 39.71,
+      "end": 42.76
+    },
+    "13": {
+      "text": "Uwiteka haguruka,Umuhagarare imbere umutsinde hasi.Ukize umutima wanjye umunyabyaha,uwukirishe inkota yawe.",
+      "start": 27.39,
+      "end": 38.3
+    },
+    "14": {
+      "text": "Uwiteka uwukize abantu,uwukirishe ukuboko kwawe.Ni bo bantu b'isi,Bafite umugabane wabo muri ubu bugingo.Inda zabo uzihaze ubutunzi bwawe,Bahāge abana b'abahungu,Ibintu byabo bisigare babisigire impinja zabo.",
+      "start": 17.15,
+      "end": 33.93
+    },
+    "15": {
+      "text": "Jyeweho nzareba mu maso hawe nkiranuka,Mu ikanguka ryanjye nzahaga ishusho yawe.",
+      "start": 5.09,
+      "end": 24.06
+    }
+  }
+}

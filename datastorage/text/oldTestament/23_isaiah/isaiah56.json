@@ -1,0 +1,68 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 56,
+  "verses": {
+    "1": {
+      "text": "Uwiteka aravuga ati “Mwitondere iby'ukuri, mukore ibyo gukiranuka kuko agakiza kanjye hari hafi, no gukiranuka kwanjye kugiye guhishurwa.",
+      "start": 19.51,
+      "end": 31.16
+    },
+    "2": {
+      "text": "Hahirwa umuntu ukora ibyo n'umwana w'umuntu ubikomeza, akeza isabato ntayice, akarinda ukuboko kwe ngo kudakora icyaha cyose.”",
+      "start": 1.15,
+      "end": 12.14
+    },
+    "3": {
+      "text": "Kandi umunyamahanga uhakwa ku Uwiteka ye kuvuga ati “Uwiteka ntazabura kuntandukanya n'ubwoko bwe.” Kandi n'inkone ye kuvuga iti “Dore ndi igiti cyumye.”",
+      "start": 0.35,
+      "end": 26.35
+    },
+    "4": {
+      "text": "Kuko Uwiteka avuga ati “Iby'inkone zeza amasabato yanjye, zigahitamo ibyo nishimira zigakomeza isezerano ryanjye,",
+      "start": 23.15,
+      "end": 41.22
+    },
+    "5": {
+      "text": "nzazishyirira urwibutso mu nzu yanjye no mu rurembo rwanjye, nzihe n'izina riruta kugira abahungu n'abakobwa. Nzaziha izina rizahoraho ritazakurwaho.",
+      "start": 25.91,
+      "end": 39.4
+    },
+    "6": {
+      "text": "“Kandi abanyamahanga bahakwa ku Uwiteka bakamukorera bakunze izina rye bakaba abagaragu be, umuntu wese akeza isabato ntayice agakomeza isezerano ryanjye,",
+      "start": 19.49,
+      "end": 43.46
+    },
+    "7": {
+      "text": "abo na bo nzabageza ku musozi wanjye wera, mbanezereze mu nzu yanjye y'urusengero. Ibitambo byabo byoswa n'amaturo yabo bizemerwa bitambirwe ku gicaniro cyanjye kuko inzu yanjye izitwa inzu yo gusengerwamo n'amahanga yose.”",
+      "start": 38.51,
+      "end": 42.3
+    },
+    "8": {
+      "text": "Umwami Imana ikoranya ibicibwa bya Isirayeli iravuze iti “Nzongera kumukoraniriza abandi udashyizeho abe bakoranijwe.”",
+      "start": 20.89,
+      "end": 23.81
+    },
+    "9": {
+      "text": "Mwa nyamaswa zo mu gasozi mwese mwe, nimuze murye, namwe nyamaswa zo mu ishyamba.",
+      "start": 5.34,
+      "end": 20.07
+    },
+    "10": {
+      "text": "Abarinzi be ni impumyi bose nta cyo bazi, bose ni nk'imbwa z'ibiragi zitabasha kumoka; bararota bakaryama bagakunda guhunikira.",
+      "start": 21.93,
+      "end": 25.12
+    },
+    "11": {
+      "text": "Ni koko ni imbwa z'ibisambo zidahaga, ni abungeri batabasha kumenya, bose bateshuka inzira bajya mu yabo ubwabo, umuntu wese yishakira indamu mu buryo bwose.",
+      "start": 25.85,
+      "end": 29.85
+    },
+    "12": {
+      "text": "Baravugana bati “Nimuze mbazanire vino tunywe ibishindisha tuvuyarare. N'ejo na ho bizaba bityo, bitagira akagero.”",
+      "start": 44.47,
+      "end": 44.96
+    }
+  }
+}

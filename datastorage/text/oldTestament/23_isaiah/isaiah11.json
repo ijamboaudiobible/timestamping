@@ -1,0 +1,88 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Mu gitsina cya Yesayi hazakomoka agashami, mu mizi ye hazumbura ishami ryere imbuto.",
+      "start": 29.85,
+      "end": 33.44
+    },
+    "2": {
+      "text": "Umwuka w'Uwiteka azaba kuri we, umwuka w'ubwenge n'uw'ubuhanga, umwuka wo kujya inama n'uw'imbaraga, umwuka wo kumenya Uwiteka n'uwo kumwubaha.",
+      "start": 9.36,
+      "end": 16.7
+    },
+    "3": {
+      "text": "Azanezezwa no kubaha Uwiteka, ntace imanza z'ibyo yeretswe gusa, kandi ntazumva urw'umwe.",
+      "start": 22.29,
+      "end": 27.73
+    },
+    "4": {
+      "text": "Ahubwo azacira abakene imanza zitabera, n'abagwaneza bo mu isi azabategekesha ukuri, kandi isi azayikubitisha inkoni yo mu kanwa ke, n'abanyabyaha azabicisha umwuka unyura mu minwa ye.",
+      "start": 25.28,
+      "end": 41.36
+    },
+    "5": {
+      "text": "Gukiranuka kuzaba umushumi akenyeza, kandi umurava uzaba umushumi wo mu rukenyerero rwe.",
+      "start": 33.2,
+      "end": 43.58
+    },
+    "6": {
+      "text": "Isega rizabana n'umwana w'intama, ingwe izaryama hamwe n'umwana w'ihene; inyana n'umugunzu w'intare n'ikimasa cy'umushishe bizabana, kandi umwana muto ni we uzabyahura.",
+      "start": 8.17,
+      "end": 39.26
+    },
+    "7": {
+      "text": "Inka zizarishanya n'idubu, izazo zizaryama hamwe kandi intare izarisha ubwatsi nk'inka.",
+      "start": 19.96,
+      "end": 43.71
+    },
+    "8": {
+      "text": "Umwana wonka azakinira ku mwobo w'incira, n'umwana w'incuke azashyira ukuboko kwe ku gikono cy'impiri.",
+      "start": 16.15,
+      "end": 32.02
+    },
+    "9": {
+      "text": "Ibyo ntibizaryana kandi ntibizonona ku musozi wanjye wera wose, kuko isi izakwirwa no kumenya Uwiteka nk'uko amazi y'inyanja akwira hose.",
+      "start": 43.89,
+      "end": 43.92
+    },
+    "10": {
+      "text": "Maze uwo munsi igitsina cya Yesayi kizaba gihagaritswe no kubera amahanga ibendera, icyo gitsina ni we amahanga azahakwaho, kandi ubuturo bwe buzagira icyubahiro.",
+      "start": 1.48,
+      "end": 23.87
+    },
+    "11": {
+      "text": "Uwo munsi Umwami Imana izarambura ukuboko ubwa kabiri, igarure abantu bayo basigaye bacitse ku icumu, ibakura Ashuri na Egiputa n'i Patirosi n'i Kushi na Elamu n'i Shinari n'i Hamati no mu birwa byo mu nyanja.",
+      "start": 24.04,
+      "end": 35.56
+    },
+    "12": {
+      "text": "Kandi azashingira amahanga ibendera, ateranye Abisirayeli baciwe, azateraniriza hamwe Abayuda batatanye, abakuye ku mpera enye z'isi.",
+      "start": 31.02,
+      "end": 35.11
+    },
+    "13": {
+      "text": "Ishyari ry'Abefurayimu na ryo rizashira, abagirira Abayuda nabi bazatsembwa; Abefurayimu ntibazagirira Abayuda ishyari, kandi Abayuda ntibazagirira Abefurayimu nabi.",
+      "start": 3.49,
+      "end": 41.77
+    },
+    "14": {
+      "text": "Bazahorera bagwe ku bitugu by'Abafilisitiya iburengerazuba, baziyunga banyage ab'iburasirazuba, bazabangura amaboko yabo kuri Edomu no kuri Mowabu, Abamoni bazabayoboka.",
+      "start": 32.87,
+      "end": 33.19
+    },
+    "15": {
+      "text": "Uwiteka azakamya rwose ikigobe cy'inyanja ya Egiputa, azazana n'umuyaga we wotsa akorere ukuboko kwe kuri urwo Ruzi, arukubite arucemo imigezi irindwi, maze yambutse abantu batiriwe bakwetura inkweto.",
+      "start": 37.87,
+      "end": 39.52
+    },
+    "16": {
+      "text": "Kandi abantu be basigaye bacitse ku icumu bazabona inzira ngari, bayicemo bava Ashuri nk'iyo Abisirayeli babonye ubwo bazamukaga bava muri Egiputa.",
+      "start": 20.29,
+      "end": 24.74
+    }
+  }
+}

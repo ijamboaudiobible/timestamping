@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 108,
+  "verses": {
+    "1": {
+      "text": "Iyi ndirimbo ni Zaburi ya Dawidi.",
+      "start": 26.4,
+      "end": 30.47
+    },
+    "2": {
+      "text": "Mana, umutima wanjye urakomeye,Ndaririmba, ni koko ndaririmbisha ishimwe ubwiza bwanjye.",
+      "start": 34.6,
+      "end": 37.39
+    },
+    "3": {
+      "text": "Nebelu n'inanga nimukanguke,Nanjye ubwanjye nzakanguka mbere y'umuseke.",
+      "start": 11.17,
+      "end": 41.45
+    },
+    "4": {
+      "text": "Uwiteka, nzagushimira mu moko,Nzakuririmbira ishimwe mu mahanga.",
+      "start": 12.43,
+      "end": 32.82
+    },
+    "5": {
+      "text": "Kuko imbabazi zawe ari ndende zisumba ijuru,Umurava wawe ugera mu bicu.",
+      "start": 7.21,
+      "end": 43.41
+    },
+    "6": {
+      "text": "Mana, wishyire hejuru y'ijuru,Icyubahiro cyawe kibe hejuru y'isi yose.",
+      "start": 41.97,
+      "end": 42.85
+    },
+    "7": {
+      "text": "Ukirishe ukuboko kwawe kw'iburyo unsubize,Kugira ngo abo ukunda bakizwe.",
+      "start": 16.23,
+      "end": 19.48
+    },
+    "8": {
+      "text": "Imana yarahiye kwera kwayo iti“Nzishima,Nzagabanya Shekemu,Kandi nzagabanisha urugero igikombe cy'i Sukoti.",
+      "start": 13.35,
+      "end": 42.22
+    },
+    "9": {
+      "text": "Galeyadi ni ahanjye,Umuryango wa Manase ni uwanjye,Uwa Efurayimu ni wo ukingira umutwe wanjye,Uwa Yuda ni wo nkoni yanjye y'ubwami.",
+      "start": 38.51,
+      "end": 44.1
+    },
+    "10": {
+      "text": "Abamowabu ni bo gikarabiro cyanjye,Abedomu nzabakubita inkweto mu mutwe,Abafilisitiya nzabishima hejuru mvuza impundu.”",
+      "start": 36.17,
+      "end": 41.92
+    },
+    "11": {
+      "text": "Ni nde uzanyinjiza mu mudugudu ufite igihome gikomeye?Ni nde uzangeza muri Edomu?",
+      "start": 44.24,
+      "end": 44.74
+    },
+    "12": {
+      "text": "Si wowe Mana wadutaye, uzangezayo?Si wowe Mana utajyanaga n'ingabo zacu, uzangezayo?",
+      "start": 27.48,
+      "end": 38.99
+    },
+    "13": {
+      "text": "Udutabare umubisha,Kuko gutabara kw'abantu kutagira umumaro.",
+      "start": 9.12,
+      "end": 22.98
+    },
+    "14": {
+      "text": "Imana izadukoresha iby'ubutwari,Kuko ari yo izaribata ababisha bacu.",
+      "start": 3.12,
+      "end": 18.6
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 123,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Wowe wicara mu ijuru,Kuri wowe ni ho nuburira amaso.",
+      "start": 23.97,
+      "end": 30.55
+    },
+    "2": {
+      "text": "Dore nk'uko amaso y'abagaragu bayahanga ukuboko kwa shebuja,Nk'uko amaso y'umuja ayahanga ukuboko kwa nyirabuja,Ni ko amaso yacu tuyahanga Uwiteka Imana yacu,Kugeza aho azatubabarira.",
+      "start": 19.31,
+      "end": 25.46
+    },
+    "3": {
+      "text": "Uwiteka, utubabarire utubabarire,Kuko duhāze cyane igisuzuguriro.",
+      "start": 7.38,
+      "end": 11.75
+    },
+    "4": {
+      "text": "Imitima yacu ihāze cyane,Gukobwa n'abaruhukira mu mahoro,No gusuzugurwa n'abibone.",
+      "start": 30.44,
+      "end": 38.38
+    }
+  }
+}

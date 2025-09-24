@@ -1,0 +1,18 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 117,
+  "verses": {
+    "1": {
+      "text": "Mwa mahanga yose mwe, nimushime Uwiteka,Mwa moko yose mwe, nimumuhimbarize",
+      "start": 15.45,
+      "end": 22.61
+    },
+    "2": {
+      "text": "Kuko imbabazi atugirira ari nyinshi,Kandi umurava w'Uwiteka uhoraho iteka ryose.Haleluya.",
+      "start": 10.98,
+      "end": 42.02
+    }
+  }
+}

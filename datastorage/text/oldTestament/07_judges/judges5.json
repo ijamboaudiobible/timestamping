@@ -1,0 +1,163 @@
+{
+  "book": "Book 7",
+  "book_canonical": "judges",
+  "book_number": 7,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Uwo munsi Debora na Baraki mwene Abinowamu bararirimba bati",
+      "start": 33.83,
+      "end": 39.44
+    },
+    "2": {
+      "text": "“Abagaba barangaje imbere y'Abisirayeli,Kandi abantu bitanze babikunze,Nimubishimire Uwiteka.",
+      "start": 15.83,
+      "end": 16.94
+    },
+    "3": {
+      "text": "Nimwumve mwa bami mwe,Mutege amatwi namwe batware.Ngiye kuririmbira Uwiteka,Ndaririmba ishimwe ry'Uwiteka Imana ya Isirayeli.",
+      "start": 12.08,
+      "end": 13.97
+    },
+    "4": {
+      "text": "Uwiteka ubwo wavaga i Seyiri,Ugaturuka mu gihugu cya Edomu,Isi yahinze umushitsi, ijuru rirareta,N'ibicu bitonyanga amazi.",
+      "start": 31.62,
+      "end": 35.31
+    },
+    "5": {
+      "text": "“Imisozi itengagurikira imbere y'Uwiteka,Na Sinayi na yo, imbere y'Uwiteka Imana ya Isirayeli.",
+      "start": 33.75,
+      "end": 35.1
+    },
+    "6": {
+      "text": "“Mu gihe cya Shamugari mwene Anati,No mu gihe cya Yayeli,Ibihogere byarimo ubusa,Abagenzi bagendaga basesera mu tuyira tw'uruboko.",
+      "start": 19.6,
+      "end": 39.44
+    },
+    "7": {
+      "text": "Abatware b'Abisirayeli bari baracitse intege,Kugeza ubwo njyewe Debora nahagurutse,Mpaguruka ndi umubyeyi w'Abisirayeli.",
+      "start": 25.62,
+      "end": 29.44
+    },
+    "8": {
+      "text": "Bishakira imana nshya,Intambara ziherako zugariza amarembo yabo.Nta ngabo habe n'icumu byari bikiboneka,Mu ngabo inzovu enye z'Abisirayeli.",
+      "start": 5.22,
+      "end": 8.94
+    },
+    "9": {
+      "text": "Umutima wanjye wishimire abatware b'Abisirayeli,Wishimire n'abantu bitanze babikunze,Nimuhimbaze Uwiteka!",
+      "start": 27.82,
+      "end": 38.58
+    },
+    "10": {
+      "text": "Mwa bahetswe n'indogobe z'imyeru, mwe,Namwe abicariye ibisuna byiza cyane,Namwe abagenzi uko mugenda mu nzira, nimuririmbe.",
+      "start": 39.58,
+      "end": 41.44
+    },
+    "11": {
+      "text": "Kure y'induru z'abarasana, aho bavoma amazi,Abe ari ho bazajya bavugira ibyo gukiranuka by'Uwiteka,N'ibyo gukiranuka ko ku ngoma ye muri Isirayeli.Nuko abantu b'Uwiteka bamanukana amahoro mu marembo.",
+      "start": 13.12,
+      "end": 23.45
+    },
+    "12": {
+      "text": "Kanguka, kanguka Debora!Kanguka, kanguka himba indirimbo!Haguruka Baraki mwene Abinowamu,Ujyane abanyagano abari bakujyanye uri imbohe.",
+      "start": 29.48,
+      "end": 36.25
+    },
+    "13": {
+      "text": "Abasigaye mu banyacyubahiro,N'abo muri rubanda baramanuka,Uwiteka amanurwa no kuntabara abakomeye.",
+      "start": 5.02,
+      "end": 37.09
+    },
+    "14": {
+      "text": "Abefurayimu bari bashinze imizi muri Amaleki baraza,Bakurikirwa n'ingabo z'Ababenyamini hagati muri bo,Mu ba Makiri habonekamo abagaba,Kandi mu Bazebuluni havamo abajyana inkoni y'umutware w'ingabo.",
+      "start": 25.54,
+      "end": 28.27
+    },
+    "15": {
+      "text": "Abatware b'intebe ba Isakari bari kumwe na Debora,Abandi ba Isakari bakurikira Baraki,Birukira mu gikombe bamusibaniraho,Ku migezi ya Rubeni bahagira inama zikomeye.",
+      "start": 19.64,
+      "end": 29.14
+    },
+    "16": {
+      "text": "Icyakwicaje mu mikumbi y'intama,Gupfa kumva imyirongi y'abungeri ni iki?Ku migezi ya Rubeni ni ho bibūranyirije cyane,",
+      "start": 22.39,
+      "end": 28.24
+    },
+    "17": {
+      "text": "N'Abanyagaleyadi bigumiye hakurya ya Yorodani.Ni iki cyatumye Abadani basigara mu mato?Abashēri na bo biyicariye mu mwaro,Bigumira mu bigobe by'inyanja.",
+      "start": 3.96,
+      "end": 21.83
+    },
+    "18": {
+      "text": "Abazebuluni ni abantu bahaze amagara yabo,Ntibatinye gupfa.N'Abanafutali ni uko,bitanze mu rugamba rubahanamiye.",
+      "start": 9.8,
+      "end": 40.95
+    },
+    "19": {
+      "text": "“Abami baraza bararwana,Abami b'i Kanāni barwanira i Tānaki ku migezi y'i Megido,Ariko nta kintu cy'urwunguko babonye.",
+      "start": 30.2,
+      "end": 34.04
+    },
+    "20": {
+      "text": "Ijuru riratabara,Inyenyeri mu ngendo zazo zirwana na Sisera.",
+      "start": 22.76,
+      "end": 30.82
+    },
+    "21": {
+      "text": "Umugezi Kishoni urabatembana rwose,Wa mugezi wa kera witwa Kishoni.Wa bugingo bwanjye we, wasiribanze abakomeye!",
+      "start": 20.72,
+      "end": 43.55
+    },
+    "22": {
+      "text": "Nuko amafarashi atabaguza yambuka,Asimbukana imbaraga, ahama.",
+      "start": 38.82,
+      "end": 40.66
+    },
+    "23": {
+      "text": "‘Nimuvume Merozi’, ni ko marayika w'Uwiteka yavuze.‘Muvume abaturage baho cyane,Kuko batatabaye Uwiteka,Ntibatabaranye n'Uwiteka kurwanya abakomeye.’",
+      "start": 12.92,
+      "end": 30.28
+    },
+    "24": {
+      "text": "“Yayeli ahabwe umugisha kurusha abandi bagore,Yayeli uwo ni we muka Heberi w'Umukeni,Kuruta abandi bagore baba mu mahema.",
+      "start": 26.94,
+      "end": 37.84
+    },
+    "25": {
+      "text": "Yamusabye amazi amuha amata,Amuzanira ikivuguto mu njome ya gipfura.",
+      "start": 35.49,
+      "end": 38.73
+    },
+    "26": {
+      "text": "Arambura ukuboko asingira urubambo,Arambura n'ukw'iburyo asingira inyundo y'abakozi,Arukubita Sisera arushimangira mu mutwe,Rutobora muri nyiramivumbi.",
+      "start": 0.2,
+      "end": 38.1
+    },
+    "27": {
+      "text": "Aripfunya yikubita hasi agaramye,Nuko amugwa ku birenge,Aho yaguye ni ho yapfiriye.",
+      "start": 2.51,
+      "end": 33.41
+    },
+    "28": {
+      "text": "“Nyina wa Sisera ahanga amaso mu idirishya,Ahanga amaso mu idirishya arira,Ati ‘Ni iki cyatumye igare rye ritinda kuza?Inziga z'amagare ye zitindishijwe n'iki?’",
+      "start": 16.93,
+      "end": 19.01
+    },
+    "29": {
+      "text": "Abanyabwenge bo mu baja be b'icyubahiro baramusubiza,Nk'uko na we yibwiraga,",
+      "start": 40.2,
+      "end": 41.64
+    },
+    "30": {
+      "text": "Bati ‘Ahari babonye iminyago ni yo bakigabana,Umugabo wese aragabana umukobwa cyangwa abakobwa babiri.Sisera aragabana umunyago w'imyenda y'amabara,Imyenda y'amabara idaraje,Idarajwe amabara impande zombi,Yo kukwambika mu ijosi.’",
+      "start": 39.81,
+      "end": 42.86
+    },
+    "31": {
+      "text": "“Uwiteka, ababisha bawe barakarimbuka batyo,Ariko abagukunda babe nk'izuba rirashe ritangaje.”Nuko igihugu gihabwa ihumure imyaka mirongo ine.",
+      "start": 36.98,
+      "end": 38.84
+    }
+  }
+}

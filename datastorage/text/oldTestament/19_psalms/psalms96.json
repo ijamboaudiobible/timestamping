@@ -1,0 +1,73 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 96,
+  "verses": {
+    "1": {
+      "text": "Muririmbire Uwiteka indirimbo nshya,Mwa bari mu isi mwese mwe,Muririmbire Uwiteka.",
+      "start": 10.9,
+      "end": 20.62
+    },
+    "2": {
+      "text": "Muririmbire Uwiteka muhimbaze izina rye,Mwerekane agakiza ke uko bukeye.",
+      "start": 12.17,
+      "end": 43.96
+    },
+    "3": {
+      "text": "Mwogeze icyubahiro cye mu mahanga,Imirimo itangaza yakoze muyogeze mu mahanga yose.",
+      "start": 14.84,
+      "end": 21.96
+    },
+    "4": {
+      "text": "Kuko Uwiteka akomeye akwiriye gushimwa cyane,Kandi ateye ubwoba, arusha ibigirwamana byose.",
+      "start": 1.65,
+      "end": 23.13
+    },
+    "5": {
+      "text": "Kuko ibigirwamana by'amahanga byose ari ubusa,Ariko Uwiteka ni we waremye ijuru.",
+      "start": 18.87,
+      "end": 37.57
+    },
+    "6": {
+      "text": "Icyubahiro no gukomera biri imbere ye,Imbaraga n'ubwiza biri ahera he.",
+      "start": 11.3,
+      "end": 32.08
+    },
+    "7": {
+      "text": "Mwa miryango y'amahanga mwe, mwāturire Uwiteka,Mwāturire Uwiteka ko afite icyubahiro n'imbaraga.",
+      "start": 10.54,
+      "end": 35.5
+    },
+    "8": {
+      "text": "Mwāturire Uwiteka ko izina rye rifite icyubahiro,Muze mu bikari bye muzanye ituro.",
+      "start": 6.1,
+      "end": 40.31
+    },
+    "9": {
+      "text": "Musenge Uwiteka mwambaye ibyera,Mwa bari mu isi mwese mwe,Muhindire umushyitsi imbere ye.",
+      "start": 26.51,
+      "end": 28.52
+    },
+    "10": {
+      "text": "Muvugire mu mahanga muti“Uwiteka ari ku ngoma.”Kandi isi irakomeye ntibasha kunyeganyega,Azacira amahanga imanza zitabera.",
+      "start": 0.63,
+      "end": 14.37
+    },
+    "11": {
+      "text": "Ijuru rinezerwe, isi yishime,Inyanja ihōrerane n'ibiyuzuye,",
+      "start": 24.95,
+      "end": 31.12
+    },
+    "12": {
+      "text": "Ikigarama cyishimane n'ibikirimo byose,Ni bwo ibiti byo mu ishyamba bizaririmbishwa n'ibyishimo.",
+      "start": 44.31,
+      "end": 44.7
+    },
+    "13": {
+      "text": "Imbere y'Uwiteka kuko agiye kuza,Agiye kuza agacira abari mu isi imanza,Azacira abari mu isi imanza zitabera,Azacira amahanga imanza zihwanye n'umurava we.",
+      "start": 11.92,
+      "end": 43.35
+    }
+  }
+}

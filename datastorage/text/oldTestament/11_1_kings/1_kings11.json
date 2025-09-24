@@ -1,0 +1,223 @@
+{
+  "book": "Book 11",
+  "book_canonical": "1_kings",
+  "book_number": 11,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Umwami Salomo yabengutse abagore benshi b'abanyamahanga udashyizeho umukobwa wa Farawo: Abamowabukazi n'Abamonikazi n'Abedomukazi, n'Abasidonikazi n'Abahetikazi",
+      "start": 10.13,
+      "end": 10.8
+    },
+    "2": {
+      "text": "bakomoka mu mahanga Uwiteka yabwiraga Abisirayeli ati “Ntimukajye muri bo, na bo ntibakaze muri mwe, kuko byatuma bahindura imitima yanyu mugakurikira imana zabo.” Ariko Salomo yifatanya na bo arehejwe n'uko yababengutse.",
+      "start": 26.02,
+      "end": 36.52
+    },
+    "3": {
+      "text": "Yari afite abagore b'imfura magana arindwi, n'ab'inshoreke magana atatu. Nuko abagore be bamuyobya umutima.",
+      "start": 43.94,
+      "end": 44.16
+    },
+    "4": {
+      "text": "Salomo amaze gusaza, abagore be bamutwara umutima agakurikiza izindi mana, bigatuma umutima we utagitunganira Uwiteka Imana ye nk'uko uwa se Dawidi wari umeze,",
+      "start": 16.51,
+      "end": 36.76
+    },
+    "5": {
+      "text": "kuko Salomo yakurikiye Ashitoreti imanakazi y'Abasidoni, na Milikomu ari yo kizira cy'Abamoni.",
+      "start": 22.01,
+      "end": 24.39
+    },
+    "6": {
+      "text": "Uko ni ko Salomo yakoze ibyangwa n'Uwiteka, ntiyayoboka Uwiteka rwose nka se Dawidi.",
+      "start": 42.94,
+      "end": 44.41
+    },
+    "7": {
+      "text": "Bukeye Salomo yubakira Kemoshi ingoro ku musozi werekeye i Yerusalemu. Kemoshi yari ikizira cy'Abamowabu, kandi iyindi ayubakira Moleki ikizira cy'Abamoni.",
+      "start": 5.42,
+      "end": 23.8
+    },
+    "8": {
+      "text": "Uko ni ko yakoreye abagore be bose b'abanyamahanga, bakajya bosa imibavu, bagatambira imana zabo.",
+      "start": 27.95,
+      "end": 35.54
+    },
+    "9": {
+      "text": "Nuko Uwiteka arakarira Salomo, kuko umutima we wahindutse ukayoba Uwiteka Imana ya Isirayeli yari yaramubonekeye kabiri,",
+      "start": 38.72,
+      "end": 44.34
+    },
+    "10": {
+      "text": "ikamutegeka imwihanangirije ko atazakurikira izindi mana, ariko ntiyumvira icyo Uwiteka yamutegetse.",
+      "start": 10.71,
+      "end": 39.11
+    },
+    "11": {
+      "text": "Ni cyo cyatumye Uwiteka abwira Salomo ati “Kuko wakoze ibyo, ntiwitondere isezerano ryanjye n'amategeko yanjye nagutegetse, ni ukuri nzakunyaga ubwami bwawe mbugabire umugaragu wawe.",
+      "start": 18.96,
+      "end": 28.5
+    },
+    "12": {
+      "text": "Ariko kuko ngiriye so Dawidi sinzabikora ukiriho, ahubwo nzabunyaga umwana wawe.",
+      "start": 34.97,
+      "end": 44.88
+    },
+    "13": {
+      "text": "Kandi na we sinzamunyaga ubwami bwe bwose, ariko nzamugabanirizaho umuryango umwe ku bw'umugaragu wanjye Dawidi na Yerusalemu nitoranirije.”",
+      "start": 19.35,
+      "end": 19.89
+    },
+    "14": {
+      "text": "Bukeye Uwiteka ahagurukiriza Salomo umwanzi ari we Hadadi w'Umwedomu, wari uwo mu rubyaro rw'umwami wa Edomu.",
+      "start": 6.2,
+      "end": 26.21
+    },
+    "15": {
+      "text": "Kera Dawidi akiri muri Edomu, Yowabu umugaba w'ingabo ze yamaze kwica abagabo bose bo muri Edomu, arazamuka ajya guhambisha intumbi zabo,",
+      "start": 31.26,
+      "end": 41.32
+    },
+    "16": {
+      "text": "kuko Yowabu n'Abisirayeli bari bamazeyo amezi atandatu, kugeza aho yatsembeye abagabo bose muri Edomu.",
+      "start": 7.33,
+      "end": 26.16
+    },
+    "17": {
+      "text": "Icyo gihe Hadadi ahungana n'abagaragu ba se, bamwe b'Abedomu bahungira muri Egiputa, ariko Hadadi uwo yari akiri umwana muto.",
+      "start": 35.76,
+      "end": 37.94
+    },
+    "18": {
+      "text": "Nuko barahaguruka bava i Midiyani bajya i Parani, maze bavana abantu bamwe i Parani bajya muri Egiputa, basanga Farawo umwami waho. Agezeyo Farawo amuha inzu, amutegekera igerero, nyuma amukebera igikingi.",
+      "start": 3.17,
+      "end": 12.81
+    },
+    "19": {
+      "text": "Hadadi atona kuri Farawo cyane bituma amushyingira muramu we, murumuna wa Tahupenesi muka Farawo.",
+      "start": 30.34,
+      "end": 37.18
+    },
+    "20": {
+      "text": "Bukeye umugore wa Hadadi murumuna wa Tahupenesi, babyarana umwana w'umuhungu witwaga Genubati. Igihe gisohoye cyo gucuka, Tahupenesi amucukiriza kwa Farawo, nuko Genubati uwo aguma kwa Farawo abyirukana n'abana be b'abahungu.",
+      "start": 28.96,
+      "end": 37.97
+    },
+    "21": {
+      "text": "Hadadi uwo akiri muri Egiputa, yumva ko Dawidi yatanze agasanga ba sekuruza, kandi ko Yowabu umugaba w'ingabo yapfuye. Hadadi abwira Farawo ati “Nsezerera nsubire mu gihugu cyacu.”",
+      "start": 17.14,
+      "end": 29.13
+    },
+    "22": {
+      "text": "Farawo aramubaza ati “Mbese igituma ushaka gusubira iwanyu hari icyo wankenanye?”Na we aramusubiza ati “Nta cyo ariko pfa kundeka ntahe.”",
+      "start": 29.29,
+      "end": 30.56
+    },
+    "23": {
+      "text": "Hanyuma Imana yongera guhagurukiriza Salomo undi mwanzi, ari we Rezoni mwene Eliyada, wari yaracitse shebuja Hadadezeri umwami w'i Soba.",
+      "start": 10.74,
+      "end": 19.2
+    },
+    "24": {
+      "text": "Ubwo Dawidi yicaga ab'i Soba, icyo gihe Rezoni ateranya abantu aba umutware w'umutwe w'ingabo, barahaguruka bajya i Damasiko, bagumayo barahatwara.",
+      "start": 17.2,
+      "end": 19.66
+    },
+    "25": {
+      "text": "Uwo na we aba umwanzi w'Abisirayeli iminsi yose Salomo yamaze ku ngoma. Ukuyeho ubukubaganyi Hadadi yagize, yanze Abisirayeli urunuka kandi atwara i Siriya.",
+      "start": 24.72,
+      "end": 30.08
+    },
+    "26": {
+      "text": "Bukeye Yerobowamu mwene Nebati, Umwefurayimu w'i Sereda umugaragu wa Salomo, wari umwana w'umupfakazi witwaga Seruya, na we agomera umwami.",
+      "start": 1.31,
+      "end": 44.94
+    },
+    "27": {
+      "text": "Impamvu yatumye agomera umwami ni iyi: ni uko Salomo yubakaga Milo, agasana icyuho cy'inkike z'umudugudu wa se Dawidi.",
+      "start": 13.83,
+      "end": 37.13
+    },
+    "28": {
+      "text": "Kandi Yerobowamu uwo yari umugabo w'amaboko w'intwari. Salomo abonye ko ari umusore ugira umwete, amugira umutware w'abanyamirimo b'umuryango wa Yosefu.",
+      "start": 30.37,
+      "end": 40.29
+    },
+    "29": {
+      "text": "Nuko icyo gihe Yerobowamu yari mu nzira ava i Yerusalemu, umuhanuzi Ahiya w'i Shilo arahamusanga. Ahiya uwo yari akanishije umwenda mushya, kandi bari bonyine ku gasozi.",
+      "start": 0.08,
+      "end": 34.76
+    },
+    "30": {
+      "text": "Ahiya yenda uwo mwenda mushya yari yakanishije, awutaburamo ibitambaro cumi na bibiri.",
+      "start": 19.37,
+      "end": 37.94
+    },
+    "31": {
+      "text": "Abwira Yerobowamu ati “Enda ibitambaro cumi kuko ari ko Uwiteka Imana ya Isirayeli ivuze iti ‘Dore nzatanyaguza ubwami mbukuye mu maboko ya Salomo nguhe imiryango cumi,",
+      "start": 7.25,
+      "end": 38.36
+    },
+    "32": {
+      "text": "(ariko we azasigarana umuryango umwe kuko ngiriye umugaragu wanjye Dawidi, n'i Yerusalemu umurwa nitoranirije mu miryango yose ya Isirayeli),",
+      "start": 20.76,
+      "end": 28.64
+    },
+    "33": {
+      "text": "kuko banyimūye bakaramya Ashitoreti ikigirwamanakazi cy'Abasidoni, na Kemoshi ikigirwamana cy'Abamowabu, na Milikomu ikigirwamana cy'Abamoni, ntibagendere mu nzira zanjye, ngo bakore ibitunganye mu maso yanjye, bitondera amateka n'amategeko yanjye nk'uko se Dawidi yagenzaga.",
+      "start": 7.09,
+      "end": 21.23
+    },
+    "34": {
+      "text": "Ariko sinzamunyaga ubwami bwose, ahubwo nzamukomeza abe umwami iminsi yose akiriho, kuko ngiriye umugaragu wanjye Dawidi nitoranyirije, kandi yitonderaga amateka n'amategeko yanjye.",
+      "start": 6.52,
+      "end": 39.02
+    },
+    "35": {
+      "text": "Ariko nzanyaga umuhungu we ubwo bwami mbuguhe, ari bwo miryango cumi.",
+      "start": 8.76,
+      "end": 11.16
+    },
+    "36": {
+      "text": "Nyamara uwo muhungu we nzamuha umuryango umwe, kugira ngo umugaragu wanjye Dawidi atabura itabaza imbere yanjye i Yerusalemu, umurwa nitoranyirije nkahashyira izina ryanjye.",
+      "start": 26.71,
+      "end": 34.9
+    },
+    "37": {
+      "text": "Nuko nzakujyana utegeke uko umutima wawe ushaka kose, kandi uzaba umwami w'Abisirayeli.",
+      "start": 28.6,
+      "end": 34.85
+    },
+    "38": {
+      "text": "Nuko rero niwumvira ibyo nzagutegeka byose, ukagendera mu nzira zanjye ugakora ibitunganye mu maso yanjye, ukitondera amateka n'amategeko yanjye nk'uko umugaragu wanjye Dawidi yagenzaga, nzabana nawe nkubakire inzu idakuka nk'iyo nubakiye Dawidi, kandi nzaguha Abisirayeli.",
+      "start": 24.83,
+      "end": 31.1
+    },
+    "39": {
+      "text": "Nuko nzahana urubyaro rwa Dawidi mbahōra ibyo, ariko si iminsi yose.’ ”",
+      "start": 43.72,
+      "end": 44.64
+    },
+    "40": {
+      "text": "Icyo ni cyo cyatumye Salomo ashaka kwica Yerobowamu, ariko Yerobowamu arahaguruka ahungira muri Egiputa kwa Shishaki umwami wa Egiputa, agumayo ageza aho Salomo yatangiye.",
+      "start": 19.43,
+      "end": 37.71
+    },
+    "41": {
+      "text": "Indi mirimo ya Salomo n'ibyo yakoze byose n'iby'ubwenge bwe, mbese ntibyanditswe mu gitabo cy'ibyakozwe na Salomo?",
+      "start": 5.16,
+      "end": 41.48
+    },
+    "42": {
+      "text": "Nuko igihe cyose Salomo yamaze i Yerusalemu ategeka Abisirayeli bose, cyari imyaka mirongo ine.",
+      "start": 41.88,
+      "end": 44.59
+    },
+    "43": {
+      "text": "Nuko Salomo aratanga asanga ba sekuruza, bamuhamba mu mudugudu wa se Dawidi, maze umuhungu we Rehobowamu yima ingoma ye.",
+      "start": 32.96,
+      "end": 33.44
+    }
+  }
+}

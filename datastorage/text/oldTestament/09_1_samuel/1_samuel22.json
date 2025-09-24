@@ -1,0 +1,123 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Nuko Dawidi avayo arahunga, arasukira mu buvumo bwa Adulamu. Bukeye bakuru be na bene wabo babyumvise baramanuka bamusangayo.",
+      "start": 38.14,
+      "end": 41.89
+    },
+    "2": {
+      "text": "Kandi abari mu makuba bose n'abarimo imyenda bose n'abinubaga bose bateranira aho ari, aba umutware wabo. Nuko abari kumwe na we bari abantu nka magana ane.",
+      "start": 31.96,
+      "end": 43.39
+    },
+    "3": {
+      "text": "Bukeye Dawidi avayo ajya i Misipa i Mowabu, abwira umwami w'i Mowabu ati “Ndakwinginze ukundire data na mama bimukire ino, mubane kugeza aho nzamenyera icyo Imana integeka.”",
+      "start": 32.11,
+      "end": 33.53
+    },
+    "4": {
+      "text": "Nuko abazanira umwami w'i Mowabu, baturana na we igihe cyose Dawidi yamaze mu buvumo.",
+      "start": 20.78,
+      "end": 38.56
+    },
+    "5": {
+      "text": "Bukeye umuhanuzi Gadi abwira Dawidi ati “Wiguma mu buvumo, buvemo ujye mu gihugu cya Yuda.” Nuko Dawidi avayo arasukira mu ishyamba rya Hereti.",
+      "start": 28.85,
+      "end": 34.72
+    },
+    "6": {
+      "text": "Bukeye Sawuli yumva ko Dawidi yabonekanye n'abo bari kumwe. Ubwo Sawuli yari yicaye i Gibeya munsi y'igiti cy'umunyinya i Rama yitwaje icumu, kandi abagaragu be bose bari bahagaze bamukikije.",
+      "start": 15.64,
+      "end": 31.4
+    },
+    "7": {
+      "text": "Sawuli abaza abagaragu be bahagaze bamukikije ati “Yemwe mwa Babenyamini mwe, harya mwene Yesayi uwo azaha umuntu wese muri mwe imirima n'inzabibu? Kandi mwese ni ko azabagira abatware b'ibihumbi n'abatware b'amagana,",
+      "start": 22.6,
+      "end": 25.56
+    },
+    "8": {
+      "text": "bituma muhuza inama yo kungambanira, ntihagira n'umwe umburira ko umuhungu wanjye yasezeranye na mwene Yesayi? Ubonye ngo habure n'umwe muri mwe umbabarira, ngo amenyeshe ko umuhungu wanjye yangandishirije umugaragu, akancira igico nk'uko agenje none?”",
+      "start": 33.62,
+      "end": 34.06
+    },
+    "9": {
+      "text": "Ariko Dowegi Umwedomu yari ahagaze aho mu bagaragu ba Sawuli, asubiza umwami ati “Nabonye mwene Yesayi aza i Nobu kwa Ahimeleki mwene Ahitubu.",
+      "start": 8.97,
+      "end": 39.91
+    },
+    "10": {
+      "text": "Nuko Ahimeleki amugishiriza Uwiteka inama kandi amuha impamba, amuha n'inkota ya Goliyati Umufilisitiya.”",
+      "start": 23.67,
+      "end": 25.55
+    },
+    "11": {
+      "text": "Umwami abyumvise, atumiza Ahimeleki umutambyi mwene Ahitubu n'abo mu rugo rwa se bose, ari bo batambyi b'i Nobu, bose bitaba umwami.",
+      "start": 42.76,
+      "end": 43.78
+    },
+    "12": {
+      "text": "Bageza aho Sawuli aravuga ati “Umva mwana wa Ahitubu.”Na we ati “Karame, Nyagasani.”",
+      "start": 0.92,
+      "end": 39.51
+    },
+    "13": {
+      "text": "Sawuli aramubaza ati “Ni iki cyatumye mungira inama wowe na mwene Yesayi, ukamuha imitsima n'inkota, ukamugishiriza Imana inama ngo ampagurukire, ancire igico nk'uko agenje none?”",
+      "start": 44.24,
+      "end": 44.82
+    },
+    "14": {
+      "text": "Ahimeleki asubiza umwami ati “Mbese ni nde mu bagaragu bawe bose w'umwiringirwa nka Dawidi umukwe w'umwami, uba mu nama zawe akaba umunyacyubahiro mu rugo rwawe?",
+      "start": 6.99,
+      "end": 32.52
+    },
+    "15": {
+      "text": "Mbese ubu ni bwo nkimugishiriza Imana inama? Ntibikambeho! Umwami ye gushyira urubanza ku mugaragu we cyangwa ku rugo rwa data rwose, kuko muri ibyo byose umugaragu wawe nta cyo nari nzi, haba n'agahurihuri kabyo.”",
+      "start": 8.74,
+      "end": 14.54
+    },
+    "16": {
+      "text": "Umwami abwira Ahimeleki ati “Ni ukuri Ahimeleki, nta kikubuza gupfana n'abo mu rugo rwa so bose.”",
+      "start": 39.6,
+      "end": 39.76
+    },
+    "17": {
+      "text": "Umwami aherako abwira abarinzi bamukikije ati “Nimuhindukire mwice abatambyi b'Uwiteka kuko bafatanye agatoki na Dawidi, kandi bari bazi ko yahunze ntibabimbwire.” Ariko abagaragu b'umwami banga kurambura amaboko ngo bice abatambyi b'Uwiteka.",
+      "start": 21.58,
+      "end": 22.4
+    },
+    "18": {
+      "text": "Maze umwami abwira Dowegi ati “Hindukira wice aba batambyi.” Nuko Dowegi Umunyedomu arahindukira arabica. Uwo munsi yica abantu mirongo inani na batanu bambaraga efodi y'igitare.",
+      "start": 7.82,
+      "end": 38.2
+    },
+    "19": {
+      "text": "Maze atsindisha inkota i Nobu umudugudu w'abatambyi, abagabo n'abagore, abana b'incuke n'abonka, n'inka n'indogobe n'intama, byose babimarira ku nkota.",
+      "start": 43.99,
+      "end": 44.98
+    },
+    "20": {
+      "text": "Ariko umwe mu bahungu ba Ahimeleki mwene Ahitubu witwaga Abiyatari, aracika ahungira kuri Dawidi.",
+      "start": 24.56,
+      "end": 33.19
+    },
+    "21": {
+      "text": "Nuko Abiyatari abikira Dawidi ko Sawuli yishe abatambyi b'Uwiteka.",
+      "start": 40.53,
+      "end": 41.13
+    },
+    "22": {
+      "text": "Dawidi abwira Abiyatari ati “Urya munsi ubwo narebaga Dowegi Umunyedomu, namenye ko atazabura kubibwira Sawuli. Abo mu rugo rwa so bose ni jye bahowe.",
+      "start": 16.98,
+      "end": 17.44
+    },
+    "23": {
+      "text": "Gumana nanjye, humura kuko uhiga ubugingo bwanjye ari we uhiga n'ubwawe. Nubana nanjye nta cyo uzaba.”",
+      "start": 1.7,
+      "end": 16.45
+    }
+  }
+}

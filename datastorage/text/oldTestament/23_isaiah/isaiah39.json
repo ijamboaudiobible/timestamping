@@ -1,0 +1,48 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "Icyo gihe Merodaki Baladani mwene Baradani umwami w'i Babuloni yoherereza Hezekiya inzandiko n'amaturo, kuko yari yumvise uko Hezekiya yarwaye agakira.",
+      "start": 15.63,
+      "end": 36.84
+    },
+    "2": {
+      "text": "Maze Hezekiya yakira intumwa ze anezerewe, azimurikira inzu y'ububiko bwe yose yabikagamo ibintu bye by'igiciro cyinshi, ifeza n'izahabu n'imibavu n'amavuta y'igiciro cyinshi, n'inzu ibikwamo intwaro zo kurwanisha, n'iby'ubutunzi byabonekaga mu nzu ye byose. Nta kintu na kimwe cyo mu nzu ye cyangwa mu gihugu cye cyose, Hezekiya atazeretse.",
+      "start": 0.03,
+      "end": 27.73
+    },
+    "3": {
+      "text": "Bukeye umuhanuzi Yesaya asanga umwami Hezekiya aramubaza ati “Abo bagabo bavuze iki, kandi baje aho uri baturutse he?”Hezekiya aramusubiza ati “Baturutse mu gihugu cya kure cy'i Babuloni baza ari jye basanga.”",
+      "start": 5.87,
+      "end": 40.86
+    },
+    "4": {
+      "text": "Arongera aramubaza ati “Mu nzu yawe babonyemo iki?”Hezekiya aramusubiza ati “Ibiri mu nzu yanjye byose barabibonye. Nta kintu na kimwe mu byo ntunze ntaberetse.”",
+      "start": 35.22,
+      "end": 42.32
+    },
+    "5": {
+      "text": "Yesaya abwira Hezekiya ati “Umva ijambo ry'Uwiteka Nyiringabo:",
+      "start": 4.46,
+      "end": 20.72
+    },
+    "6": {
+      "text": "igihe kizaza ibiri mu nzu yawe byose, n'ibyo ba sogokuruza babitse kugeza ubu bizajyanwe i Babuloni, nta kintu kizasigara. Ni ko Uwiteka avuze.",
+      "start": 17.03,
+      "end": 29.0
+    },
+    "7": {
+      "text": "Kandi abahungu bawe uzibyarira mu nda yawe bazabajyana, babagire inkone zo kuba mu nzu y'umwami w'i Babuloni.”",
+      "start": 28.33,
+      "end": 44.48
+    },
+    "8": {
+      "text": "Hezekiya abwira Yesaya ati “Ijambo ry'Uwiteka avuze ni ryiza.” Arongera aravuga ati “Kuko hazaba amahoro n'iby'ukuri nkiriho.”",
+      "start": 33.26,
+      "end": 35.92
+    }
+  }
+}

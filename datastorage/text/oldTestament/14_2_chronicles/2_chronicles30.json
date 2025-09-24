@@ -1,0 +1,143 @@
+{
+  "book": "Book 14",
+  "book_canonical": "2_chronicles",
+  "book_number": 14,
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "Bukeye Hezekiya atumira Abisirayeli n'Abayuda bose, kandi yandikira Abefurayimu n'Abamanase inzandiko, ngo baze mu nzu y'Uwiteka i Yerusalemu kuziriririza Uwiteka Imana ya Isirayeli Pasika.",
+      "start": 15.59,
+      "end": 29.47
+    },
+    "2": {
+      "text": "Kuko umwami n'abatware be n'iteraniro ryose ry'i Yerusalemu, bari bagiye inama yo kuziririza Pasika mu kwezi kwa kabiri.",
+      "start": 13.25,
+      "end": 17.31
+    },
+    "3": {
+      "text": "Icyo gihe ntibabashaga kuyiziririza, kuko umubare w'abatambyi biyejeje wari udashyitse, na rubanda bari batarateranira i Yerusalemu.",
+      "start": 31.78,
+      "end": 35.99
+    },
+    "4": {
+      "text": "Iyo nama ishimwa n'umwami n'iteraniro ryose.",
+      "start": 43.43,
+      "end": 44.06
+    },
+    "5": {
+      "text": "Nuko bashyiraho itegeko, baryamamaza mu Bisirayeli bose uhereye i Bērisheba ukageza i Dani, ngo baze i Yerusalemu kuziriririza Uwiteka Imana ya Isirayeli Pasika, kuko bari batakiyiziririza ari benshi cyane uko byari byaranditswe.",
+      "start": 9.07,
+      "end": 28.48
+    },
+    "6": {
+      "text": "Maze intumwa zijyana inzandiko zivuye ku mwami n'abatware be, zizikwiza i Bwisirayeli n'i Buyuda hose, zivuga itegeko ry'umwami yategetse ati“Mwa Bisirayeli mwe, nimugarukire Uwiteka Imana ya Aburahamu na Isaka na Isirayeli, ibone kugarukira mwebwe abasigaye barokotse amaboko y'abami ba Ashūri.",
+      "start": 24.34,
+      "end": 32.18
+    },
+    "7": {
+      "text": "Kandi mwe kumera nka ba sogokuruza banyu, cyangwa bene wanyu bacumuraga ku Uwiteka Imana ya ba sekuruza, bigatuma ibatanga bakarimbuka nk'uko mubireba.",
+      "start": 3.1,
+      "end": 8.76
+    },
+    "8": {
+      "text": "Nuko rero noneho mwebwe ntimube abanyamajosi agamitse nka ba sogokuruza banyu, ahubwo muyoboke Uwiteka mwinjire mu buturo bwe yereje iteka ryose, mukorere Uwiteka Imana yanyu kugira ngo uburakari bwayo bw'inkazi bubaveho.",
+      "start": 41.15,
+      "end": 43.73
+    },
+    "9": {
+      "text": "Nimugarukira Uwiteka, bene wanyu n'abana banyu bazagirirwa imbabazi n'ababajyanye ari imbohe bagaruke muri iki gihugu, kuko Uwiteka Imana yanyu igira imbabazi n'ibambe, kandi ntizabirengagiza ngo ibahe umugongo nimuyigarukira.”",
+      "start": 33.2,
+      "end": 36.2
+    },
+    "10": {
+      "text": "Nuko intumwa zinyura mu gihugu cya Efurayimu n'icya Manase, zikava ku musozi zijya ku wundi, zigera no mu cya Zebuluni ariko baraziseka cyane, bazishinyagurira.",
+      "start": 26.08,
+      "end": 36.19
+    },
+    "11": {
+      "text": "Ariko bamwe bo mu Bashēri no mu Bamanase no mu Bazebuluni bicisha bugufi, baza i Yerusalemu.",
+      "start": 24.19,
+      "end": 43.26
+    },
+    "12": {
+      "text": "Kandi n'i Buyuda ukuboko kw'Imana kubaha guhuza umutima, bumvira itegeko ry'umwami n'abatware babitegetswe n'ijambo ry'Uwiteka.",
+      "start": 40.0,
+      "end": 43.59
+    },
+    "13": {
+      "text": "Nuko mu kwezi kwa kabiri i Yerusalemu hateranira abantu benshi baziririza ibirori by'imitsima idasembuwe, bari iteraniro rinini cyane.",
+      "start": 5.98,
+      "end": 23.09
+    },
+    "14": {
+      "text": "Barahaguruka bakura i Yerusalemu ibicaniro byari bihari, bakuraho n'ibyotero byo koserezaho imibavu byose, babijugunya mu kagezi kitwa Kidironi.",
+      "start": 14.18,
+      "end": 34.46
+    },
+    "15": {
+      "text": "Maze babaga umwana w'intama wa Pasika ku munsi wa cumi n'ine w'ukwezi kwa kabiri, abatambyi n'Abalewi bakozwe n'isoni bariyeza, bazana ibitambo byoswa mu nzu y'Uwiteka.",
+      "start": 12.22,
+      "end": 28.53
+    },
+    "16": {
+      "text": "Bahagarara mu myanya yabo, uko imihango yabo yari iri bakurikije itegeko rya Mose umuntu w'Imana, abatambyi bamisha amaraso baherejwe n'Abalewi.",
+      "start": 36.78,
+      "end": 41.86
+    },
+    "17": {
+      "text": "Kuko mu iteraniro harimo benshi batiyejeje, ni cyo cyatumye Abalewi bategekwa kubagira intama ya Pasika umuntu wese udatunganye, ngo babereze Uwiteka.",
+      "start": 39.9,
+      "end": 42.09
+    },
+    "18": {
+      "text": "Kuko abantu benshi cyane b'Abefurayimu n'Abamanase, n'Abisakari n'Abazebuluni bari batiyejeje, bagapfa kurya umwana w'intama wa Pasika kandi atari ko byategetswe. Kandi Hezekiya yari yabasabiye ati “Uwiteka umunyambabazi ababarire",
+      "start": 11.93,
+      "end": 42.34
+    },
+    "19": {
+      "text": "umuntu wese ugambiriye gushaka Imana, Uwiteka Imana ya ba sekuruza, nubwo atejejwe nk'uko umuhango w'ubuturo bwera umera.”",
+      "start": 36.23,
+      "end": 41.57
+    },
+    "20": {
+      "text": "Uwiteka yumvira Hezekiya akiza abantu.",
+      "start": 36.79,
+      "end": 40.86
+    },
+    "21": {
+      "text": "Maze Abisirayeli bari i Yerusalemu bamara iminsi irindwi, baziririza ibirori by'imitsima idasembuwe banezerewe cyane, kandi Abalewi n'abatambyi bagahimbaza Uwiteka uko bukeye, bamuvugiriza ibintu bivuga cyane.",
+      "start": 4.64,
+      "end": 32.3
+    },
+    "22": {
+      "text": "Nuko Hezekiya avuga amagambo yo kunezeza Abalewi bose b'abahanga mu murimo w'Uwiteka.Ibirori babimarira iminsi irindwi, batamba ibitambo by'ishimwe yuko bari amahoro, bāturira Uwiteka Imana ya ba sekuruza.",
+      "start": 30.77,
+      "end": 42.16
+    },
+    "23": {
+      "text": "Maze iteraniro ryose bajya inama yo kuziririza indi minsi irindwi, bayiziririza banezerewe.",
+      "start": 20.17,
+      "end": 39.09
+    },
+    "24": {
+      "text": "Kuko Hezekiya umwami w'Abayuda yahaye iteraniro amapfizi igihumbi n'intama ibihumbi birindwi ho ibitambo, abatware na bo bagaha iteraniro amapfizi igihumbi n'intama inzovu, n'abatambyi benshi bakiyeza.",
+      "start": 21.48,
+      "end": 30.84
+    },
+    "25": {
+      "text": "Iteraniro ryose ry'Abayuda n'abatambyi n'Abalewi, n'iteraniro ryose ryavuye i Bwisirayeli n'abashyitsi bavuye mu gihugu cya Isirayeli n'abatuye i Buyuda, baranezerwa.",
+      "start": 0.6,
+      "end": 39.93
+    },
+    "26": {
+      "text": "Nuko i Yerusalemu haba umunezero mwinshi, kuko uhereye ku ngoma ya Salomo mwene Dawidi umwami wa Isirayeli, ntihigeze kubaho nk'ibyo i Yerusalemu.",
+      "start": 25.88,
+      "end": 40.39
+    },
+    "27": {
+      "text": "Maze abatambyi b'Abalewi barahaguruka basabira abantu umugisha, ijwi ryabo rirumvwa, gusenga kwabo kugera mu buturo bwayo bwera, ari bwo juru.",
+      "start": 12.53,
+      "end": 37.07
+    }
+  }
+}

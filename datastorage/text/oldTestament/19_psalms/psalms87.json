@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 87,
+  "verses": {
+    "1": {
+      "text": "Iyi ndirimbo ni Zaburi ya bene Kōra.Urufatiro yashyizeho ruri ku misozi yera.",
+      "start": 31.3,
+      "end": 36.27
+    },
+    "2": {
+      "text": "Uwiteka akunda amarembo y'i Siyoni,Akayarutisha ubuturo bwose bw'Abayakobo.",
+      "start": 1.61,
+      "end": 13.23
+    },
+    "3": {
+      "text": "Wa rurembo rw'Imana we,Uvugwaho iby'icyubahiro.Sela.",
+      "start": 29.75,
+      "end": 42.11
+    },
+    "4": {
+      "text": "“Nzavuga Rahabu n'i Babuloni ko biri mu bāmenya,Dore Filisitiya n'i Tiro na Etiyopiya,Iyo ni ho bavukiye.”",
+      "start": 21.79,
+      "end": 41.3
+    },
+    "5": {
+      "text": "Ni koko bazavuga iby'i Siyoni bati“Umuntu wese yavukiyeyo,Kandi Isumbabyose ubwayo izabakomeza.”",
+      "start": 12.73,
+      "end": 40.11
+    },
+    "6": {
+      "text": "Uwiteka niyandika amahanga azabara ati“Ishyanga naka na naka yavukiyeyo.”Sela.",
+      "start": 18.64,
+      "end": 25.1
+    },
+    "7": {
+      "text": "Abaririmbyi n'ababyinnyi bazavuga bati“Amasōko yanjye yose ari muri wowe.”",
+      "start": 7.47,
+      "end": 9.91
+    }
+  }
+}

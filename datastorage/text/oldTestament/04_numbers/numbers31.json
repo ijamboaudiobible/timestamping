@@ -1,0 +1,278 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 41.69,
+      "end": 44.84
+    },
+    "2": {
+      "text": "“Uhōrere Abisirayeli Abamidiyani, maze nyuma uzapfa usange ubwoko bwawe.”",
+      "start": 5.9,
+      "end": 19.68
+    },
+    "3": {
+      "text": "Mose abwira abantu ati “Mutoranye abantu bo gutabara, mubahe intwaro batere Abamidiyani, kugira ngo Uwiteka ababahoreshe.",
+      "start": 1.05,
+      "end": 38.77
+    },
+    "4": {
+      "text": "Mukure ingabo igihumbi mu muryango umwe no mu yindi y'Abisirayeli yose, bityo bityo mubohereze batabare.”",
+      "start": 22.97,
+      "end": 32.46
+    },
+    "5": {
+      "text": "Nuko batoranya mu bihumbi by'Abisirayeli ingabo igihumbi igihumbi mu miryango yose, ziba ingabo inzovu n'ibihumbi bibiri zifite intwaro.",
+      "start": 29.57,
+      "end": 31.81
+    },
+    "6": {
+      "text": "Mose yohereza izo ngabo ari igihumbi igihumbi mu miryango yose, ngo batabare, aboherezanya na Finehasi mwene Eleyazari umutambyi, ajyanye ibintu by'ahera n'amakondera yo kuvuzwa ijwi rirandaze.",
+      "start": 37.34,
+      "end": 41.11
+    },
+    "7": {
+      "text": "Barwanya Abamidiyani uko Uwiteka yategetse Mose, bica abagabo bose.",
+      "start": 38.89,
+      "end": 42.17
+    },
+    "8": {
+      "text": "Bica n'abami b'Abamidiyani ari bo: Evi na Rekemu na Suri, na Huri na Reba, abami b'Abamidiyani uko ari batanu, kandi na Balāmu mwene Bewori bamwicisha inkota.",
+      "start": 20.71,
+      "end": 30.22
+    },
+    "9": {
+      "text": "Abisirayeli bajyana ho abanyagano Abamidiyanikazi n'abana babo bato, banyaga inka zabo zose n'imikumbi yabo yose, basahura n'ibintu byabo byose.",
+      "start": 13.12,
+      "end": 36.54
+    },
+    "10": {
+      "text": "Batwika imidugudu babagamo yose n'ingo zabo zose.",
+      "start": 13.5,
+      "end": 32.21
+    },
+    "11": {
+      "text": "Batabarukana isahu yose n'iminyago yose y'abantu n'amatungo.",
+      "start": 21.16,
+      "end": 43.96
+    },
+    "12": {
+      "text": "Imbohe n'iminyago n'isahu babizanira Mose na Eleyazari umutambyi n'iteraniro ry'Abisirayeli, aho baganditse mu kibaya cy'i Mowabu kinini, kuri Yorodani ahateganye n'i Yeriko.",
+      "start": 28.92,
+      "end": 29.14
+    },
+    "13": {
+      "text": "Mose na Eleyazari umutambyi n'abatware b'iteraniro bose, babasanganirira inyuma y'aho baganditse.",
+      "start": 42.12,
+      "end": 42.18
+    },
+    "14": {
+      "text": "Mose arakarira abatware b'ingabo, abatware b'ibihumbi n'ab'amagana batabarutse.",
+      "start": 8.67,
+      "end": 11.17
+    },
+    "15": {
+      "text": "Arababaza ati “Ko mwakijije abagore bose ntibapfe?",
+      "start": 40.99,
+      "end": 41.45
+    },
+    "16": {
+      "text": "Dore abo ni bo bacumuje Abisirayeli ku Uwiteka mu by'i Pewori babitewe n'inama za Balāmu, bituma mugiga itera iteraniro ry'Uwiteka.",
+      "start": 1.56,
+      "end": 15.26
+    },
+    "17": {
+      "text": "Nuko none mwice umuhungu wese wo mu bana bato, n'umugore wese wigeze kuryamana n'umugabo.",
+      "start": 6.64,
+      "end": 30.51
+    },
+    "18": {
+      "text": "Ariko abakobwa bato bose batigeze kuryamana n'abagabo, mubīkirize ubwanyu.",
+      "start": 41.56,
+      "end": 41.66
+    },
+    "19": {
+      "text": "Kandi mubambe amahema yanyu inyuma y'aho tuganditse, mumareyo iminsi irindwi: uwishe wese n'uwakoze ku ntumbi wese, mwihumanure ku munsi wa gatatu no ku wa karindwi mwe n'iminyago yanyu.",
+      "start": 12.84,
+      "end": 16.04
+    },
+    "20": {
+      "text": "Muhumanure n'imyambaro yose n'ibyaremwe mu ruhu byose, n'ibyaboheshejwe ubwoya bw'ihene byose, n'ibyabajwe byose kugira ngo mubyihumanureho.”",
+      "start": 29.73,
+      "end": 37.55
+    },
+    "21": {
+      "text": "Eleyazari umutambyi abwira abatabarutse ati “Iri ni itegeko Uwiteka yategetse Mose:",
+      "start": 1.2,
+      "end": 29.18
+    },
+    "22": {
+      "text": "Izahabu n'ifeza n'umuringa, n'icyuma n'ibati n'icyuma cy'isasu,",
+      "start": 6.43,
+      "end": 10.19
+    },
+    "23": {
+      "text": "ibintu byose bidatwikwa n'umuriro, mubicīshe mu muriro bibone guhumanuka. Ariko kandi mubihumanuze na ya mazi ahumanura, kandi ibyatwikwa n'umuriro byose mubyogeshe ayo mazi.",
+      "start": 44.29,
+      "end": 44.55
+    },
+    "24": {
+      "text": "Ku wa karindwi muzamese imyenda yanyu, muhumanuke mubone kugaruka mu ngando.”",
+      "start": 41.96,
+      "end": 42.88
+    },
+    "25": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 5.66,
+      "end": 37.11
+    },
+    "26": {
+      "text": "“Bara umubare w'iminyago yanyazwe y'abantu n'amatungo, ufatanye na Eleyazari umutambyi n'abatware b'amazu ya ba sekuruza y'iteraniro.",
+      "start": 3.86,
+      "end": 8.53
+    },
+    "27": {
+      "text": "Ugabanye iminyago mu migabane ibiri ingana: umwe uhabwe abazi kurasana batabarutse, undi uhabwe iteraniro ryose.",
+      "start": 17.26,
+      "end": 34.47
+    },
+    "28": {
+      "text": "Kandi utorere Uwiteka intore, uzitore abarasanyi batabarutse, kimwe muri magana atanu cy'abantu n'inka n'indogobe n'imikumbi,",
+      "start": 39.41,
+      "end": 43.12
+    },
+    "29": {
+      "text": "ubitore mu mugabane wabo ubihe Eleyazari umutambyi, bibe ituro ryererejwe Uwiteka.",
+      "start": 11.61,
+      "end": 30.09
+    },
+    "30": {
+      "text": "Kandi mu mugabane w'Abisirayeli utore umwe muri mirongo itanu w'abantu, na kimwe muri mirongo itanu cy'inka n'indogobe n'imikumbi, n'andi matungo yose, ubihe Abalewi barinda ubuturo bw'Uwiteka.”",
+      "start": 34.01,
+      "end": 37.8
+    },
+    "31": {
+      "text": "Mose na Eleyazari umutambyi babigenza uko Uwiteka yategetse Mose.",
+      "start": 39.36,
+      "end": 40.21
+    },
+    "32": {
+      "text": "Iminyago batabazemo isahu yasahuwe n'abarasanyi, yari intama uduhumbi dutandatu n'inzovu ndwi n'ibihumbi bitanu,",
+      "start": 22.68,
+      "end": 36.94
+    },
+    "33": {
+      "text": "n'inka inzovu ndwi n'ibihumbi bibiri,",
+      "start": 18.75,
+      "end": 23.55
+    },
+    "34": {
+      "text": "n'indogobe inzovu esheshatu n'igihumbi,",
+      "start": 22.48,
+      "end": 38.58
+    },
+    "35": {
+      "text": "kandi umubare wose w'abantu wari inzovu eshatu n'ibihumbi bibiri, ari abakobwa batigeze kuryamana n'abagabo.",
+      "start": 8.81,
+      "end": 35.31
+    },
+    "36": {
+      "text": "Umugabane w'abatabarutse wari intama uduhumbi dutatu n'inzovu eshatu n'ibihumbi birindwi na magana atanu.",
+      "start": 34.73,
+      "end": 41.05
+    },
+    "37": {
+      "text": "Intore z'Uwiteka batoye ku ntama ziba magana atandatu na mirongo irindwi n'eshanu.",
+      "start": 22.08,
+      "end": 26.6
+    },
+    "38": {
+      "text": "Inka zari inzovu eshatu n'ibihumbi bitandatu, intore z'Uwiteka zo kuri zo zari mirongo irindwi n'ebyiri.",
+      "start": 19.93,
+      "end": 33.94
+    },
+    "39": {
+      "text": "Indogobe zari inzovu eshatu na magana atanu, intore z'Uwiteka zo kuri zo zari mirongo itandatu n'imwe.",
+      "start": 4.02,
+      "end": 44.98
+    },
+    "40": {
+      "text": "Abantu bari inzovu n'ibihumbi bitandatu, intore z'Uwiteka zo kuri bo zari abantu mirongo itatu na babiri.",
+      "start": 26.82,
+      "end": 35.96
+    },
+    "41": {
+      "text": "Mose aha Eleyazari umutambyi izo ntore. Ni zo turo ryo kwerererezwa Uwiteka uko Uwiteka yategetse Mose.",
+      "start": 34.21,
+      "end": 36.71
+    },
+    "42": {
+      "text": "Umugabane w'Abisirayeli Mose yagabanije ku batabarutse,",
+      "start": 20.2,
+      "end": 43.53
+    },
+    "43": {
+      "text": "uwo mugabane w'iteraniro wari intama uduhumbi dutatu n'inzovu eshatu n'ibihumbi birindwi na magana atanu,",
+      "start": 15.51,
+      "end": 40.95
+    },
+    "44": {
+      "text": "n'inka inzovu eshatu n'ibihumbi bitandatu,",
+      "start": 4.46,
+      "end": 4.99
+    },
+    "45": {
+      "text": "n'indogobe inzovu eshatu na magana atanu,",
+      "start": 28.07,
+      "end": 37.64
+    },
+    "46": {
+      "text": "n'abantu inzovu n'ibihumbi bitandatu.",
+      "start": 16.62,
+      "end": 18.73
+    },
+    "47": {
+      "text": "Kuri uwo mugabane w'Abisirayeli Mose atora kimwe muri mirongo itanu cy'abantu n'amatungo, abiha Abalewi barinda ubuturo bw'Uwiteka, uko Uwiteka yategetse Mose.",
+      "start": 40.7,
+      "end": 43.16
+    },
+    "48": {
+      "text": "Abatware batwara ibihumbi bya za ngabo, abatware b'ibihumbi n'ab'amagana, bigira hafi ya Mose.",
+      "start": 36.97,
+      "end": 38.28
+    },
+    "49": {
+      "text": "Baramubwira bati “Abagaragu bawe tubaze umubare w'abarasanyi dutwara, nta n'umwe watubuzemo.",
+      "start": 16.15,
+      "end": 38.11
+    },
+    "50": {
+      "text": "Tuzaniye Uwiteka ituro ry'ibyo umuntu wese yasahuye ry'ibintu by'izahabu, n'imikufi yo ku maguru, n'izahabu zimeze nk'imiringa yo ku maboko, n'impeta zishyiraho ikimenyetso n'izo ku matwi, n'inigi byo guhongererera ubugingo bwacu imbere y'Uwiteka.”",
+      "start": 7.42,
+      "end": 41.4
+    },
+    "51": {
+      "text": "Mose na Eleyazari umutambyi bākīra izahabu batuye, zose ari incurano.",
+      "start": 2.66,
+      "end": 26.1
+    },
+    "52": {
+      "text": "Izahabu zose z'ituro bererereje Uwiteka ryatuwe n'abatware b'ibihumbi n'ab'amagana, zari shekeli inzovu n'ibihumbi bitandatu na magana arindwi na mirongo itanu.",
+      "start": 33.96,
+      "end": 40.71
+    },
+    "53": {
+      "text": "Kuko umuntu wese wo mu barasanyi yari yisahuriye isahu.",
+      "start": 34.08,
+      "end": 38.94
+    },
+    "54": {
+      "text": "Nuko Mose na Eleyazari umutambyi bākīra izahabu abatware b'ibihumbi n'ab'amagana batuye, bazijyanira mu ihema ry'ibonaniro, kugira ngo zibere Abisirayeli urwibutso rubibukisha imbere y'Uwiteka.",
+      "start": 20.95,
+      "end": 43.07
+    }
+  }
+}

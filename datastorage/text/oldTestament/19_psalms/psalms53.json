@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 53,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi babwirisha inanga ijwi ryitwa Mahalati. Ni indirimbo ya Dawidi yahimbishijwe ubwenge.",
+      "start": 17.73,
+      "end": 28.79
+    },
+    "2": {
+      "text": "Umupfapfa ajya yibwira ati “Nta Mana iriho.”Bononekaye bakiraniwe ibyo kwangwa urunuka,Nta wukora ibyiza.",
+      "start": 26.02,
+      "end": 31.25
+    },
+    "3": {
+      "text": "Imana yarebye abantu iri mu ijuru,Kugira ngo imenye yuko harimo abanyabwenge bashaka Imana.",
+      "start": 39.72,
+      "end": 41.58
+    },
+    "4": {
+      "text": "Bose basubiye inyuma,Bose bandurijwe hamwe,Nta wukora ibyiza n'umwe.",
+      "start": 8.33,
+      "end": 25.74
+    },
+    "5": {
+      "text": "Mbese inkozi z'ibibi nta bwenge zifite,Ko barya abantu banjye nk'uko barya umutsima,Kandi ntibambaze Imana?",
+      "start": 37.62,
+      "end": 43.11
+    },
+    "6": {
+      "text": "Aho ngaho bahagiriye ubwoba bwinshi ari nta mpamvu,Kuko Imana yashandaje amagufwa y'uwagerereje ngo agutere,Wabakojeje isoni kuko Imana yabasuzuguye.",
+      "start": 32.82,
+      "end": 38.86
+    },
+    "7": {
+      "text": "Icyampa agakiza k'Abisirayeli kakaba kavuye i Siyoni,Imana nisubizayo ubwoko bwayo bwajyanywe ho iminyago,Ni bwo Abayakobo bazishima,Abisirayeli bazanezerwa.",
+      "start": 19.75,
+      "end": 42.78
+    }
+  }
+}

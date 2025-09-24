@@ -1,0 +1,98 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Bwenge yubatse inzu ye,Yabaje inkingi zayo ndwi,",
+      "start": 28.42,
+      "end": 34.9
+    },
+    "2": {
+      "text": "Abaga amatungo ye,Akangaza vino ye,Aringaniza n'ameza ye.",
+      "start": 9.2,
+      "end": 23.77
+    },
+    "3": {
+      "text": "Maze atuma abaja be,Arangurura ijwi ari aharengeye hose ho mu murwa,",
+      "start": 17.82,
+      "end": 24.86
+    },
+    "4": {
+      "text": "Ati “Umuswa wese nagaruke hano.”Abwira utagira umutima ati",
+      "start": 36.51,
+      "end": 39.68
+    },
+    "5": {
+      "text": "“Ngwino urye ku mutsima wanjye,Kandi unywe kuri vino nakangaje.",
+      "start": 10.03,
+      "end": 43.4
+    },
+    "6": {
+      "text": "Mureke ubupfapfa mubeho, mwa baswa mwe,Kandi mugendere mu nzira y'ubuhanga.",
+      "start": 5.87,
+      "end": 39.29
+    },
+    "7": {
+      "text": "“Ucyaha umukobanyi aba yikoza isoni,Kandi uhana umunyabyaha aba yihamagariye ibitutsi.",
+      "start": 42.17,
+      "end": 42.59
+    },
+    "8": {
+      "text": "Ntuhane umukobanyi kugira ngo atakwanga,Ariko nuhana umunyabwenge azagukunda.",
+      "start": 24.62,
+      "end": 27.75
+    },
+    "9": {
+      "text": "Bwiriza umunyabwenge kandi azarushaho kugira ubwenge,Igisha umukiranutsi kandi azunguka kumenya.",
+      "start": 42.13,
+      "end": 42.91
+    },
+    "10": {
+      "text": "“Kūbaha Uwiteka ni ishingiro ry'ubwenge,Kandi kumenya Uwera ni ubuhanga.",
+      "start": 2.77,
+      "end": 14.35
+    },
+    "11": {
+      "text": "Ni jye uzakugwiriza iminsi,Nkakungura imyaka yo kubaho kwawe.",
+      "start": 38.99,
+      "end": 41.0
+    },
+    "12": {
+      "text": "Niba uri umunyabwenge,Ubwo bwenge ni wowe ubwigiriye ku bwawe,Kandi nukobana ni wowe biziberaho ubwawe.”",
+      "start": 9.32,
+      "end": 22.98
+    },
+    "13": {
+      "text": "Umugore upfapfana arasakuza,Ni ikirimarima kandi nta cyo amenya,",
+      "start": 13.06,
+      "end": 25.69
+    },
+    "14": {
+      "text": "Yicara mu muryango w'inzu ye,Ari ku ntebe aharengeye ho mu murwa,",
+      "start": 42.58,
+      "end": 44.63
+    },
+    "15": {
+      "text": "Agira ngo ahamagare abahita,Baromboreje mu nzira zabo ati",
+      "start": 40.04,
+      "end": 42.68
+    },
+    "16": {
+      "text": "“Umuswa wese agaruke hano.”Abwira utagira umutima ati",
+      "start": 6.08,
+      "end": 43.58
+    },
+    "17": {
+      "text": "“Amazi yibwe araryoshye,Kandi umutsima urirwa ahihishe uranyura.”",
+      "start": 40.88,
+      "end": 41.12
+    },
+    "18": {
+      "text": "Ariko ntazi ko abapfuye ari ho bari,Kandi abo yararitse bari mu mworero w'ikuzimu.",
+      "start": 23.27,
+      "end": 42.67
+    }
+  }
+}

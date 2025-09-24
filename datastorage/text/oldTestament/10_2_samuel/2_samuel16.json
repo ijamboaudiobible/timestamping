@@ -1,0 +1,123 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Dawidi amaze kurenga mu gahinga ho gato, ahura na Siba umugaragu wa Mefibosheti azanye indogobe ebyiri ziriho amatandiko, kandi zikoreye amarobe y'imitsima magana abiri n'amasere y'inzabibu zumye ijana, n'ayandi ijana y'imbuto zo mu cyi n'imvumba ya vino.",
+      "start": 32.78,
+      "end": 42.16
+    },
+    "2": {
+      "text": "Umwami abaza Siba ati “Ibi ni iby'iki?”Siba aramusubiza ati “Indogobe ni izo guheka abo mu rugo rw'umwami, imitsima na yo n'imbuto zo mu cyi ni amafunguro y'abahungu, kandi vino ni iy'abazajya bagwira isari mu butayu bakayinywa.”",
+      "start": 5.36,
+      "end": 25.9
+    },
+    "3": {
+      "text": "Umwami aramubaza ati “Mbese mwene shobuja ari he?”Siba ati “Dore aba i Yerusalemu kuko yavuze ati ‘Ubu inzu ya Isirayeli izansubiza ku ngoma ya data.’ ”",
+      "start": 7.69,
+      "end": 12.24
+    },
+    "4": {
+      "text": "Umwami abwira Siba ati “Ubu nkugabiye ibya Mefibosheti byose.”Siba aravuga ati “Ngukuriye ubwatsi Mwami nyagasani, ndagahora ngutonaho.”",
+      "start": 17.34,
+      "end": 38.28
+    },
+    "5": {
+      "text": "Umwami ageze i Bahurimu, abona haturutseyo umugabo wo mu muryango wa Sawuli witwaga Shimeyi mwene Gera, arasohoka aza amutuka.",
+      "start": 39.01,
+      "end": 41.58
+    },
+    "6": {
+      "text": "Atera Dawidi amabuye n'abagaragu b'Umwami Dawidi bose, kandi abantu bose n'abanyambaraga bose, bari bamukikije iburyo n'ibumoso.",
+      "start": 38.0,
+      "end": 38.09
+    },
+    "7": {
+      "text": "Shimeyi aramutuka ati “Genda genda wa mwicanyi we, wa kigoryi we.",
+      "start": 21.43,
+      "end": 39.23
+    },
+    "8": {
+      "text": "Uwiteka yakugaruyeho amaraso y'inzu ya Sawuli yose wizunguriye ugatwara, none Uwiteka yagabiye Abusalomu umuhungu wawe ubwami bwawe, kandi dore nawe uzize igomwa ryawe kuko uri umwicanyi.”",
+      "start": 0.94,
+      "end": 8.34
+    },
+    "9": {
+      "text": "Abishayi mwene Seruya abaza umwami ati “Ariko ni iki gituma tureka iyo mbwa y'intumbi agatuka umwami databuja? Ndakwinginze reka nambuke muce igihanga.”",
+      "start": 30.1,
+      "end": 43.27
+    },
+    "10": {
+      "text": "Umwami aravuga ati “Mpuriye he namwe, yemwe bene Seruya? Arantuka kuko Uwiteka ari we wamubwiye ati ‘Tuka Dawidi.’ None ni nde wabasha kumubuza ati ‘Ariko ibyo ubitewe ni iki?’ ”",
+      "start": 5.69,
+      "end": 44.81
+    },
+    "11": {
+      "text": "Maze Dawidi abwira Abishayi n'abagaragu be bose ati “Murareba uko umuhungu wanjye nibyariye agenza ubugingo bwanjye. Mbese uwo Mubenyamini ntiyarushaho? Nuko nimumureke yitukire, kuko Uwiteka yabimutegetse.",
+      "start": 12.31,
+      "end": 29.12
+    },
+    "12": {
+      "text": "Ahari Uwiteka azareba inabi ngirirwa, kandi Uwiteka azanyitura ibyiza ku bw'iyo mivumo yamvumye uyu munsi.”",
+      "start": 18.53,
+      "end": 26.42
+    },
+    "13": {
+      "text": "Nuko Dawidi n'abantu be bakomeza inzira. Shimeyi na we aca mu ibanga ry'umusozi amwitegeye, agenda amutuka umugenda, amutera amabuye n'umukungugu.",
+      "start": 24.06,
+      "end": 35.47
+    },
+    "14": {
+      "text": "Hanyuma umwami n'abantu bari kumwe na we bose bajya muri Ayefimu, aruhukirayo.",
+      "start": 34.31,
+      "end": 43.95
+    },
+    "15": {
+      "text": "Ariko Abusalomu n'abantu ba Isirayeli bose bajya i Yerusalemu, na Ahitofeli ari kumwe na we.",
+      "start": 38.39,
+      "end": 44.91
+    },
+    "16": {
+      "text": "Maze Hushayi w'Umwaruki incuti ya Dawidi, aza kwa Abusalomu abwira Abusalomu ati “Umwami aragahoraho! Umwami aragahoraho!”",
+      "start": 16.82,
+      "end": 33.56
+    },
+    "17": {
+      "text": "Abusalomu abaza Hushayi ati “Mbese izo ni zo mbabazi ugiriye incuti yawe? Icyakubujije kujyana n'incuti yawe ni iki?”",
+      "start": 3.04,
+      "end": 43.88
+    },
+    "18": {
+      "text": "Hushayi abwira Abusalomu ati “Reka da! Ahubwo utoranijwe n'Uwiteka n'abantu n'Abisirayeli bose, nzaba uwe kandi nzagumana na we.",
+      "start": 5.17,
+      "end": 43.52
+    },
+    "19": {
+      "text": "Ikindi kandi, ni nde nkwiriye gukorera? Sinkwiriye gukorera umwana we? Nk'uko nakoreraga so, ni ko nzagukorera.”",
+      "start": 5.68,
+      "end": 39.77
+    },
+    "20": {
+      "text": "Maze Abusalomu abwira Ahitofeli ati “Tugire inama uko twagenza.”",
+      "start": 3.12,
+      "end": 31.76
+    },
+    "21": {
+      "text": "Ahitofeli abwira Abusalomu ati “Taha ku nshoreke za so yasize mu rugo, maze Abisirayeli bose bazamenya ko wazinutswe so cyane. Nuko abazaba bari kumwe nawe bose bazahama bakomere.”",
+      "start": 1.83,
+      "end": 20.95
+    },
+    "22": {
+      "text": "Nuko babambira Abusalomu ihema hejuru y'inzu. Abusalomu aherako ataha kuri izo nshoreke za se, Abisirayeli bose babireba.",
+      "start": 36.48,
+      "end": 39.64
+    },
+    "23": {
+      "text": "Kandi inama Ahitofeli yagishwaga muri iyo minsi, bazemeraga nk'izo bagiriwe n'Imana. Uko ni ko inama za Ahitofeli zameraga, yagiriye Dawidi kandi na Abusalomu.",
+      "start": 7.23,
+      "end": 25.61
+    }
+  }
+}

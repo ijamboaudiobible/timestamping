@@ -1,0 +1,183 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 35,
+  "verses": {
+    "1": {
+      "text": "Mose ateranya iteraniro ry'Abisirayeli ryose arababwira ati “Ibi ni byo Uwiteka yategetse ko mukora:",
+      "start": 16.43,
+      "end": 28.7
+    },
+    "2": {
+      "text": "mu minsi itandatu imirimo ijye ikorwa, ariko uwa karindwi ujye ubabera umunsi wera, isabato yo kuruhuka yerejwe Uwiteka, ugira umurimo wose awukoraho azicwe. 15.12-14",
+      "start": 44.06,
+      "end": 44.86
+    },
+    "3": {
+      "text": "Ntimugacane umuriro mu buturo bwanyu bwose ku munsi w'isabato.”",
+      "start": 1.42,
+      "end": 5.74
+    },
+    "4": {
+      "text": "Mose abwira iteraniro ry'Abisirayeli ryose ati “Iki ni cyo Uwiteka yategetse ngo:",
+      "start": 22.65,
+      "end": 35.02
+    },
+    "5": {
+      "text": "Mwakire amaturo Uwiteka aturwa na bene wanyu, umuntu wese wemezwa n'umutima we azane ituro atura Uwiteka, ry'izahabu n'ifeza n'umuringa,",
+      "start": 31.32,
+      "end": 34.76
+    },
+    "6": {
+      "text": "n'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza n'ubw'ubwoya bw'ihene,",
+      "start": 25.38,
+      "end": 44.67
+    },
+    "7": {
+      "text": "n'impu z'amasekurume y'intama zizigishijwe inzigo itukura, n'impu z'inyamaswa zitwa tahashi n'imbaho z'ibiti byitwa imishita,",
+      "start": 7.1,
+      "end": 19.79
+    },
+    "8": {
+      "text": "n'amavuta y'amatabaza n'imibavu yo kuvangwa n'amavuta ya elayo yo gusīga, n'iyo kuvangwa igahinduka umubavu mwiza wo kōsa,",
+      "start": 36.15,
+      "end": 38.23
+    },
+    "9": {
+      "text": "n'amabuye yitwa shohamu n'andi mabuye yo gukwikirwa, ngo ahundwe ku mwambaro witwa efodi no ku wo ku gituza.",
+      "start": 35.9,
+      "end": 44.63
+    },
+    "10": {
+      "text": "“Umuhanga wese wo muri mwe aze areme ibyo Uwiteka yategetse byose:",
+      "start": 42.87,
+      "end": 44.11
+    },
+    "11": {
+      "text": "ubuturo n'ihema ryo kubusakara n'ibyo gusakara iryo hema, n'ibikwasi byabwo n'imbaho zabwo, n'imbumbe zabwo n'inkingi zabwo n'imyobo yo kuzishingamo,",
+      "start": 38.36,
+      "end": 41.63
+    },
+    "12": {
+      "text": "n'isanduku yera n'imijisho yayo, n'intebe y'ihongerero n'umwenda wo gukingiriza ahera cyane,",
+      "start": 4.69,
+      "end": 5.12
+    },
+    "13": {
+      "text": "n'ameza n'imijisho yayo n'ibintu byayo byose, n'imitsima yo kumurikwa,",
+      "start": 8.18,
+      "end": 34.81
+    },
+    "14": {
+      "text": "n'igitereko cy'amatabaza yo kumurika n'ibintu byacyo, n'amatabaza yacyo n'amavuta yo kumurikisha,",
+      "start": 29.38,
+      "end": 31.95
+    },
+    "15": {
+      "text": "n'igicaniro cyo koserezaho imibavu n'imijisho yacyo, n'amavuta yo gusīga n'umubavu mwiza, n'umwenda wo gukinga umuryango w'ubwo buturo,",
+      "start": 27.67,
+      "end": 32.42
+    },
+    "16": {
+      "text": "n'igicaniro cyo koserezaho ibitambo, kiriho igisobekerane cyacyo cy'umuringa, n'imijisho yacyo n'ibintu byacyo byose, n'igikarabiro n'igitereko cyacyo,",
+      "start": 31.41,
+      "end": 40.43
+    },
+    "17": {
+      "text": "n'imyenda ikinzwe y'urugo rw'ubwo buturo, n'inkingi zayo n'imyobo yo kuzishingamo, n'umwenda wo gukinga irembo ry'urwo rugo,",
+      "start": 33.71,
+      "end": 43.61
+    },
+    "18": {
+      "text": "n'imambo z'ubwo buturo n'iz'urugo rwabwo n'imigozi yazo,",
+      "start": 19.27,
+      "end": 33.57
+    },
+    "19": {
+      "text": "n'imyambaro y'imirimo yera yo gukoreshereza ahera: ni yo myambaro yejejwe yo kwambarwa na Aroni umutambyi n'iy'abana be, yo gukoresha umurimo w'ubutambyi.”",
+      "start": 31.08,
+      "end": 40.78
+    },
+    "20": {
+      "text": "Iteraniro ry'Abisirayeli ryose riragenda, riva imbere ya Mose.",
+      "start": 40.79,
+      "end": 41.01
+    },
+    "21": {
+      "text": "Haza umuntu wese utewe umwete n'umutima we, uwemejwe na wo wese, bazana amaturo batura Uwiteka yo kuremesha rya hema ry'ibonaniro, n'ayo gukoresha imirimo yaryo yose n'ayo kuremesha ya myenda yejejwe.",
+      "start": 20.73,
+      "end": 28.11
+    },
+    "22": {
+      "text": "Haza abagabo n'abagore, abemejwe n'imitima yabo bose, bazana impeta zo ku mazuru n'izo ku matwi, n'izishyiraho ikimenyetso n'inigi, byose ari izahabu, bizanwa n'umuntu wese utura Uwiteka ituro ry'izahabu.",
+      "start": 28.42,
+      "end": 35.4
+    },
+    "23": {
+      "text": "Kandi umuntu wese wari ufite ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza n'ubwoya bw'ihene, n'impu z'amasekurume y'intama zizigishijwe inzigo itukura, n'impu z'inyamaswa zitwa tahashi, arabizana.",
+      "start": 6.63,
+      "end": 42.16
+    },
+    "24": {
+      "text": "Umuntu wese wari ufite icyo atura cy'ifeza cyangwa icy'umuringa, arakizana agitura Uwiteka, kandi umuntu wese wari ufite imbaho z'umushita zavamo ikibāzwa cyo gukoresha umurimo wose w'ubuturo, arazizana.",
+      "start": 32.96,
+      "end": 42.8
+    },
+    "25": {
+      "text": "Abahanga b'abagore bose barakaraga bazana ibyo bakaraze: ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba n'ubw'ibitare byiza.",
+      "start": 0.2,
+      "end": 3.57
+    },
+    "26": {
+      "text": "Kandi abagore bose batewe umwete n'ubuhanga bwabo, bakaraga ubwoya bw'ihene.",
+      "start": 28.76,
+      "end": 31.06
+    },
+    "27": {
+      "text": "Abatware bazana amabuye yitwa shohamu n'andi mabuye yo gukwikirwa, ngo ahundwe kuri efodi no kuri wa mwambaro wo ku gituza.",
+      "start": 43.75,
+      "end": 44.24
+    },
+    "28": {
+      "text": "Bazana n'imibavu n'amavuta ya elayo, babizanira ya matabaza na ya mavuta yo gusīga, na wa mubavu w'ikivange mwiza.",
+      "start": 3.9,
+      "end": 26.08
+    },
+    "29": {
+      "text": "Abisirayeli bazana amaturo ava mu rukundo bayatura Uwiteka, aturwa n'umugabo wese n'umugore wese wemejwe n'umutima we, kuzana ibyo kuremesha ibyo Imana yategetse Mose kurema byose.",
+      "start": 6.38,
+      "end": 27.7
+    },
+    "30": {
+      "text": "Mose abwira Abisirayeli ati “Dore Uwiteka yahamagaye mu izina Besalēli mwene Uri ya Huri, wo mu muryango wa Yuda,",
+      "start": 33.5,
+      "end": 33.55
+    },
+    "31": {
+      "text": "amwuzuza Umwuka w'Imana ngo agire ubwenge bwo guhimba n'ubwo gutora, n'ubuhanga n'ubukorikori bwose",
+      "start": 7.44,
+      "end": 22.91
+    },
+    "32": {
+      "text": "byo guhimba imirimo y'ubuhanga, no gucura izahabu n'ifeza n'imiringa,",
+      "start": 33.52,
+      "end": 42.56
+    },
+    "33": {
+      "text": "no gukeba amabuye yo gukwikirwa, no kubāza no kugira ubukorikori n'ubuhanga bwose.",
+      "start": 31.02,
+      "end": 43.17
+    },
+    "34": {
+      "text": "Kandi yamushyize mu mutima kwigisha abandi, we na Oholiyabu mwene Ahisamaki, wo mu muryango wa Dani.",
+      "start": 34.67,
+      "end": 40.83
+    },
+    "35": {
+      "text": "Abo yujuje imitima yabo ubuhanga bwo gukora ubukorikori bwose, bw'umukebyi w'amabuye n'ubw'umukozi w'umunyabwenge, n'ubwo kudoda amabara y'imikara ya kabayonga, n'ay'imihengeri n'ay'imihemba n'ay'ibitare byiza, n'ubwo kubohesha imyenda ubudodo bw'igiterane cy'izo nzigo, n'ubw'abakoresha ubuhanga bwose n'ubw'abahimba imirimo myiza yose.",
+      "start": 5.2,
+      "end": 40.8
+    }
+  }
+}

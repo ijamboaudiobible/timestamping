@@ -1,0 +1,263 @@
+{
+  "book": "Book 11",
+  "book_canonical": "1_kings",
+  "book_number": 11,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Hanyuma Salomo amara imyaka cumi n'itatu yubaka inzu ye, arayuzuza yose.",
+      "start": 37.32,
+      "end": 40.85
+    },
+    "2": {
+      "text": "Yubaka n'inzu y'ibiti by'ikibira cy'i Lebanoni, uburebure bwayo bw'umurambararo bwari mikono ijana, ubugari bwayo bwari mikono mirongo itanu, kandi uburebure bwayo bw'igihagararo bwari mikono mirongo itatu. Kandi yari yubatswe ku nkingi z'imyerezi zishinzwe mu mirongo uko ari ine, zitambitseho ibiti by'imyerezi.",
+      "start": 27.06,
+      "end": 28.09
+    },
+    "3": {
+      "text": "Hejuru y'ibyo biti mirongo ine na bitanu, byari hejuru y'inkingi uko ari cumi n'eshanu zo mu murongo umwe umwe, arandaho imbaho z'imyerezi.",
+      "start": 7.9,
+      "end": 9.49
+    },
+    "4": {
+      "text": "Akora impushya eshatu z'amadirishya akurikiranye, idirishya rihanganye n'irindi.",
+      "start": 9.43,
+      "end": 33.27
+    },
+    "5": {
+      "text": "Inzugi zose n'inkomanizo zari zikoze kimwe, uburebure n'ubugari bwazo byari bimwe. Idirishya ryose ryari rihanganye n'irindi uko impushya ari eshatu.",
+      "start": 40.65,
+      "end": 41.91
+    },
+    "6": {
+      "text": "Kandi yubakisha ibaraza inkingi, uburebure bwaryo bwari mikono mirongo itanu, n'ubugari bwaryo bwari mikono mirongo itatu, imbere yaryo ahashyira irindi baraza ry'inkingi n'ibiti bibajwe.",
+      "start": 26.55,
+      "end": 42.51
+    },
+    "7": {
+      "text": "Kandi akora ibaraza ry'intebe y'ubwami aho yaciraga imanza, ryitwa ibaraza ry'imanza. Yomekaho imbaho z'imyerezi uhereye hasi ukageza mu gisenge.",
+      "start": 26.97,
+      "end": 27.74
+    },
+    "8": {
+      "text": "Kandi inzu yabagamo yo mu gikari haruguru y'iryo baraza na yo yari yubatswe ityo. Kandi Salomo yubaka indi nzu isa n'iy'iryo baraza, ayubakira umukobwa wa Farawo yari yararongoye.",
+      "start": 17.29,
+      "end": 22.98
+    },
+    "9": {
+      "text": "Ayo mazu yose yari yubakishije amabuye y'igiciro cyinshi, abajwe nk'uko bayageze, akerejwe inkero inyuma n'imbere uhereye ku y'urufatiro ukageza ku yo hejuru, kandi ay'urugo runini ni ko yari ameze.",
+      "start": 18.71,
+      "end": 40.94
+    },
+    "10": {
+      "text": "Urufatiro rwayo na rwo rwari amabuye manini y'igiciro cyinshi, uburebure bw'amwe bwari mikono cumi, ubw'ayandi bwari mikono munani.",
+      "start": 11.65,
+      "end": 13.77
+    },
+    "11": {
+      "text": "Hejuru yayo akurikizaho amabuye abajwe y'igiciro cyinshi nk'uko yagezwe, kandi bakurikizaho ibiti by'imyerezi.",
+      "start": 37.52,
+      "end": 42.31
+    },
+    "12": {
+      "text": "Urugo runini rwari rugoswe n'inkike z'amabuye abajwe yubatswe impushya eshatu, hejuru yayo hageretseho uruhushya rw'ibiti by'imyerezi nk'uko bagenje urugo rw'ingombe rw'inzu y'Uwiteka, n'ibaraza ry'iyo nzu ni ko ryari ryubatswe.",
+      "start": 35.13,
+      "end": 39.85
+    },
+    "13": {
+      "text": "Bukeye Salomo atumira Huramu i Tiro.",
+      "start": 26.51,
+      "end": 39.26
+    },
+    "14": {
+      "text": "Huramu uwo yari umwana w'umupfakazi wo mu muryango wa Nafutali, ariko se yari uw'i Tiro. Yari umucuzi w'imiringa w'umuhanga ujijutse, umunyabukorikori mu mirimo y'imiringa yose. Nuko yitaba umwami Salomo, amukorera imirimo yose yashakaga.",
+      "start": 22.5,
+      "end": 43.07
+    },
+    "15": {
+      "text": "Acura inkingi ebyiri z'imiringa, uburebure bwazo bwari mikono cumi n'umunani, umubyimba wazo wari mikono cumi n'ibiri.",
+      "start": 8.92,
+      "end": 37.04
+    },
+    "16": {
+      "text": "Maze acura imitwe ibiri yazo nk'imyashi mu miringa iyagijwe, kugira ngo ayishyire hejuru y'izo nkingi. Uburebure bw'igihagararo bw'umutwe umwe bwari mikono itanu, n'ubw'undi ari uko.",
+      "start": 39.03,
+      "end": 42.77
+    },
+    "17": {
+      "text": "Kuri iyo mitwe yo hejuru y'inkingi acuriraho utugozi tw'imiringa dusobekeranye nk'urushundura, kandi ategeshaho imikufi imeze nk'imishunzi, ku mutwe umwe ashyiraho irindwi, no ku wundi irindwi.",
+      "start": 17.67,
+      "end": 43.31
+    },
+    "18": {
+      "text": "Kuri urwo rushundura rw'imiringa banyuzaho impushya ebyiri z'imbuto z'amakomamanga, ziba kuri iyo mitwe y'inkingi yo hejuru. Uko ni ko yabigenje no ku wundi mutwe.",
+      "start": 12.96,
+      "end": 38.69
+    },
+    "19": {
+      "text": "Kandi imitwe y'inkingi z'ibaraza ishushanywa n'uburabyo bw'uburengo, uburebure bwayo bwari mikono ine.",
+      "start": 17.12,
+      "end": 27.83
+    },
+    "20": {
+      "text": "Hejuru y'izo nkingi zombi hari hiburungushuye bashyiraho iyo mitwe, acuriraho urushundura, bamanikaho imbuto z'amakomamanga mu mpushya ebyiri. Izo mbuto zari magana abiri.",
+      "start": 26.05,
+      "end": 29.58
+    },
+    "21": {
+      "text": "Nuko ashinga izo nkingi ku ibaraza ry'urusengero, iy'iburyo ayita Yakini, iy'ibumoso ayita Bowazi.",
+      "start": 41.64,
+      "end": 41.98
+    },
+    "22": {
+      "text": "Hejuru y'izo nkingi bahashushanya ibishushanyo by'uburabyo bw'uburengo.Uko ni ko umurimo w'inkingi wakozwe.",
+      "start": 29.42,
+      "end": 43.59
+    },
+    "23": {
+      "text": "Kandi arema igikarabiro kidendeje mu miringa yayagijwe, ubugari bwacyo uhereye ku rugara ukageza ku rundi bwari mikono cumi, ubugari bwacyo bwose bwaranganaga. Uburebure bwacyo bwari mikono itanu, urugero rw'urugara rwacyo inkubwe imwe rwari mikono mirongo itatu.",
+      "start": 35.1,
+      "end": 38.36
+    },
+    "24": {
+      "text": "Kandi mu bugenya bwacyo hari hakikije ibishushanyo by'imihe, mu mukono umwe wacyo w'intambike habagaho ibishushanyo cumi. Ibyo bishushanyo byari impushya ebyiri kuri cyo, byaremanywe na cyo.",
+      "start": 36.54,
+      "end": 41.27
+    },
+    "25": {
+      "text": "Kandi icyo gikarabiro cyari giteretswe ku bishushanyo by'inka cumi n'ebyiri, bitatu byarebaga ikasikazi, ibindi bitatu byarebaga iburengerazuba, ibindi bitatu byarebaga ikusi, ibindi bitatu byarebaga iburasirazuba. Icyo gikarabiro cyari gishyizwe hejuru yabyo kandi biteranye imigongo.",
+      "start": 25.72,
+      "end": 36.23
+    },
+    "26": {
+      "text": "Umushyishyito wacyo wari intambwe imwe y'intoki, kandi urugara rwacyo rwacuzwe nk'urugara rw'urwabya cyangwa nk'ururabyo rw'uburengo. Cyajyagamo incuro z'intango ibihumbi bibiri.",
+      "start": 17.11,
+      "end": 23.76
+    },
+    "27": {
+      "text": "Kandi acura ibitereko cumi mu miringa: igitereko kimwe uburebure bwacyo bw'umurambararo bwari mikono ine, ubugari bwacyo bwari mikono ine, uburebure bwacyo bw'igihagararo bwari mikono itatu.",
+      "start": 19.73,
+      "end": 36.33
+    },
+    "28": {
+      "text": "Uko ni ko ibyo bitereko byari bicuzwe. Byari bifite ibisate bisobetse mu nkingi zabyo,",
+      "start": 23.36,
+      "end": 40.97
+    },
+    "29": {
+      "text": "kuri ibyo bisate byo hagati y'izo nkingi hashyizweho ibishushanyo by'intare n'inka n'abakerubi, hejuru y'izo nkingi hari hateweho imikindo, kandi munsi y'ibishushanyo by'intare n'inka hariho ibisa n'imishunzi itendera, ariko bisobekeranye.",
+      "start": 22.24,
+      "end": 39.33
+    },
+    "30": {
+      "text": "Buri gitereko cyose cyari gifite inziga enye z'imiringa, kandi n'ibyuma by'imitambiko bibirindukwaho n'izo nziga na byo byari imiringa, ku matako yacyo hariho ibifata bya byuma by'imitambiko byari munsi y'igitereko cy'igikarabiro, kandi byari bifite ibisa n'imishunzi itendera.",
+      "start": 2.54,
+      "end": 23.46
+    },
+    "31": {
+      "text": "Kandi igitereko cyari gifite urugara mu mutwe wacyo, uburebure bw'urwo rugara bwari mukono umwe n'igice. Kuri urwo rugara bari barakebyeho imanzi kandi ibisate by'uwo mutwe ntibyari byiburungushuye, ahubwo byaranganaga impande zose.",
+      "start": 3.15,
+      "end": 14.04
+    },
+    "32": {
+      "text": "Izo nziga uko ari enye zari munsi y'ibisate by'igitereko, kandi ibyuma bibirindukwaho n'izo nziga byari biciye mu gitereko, uburebure bw'izo nziga bwari mukono umwe n'igice.",
+      "start": 34.58,
+      "end": 39.39
+    },
+    "33": {
+      "text": "Ishusho yazo yasaga n'iz'amagare y'intambara, ibyuma byazo zibirinduragaho n'intango zazo, n'inkingi zazo n'imigongo yazo, byose byari byararemwe mu miringa yayagijwe.",
+      "start": 29.92,
+      "end": 32.25
+    },
+    "34": {
+      "text": "Ku matako yose y'igitereko hariho ibifata bya byuma by'imitambiko byose byari bine, ibyo byuma byaremanywe n'igitereko.",
+      "start": 8.89,
+      "end": 19.85
+    },
+    "35": {
+      "text": "Hejuru y'icyo gitereko hakurikiraho ikintu cyiburungushuye, uburebure bwacyo bwari intambwe imwe y'intoki, kandi inkingi zacyo n'ibisate byacyo byari bifashe ku gitereko.",
+      "start": 3.39,
+      "end": 11.34
+    },
+    "36": {
+      "text": "Kuri ibyo bisate bisohetse mu nkingi zo mu migongo yazo, yari yarakebyeho ibishushanyo by'abakerubi n'intare n'imikindo akurikije uko hareshyaga, abihundaho imishunzi itendera.",
+      "start": 2.41,
+      "end": 8.33
+    },
+    "37": {
+      "text": "Uko ni ko yakoze ibyo bitereko uko ari icumi. Byose byari biremwe kimwe, ari urugero rumwe n'ishusho imwe.",
+      "start": 34.42,
+      "end": 40.11
+    },
+    "38": {
+      "text": "Kandi arema ibikarabiro cumi mu miringa, kimwe cyajyagamo incuro z'intango mirongo ine, kandi igikarabiro cyose uburebure bwacyo bwari mikono ine. Ku bitereko byose uko ari icumi baterekaho igikarabiro.",
+      "start": 27.2,
+      "end": 39.45
+    },
+    "39": {
+      "text": "Mu ruhande rw'iburyo rw'iyo nzu ashyiraho ibitereko bitanu, ku rw'ibumoso ashyiraho bindi bitanu. Igikarabiro kidendeje agishyira mu ruhande rw'iburyo rw'iyo nzu, iburasirazuba herekeye ikusi.",
+      "start": 22.45,
+      "end": 22.88
+    },
+    "40": {
+      "text": "Nuko Huramu akora ibikarabiro n'ibyuma byo kuyora ivu, n'ibyungu. Uko ni ko Huramu yarangije umurimo w'inzu y'Uwiteka yakoreraga Umwami Salomo.",
+      "start": 38.41,
+      "end": 41.22
+    },
+    "41": {
+      "text": "Byari ibi: inkingi zombi n'imitwe yombi yiburungushuye yari hejuru y'inkingi, n'ibisa n'inshundura byombi byo gutwikira ahiburungushuye ho ku mitwe yari hejuru y'inkingi,",
+      "start": 42.8,
+      "end": 43.29
+    },
+    "42": {
+      "text": "imbuto z'amakomamanga magana ane zo gushyira ku bisa n'inshundura byombi, n'impushya ebyiri z'amakomamanga zo ku bisa n'inshundura byombi, bitwikira imitwe yombi yiburungushuye yari ku nkingi.",
+      "start": 40.74,
+      "end": 41.26
+    },
+    "43": {
+      "text": "Ibitereko cumi n'ibikarabiro cumi byari hejuru yabyo,",
+      "start": 27.56,
+      "end": 38.79
+    },
+    "44": {
+      "text": "igikarabiro kidendeje n'ibishushanyo by'inka cumi n'ebyiri byari munsi yacyo,",
+      "start": 37.12,
+      "end": 37.77
+    },
+    "45": {
+      "text": "ibibindi n'ibyuma byo kuyora ivu n'ibyungu. Ibyo bintu byose Huramu yakoreye Umwami Salomo ku bw'inzu y'Uwiteka, yabikoze mu miringa isenwe.",
+      "start": 23.99,
+      "end": 35.39
+    },
+    "46": {
+      "text": "Umwami yabiremeshereje mu kibaya cya Yorodani mu rubamba, hagati y'i Sukoti n'i Saretani.",
+      "start": 24.4,
+      "end": 25.37
+    },
+    "47": {
+      "text": "Kandi Salomo ntiyirirwa apima ibyo bintu byose kuko byari byinshi cyane, kuremera kw'imiringa ntikwamenyekanye.",
+      "start": 30.63,
+      "end": 35.45
+    },
+    "48": {
+      "text": "Kandi Salomo arema ibintu byose byo mu nzu y'Uwiteka, icyotero cy'izahabu n'ameza yamurikirwagaho imitsima.",
+      "start": 6.46,
+      "end": 36.36
+    },
+    "49": {
+      "text": "Ibitereko by'amatabaza atanu mu ruhande rw'iburyo, no mu rw'ibumoso atanu aherekeye ahavugirwa, byose byari iby'izahabu itunganijwe kandi n'uburabyo n'amatabaza n'ibisa n'ingarama byari izahabu.",
+      "start": 43.63,
+      "end": 43.84
+    },
+    "50": {
+      "text": "Ibikombe n'ibifashi n'ibyungu n'indosho n'ibyotero byose byari izahabu itunganyijwe, n'amapata y'inzugi z'imbere z'Ahera cyane, n'ay'inzugi z'inzu yitwa urusengero, byose byari iby'izahabu.",
+      "start": 9.47,
+      "end": 38.43
+    },
+    "51": {
+      "text": "Uko ni ko umurimo wose Umwami Salomo yakoze mu nzu y'Uwiteka warangiye. Maze Salomo acyura ibintu byose se Dawidi yashinganye by'ifeza n'izahabu n'ibindi bintu, abishyira mu bubiko bw'inzu y'Uwiteka.",
+      "start": 8.16,
+      "end": 23.68
+    }
+  }
+}

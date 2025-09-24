@@ -1,0 +1,158 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati “Uhereye none uzabona ibyo nzagirira Farawo. Azabarekura bagende, abyemejwe n'amaboko menshi, kandi no kwirukana azabirukana mu gihugu cye ku bw'ayo maboko.”",
+      "start": 24.41,
+      "end": 24.88
+    },
+    "2": {
+      "text": "Imana ibwira Mose iti “Ndi UWITEKA,",
+      "start": 0.36,
+      "end": 35.29
+    },
+    "3": {
+      "text": "kandi nabonekeye Aburahamu na Isaka na Yakobo. Nitwa Imana Ishoborabyose ariko sinabīmenyesha, nitwa iryo zina UWITEKA.",
+      "start": 13.23,
+      "end": 43.85
+    },
+    "4": {
+      "text": "Kandi nakomeje isezerano ryanjye na bo, ko nzabaha igihugu cy'i Kanāni, igihugu cy'ubusuhuke bwabo, basuhukiyemo.",
+      "start": 42.72,
+      "end": 42.8
+    },
+    "5": {
+      "text": "Kandi numvise umuniho w'Abisirayeli, Abanyegiputa bazitiriye mu buretwa, nibuka isezerano ryanjye.",
+      "start": 7.61,
+      "end": 20.5
+    },
+    "6": {
+      "text": "Nuko bwira Abisirayeli yuko ndi Uwiteka, kandi nzabatura imitwaro Abanyegiputa babakorera, mbakure mu buretwa babakoresha, mbacunguze ukuboko kurambutse n'ibihano bikomeye.",
+      "start": 41.35,
+      "end": 43.8
+    },
+    "7": {
+      "text": "Kandi nzabazana mube ubwoko bwanjye nanjye mbabere Imana, ni ho muzamenya ko ndi Uwiteka Imana yanyu, ibatuye imitwaro Abanyegiputa babakorera, ikabakura muri bo.",
+      "start": 43.26,
+      "end": 43.55
+    },
+    "8": {
+      "text": "Kandi nzabajyana mu gihugu namanikiye ukuboko yuko nzagiha Aburahamu na Isaka na Yakobo, nzakibaha kuba ibiragwa byanyu. Ndi Uwiteka.”",
+      "start": 27.24,
+      "end": 32.88
+    },
+    "9": {
+      "text": "Mose abwira Abisirayeli ibyo, maze babuzwa kumwumvira n'umubabaro wo mu mitima yabo utewe n'uburetwa bw'agahato.",
+      "start": 28.0,
+      "end": 32.01
+    },
+    "10": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 21.58,
+      "end": 37.53
+    },
+    "11": {
+      "text": "“Jya kwa Farawo umwami wa Egiputa, umubwire akundire Abisirayeli bave mu gihugu cye.”",
+      "start": 11.88,
+      "end": 23.68
+    },
+    "12": {
+      "text": "Mose avugira imbere y'Uwiteka ati “Dore Abisirayeli ntibanyumviye, none Farawo aranyumvira ate, kuko iminwa yanjye yanduye nk'umubiri utakebwe?”",
+      "start": 20.08,
+      "end": 38.13
+    },
+    "13": {
+      "text": "Uwiteka abwira Mose na Aroni, abatuma ku Bisirayeli no kuri Farawo umwami wa Egiputa, ngo bakure Abisirayeli mu gihugu cya Egiputa.",
+      "start": 37.34,
+      "end": 44.8
+    },
+    "14": {
+      "text": "Aba ni bo batware b'amazu ya ba sekuru: Bene Rubeni imfura ya Isirayeli ni Henoki na Palu, na Hesironi na Karumi. Iyo ni yo miryango ya Rubeni.",
+      "start": 28.26,
+      "end": 35.18
+    },
+    "15": {
+      "text": "Bene Simiyoni ni Yemuweli na Yamini na Ohadi, na Yakini na Sohari na Shawuli, umwana w'Umunyakanānikazi. Iyo ni yo miryango ya Simiyoni.",
+      "start": 19.42,
+      "end": 21.93
+    },
+    "16": {
+      "text": "Aya ni yo mazina y'urubyaro rwa Lewi nk'uko ibihe byabo bikurikirana: bene Lewi ni Gerushoni na Kohati na Merari. Imyaka Lewi yaramye ni ijana na mirongo itatu n'irindwi.",
+      "start": 35.46,
+      "end": 37.67
+    },
+    "17": {
+      "text": "Bene Gerushoni ni Libuni na Shimeyi nk'uko imiryango yabo iri.",
+      "start": 13.92,
+      "end": 16.0
+    },
+    "18": {
+      "text": "Bene Kohati ni Amuramu na Isuhari na Heburoni na Uziyeli. Imyaka Kohati yaramye ni ijana na mirongo itatu n'itatu.",
+      "start": 14.52,
+      "end": 21.75
+    },
+    "19": {
+      "text": "Bene Merari ni Mahali na Mushi. Iyo ni yo miryango y'Abalewi nk'uko ibihe byabo bikurikirana.",
+      "start": 19.08,
+      "end": 30.47
+    },
+    "20": {
+      "text": "Amuramu arongora Yokebedi nyirasenge, babyarana Aroni na Mose. Imyaka Amuramu yaramye ni ijana na mirongo itatu n'irindwi.",
+      "start": 25.88,
+      "end": 26.95
+    },
+    "21": {
+      "text": "Abana ba Isuhari ni Kōra na Nefegi na Zikiri.",
+      "start": 9.38,
+      "end": 37.86
+    },
+    "22": {
+      "text": "Bene Uziyeli ni Mishayeli na Elisafani na Sitiri.",
+      "start": 13.58,
+      "end": 22.24
+    },
+    "23": {
+      "text": "Aroni arongora Elisheba, umukobwa wa Aminadabu, mushiki wa Nahashoni, babyarana Nadabu na Abihu, na Eleyazari na Itamari.",
+      "start": 2.19,
+      "end": 23.7
+    },
+    "24": {
+      "text": "Bene Kōra ni Asiri na Elukana na Abiyasafu. Iyo ni yo miryango y'Abakōra.",
+      "start": 4.84,
+      "end": 12.84
+    },
+    "25": {
+      "text": "Eleyazari mwene Aroni arongora umwe mu bakobwa ba Putiyeli, babyarana Finehasi. Abo ni bo batware b'amazu ya ba sekuru yo mu Balewi nk'uko imiryango yabo iri.",
+      "start": 26.28,
+      "end": 33.05
+    },
+    "26": {
+      "text": "Abo ni bo Aroni na Mose, ba bandi Uwiteka yabwiye ati “Mukure Abisirayeli mu gihugu cya Egiputa, uko imitwe yabo iri.”",
+      "start": 27.54,
+      "end": 37.67
+    },
+    "27": {
+      "text": "Abo ni bo babwiye Farawo umwami wa Egiputa ngo bakure Abisirayeli muri Egiputa. Abo ni bo Mose na Aroni, ba bandi.",
+      "start": 22.63,
+      "end": 34.69
+    },
+    "28": {
+      "text": "Ku munsi Uwiteka yabwiriyeho Mose mu gihugu cya Egiputa,",
+      "start": 27.78,
+      "end": 29.18
+    },
+    "29": {
+      "text": "yaramubwiye ati “Ndi Uwiteka, bwira Farawo umwami wa Egiputa icyo nkubwira cyose.”",
+      "start": 11.36,
+      "end": 16.37
+    },
+    "30": {
+      "text": "Mose avugira imbere y'Uwiteka ati “Dore iminwa yanjye yanduye nk'umubiri utakebwe, Farawo yanyumvira ate?”",
+      "start": 1.62,
+      "end": 4.15
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Uwiteka agenderera Sara nk'uko yavuze, Uwiteka agirira Sara ibyo yasezeranije.",
+      "start": 38.92,
+      "end": 41.98
+    },
+    "2": {
+      "text": "Sara asama inda ya Aburahamu ashaje, babyarana umuhungu igihe Imana yamubwiye kigeze.",
+      "start": 37.27,
+      "end": 42.93
+    },
+    "3": {
+      "text": "Aburahamu yita umuhungu yabyaye Isaka, uwo yabyaranye na Sara.",
+      "start": 7.52,
+      "end": 43.81
+    },
+    "4": {
+      "text": "Aburahamu akeba Isaka umuhungu we amaze iminsi munani avutse, uko Imana yamutegetse.",
+      "start": 17.32,
+      "end": 27.66
+    },
+    "5": {
+      "text": "Aburahamu yabyaye uwo muhungu we Isaka, amaze imyaka ijana avutse.",
+      "start": 7.49,
+      "end": 31.82
+    },
+    "6": {
+      "text": "Sara aravuga ati “Imana iranshekeje, abazabyumva bose bazasekana nanjye.”",
+      "start": 41.59,
+      "end": 43.17
+    },
+    "7": {
+      "text": "Ati “Ni nde uba warabwiye Aburahamu yuko Sara azonsa abana? Ko mubyariye umuhungu ashaje.”",
+      "start": 30.36,
+      "end": 33.22
+    },
+    "8": {
+      "text": "Umwana arakura aracuka, ku munsi Isaka yacukiyeho Aburahamu ararika abantu benshi arabagaburira.",
+      "start": 37.15,
+      "end": 38.65
+    },
+    "9": {
+      "text": "Sara abona umuhungu wa Hagari Umunyegiputakazi, uwo yabyaranye na Aburahamu, abaseka.",
+      "start": 21.11,
+      "end": 31.64
+    },
+    "10": {
+      "text": "Ni cyo cyatumye abwira Aburahamu ati “Senda uyu muja n'umuhungu we, kuko umuhungu w'uyu muja atazaraganwa n'umuhungu wanjye Isaka.”",
+      "start": 31.2,
+      "end": 32.69
+    },
+    "11": {
+      "text": "Ibyo by'uwo muhungu we bitera Aburahamu agahinda kenshi.",
+      "start": 44.03,
+      "end": 44.54
+    },
+    "12": {
+      "text": "Imana ibwira Aburahamu iti “We kugirira uwo muhungu agahinda n'umuja wawe, ibyo Sara akubwira byose umwumvire, kuko kuri Isaka ari ho urubyaro ruzakwitirirwa.",
+      "start": 24.22,
+      "end": 44.32
+    },
+    "13": {
+      "text": "Kandi umuhungu w'uwo muja na we nzamuhindura ubwoko, kuko ari urubyaro rwawe.”",
+      "start": 33.82,
+      "end": 37.66
+    },
+    "14": {
+      "text": "Aburahamu azinduka kare kare, yenda umutsima n'imvumba y'uruhu irimo amazi, abiha Hagari abishyira ku rutugu rwe, amuha n'uwo mwana aramusenda, avayo azerera mu butayu bw'i Bērisheba.",
+      "start": 9.36,
+      "end": 30.28
+    },
+    "15": {
+      "text": "Ya mvumba ishiramo amazi, arambika umwana munsi y'igihuru cy'aho.",
+      "start": 30.8,
+      "end": 40.29
+    },
+    "16": {
+      "text": "Aragenda yicara amwerekeye, amuhaye intera nk'aho umuntu yarasa umwambi, kuko yibwiraga ati “Ne kureba umwana wanjye apfa.” Yicara amwerekeye atera hejuru ararira.",
+      "start": 1.02,
+      "end": 24.0
+    },
+    "17": {
+      "text": "Imana yumva ijwi ry'uwo muhungu, marayika w'Imana ari mu ijuru, ahamagara Hagari aramubaza ati “Ubaye ute, Hagari? Witinya kuko Imana yumviye ijwi ry'uwo muhungu aho ari.",
+      "start": 12.82,
+      "end": 32.99
+    },
+    "18": {
+      "text": "Haguruka, byutsa umuhungu umufate mu maboko, kuko nzamuhindura ubwoko bukomeye.”",
+      "start": 31.85,
+      "end": 39.73
+    },
+    "19": {
+      "text": "Imana imuhumura amaso, abona iriba, aragenda avoma amazi yuzuye ya mvumba, ayaramiza umuhungu we.",
+      "start": 4.98,
+      "end": 12.0
+    },
+    "20": {
+      "text": "Nuko Imana ibana n'uwo muhungu arakura, atura mu butayu, aba umurashi.",
+      "start": 2.18,
+      "end": 33.93
+    },
+    "21": {
+      "text": "Aba mu butayu bw'i Parani, nyina amusabira Umunyegiputakazi.",
+      "start": 30.48,
+      "end": 41.16
+    },
+    "22": {
+      "text": "Muri iyo minsi, Abimeleki na Fikoli umutware w'ingabo ze babwira Aburahamu bati “Imana iri kumwe nawe mu byo ukora byose.",
+      "start": 18.29,
+      "end": 41.94
+    },
+    "23": {
+      "text": "Nuko rero, undahire Imana yuko utazandiganya cyangwa umwana wanjye cyangwa umwuzukuru wanjye, ahubwo ineza nakugiriye ko uzayinyitura, jyewe n'igihugu wasuhukiyemo.”",
+      "start": 21.0,
+      "end": 39.72
+    },
+    "24": {
+      "text": "Aburahamu aramusubiza ati “Ndarahira.”",
+      "start": 38.15,
+      "end": 39.96
+    },
+    "25": {
+      "text": "Aburahamu azimuza Abimeleki ku by'iriba, abagaragu ba Abimeleki bamunyaze.",
+      "start": 5.78,
+      "end": 23.87
+    },
+    "26": {
+      "text": "Abimeleki aramusubiza ati “Sinzi uwakoze ibyo, nawe ntiwigeze kubimbwira, kandi sinigeze kubyumva keretse none.”",
+      "start": 26.49,
+      "end": 31.36
+    },
+    "27": {
+      "text": "Aburahamu azana intama n'inka, abiha Abimeleki, bombi barasezerana.",
+      "start": 27.58,
+      "end": 29.35
+    },
+    "28": {
+      "text": "Aburahamu arobanura abāgazi b'intama barindwi bo mu mukumbi we.",
+      "start": 24.13,
+      "end": 32.73
+    },
+    "29": {
+      "text": "Abimeleki abaza Aburahamu ati “Abo bāgazi b'intama barindwi urobanuye, bisobanuye iki?”",
+      "start": 32.87,
+      "end": 39.42
+    },
+    "30": {
+      "text": "Aramusubiza ati “Aba bāgazi b'intama uko ari barindwi, ndabaguhera kugira ngo bimbere umugabo, yuko ari jye wafukuye iryo riba.”",
+      "start": 39.79,
+      "end": 44.91
+    },
+    "31": {
+      "text": "Ni cyo cyatumye yita aho hantu Bērisheba, kuko ari ho barahiriye bombi.",
+      "start": 40.97,
+      "end": 43.09
+    },
+    "32": {
+      "text": "Nuko basezeranira i Bērisheba, Abimeleki ahagurukana na Fikoli umutware w'ingabo ze, basubira mu gihugu cy'Abafilisitiya.",
+      "start": 38.49,
+      "end": 43.19
+    },
+    "33": {
+      "text": "Aburahamu atera igiti cyitwa umwesheri i Bērisheba, yambarizayo izina ry'Uwiteka, Imana ihoraho.",
+      "start": 37.56,
+      "end": 42.49
+    },
+    "34": {
+      "text": "Aburahamu amara iminsi myinshi asuhukiye mu gihugu cy'Abafilisitiya.",
+      "start": 34.32,
+      "end": 37.54
+    }
+  }
+}

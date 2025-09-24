@@ -1,0 +1,148 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati “Bwira Aroni uti ‘Rambura ukuboko kwawe kurimo ya nkoni yawe hejuru y'inzuzi n'imigende y'amazi n'ibidendezi, uzamure ibikeri bijye mu gihugu cya Egiputa.’ ”",
+      "start": 23.23,
+      "end": 34.35
+    },
+    "2": {
+      "text": "Aroni arambura ukuboko kwe hejuru y'amazi ya Egiputa, ibikeri birazamuka bizimagiza igihugu cya Egiputa.",
+      "start": 10.79,
+      "end": 35.16
+    },
+    "3": {
+      "text": "Ba bakonikoni babigenza batyo babikoresheje uburozi bwabo, bazamura ibikeri bijya mu gihugu cya Egiputa.",
+      "start": 42.91,
+      "end": 43.88
+    },
+    "4": {
+      "text": "Farawo ahamagaza Mose na Aroni arababwira ati “Nimunsabire Uwiteka ankize ibi bikeri, abikure no mu bantu banjye, nanjye ndareka ubwoko bwe bugende butambire Uwiteka ibitambo.”",
+      "start": 38.48,
+      "end": 41.96
+    },
+    "5": {
+      "text": "Mose abwira Farawo ati “Unyirarireho utya: ningusabira Uwiteka wowe n'abagaragu bawe n'abantu bawe, mumbwire gihe ki ushaka ko ibikeri bimarirwa kuri wowe no mu mazu yawe, bigasigara mu ruzi rwonyine?”",
+      "start": 16.04,
+      "end": 35.86
+    },
+    "6": {
+      "text": "Aramusubiza ati “Ni ejo.”Na we aramubwira ati “Bibe uko uvuze, kugira ngo umenye yuko ari nta wuhwanye n'Uwiteka Imana yacu.",
+      "start": 43.0,
+      "end": 44.16
+    },
+    "7": {
+      "text": "Ibikeri bizakuvaho bive no mu mazu yawe, no ku bagaragu bawe no ku bantu bawe, bisigare mu ruzi rwonyine.”",
+      "start": 27.53,
+      "end": 36.66
+    },
+    "8": {
+      "text": "Mose na Aroni bava kuri Farawo, Mose atakambirira Uwiteka ibikeri yateje Farawo.",
+      "start": 16.32,
+      "end": 31.58
+    },
+    "9": {
+      "text": "Uwiteka abigenza uko Mose yavuze, bya bikeri bipfira mu mazu no mu ngo no mu mirima, birakamuka.",
+      "start": 28.57,
+      "end": 29.77
+    },
+    "10": {
+      "text": "Babirunda ibirundo, igihugu kiranuka.",
+      "start": 18.49,
+      "end": 37.4
+    },
+    "11": {
+      "text": "Maze Farawo abonye ko bimworoheye yinangira umutima, ntiyabumvira, uko Uwiteka yari yaravuze.",
+      "start": 14.08,
+      "end": 19.45
+    },
+    "12": {
+      "text": "Uwiteka abwira Mose ati “Bwira Aroni uti ‘Manika inkoni yawe, ukubite umukungugu uhinduke inda mu gihugu cya Egiputa cyose.’ ”",
+      "start": 6.1,
+      "end": 26.62
+    },
+    "13": {
+      "text": "Babigenza batyo, Aroni amanika ukuboko kwe gufite inkoni akubita umukungugu, inda ziba ku bantu no ku matungo, umukungugu wose wo mu gihugu cya Egiputa cyose uhinduka inda.",
+      "start": 29.06,
+      "end": 32.58
+    },
+    "14": {
+      "text": "Abakonikoni bagerageza gukora batyo, barogeshereza uburozi bwabo kugira ngo batere inda ntibabibasha, inda ziba ku bantu no ku matungo.",
+      "start": 27.02,
+      "end": 42.35
+    },
+    "15": {
+      "text": "Abo bakonikoni babwira Farawo bati “Ibi bitewe n'urutoki rw'Imana.” Umutima wa Farawo uranangira ntiyumvira Mose na Aroni, uko Uwiteka yari yaravuze.",
+      "start": 18.22,
+      "end": 23.52
+    },
+    "16": {
+      "text": "Uwiteka abwira Mose ati “Uzazinduke kare mu ruturuturu uhagarare imbere ya Farawo, azaba asohoka ajya ku ruzi umubwire uti ‘Uwiteka aravuze ati: reka abantu banjye bagende bankorere,",
+      "start": 10.66,
+      "end": 20.33
+    },
+    "17": {
+      "text": "nutabarekura nzaguteza amarumbo y'ibibugu, wowe n'abagaragu bawe n'abantu bawe n'amazu yawe amazu y'Abanyegiputa azuzura amarumbo y'ibibugu, bizimagize n'ubutaka bwabo.",
+      "start": 10.66,
+      "end": 17.62
+    },
+    "18": {
+      "text": "Kuri uwo munsi nzarobanura igihugu cy'i Gosheni aho ubwoko bwanjye butuye, amarumbo y'ibibugu ye kubayo kugira ngo umenye yuko ndi Uwiteka, uri hagati y'isi.",
+      "start": 0.57,
+      "end": 41.66
+    },
+    "19": {
+      "text": "Kandi nzashyira itandukaniro hagati y'ubwoko bwanjye n'abantu bawe. Ejo ni ho icyo kimenyetso kizabaho.’ ”",
+      "start": 2.27,
+      "end": 32.14
+    },
+    "20": {
+      "text": "Uwiteka abigenza atyo, amarumbo y'ibibugu aza ari icyago mu nzu ya Farawo no mu mazu y'abagaragu be, kandi igihugu cya Egiputa cyose cyononwa n'ayo marumbo y'ibibugu.",
+      "start": 33.32,
+      "end": 37.26
+    },
+    "21": {
+      "text": "Farawo ahamagaza Mose na Aroni arababwira ati “Nimugende mutambirire Imana yanyu ibitambo muri iki gihugu.”",
+      "start": 35.68,
+      "end": 41.75
+    },
+    "22": {
+      "text": "Mose aramusubiza ati “Si byiza ko dukora dutyo, kuko twaba dutambiye Uwiteka Imana yacu ibyo Abanyegiputa bazira kwica. Twatambira mu maso y'Abanyegiputa ibyo bazira kwica, ntibatwicishe amabuye?",
+      "start": 8.66,
+      "end": 14.17
+    },
+    "23": {
+      "text": "Reka tujye mu butayu tugendemo urugendo rw'iminsi itatu, dutambirireyo Uwiteka Imana yacu uko izadutegeka.”",
+      "start": 19.1,
+      "end": 40.51
+    },
+    "24": {
+      "text": "Farawo aramubwira ati “Ndabareka mugende mutambirire Uwiteka Imana yanyu mu butayu icyakora ntimuzajye kure cyane. Nimunsabire.”",
+      "start": 25.75,
+      "end": 33.44
+    },
+    "25": {
+      "text": "Mose aramubwira ati “Dore ndava imbere yawe nsohoke, nsabe Uwiteka ngo amarumbo y'ibibugu ejo azave kuri Farawo no ku bagaragu be no ku bantu be. Ariko ye kongera kuriganya ntareke ubwoko bwacu bugenda bugatambira Uwiteka ibitambo.”",
+      "start": 28.4,
+      "end": 32.65
+    },
+    "26": {
+      "text": "Mose ava imbere ya Farawo arasohoka, asaba Uwiteka.",
+      "start": 15.9,
+      "end": 44.84
+    },
+    "27": {
+      "text": "Uwiteka abigenza uko Mose yavuze, akura ayo marumbo y'ibibugu kuri Farawo no ku bagaragu be no ku bantu be, ntihasigara na kimwe.",
+      "start": 33.42,
+      "end": 40.18
+    },
+    "28": {
+      "text": "Farawo yinangira umutima n'ubwo na bwo, ntiyareka ubwo bwoko bugenda.",
+      "start": 37.92,
+      "end": 43.62
+    }
+  }
+}

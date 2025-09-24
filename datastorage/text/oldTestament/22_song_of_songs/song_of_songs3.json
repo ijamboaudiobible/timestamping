@@ -1,0 +1,63 @@
+{
+  "book": "Book 22",
+  "book_canonical": "song_of_songs",
+  "book_number": 22,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Nijoro ndi ku buriri bwanjye,Nshaka uwo umutima wanjye ukunda,Ndamushaka ndamubura.",
+      "start": 41.06,
+      "end": 43.91
+    },
+    "2": {
+      "text": "Ni ko kuvuga nti “Ngiye guhaguruka,Ngendagende mu mudugudu,Mu nzira no mu miharuro,Nshaka uwo umutima wanjye ukunda.”Naramushatse ndamubura.",
+      "start": 34.46,
+      "end": 35.51
+    },
+    "3": {
+      "text": "Nahuye n'abarinzi bagenda umudugudu,Ndabaza nti “Mbese mwabonye uwo umutima wanjye ukunda?”",
+      "start": 29.85,
+      "end": 36.51
+    },
+    "4": {
+      "text": "Tugitandukana gato,Mbona uwo umutima wanjye ukunda.Ndamufata nanga kumurekura,Kugeza ubwo namugejeje mu nzu ya mama,Mu cyumba cy'uwambyaye. Umukwe:",
+      "start": 22.47,
+      "end": 44.32
+    },
+    "5": {
+      "text": "Mwa bakobwa b'i Yerusalemu mwe,Mbarahirije amasirabo n'impara zo mu gasozi,Ntimukangure umukunzi wanjye ngo abyuke,Kugeza igihe abyishakira. Umugeni:",
+      "start": 27.43,
+      "end": 33.32
+    },
+    "6": {
+      "text": "Uriya ni nde uzamuka aturuka mu butayu,Ameze nk'inkingi z'umwotsi,Ahumurwaho n'ishangi n'icyome,N'ibihumura neza byose by'umugenza?",
+      "start": 24.66,
+      "end": 41.23
+    },
+    "7": {
+      "text": "Dore ni ingobyi ya Salomo,Akikijwe n'ingabo z'intwari mirongo itandatu,Zo mu ntwari za Isirayeli.",
+      "start": 8.75,
+      "end": 36.41
+    },
+    "8": {
+      "text": "Bose bitwaje inkota,Ni abahanga bo kurwana,Umuntu wese atwaye inkota ye ku itako rye,Babitewe n'ubwoba bwa nijoro.",
+      "start": 36.83,
+      "end": 43.92
+    },
+    "9": {
+      "text": "Umwami Salomo yiremeye ikitabashwa,Mu biti by'i Lebanoni.",
+      "start": 27.97,
+      "end": 44.83
+    },
+    "10": {
+      "text": "Inkingi zacyo yaziremye mu ifeza,N'imbere hacyo hari izahabu,N'icyicaro cyacyo ari umuhengeri.Igisasiro cyacyo gishashwe n'urukundo,Yabikorewe n'abakobwa b'i Yerusalemu.",
+      "start": 13.61,
+      "end": 26.17
+    },
+    "11": {
+      "text": "Yemwe bakobwa b'i Siyoni, nimusohoke,Mwitegereze umwami Salomo,Ufite ikamba yambitswe na nyina umunsi yashyingiweho,Ari wo munsi umutima we wanezerewe. Umukwe:",
+      "start": 41.94,
+      "end": 43.69
+    }
+  }
+}

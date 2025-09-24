@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 82,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Asafu.Imana ihagarara mu iteraniro ryayo,Icira abigira “imana” urubanza iti",
+      "start": 25.24,
+      "end": 27.84
+    },
+    "2": {
+      "text": "“Muzageza he guca imanza zibera,Zita ku cyubahiro cy'abanyabyaha?Sela.",
+      "start": 12.08,
+      "end": 19.81
+    },
+    "3": {
+      "text": "Muce imanza zikwiriye uworoheje n'impfubyi,Muce imanza zirenganura umunyamubabaro n'umutindi.",
+      "start": 5.22,
+      "end": 36.33
+    },
+    "4": {
+      "text": "Mutabare uworoheje n'umukene,Mubakize amaboko y'abanyabyaha.",
+      "start": 32.94,
+      "end": 42.86
+    },
+    "5": {
+      "text": "“Abo mbwiye nta cyo bazi, nta cyo bamenya,Bagendagenda mu mwijima,Imfatiro zose z'isi ziranyeganyega.",
+      "start": 30.19,
+      "end": 41.69
+    },
+    "6": {
+      "text": "Ni jye wababwiye nti‘Muri imana,Mwese muri abana b'Isumbabyose.’",
+      "start": 12.39,
+      "end": 35.39
+    },
+    "7": {
+      "text": "Ariko muzapfa nk'abantu,Muzagwa nk'umwe mu bakomeye.”",
+      "start": 17.84,
+      "end": 25.76
+    },
+    "8": {
+      "text": "Mana, haguruka ucire isi urubanza,Kuko uzagira amahanga yose umwandu wawe.",
+      "start": 24.41,
+      "end": 31.88
+    }
+  }
+}

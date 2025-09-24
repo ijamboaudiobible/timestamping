@@ -1,0 +1,138 @@
+{
+  "book": "Book 5",
+  "book_canonical": "deuteronomy",
+  "book_number": 5,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Mose n'abakuru b'Abisirayeli bategeka abantu bati “Muhore mwitondera amategeko yose mbategeka uyu munsi.",
+      "start": 20.7,
+      "end": 25.33
+    },
+    "2": {
+      "text": "Kandi ubwo muzambuka Yorodani mukagera mu gihugu Uwiteka Imana yanyu ibaha, uzishingire ibibuye binini ubihome ingwa.",
+      "start": 26.88,
+      "end": 27.26
+    },
+    "3": {
+      "text": "Uzandike kuri ibyo bibuye amagambo yose y'ayo mategeko, numara kwambutswa no kujya mu gihugu Uwiteka Imana yawe iguha, igihugu cy'amata n'ubuki, nk'uko Uwiteka Imana ya ba sekuruza banyu yagusezeranije.",
+      "start": 32.42,
+      "end": 33.42
+    },
+    "4": {
+      "text": "Nuko nimumara kwambuka Yorodani muzashinge ibyo bibuye mbategetse uyu munsi ku musozi wa Ebali, ubihome ingwa.",
+      "start": 42.65,
+      "end": 43.43
+    },
+    "5": {
+      "text": "Kandi uzubakireyo Uwiteka Imana yawe igicaniro cy'amabuye, ntuzayakozeho ikintu cy'icyuma.",
+      "start": 5.81,
+      "end": 29.78
+    },
+    "6": {
+      "text": "Uzubakishe igicaniro cy'Uwiteka Imana yawe amabuye atabajwe, abe ari cyo utambiriraho Uwiteka Imana yawe ibitambo byoswa,",
+      "start": 28.94,
+      "end": 41.58
+    },
+    "7": {
+      "text": "kandi utambireyo ibitambo by'uko muri amahoro ubirīreyo, wishimire imbere y'Uwiteka Imana yawe.",
+      "start": 17.23,
+      "end": 17.81
+    },
+    "8": {
+      "text": "Uzandike kuri ibyo bibuye amagambo yose y'aya mategeko, wandikishije gukeba inyuguti zisomeka neza.”",
+      "start": 42.68,
+      "end": 44.38
+    },
+    "9": {
+      "text": "Mose n'abatambyi b'Abalewi babwira Abisirayeli bose bati “Wa bwoko bw'Abisirayeli we, ceceka wumve: uyu munsi uhindutse ubwoko bw'Uwiteka Imana yawe.",
+      "start": 31.97,
+      "end": 33.29
+    },
+    "10": {
+      "text": "Ni cyo gituma ukwiriye kumvira Uwiteka Imana yawe, ukitondera amategeko y'Uwiteka y'uburyo bwose, ngutegeka uyu munsi.”",
+      "start": 15.98,
+      "end": 30.01
+    },
+    "11": {
+      "text": "Mose yihanangiriza abantu kuri uwo munsi ati",
+      "start": 41.42,
+      "end": 42.17
+    },
+    "12": {
+      "text": "“Aba azabe ari bo bahagarikwa ku musozi wa Gerizimu no kwifuriza abantu umugisha, nimumara kwambuka Yorodani: ab'imiryango ya Simiyoni na Lewi na Yuda, na Isakari na Yosefu na Benyamini.",
+      "start": 4.55,
+      "end": 40.03
+    },
+    "13": {
+      "text": "Kandi aba azabe ari bo bahagarikwa ku musozi wa Ebali no kuvuga umuvumo: ab'imiryango ya Rubeni na Gadi na Asheri, na Zebuluni na Dani na Nafutali.”",
+      "start": 5.85,
+      "end": 28.32
+    },
+    "14": {
+      "text": "Abalewi babwize Abisirayeli bose ijwi rirenga bati",
+      "start": 34.65,
+      "end": 42.98
+    },
+    "15": {
+      "text": "“Nihagira umuntu urema igishushanyo kibajwe cyangwa kiyagijwe, ikizira Uwiteka yanga urunuka, kiremwa n'umuhanga wabyo akagishinga rwihishwa, avumwe.”Abantu bose babasubize bati “Amen!”",
+      "start": 44.82,
+      "end": 44.95
+    },
+    "16": {
+      "text": "Abalewi bati “Usuzugura se cyangwa nyina avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 2.98,
+      "end": 39.42
+    },
+    "17": {
+      "text": "Abalewi bati “Uhina imbago z'urubibi rwa mugenzi we avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 21.08,
+      "end": 23.88
+    },
+    "18": {
+      "text": "Abalewi bati “Uyobya impumyi inzira avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 20.12,
+      "end": 27.54
+    },
+    "19": {
+      "text": "Abalewi bati “Ugoreka urubanza rw'umusuhuke w'umunyamahanga, cyangwa rw'impfubyi cyangwa rw'umupfakazi, avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 43.82,
+      "end": 44.59
+    },
+    "20": {
+      "text": "Abalewi bati “Usambana na muka se avumwe, kuko aba yorosoye umwenda wa se akamwambika ubusa.”Abantu bose bavuge bati “Amen!”",
+      "start": 10.72,
+      "end": 21.67
+    },
+    "21": {
+      "text": "Abalewi bati “Uryamana n'itungo ryose avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 37.41,
+      "end": 43.23
+    },
+    "22": {
+      "text": "Abalewi bati “Usambana na mushiki we basangiye se cyangwa nyina, avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 25.63,
+      "end": 32.03
+    },
+    "23": {
+      "text": "Abalewi bati “Usambana na nyirabukwe avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 1.37,
+      "end": 12.79
+    },
+    "24": {
+      "text": "Abalewi bati “Uwica mugenzi we rwihishwa avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 11.19,
+      "end": 18.02
+    },
+    "25": {
+      "text": "Abalewi bati “Uwenda ibiguzi byo kwicisha utacumuye avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 7.43,
+      "end": 42.13
+    },
+    "26": {
+      "text": "Abalewi bati “Udasohoza amagambo y'ayo mategeko ngo ayumvire, avumwe.”Abantu bose bavuge bati “Amen!”",
+      "start": 26.13,
+      "end": 34.05
+    }
+  }
+}

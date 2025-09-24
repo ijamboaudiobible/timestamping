@@ -1,0 +1,33 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 125,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Abiringiye UwitekaBameze nk'umusozi wa Siyoni,Utabasha kunyeganyezwa,Ahubwo uhora uhamye iteka ryose.",
+      "start": 32.47,
+      "end": 42.75
+    },
+    "2": {
+      "text": "Nk'uko imisozi igose i Yerusalemu,Ni ko Uwiteka agota abantu be,Uhereye none ukageza iteka ryose.",
+      "start": 30.08,
+      "end": 39.72
+    },
+    "3": {
+      "text": "Kuko inkoni y'ubutware y'abanyabyaha,Itazagumya kuba ku mwandu w'abakiranutsi,Kugira ngo abakiranutsi be kuramburira amaboko,Gukora ibyo gukiranirwa.",
+      "start": 1.98,
+      "end": 42.44
+    },
+    "4": {
+      "text": "Uwiteka, ugirire abeza ibyiza,N'abatunganye mu mitima.",
+      "start": 28.99,
+      "end": 38.73
+    },
+    "5": {
+      "text": "Ariko abiyobagiriza mu nzira zabo zigoramye,Uwiteka azabajyanana n'inkozi z'ibibi.Amahoro abe mu Bisirayeli.",
+      "start": 3.25,
+      "end": 43.57
+    }
+  }
+}

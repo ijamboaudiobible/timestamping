@@ -1,0 +1,118 @@
+{
+  "book": "Book 25",
+  "book_canonical": "lamentations",
+  "book_number": 25,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Umurwa w'i Yerusalemu ko usigayemo ubusa,Kandi wari wuzuye abantu!Uwari ukomeye mu mahanga,Ko yahindutse nk'umupfakazi!Uwari umwamikazi mu ntara yarayobotse,Aratura ikoro.",
+      "start": 12.82,
+      "end": 42.69
+    },
+    "2": {
+      "text": "Nijoro arira cyane,Amarira amutemba mu maso,Mu bakunzi be bose ntafite umuhumuriza.Incuti ze zose zaramuriganije,Zahindutse abanzi be.",
+      "start": 40.14,
+      "end": 43.67
+    },
+    "3": {
+      "text": "Abayuda bajyanywe ari imbohe,Babitewe n'akarengane n'uburetwa bwinshi bikabije.Batuye mu banyamahanga,Nta buruhukiro bahabonye,Ababarenganya bose babafashe bageze mu gakubiro.",
+      "start": 0.95,
+      "end": 20.11
+    },
+    "4": {
+      "text": "Inzira z'i Siyoni ziraboroga,Kuko ari nta wukīza mu materaniro yera.Amarembo yaho yose ni amatongo,Abatambyi baho barasuhuza umutima.Abari baho bafite umubabaro,Na ho ubwaho hafite ishavu.",
+      "start": 20.19,
+      "end": 40.11
+    },
+    "5": {
+      "text": "Abaharwanyaga barahanesheje,Ababisha baho bagize ishya.Kuko Uwiteka yahababaje ahahoye ibicumuro byaho byinshi,Abana baho bato bajyanywe ho abanyagano imbere y'ababisha.",
+      "start": 8.35,
+      "end": 8.5
+    },
+    "6": {
+      "text": "Ubwiza bwose bw'umukobwa w'i Siyoni bwamuvuyeho,Ibikomangoma bye byahindutse nk'impara zihebye urwuri,Byagiye bidafite intege imbere y'ababyirukanaga.",
+      "start": 3.77,
+      "end": 24.88
+    },
+    "7": {
+      "text": "I Yerusalemu mu gihe cy'umubabaro n'amaganya byaho,Hibutse ibintu byaho byose binezeza,Ibyo hahoranye kera.Igihe ubwoko bwaho buguye mu maboko y'umubisha,Ntihagire kivuna,Ababisha bahabonye baseka ko habaye amatongo.",
+      "start": 33.49,
+      "end": 40.5
+    },
+    "8": {
+      "text": "I Yerusalemu hacumuye bishishana,Ni cyo gituma habaye ikintu cyanduye.Abahubahaga bose barahasuzuguye,Kuko babonye ubwambure bwaho.Ni ukuri hasuhuza umutima,Kandi hasubira inyuma.",
+      "start": 4.37,
+      "end": 7.81
+    },
+    "9": {
+      "text": "Umwanda waho wageze ku myambaro yaho,Ntihibuka iherezo ryaho.Ni cyo cyatumye hacishwa bugufi bitangaje,Ntihagira uhahumuriza.“Ayii Uwiteka, itegereze umubabaro wanjye,Kuko umwanzi anyitereye hejuru!”",
+      "start": 22.68,
+      "end": 30.76
+    },
+    "10": {
+      "text": "Umubisha yasingirije ukuboko kwe ibintu byaho byose binezeza,Kuko habonye yuko abanyamahanga binjiye mu buturo bwaho bwera,Abo wari wahakaniye ko badakwiriye kwinjira mu iteraniro ryawe.",
+      "start": 43.09,
+      "end": 43.18
+    },
+    "11": {
+      "text": "Abantu baho bose baraganya,Barahahiriza ibyokurya.Ibintu byabo binezeza babitanze ku byokurya ngo bahembure amagara yabo.“Ayii Uwiteka, reba kandi witegereze,Nahindutse umugayo.",
+      "start": 37.49,
+      "end": 42.79
+    },
+    "12": {
+      "text": "“Mwebwe abihitira mwese mwe, mbese ntibibababaje?Nimwitegereze murebe ko hari umubabaro uhwanye n'uwanjye wangezeho;Uwo Uwiteka yampanishije ku munsi w'uburakari bwe bukaze.",
+      "start": 15.78,
+      "end": 35.96
+    },
+    "13": {
+      "text": "“Yohereje umuriro mu magufwa yanjye,Uvuye hejuru uyageramo yose.Yategeye ibirenge byanjye umutego,Yansubije inyuma.Yangize umwihebe ngacika intege umunsi wose.",
+      "start": 17.7,
+      "end": 40.83
+    },
+    "14": {
+      "text": "“Ukuboko kwe kwamboheyeho umutwaro w'ibicumuro byanjye.Byarasobekeranye bingera mu ijosi,Yacogoje imbaraga zanjye.Umwami yantanze mu maboko y'abo ntashoboye guhangana na bo.",
+      "start": 19.28,
+      "end": 37.31
+    },
+    "15": {
+      "text": "“Umwami yagushije intwari zanjye zose zari zantuyeho,Yankoranirijeho iteraniro ryo guhondagura abasore banjye.Umwami yaribatiye umwari wa Yuda mu muvure,Nk'uko bawengeragamo vino.",
+      "start": 31.43,
+      "end": 37.07
+    },
+    "16": {
+      "text": "“Ibyo ni byo bindiza,Ijisho ryanjye, ijisho ryanjye riratembamo amarira nk'amazi,Kuko umuhumuriza wari ukwiriye kundema umutima ambaye kure.Abana banjye babaye impabe,Kuko umwanzi yatsinze.”",
+      "start": 28.96,
+      "end": 32.66
+    },
+    "17": {
+      "text": "I Siyoni harara amaboko ntihaboneka uhahumuriza,Uwiteka yategetse ibya Yakobo,Kugira ngo abamukikijeho bamubere ababisha,I Yerusalemu habamereye nk'ikintu cyanduye.",
+      "start": 7.16,
+      "end": 7.62
+    },
+    "18": {
+      "text": "“Uwiteka arakiranuka kuko nagomeye amategeko ye,Nimwumve ndabinginze, mwa moko yose mwe,Kandi mwitegereze umubabaro wanjye,Abari banjye n'abahungu banjye bagiye ho abanyagano.",
+      "start": 10.92,
+      "end": 23.26
+    },
+    "19": {
+      "text": "“Natabaje abakunzi banjye ariko baranshutse,Abatambyi banjye n'abakuru banjye baguye ku murwa,Ubwo bashakaga ibyokurya bihembura amagara yabo.",
+      "start": 40.7,
+      "end": 42.5
+    },
+    "20": {
+      "text": "“Ayii Uwiteka, itegereze kuko ndi mu makuba,Umutima wanjye urahagaze!Umutima wanjye uradihagura kuko nagomye bishayishije,Inkota iricira hanze kandi no mu rugo hari urupfu.",
+      "start": 14.04,
+      "end": 20.31
+    },
+    "21": {
+      "text": "“Bumvise ko nganya ntihagira umpumuriza,Abanzi banjye bose bumvise ibyago byanjye,Bishimira ko ari wowe wabingize.Uzasohoze umunsi wavuze na bo bamere nkanjye.",
+      "start": 1.24,
+      "end": 7.23
+    },
+    "22": {
+      "text": "“Ibibi byabo byose bize imbere yawe,Ubagirire nk'uko wangiriye,Umpora ibicumuro byanjye byose.Kuko amaganya yanjye ari menshi,Kandi umutima wanjye ukaba urabiranye.”",
+      "start": 14.07,
+      "end": 28.94
+    }
+  }
+}

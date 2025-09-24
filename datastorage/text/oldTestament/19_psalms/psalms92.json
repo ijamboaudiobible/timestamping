@@ -1,0 +1,88 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 92,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi ni indirimbo yo kuririmbwa ku isabato.",
+      "start": 16.15,
+      "end": 26.96
+    },
+    "2": {
+      "text": "Ni byiza gushima Uwiteka,No kuririmbira izina ryawe ishimwe, Usumbabyose,",
+      "start": 17.0,
+      "end": 28.53
+    },
+    "3": {
+      "text": "Kwerekana imbabazi zawe mu gitondo,N'umurava wawe uko bwije,",
+      "start": 16.5,
+      "end": 28.88
+    },
+    "4": {
+      "text": "Tubwira inanga y'imirya cumi na nebelu,Tubwirisha inanga ijwi ry'uwibwira.",
+      "start": 30.06,
+      "end": 36.68
+    },
+    "5": {
+      "text": "Kuko wowe Uwiteka, wanyishimishije n'umurimo wakoze,Nzavugishwa impundu n'imirimo y'intoki zawe.",
+      "start": 2.8,
+      "end": 19.01
+    },
+    "6": {
+      "text": "Uwiteka, erega imirimo wakoze irakomeye!Ibyo utekereza bifite uburebure bw'ikijyepfo.",
+      "start": 43.65,
+      "end": 43.84
+    },
+    "7": {
+      "text": "Umuntu umeze nk'inka ntazi ibi,Umupfu ntabimenya.",
+      "start": 17.84,
+      "end": 18.8
+    },
+    "8": {
+      "text": "Iyo abanyabyaha bārutse nk'ibyatsi,Kandi inkozi z'ibibi zose iyo zeze,Ni ukugira ngo barimbuke iteka,",
+      "start": 29.45,
+      "end": 32.43
+    },
+    "9": {
+      "text": "Ariko wowe Uwiteka, ushyizwe hejuru iteka ryose.",
+      "start": 2.83,
+      "end": 22.56
+    },
+    "10": {
+      "text": "Dore abanzi bawe Uwiteka,Dore abanzi bawe bazarimbuka,Inkozi z'ibibi zose zizatatanywa.",
+      "start": 31.34,
+      "end": 41.98
+    },
+    "11": {
+      "text": "Ariko washyize hejuru ihembe ryanjye nk'iry'imbogo,Nsīzwe amavuta mashya.",
+      "start": 13.74,
+      "end": 24.09
+    },
+    "12": {
+      "text": "Kandi ijisho ryanjye ryarebye ibyo nshakira abanzi banjye,Amatwi yanjye yumvise ibyo nshakira abanyabyaha bampagurukiye.",
+      "start": 26.72,
+      "end": 26.83
+    },
+    "13": {
+      "text": "Umukiranutsi azashisha nk'umukindo,Azashyirwa hejuru nk'umwerezi w'i Lebanoni.",
+      "start": 18.7,
+      "end": 37.02
+    },
+    "14": {
+      "text": "Ubwo batewe mu rugo rw'Uwiteka,Bazashishira mu bikari by'Imana yacu.",
+      "start": 32.85,
+      "end": 43.33
+    },
+    "15": {
+      "text": "Bazagumya kwera no mu busaza,Bazagira amakakama menshi n'itoto,",
+      "start": 37.8,
+      "end": 38.45
+    },
+    "16": {
+      "text": "Kugira ngo byerekane yuko Uwiteka atunganye,Ni we gitare cyanjye, ntarimo gukiranirwa na guke.",
+      "start": 18.6,
+      "end": 21.68
+    }
+  }
+}

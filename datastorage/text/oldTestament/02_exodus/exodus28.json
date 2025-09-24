@@ -1,0 +1,223 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "“Uziyegereze Aroni mwene so n'abana be, ubatoranye mu Bisirayeli kugira ngo ankorere umurimo w'ubutambyi, Aroni na Nadabu na Abihu, na Eleyazari na Itamari, abana be.",
+      "start": 27.86,
+      "end": 39.73
+    },
+    "2": {
+      "text": "Ubohere Aroni mwene so imyambaro yejejwe, ibe iyo kumutera icyubahiro n'umurimbo.",
+      "start": 24.09,
+      "end": 27.39
+    },
+    "3": {
+      "text": "Kandi uzabwire abahanga bose nujuje umwuka w'ubwenge, babohe imyambaro ya Aroni yo kumwereza kugira ngo ankorere umurimo w'ubutambyi.",
+      "start": 22.03,
+      "end": 27.69
+    },
+    "4": {
+      "text": "Iyi abe ari yo myambaro baboha: uwo ku gituza n'uwitwa efodi, n'ikanzu n'indi kanzu y'amabara y'ibika, n'igitambaro cyo kuzingirwa mu mutwe n'umushumi. Bazabohere Aroni mwene so n'abana be imyambaro yejejwe, kugira ngo ankorere umurimo w'ubutambyi.",
+      "start": 10.92,
+      "end": 32.26
+    },
+    "5": {
+      "text": "Bajyane imikwege y'izahabu n'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza byo kuyibohesha.",
+      "start": 7.96,
+      "end": 25.87
+    },
+    "6": {
+      "text": "“Efodi bazayiremeshe imikwege y'izahabu n'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije, abahanga b'ibyo abe ari bo bayiboha.",
+      "start": 20.7,
+      "end": 32.6
+    },
+    "7": {
+      "text": "Igire imishumi ku ntugu zombi ifatanye imitwe yayo yombi, kugira ngo efodi ifatanywe hamwe.",
+      "start": 39.0,
+      "end": 42.73
+    },
+    "8": {
+      "text": "Umushumi uboshywe n'abahanga uyiriho wo kuyikenyeza, ubohwe nka yo bibohanwe. Bawuremeshe imikwege y'izahabu n'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije.",
+      "start": 33.81,
+      "end": 40.91
+    },
+    "9": {
+      "text": "Kandi uzende amabuye abiri yitwa shohamu, uyandikisheho gukeba amazina y'abana ba Isirayeli.",
+      "start": 19.49,
+      "end": 23.68
+    },
+    "10": {
+      "text": "Amazina ya batandatu uyandike ku ibuye rimwe, n'amazina y'abandi batandatu uyandike ku rindi, uko ubukuru bwabo bukurikirana.",
+      "start": 43.84,
+      "end": 44.59
+    },
+    "11": {
+      "text": "Uko umukebyi wo ku mabuye akeba ku ibuye rishyiraho ikimenyetso, abe ari ko wandikisha gukeba kuri ayo mabuye yombi amazina y'abana ba Isirayeli, uyakwikire mu izahabu, iyakomeze.",
+      "start": 31.93,
+      "end": 38.78
+    },
+    "12": {
+      "text": "Ushyire ayo mabuye yombi kuri ya mishumi ya efodi yo ku ntugu, abere Abisirayeli amabuye yo kwibukwa. Aroni ajye yambara amazina y'abana ba Isirayeli ku ntugu ze zombi, ayajyane imbere y'Uwiteka kuba urwibutso.",
+      "start": 43.69,
+      "end": 44.64
+    },
+    "13": {
+      "text": "Kandi uzacure udufunga mu izahabu,",
+      "start": 2.66,
+      "end": 23.04
+    },
+    "14": {
+      "text": "n'imikufi ibiri y'izahabu nziza, uyirememo imboherane nk'imigozi, uhotorere iyo mikufi y'imboherane muri utwo dufunga.",
+      "start": 12.29,
+      "end": 32.5
+    },
+    "15": {
+      "text": "“Kandi uzabohe umwambaro wo ku gituza wo kūngurisha inama, abahanga b'ibyo abe ari bo bawuboha. Uko efodi iboshywe abe ari ko uwuboha, uwuremeshe imikwege y'izahabu n'ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije.",
+      "start": 0.25,
+      "end": 12.41
+    },
+    "16": {
+      "text": "Ungane impande zose inkubirane: uburebure bwawo bube igice cya mukono, n'ubugari bwawo bube igice cya mukono.",
+      "start": 13.8,
+      "end": 16.27
+    },
+    "17": {
+      "text": "Uwuhundemo amabuye akwikiwe y'impushya enye: urwa mbere rube urw'amabuye yitwa odemu na pitida na bareketi,",
+      "start": 42.36,
+      "end": 44.82
+    },
+    "18": {
+      "text": "urwa kabiri rube urw'ayitwa nofekina na safiro na yahalomu,",
+      "start": 37.79,
+      "end": 40.05
+    },
+    "19": {
+      "text": "urwa gatatu rube urw'ayitwa leshemu na shevo na akilama,",
+      "start": 29.31,
+      "end": 43.02
+    },
+    "20": {
+      "text": "urwa kane rube urw'ayitwa tarushishi na shohamu na yasipi, akwikirwe mu izahabu iyakomeza.",
+      "start": 18.85,
+      "end": 22.68
+    },
+    "21": {
+      "text": "Ayo mabuye anganye umubare n'amazina y'abana ba Isirayeli, abe cumi n'abiri nk'uko amazina yabo ari, abe ay'imiryango yabo uko ari cumi n'ibiri, izina ry'umuryango ryandikishwe gukeba ku ibuye, bityo bityo nk'uko bakeba ku ibuye rishyiraho ikimenyetso.",
+      "start": 11.94,
+      "end": 19.53
+    },
+    "22": {
+      "text": "Kandi uzacurire uwo mwambaro wo ku gituza imikufi y'izahabu nziza y'imboherane isa n'imigozi.",
+      "start": 13.42,
+      "end": 30.46
+    },
+    "23": {
+      "text": "Kandi uwucurire impeta ebyiri mu izahabu, izo mpeta zombi uzihunde ku mitwe yawo yombi.",
+      "start": 42.64,
+      "end": 43.85
+    },
+    "24": {
+      "text": "Uhotorere iyo mikufi yombi y'izahabu y'imboherane muri izo mpeta zombi zo ku mitwe yombi y'uwo mwambaro wo ku gituza.",
+      "start": 19.59,
+      "end": 38.39
+    },
+    "25": {
+      "text": "Indi mitwe yombi y'iyo mikufi y'imboherane yombi, uyihotorere muri twa dufunga twombi, uduhunde kuri ya mishumi ya efodi yo ku ntugu, mu ruhande rw'imbere.",
+      "start": 21.1,
+      "end": 29.24
+    },
+    "26": {
+      "text": "Kandi ucure impeta ebyiri mu izahabu, uzihunde ku mitwe yombi y'uwo mwambaro wo ku gituza ku musozo wawo, mu ruhande ruhera kuri efodi iri imbere yawo.",
+      "start": 40.49,
+      "end": 42.0
+    },
+    "27": {
+      "text": "Ucure izindi mpeta ebyiri mu izahabu, uzihunde ku mishumi yombi ya efodi yo ku ntugu imbere ahagana hasi, hafi y'aho ifatanira na efodi, haruguru ya wa mushumi waboshywe n'abahanga ukenyeza efodi.",
+      "start": 37.79,
+      "end": 40.68
+    },
+    "28": {
+      "text": "Kandi uwo mwambaro wo ku gituza bazawufatanishe ku mpeta zo kuri efodi, agashumi kaboheshejwe ubudodo bw'umukara wa kabayonga gaciye mu mpeta zo kuri wo, kugira ngo ube kuri wa mushumi wa efodi waboshywe n'abahanga, uwo mwambaro wo ku gituza we gupfundurwa kuri efodi.",
+      "start": 8.18,
+      "end": 28.72
+    },
+    "29": {
+      "text": "“Aroni azajye yambara ku mutima we amazina y'abana ba Isirayeli ari kuri uwo mwambaro wo ku gituza wo kūngurisha inama uko yinjiye Ahera, abe urwibutso rubibukisha imbere y'Uwiteka ubudasiba.",
+      "start": 35.59,
+      "end": 40.79
+    },
+    "30": {
+      "text": "Kandi uzashyire Urimu na Tumimu imbere muri uwo mwambaro wo ku gituza zo kūngurisha inama, bibe ku mutima wa Aroni uko yinjiye imbere y'Uwiteka. Aroni azajye yambara ku mutima we ibyūngurisha inama z'Abisirayeli, abijyane imbere y'Uwiteka ubudasiba.",
+      "start": 44.48,
+      "end": 44.65
+    },
+    "31": {
+      "text": "“Kandi ikanzu iriho efodi, uzayiboheshe ubudodo bw'umukara wa kabayonga busa,",
+      "start": 38.52,
+      "end": 44.33
+    },
+    "32": {
+      "text": "igire umwenge wo gucishamo umutwe hagati yayo, igire umusozo uboshywe ugose uwo mwenge, uko umwenge w'ikoti y'icyuma umeze, kugira ngo idasaduka.",
+      "start": 14.29,
+      "end": 40.42
+    },
+    "33": {
+      "text": "Ku musozo wayo wo hepfo uzadodeho ibisa n'imbuto z'amakomamanga, biboheshejwe ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, bigote uwo musozo impande zose. Uzawuhundeho n'imidende y'izahabu irobekwe hagati yabyo, iwugote impande zose:",
+      "start": 12.44,
+      "end": 25.69
+    },
+    "34": {
+      "text": "umudende w'izahabu urobekwe hagati y'amakomamanga abiri, bityo bityo bigote umusozo wo hepfo w'iyo kanzu impande zose.",
+      "start": 31.19,
+      "end": 34.43
+    },
+    "35": {
+      "text": "Aroni azajye ayambara uko agiye gukora umurimo w'ubutambyi, kandi uko yinjiye Ahera imbere y'Uwiteka kandi uko asohotse, kujegera kwayo kujye kumvikana kugira ngo adapfa.",
+      "start": 4.91,
+      "end": 39.12
+    },
+    "36": {
+      "text": "“Kandi uzacure igisate mu izahabu nziza, maze nk'uko bakeba ku ibuye rishyiraho ikimenyetso, ucyandikisheho gukeba aya magambo ngo: YEREJWE UWITEKA.",
+      "start": 34.75,
+      "end": 42.23
+    },
+    "37": {
+      "text": "Ugifatanye n'agashumi kaboheshejwe ubudodo bw'umukara wa kabayonga, gitamirizwe kuri cya gitambaro kizinze cyo mu mutwe.",
+      "start": 24.3,
+      "end": 37.58
+    },
+    "38": {
+      "text": "Icyo gisate kibe mu ruhanga rwa Aroni, agibweho no gukiranirwa ko mu byera Abisirayeli bazeza iyo batura amaturo yabo yose yera, gihore kiba mu ruhanga rwe iteka, kugira ngo bemerwe n'Uwiteka.",
+      "start": 21.45,
+      "end": 37.11
+    },
+    "39": {
+      "text": "“Kandi ikanzu ibanza ku mubiri, uzayiboheshe ubudodo bw'igitare bwiza igire amabara y'ibika, n'igitambaro cyo kuzingirwa mu mutwe ukiboheshe ubudodo bw'ibitare byiza, ubohe n'umushumi, abahanga b'ibyo bawudodeho amabara.",
+      "start": 23.02,
+      "end": 24.64
+    },
+    "40": {
+      "text": "“Abana ba Aroni uzababohere amakanzu abanza ku mubiri, ubabohere n'imishumi n'ingofero, bibe ibyo kubatera icyubahiro n'umurimbo.",
+      "start": 30.96,
+      "end": 39.8
+    },
+    "41": {
+      "text": "Iyo myambaro yose uzayambike Aroni mwene so n'abana be hamwe na we, ubasīge ubereze umurimo wabo, ubānyērēze kugira ngo bankorere umurimo w'ubutambyi.",
+      "start": 31.38,
+      "end": 38.18
+    },
+    "42": {
+      "text": "Kandi uzababohere amakabutura y'ibitare bayambare batagaragaza ubwambure, ahere mu rukenyerero agere mu bibero.",
+      "start": 18.36,
+      "end": 27.43
+    },
+    "43": {
+      "text": "Aroni n'abana be bazajye bayambara uko bagiye kwinjira mu ihema ry'ibonaniro, no kwegera igicaniro ngo bankorerere Ahera, kugira ngo batagibwaho no gukiranirwa bagapfa, rizamubere itegeko ridakuka we n'urubyaro rukurikiraho.",
+      "start": 9.38,
+      "end": 24.42
+    }
+  }
+}

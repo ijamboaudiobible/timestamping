@@ -1,0 +1,173 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 49,
+  "verses": {
+    "1": {
+      "text": "Yakobo ahamagaza abana be arababwira ati “Nimuterane, mbabwire ibizababaho mu minsi izabaho kera.",
+      "start": 1.0,
+      "end": 9.45
+    },
+    "2": {
+      "text": "“Nimuterane mwumve bana ba Yakobo,Mwumve Isirayeli so.",
+      "start": 40.06,
+      "end": 42.69
+    },
+    "3": {
+      "text": "“Rubeni uri imfura yanjye, n'imbaraga zanjye.Uwo gushobora kubyara kwanjye kwatangiriyeho,Urushaho icyubahiro, urushaho gukomera.",
+      "start": 27.24,
+      "end": 29.12
+    },
+    "4": {
+      "text": "Uri nk'amazi kuko adahama hamwe, ntuzabona ubutware.Kuko wuriye uburiri bwa so,Ni ho wabuhumanije.Yuriye indyamo yanjye!",
+      "start": 31.75,
+      "end": 35.55
+    },
+    "5": {
+      "text": "“Simiyoni na Lewi ni abavandimwe,Inkota zabo ni intwaro z'urugomo.",
+      "start": 7.05,
+      "end": 40.71
+    },
+    "6": {
+      "text": "Mutima wanjye, ntuzajye mu nama zabo za rwihereranwa,Bwiza bwanjye, ntugafatanye n'iteraniro ryabo.Kuko bicishije abantu uburakari,Bagatema ibitsi by'inka kugira ngo bimare agahinda.",
+      "start": 42.97,
+      "end": 43.41
+    },
+    "7": {
+      "text": "Uburakari bwabo buvumwe kuko bwari bwinshi,Umujinya wabo uvumwe kuko wari uw'agashinyaguro.Nzabagabanya mu ba Yakobo,Nzabatataniriza mu Bisirayeli.",
+      "start": 25.0,
+      "end": 32.69
+    },
+    "8": {
+      "text": "“Yuda, bene so bazagushima,Ukuboko kwawe kuzaba ku ijosi ry'abanzi bawe,Bene so bazakwikubita imbere.",
+      "start": 11.12,
+      "end": 23.94
+    },
+    "9": {
+      "text": "Yuda ni icyana cy'intare,Urazamutse, mwana wanjye uvuye mu muhīgo.Yunamye, abunda nk'intare,Kandi nk'intare y'ingore.Ni nde wayivumbura?",
+      "start": 22.73,
+      "end": 38.3
+    },
+    "10": {
+      "text": "Inkoni y'ubwami ntizava kuri Yuda,Inkoni y'ubutware ntizava hagati y'ibirenge bye, Nyirayo ataraza,Uwo ni we amahanga azumvira.",
+      "start": 28.37,
+      "end": 28.86
+    },
+    "11": {
+      "text": "Aziritse ishashi ye y'indogobe ku muzabibu,N'icyana cye cy'indogobe akiziritse ku muzabibu urutaho ubwiza,Ameshesha imyenda ye vino,Imyambaro ye ayimeshesha amaraso y'inzabibu.",
+      "start": 16.3,
+      "end": 23.71
+    },
+    "12": {
+      "text": "Amaso ye atukujwe na vino,Amenyo ye yejejwe n'amata.",
+      "start": 26.04,
+      "end": 32.41
+    },
+    "13": {
+      "text": "“Zebuluni azatura ku kibaya cy'inyanja,Azaba ku kibaya kiriho inkuge,Urugabano rwe ruzerekera i Sidoni.",
+      "start": 6.03,
+      "end": 25.73
+    },
+    "14": {
+      "text": "“Isakari ni indogobe y'inyamaboko,Iryamye hagati y'ingo z'intama.",
+      "start": 41.2,
+      "end": 42.92
+    },
+    "15": {
+      "text": "Abona aho kuruhukira ko ari heza,N'igihugu ko ari icyo kwishimiramo.Yunamishirije urutugu rwe kwikorera,Ahinduka umuretwa utegekwa icyate.",
+      "start": 31.37,
+      "end": 34.25
+    },
+    "16": {
+      "text": "“Dani azacira abantu be imanza,Ubwo ari umwe mu miryango y'Abisirayeli.",
+      "start": 11.33,
+      "end": 15.09
+    },
+    "17": {
+      "text": "Dani azaba inzoka mu nzira,N'incira mu kayira,Irya ibinono by'ifarashi,Uhekwa na yo akagaranzuka inyuma akagwa.",
+      "start": 32.58,
+      "end": 36.72
+    },
+    "18": {
+      "text": "“Uwiteka ntegereje agakiza kawe.",
+      "start": 30.35,
+      "end": 39.49
+    },
+    "19": {
+      "text": "“Gadi umutwe uzamutera,Ariko na we azabatera abirukane, abakurikire hafi.",
+      "start": 5.39,
+      "end": 40.91
+    },
+    "20": {
+      "text": "“Kuri Asheri hazava ibyokurya biryoha neza,Azatanga ibyokurya byiza bikwiriye abami.",
+      "start": 35.29,
+      "end": 40.53
+    },
+    "21": {
+      "text": "“Nafutali ni ibuguma ry'isha izituwe,Avuga amagambo meza.",
+      "start": 2.31,
+      "end": 10.88
+    },
+    "22": {
+      "text": "“Yosefu ni ishami ry'igiti cyera cyane,Ishami ry'igiti cyera cyane kiri hagati y'isōko,Amashami yacyo arenga inkike y'igihome.",
+      "start": 21.27,
+      "end": 30.93
+    },
+    "23": {
+      "text": "Abarashi bamugiriye iby'urwango,Bamurashe imyambi y'akarengane.",
+      "start": 5.2,
+      "end": 15.64
+    },
+    "24": {
+      "text": "Ariko umuheto we nturakabangūka,Amaboko ye n'intoki ze bikomezwa n'amaboko ya ya ntwari ya Yakobo.Ni yo yakomotsweho n'Umushumba,Igitare cy'Abisirayeli.",
+      "start": 2.95,
+      "end": 44.86
+    },
+    "25": {
+      "text": "Ibyo byakozwe n'Imana ya so, izagufasha,Byakozwe n'Ishoborabyose, izaguha umugisha.Imigisha iva hejuru mu ijuru,N'imigisha iva mu mazi y'ikuzimu,N'imigisha yo mu mabere n'iyo mu nda.",
+      "start": 33.99,
+      "end": 40.63
+    },
+    "26": {
+      "text": "Imigisha so ahesha,Irenze iyaheshejwe na data na sogokuru,Igera ku rugabano rw'imisozi ihoraho.Izaba ku mutwe wa Yosefu,Mu izingiro rye, ni we mutware wa bene se.",
+      "start": 0.57,
+      "end": 40.55
+    },
+    "27": {
+      "text": "“Benyamini ni isega ritanyagura,Mu gitondo rirya umuhīgo,Nimugoroba akagabanya iminyago.”",
+      "start": 27.96,
+      "end": 29.58
+    },
+    "28": {
+      "text": "Abo bose ni imiryango y'Abisirayeli uko ari cumi n'ibiri. Ibyo ni byo se yababwiye abasabira umugisha, umuntu wese amusabira uwe mugisha.",
+      "start": 18.76,
+      "end": 19.08
+    },
+    "29": {
+      "text": "Arabihanangiriza arababwira ati “Ngiye gusanga ubwoko bwanjye, muzampambe hamwe na data na sogokuru, mu buvumo buri mu isambu ya Efuroni Umuheti,",
+      "start": 26.96,
+      "end": 42.58
+    },
+    "30": {
+      "text": "mu buvumo buri mu isambu y'i Makipela iri imbere y'i Mamure mu gihugu cy'i Kanāni, ni bwo Aburahamu yaguranye n'iyo sambu kuba gakondo yo guhambamo, abuguze na Efuroni Umuheti.",
+      "start": 23.37,
+      "end": 28.34
+    },
+    "31": {
+      "text": "Ni bwo bahambyemo Aburahamu na Sara umugore we, ni bwo bahambyemo Isaka na Rebeka umugore we, kandi ni bwo nahambyemo Leya.",
+      "start": 44.85,
+      "end": 44.98
+    },
+    "32": {
+      "text": "Ya sambu n'ubuvumo buyirimo byaguzwe ku Baheti.”",
+      "start": 26.28,
+      "end": 42.57
+    },
+    "33": {
+      "text": "Yakobo amaze kwihanangiriza abana be, asubiza amaguru ku rutara, umwuka urahera asanga ubwoko bwe.",
+      "start": 43.13,
+      "end": 43.93
+    }
+  }
+}

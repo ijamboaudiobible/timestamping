@@ -1,0 +1,88 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Iteraniro ry'Abisirayeli ryose riva mu butayu bw'i Sini, baragenda bamara izindi ndaro zabo nk'uko Uwiteka yabategetse, babamba amahema yabo i Refidimu. Nta mazi yo kunywa yari ahari.",
+      "start": 19.71,
+      "end": 43.53
+    },
+    "2": {
+      "text": "Ni cyo cyatumye abantu batonganya Mose bakamubwira bati “Duhe amazi tunywe.”Mose arababaza ati “Murantonganiriza iki? Kuki mugerageza Uwiteka?”",
+      "start": 24.21,
+      "end": 30.74
+    },
+    "3": {
+      "text": "Abantu bagirirayo inyota bitotombera Mose bati “Ni iki cyatumye udukurira muri Egiputa, kugira ngo utwicishanye inyota n'abana bacu n'amatungo yacu?”",
+      "start": 27.69,
+      "end": 32.49
+    },
+    "4": {
+      "text": "Mose atakira Uwiteka ati “Aba bantu ndabagenza nte? Bashigaje hato bakantera amabuye.”",
+      "start": 17.44,
+      "end": 30.8
+    },
+    "5": {
+      "text": "Uwiteka abwira Mose ati “Nyura imbere y'abantu ujyane bamwe mu bakuru b'Abisirayeli, witwaze inkoni wakubitishije rwa ruzi, ugende.",
+      "start": 36.04,
+      "end": 36.08
+    },
+    "6": {
+      "text": "Nanjye ndahagarara imbere yawe hariya ku gitare cy'i Horebu, ukubite icyo gitare amazi aravamo abantu bayanywe.” Mose abigenzereza atyo imbere y'abakuru b'Abisirayeli.",
+      "start": 35.44,
+      "end": 39.33
+    },
+    "7": {
+      "text": "Yita aho hantu Masa na Meriba, kuko Abisirayeli bamutonganije kandi kuko bagerageje Uwiteka bati “Mbese Uwiteka ari hagati muri twe cyangwa ntahari?”",
+      "start": 26.7,
+      "end": 44.97
+    },
+    "8": {
+      "text": "Maze haza Abamaleki barwaniriza Abisirayeli i Refidimu.",
+      "start": 34.27,
+      "end": 36.1
+    },
+    "9": {
+      "text": "Mose abwira Yosuwa ati “Udutoranirize ingabo mugende murwanye Abamaleki, ejo nzahagarara mu mpinga y'umusozi nitwaje inkoni y'Imana.”",
+      "start": 24.98,
+      "end": 44.4
+    },
+    "10": {
+      "text": "Yosuwa abigenza uko Mose yamutegetse, arwanya Abamaleki. Mose na Aroni na Huri barazamuka bagera mu mpinga y'uwo musozi.",
+      "start": 3.5,
+      "end": 16.44
+    },
+    "11": {
+      "text": "Mose yamanika amaboko Abisirayeli bakanesha, yayamanura Abamaleki bakanesha,",
+      "start": 39.95,
+      "end": 41.51
+    },
+    "12": {
+      "text": "maze amaboko ya Mose araruha. Bajyana ibuye bararimutega aryicaraho, Aroni na Huri baramira amaboko ye umwe iruhande rumwe n'undi urundi, amaboko ye arakomera ageza ku izuba rirenga.",
+      "start": 41.75,
+      "end": 43.46
+    },
+    "13": {
+      "text": "Yosuwa atsindisha Abamaleki n'abantu babo inkota.",
+      "start": 6.06,
+      "end": 17.62
+    },
+    "14": {
+      "text": "Uwiteka abwira Mose ati “Andika ibi mu gitabo bibe urwibutso, ubibwire Yosuwa yuko nzakuraho rwose kwibukwa kw'Abamaleki, bakibagirana mu bo munsi y'ijuru bose.”",
+      "start": 43.62,
+      "end": 44.89
+    },
+    "15": {
+      "text": "Mose yubaka igicaniro acyita Yehovanisi,",
+      "start": 41.47,
+      "end": 44.92
+    },
+    "16": {
+      "text": "aravuga ati “Uwiteka yarahiriye ko azajya arwanya Abamaleki ibihe byose.”",
+      "start": 44.19,
+      "end": 44.84
+    }
+  }
+}

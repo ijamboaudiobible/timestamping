@@ -1,0 +1,133 @@
+{
+  "book": "Book 28",
+  "book_canonical": "hosea",
+  "book_number": 28,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "“Ariko iherezo, umubare w'Abisirayeli uzangana n'umusenyi wo ku nyanja, utabasha kugerwa habe no kubarika, kandi aho babwirirwaga ngo ‘Ntimuri ubwoko bwanjye’, bazahabwirirwa ngo ‘Muri abana b'Imana ihoraho.’",
+      "start": 29.39,
+      "end": 33.44
+    },
+    "2": {
+      "text": "Kandi Abayuda n'Abisirayeli bazateranira hamwe, bitoranyirize umutware umwe, kandi bazazamuka bave mu gihugu, kuko umunsi wa Yezerēli uzaba ukomeye.",
+      "start": 35.02,
+      "end": 37.29
+    },
+    "3": {
+      "text": "“Ami we, mubwire abo muva inda imwe, nawe Ruhama, mubwire bashiki banyu muti",
+      "start": 39.36,
+      "end": 43.81
+    },
+    "4": {
+      "text": "‘Nimuburane na nyoko muburane’, kuko atari umugore wanjye nanjye sindi umugabo we, akure ubumaraya mu maso he, n'ubusambanyi abukure hagati y'amabere ye,",
+      "start": 13.19,
+      "end": 41.71
+    },
+    "5": {
+      "text": "kugira ngo ntamwambika ubusa akamera nk'umunsi yavutseho, nkamuhindura nk'ikidaturwa, nkamugira nk'igihugu cyumye kandi nkamwisha inyota.",
+      "start": 9.75,
+      "end": 29.5
+    },
+    "6": {
+      "text": "Kandi ntabwo nzagirira abana be imbabazi, kuko ari ibibyarwa",
+      "start": 24.68,
+      "end": 27.2
+    },
+    "7": {
+      "text": "nyina akaba yarigize maraya. Uwasamye inda yabo yakoze ibiteye isoni kuko yavuze ati: Nzikurikirira abakunzi banjye, abantunga mu byo ndya n'ibyo nywa, kandi bakampa ubwoya bw'intama n'imigwegwe n'amavuta ya elayo n'ibyo kunywa.",
+      "start": 28.03,
+      "end": 31.85
+    },
+    "8": {
+      "text": "“Ni cyo gituma ngiye kuzitiza inzira ye amahwa, kandi nkubaka uruzitiro kugira ngo atabona aho anyura.",
+      "start": 31.08,
+      "end": 37.99
+    },
+    "9": {
+      "text": "Azakurikira abakunzi be ariko ntazabashyikira, azabashaka ababure. Ni bwo azavuga ati ‘Henga nsubire ku mugabo wanjye wa mbere, kuko ibya mbere byandutiye iby'ubu.’",
+      "start": 0.16,
+      "end": 16.17
+    },
+    "10": {
+      "text": "“Erega ntiyamenye ko ari jye wamutungaga mu myaka, na vino, n'amavuta ya elayo, nkamugwiriza izo feza n'izahabu bakoreshereje Bāli.",
+      "start": 42.08,
+      "end": 42.6
+    },
+    "11": {
+      "text": "Ni cyo kizatuma nisubiza imyaka yanjye mu isarura, na vino yanjye mu gihe cyayo, kandi nkamwambura ubwoya bw'intama bwanjye n'imigwegwe yanjye byari bikwiriye kwambika umubiri we.",
+      "start": 0.19,
+      "end": 8.77
+    },
+    "12": {
+      "text": "Kandi ubu ngiye kugaragariza imbere y'abakunzi be ubushizi bw'isoni bwe, nta n'umwe uzamunkura mu maboko.",
+      "start": 4.12,
+      "end": 9.64
+    },
+    "13": {
+      "text": "Nzamumaraho ibyamunezezaga byose, ibirori bye n'iby'imboneko z'ukwezi bye n'amasabato ye, n'amateraniro ye yera yose yategetswe.",
+      "start": 27.04,
+      "end": 44.4
+    },
+    "14": {
+      "text": "Kandi nzarimbura inzabibu ze n'imitini ye, ibyo yajyaga avuga ati ‘Ibi ni ingororano zanjye nahawe n'abakunzi banjye.’ Nuko ibyo ngiye kubihindura ishyamba, biribwe n'inyamaswa.",
+      "start": 10.34,
+      "end": 34.6
+    },
+    "15": {
+      "text": "Nzamuhora iminsi yamaze yosereza ibigirwamana bya Bāli imibavu, yambaye impeta zo mu matwi n'inigi, agakurikira abakunzi be naho jye akanyibagirwa.” Ni ko Uwiteka avuga.",
+      "start": 33.39,
+      "end": 35.64
+    },
+    "16": {
+      "text": "“Ni cyo gituma ngiye kumuhendahenda, mujyane mu kidaturwa mwurūre.",
+      "start": 13.76,
+      "end": 23.22
+    },
+    "17": {
+      "text": "Avuyeyo nzamukomorera inzabibu ze, kandi igikombe cya Akori kizamubera irembo ry'ibyiringiro, kandi azaharirimbira nko mu gihe cy'ubukumi bwe, nko mu gihe yazamukaga ava mu gihugu cya Egiputa.”",
+      "start": 24.18,
+      "end": 24.73
+    },
+    "18": {
+      "text": "Uwiteka aravuga ati “Uwo munsi uzanyita Ishi, umugabo wanjye, kandi ntuzongera kunyita Bāli, databuja.",
+      "start": 6.25,
+      "end": 40.04
+    },
+    "19": {
+      "text": "Nzakura mu kanwa ke amazina y'ibigirwamana bya Bāli, kandi amazina yabyo ntazongera kwibukwa ukundi.",
+      "start": 8.96,
+      "end": 10.22
+    },
+    "20": {
+      "text": "“Uwo munsi nzasezerana n'inyamaswa zo mu ishyamba ku bwabo, n'ibisiga byo mu kirere n'ibikururuka hasi, kandi nzavunagura imiheto n'inkota, n'intambara nzayikura mu gihugu, ntume baryamana amahoro.",
+      "start": 14.88,
+      "end": 32.87
+    },
+    "21": {
+      "text": "Kandi nzakwishyingira ube uwanjye iteka ryose. Ni ukuri nzakwishyingira ube uwanjye nkiranuka ngaca imanza zitabera, nkagukunda kandi nkakubabarira.",
+      "start": 13.93,
+      "end": 36.54
+    },
+    "22": {
+      "text": "Ndetse nzakwishyingira ube uwanjye nkubereye umunyamurava, kandi uzamenya Uwiteka.”",
+      "start": 30.81,
+      "end": 44.69
+    },
+    "23": {
+      "text": "Uwiteka aravuga ati “Uwo munsi nzitaba, nzitaba ijuru, na ryo rizitaba isi.",
+      "start": 34.66,
+      "end": 41.62
+    },
+    "24": {
+      "text": "Isi na yo izitaba imyaka, na vino n'amavuta ya elayo, kandi na byo bizitaba Yezerēli.",
+      "start": 22.69,
+      "end": 33.34
+    },
+    "25": {
+      "text": "Nzamubiba ku isi, abe uwanjye, kandi nzababarira utabonye imbabazi. Nzabwira abatari ubwoko bwanjye nti ‘Muri ubwoko bwanjye’. Na bo bazavuga bati ‘Uri Imana yacu.’ ”",
+      "start": 19.17,
+      "end": 23.45
+    }
+  }
+}

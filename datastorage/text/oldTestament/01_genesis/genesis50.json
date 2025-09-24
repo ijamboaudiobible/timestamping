@@ -1,0 +1,138 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 50,
+  "verses": {
+    "1": {
+      "text": "Yosefu yubama mu maso ha se amuririraho, aramusoma.",
+      "start": 28.84,
+      "end": 35.96
+    },
+    "2": {
+      "text": "Yosefu ategeka abagaragu be b'abavuzi kosa se, abo bavuzi bosa Isirayeli.",
+      "start": 24.98,
+      "end": 41.89
+    },
+    "3": {
+      "text": "Bamara iminsi mirongo ine bakimwosa, uko ni ko iminsi yo koserezamo ingana. Abanyegiputa bamara iminsi mirongo irindwi bamuririra.",
+      "start": 13.08,
+      "end": 13.2
+    },
+    "4": {
+      "text": "Iminsi yo kumuririra ishize, Yosefu abwira abo mu rugo rwa Farawo ati “Niba mbagiriyeho umugisha, ndabinginze mubwire Farawo muti",
+      "start": 17.36,
+      "end": 31.34
+    },
+    "5": {
+      "text": "‘Se yamurahirije ibi: dore ngiye gupfa, mu mva nicukuriye mu gihugu cy'i Kanāni abe ari mo uzampamba. None ngo arakwinginga azamuke ahambe se, kandi ngo azagaruka.’ ”",
+      "start": 9.69,
+      "end": 39.12
+    },
+    "6": {
+      "text": "Farawo ati “Zamuka uhambe so, nk'uko yakurahirije.”",
+      "start": 8.09,
+      "end": 28.06
+    },
+    "7": {
+      "text": "Yosefu arazamuka ajya guhamba se, ajyana n'abagaragu ba Farawo bose, abakuru bo mu rugo rwe, n'abakuru bo mu gihugu cya Egiputa bose,",
+      "start": 38.84,
+      "end": 39.47
+    },
+    "8": {
+      "text": "n'abo mu rugo rwa Yosefu bose, na bene se n'abo mu rugo rwa se, abana babo bato, n'imikumbi yabo n'amashyo yabo, ibyo byonyine ni byo basize mu gihugu cy'i Gosheni.",
+      "start": 22.38,
+      "end": 33.83
+    },
+    "9": {
+      "text": "Ajyana n'amagare y'intambara n'abahetswe n'amafarashi, bagenda ari itara rinini cyane.",
+      "start": 23.88,
+      "end": 42.52
+    },
+    "10": {
+      "text": "Bagera ku mbuga y'igosorero yo muri Atadi, hari hakurya ya Yorodani, bacurirayo umuborogo mwinshi ukomeye cyane, amara aho iminsi irindwi aharirira se amwiraburiye.",
+      "start": 11.62,
+      "end": 31.88
+    },
+    "11": {
+      "text": "Bene igihugu b'Abanyakanāni babonye baririra ku mbuga y'igosorero yo muri Atadi, baravuga bati “Uyu ni umuborogo mwinshi w'Abanyegiputa.” Ni cyo cyatumye bahita Abeli Misirayimu, hari hakurya ya Yorodani.",
+      "start": 42.07,
+      "end": 42.28
+    },
+    "12": {
+      "text": "Abana ba Isirayeli bamukorera uko yabategetse,",
+      "start": 9.09,
+      "end": 11.57
+    },
+    "13": {
+      "text": "bamujyana mu gihugu cy'i Kanāni, bamuhamba mu buvumo bwo mu isambu y'i Makipela iri imbere ya Mamure, ubwo Aburahamu yaguranye n'iyo sambu kuba gakondo yo guhambamo, abuguze na Efuroni Umuheti.",
+      "start": 31.46,
+      "end": 35.27
+    },
+    "14": {
+      "text": "Amaze guhamba se, Yosefu asubirana muri Egiputa na bene se, n'abandi bose bajyanye na we kumuhambisha se.",
+      "start": 2.23,
+      "end": 5.49
+    },
+    "15": {
+      "text": "Bene se wa Yosefu babonye ko se yapfuye, baravugana bati “Ahari Yosefu azatwanga, atwiture rwose inabi twamugiriye.”",
+      "start": 37.9,
+      "end": 42.12
+    },
+    "16": {
+      "text": "Batuma kuri Yosefu bati “So atarapfa yaradutegetse ati",
+      "start": 27.61,
+      "end": 41.72
+    },
+    "17": {
+      "text": "‘Muzabwire Yosefu ibi: arakwinginze, babarira bene so igicumuro cyabo n'icyaha cyabo kuko bakugiriye nabi.’ None turakwinginze, babarira abagaragu b'Imana ya so igicumuro cyabo.” Yosefu babimubwiye ararira.",
+      "start": 39.76,
+      "end": 43.73
+    },
+    "18": {
+      "text": "Ndetse bene se baragenda bamwikubita imbere, baramubwira bati “Dore turi abagaragu bawe.”",
+      "start": 26.75,
+      "end": 32.43
+    },
+    "19": {
+      "text": "Yosefu arababwira ati “Mwitinya. Mbese ndi mu cyimbo cy'Imana?",
+      "start": 23.95,
+      "end": 41.81
+    },
+    "20": {
+      "text": "Ku bwanyu mwari mushatse kungirira nabi, ariko Imana yo yashakaga kubizanisha ibyiza, kugira ngo isohoze ibi biriho none, ikize abantu benshi urupfu.",
+      "start": 16.88,
+      "end": 30.11
+    },
+    "21": {
+      "text": "None mwe gutinya, nzajya mbagaburirana n'abana banyu bato.” Arabahumuriza ababwira neza.",
+      "start": 30.33,
+      "end": 42.6
+    },
+    "22": {
+      "text": "Yosefu aturana muri Egiputa n'umuryango wa se, Yosefu arama imyaka ijana n'icumi.",
+      "start": 33.99,
+      "end": 35.31
+    },
+    "23": {
+      "text": "Yosefu abona abuzukuru ba Efurayimu, n'abana ba Makiri mwene Manase bavukiye ku mavi ya Yosefu.",
+      "start": 25.87,
+      "end": 32.82
+    },
+    "24": {
+      "text": "Yosefu abwira bene se ati “Ngiye gupfa, ariko Imana ntizabura kubagenderera ikabakura muri iki gihugu, ikabajyana mu gihugu yarahiriye Aburahamu na Isaka na Yakobo ko izabaha.”",
+      "start": 15.25,
+      "end": 43.9
+    },
+    "25": {
+      "text": "Yosefu arahiza abana ba Isirayeli ati “Imana ntizabura kubagenderera, namwe muzajyane amagufwa yanjye, muyakure ino.”",
+      "start": 29.11,
+      "end": 30.26
+    },
+    "26": {
+      "text": "Nuko Yosefu apfa aramye imyaka ijana n'icumi. Baramwosa, bamushyirira muri Egiputa mu isanduku yo guhambamo.",
+      "start": 34.26,
+      "end": 41.48
+    }
+  }
+}

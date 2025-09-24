@@ -1,0 +1,138 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Manase yimye amaze imyaka cumi n'ibiri avutse, amara imyaka mirongo itanu i Yerusalemu ari ku ngoma. Nyina yitwaga Hefusiba.",
+      "start": 6.5,
+      "end": 13.32
+    },
+    "2": {
+      "text": "Ariko akora ibyangwa n'Uwiteka, akurikiza ibizira by'abanyamahanga Uwiteka yirukanye imbere y'Abisirayeli.",
+      "start": 28.23,
+      "end": 42.8
+    },
+    "3": {
+      "text": "Yongera kubaka ingoro se Hezekiya yari yarashenye yubaka n'ibicaniro bya Bāli, arema Ashera nk'uko Ahabu umwami w'Abisirayeli yabigenzaga, aramya ingabo zo mu ijuru zose, arazikorera.",
+      "start": 5.85,
+      "end": 17.97
+    },
+    "4": {
+      "text": "Yubaka ibicaniro mu nzu y'Uwiteka yari yaravuzeho ati “I Yerusalemu ni ho nzashyira izina ryanjye.”",
+      "start": 13.47,
+      "end": 28.78
+    },
+    "5": {
+      "text": "Kandi yubakira ingabo zo mu ijuru zose ibicaniro mu bikari byombi by'inzu y'Uwiteka.",
+      "start": 31.05,
+      "end": 44.17
+    },
+    "6": {
+      "text": "Anyuza umuhungu we mu muriro, akajya araguza akaroga, agashikisha abashitsi, akaraguza abapfumu, akora ibyaha byinshi cyane imbere y'Uwiteka ngo amurakaze.",
+      "start": 7.28,
+      "end": 43.57
+    },
+    "7": {
+      "text": "Aremesha igishushanyo cya Ashera kibajwe, agihagarika muri ya nzu Uwiteka yabwiraga Dawidi n'umuhungu we Salomo ati “Muri iyi nzu n'i Yerusalemu, mpatoranije mu miryango yose ya Isirayeli, ni ho nzashyira izina ryanjye iteka ryose.”",
+      "start": 29.0,
+      "end": 39.66
+    },
+    "8": {
+      "text": "Kandi ati “Sinzongera kuzerereza Abisirayeli ngo mbimure mu gihugu nahaye ba sekuruza babo, niba bazitondera ibyo nabategetse byose, n'amategeko yose umugaragu wanjye Mose yabategetse.”",
+      "start": 40.88,
+      "end": 41.51
+    },
+    "9": {
+      "text": "Ariko ntibumvira, ahubwo Manase abashukashuka gukora ibyaha biruta iby'amahanga Uwiteka yarimburiye imbere y'Abisirayeli.",
+      "start": 5.15,
+      "end": 7.34
+    },
+    "10": {
+      "text": "Bukeye Uwiteka avugira mu bagaragu be b'abahanuzi ati",
+      "start": 25.8,
+      "end": 27.85
+    },
+    "11": {
+      "text": "“Ubwo Manase umwami w'Abayuda akoze ibi bizira, agakora ibibi biruta ibyo Abamori bamubanjirije bakoze byose, akononesha Abayuda ibishushanyo bye bisengwa,",
+      "start": 37.41,
+      "end": 43.2
+    },
+    "12": {
+      "text": "ni cyo gitumye Uwiteka Imana ya Isirayeli ivuze iti ‘Dore ngiye guteza i Yerusalemu n'i Buyuda ibyago bikomeye, bituma ubyumvise wese yumva amatwi avugamo injereri.",
+      "start": 19.75,
+      "end": 35.49
+    },
+    "13": {
+      "text": "Kandi nzageresha i Yerusalemu umugozi w'i Samariya, na timazi y'inzu ya Ahabu. Kandi nzahanagura i Yerusalemu nk'uko umuntu ahanagura isahane, yarangiza akayubika.",
+      "start": 15.06,
+      "end": 42.67
+    },
+    "14": {
+      "text": "Ariko nzareka igice gisigaye cya gakondo yanjye, mbahāne mu maboko y'ababisha babo, bahinduke umuhigo n'umunyago by'ababisha babo bose,",
+      "start": 35.0,
+      "end": 36.7
+    },
+    "15": {
+      "text": "kuko bakoze ibyangwa imbere yanjye bakandakaza, uhereye igihe ba sekuruza babo baviriye muri Egiputa na bugingo n'ubu.’ ”",
+      "start": 3.59,
+      "end": 21.49
+    },
+    "16": {
+      "text": "Kandi Manase yavushije amaraso menshi y'abatacumuye, kugeza aho yayujurije i Yerusalemu hose, akahasanganya, abyongera ku cyaha cye yoheje Abayuda ngo bacumure, bakore ibyangwa n'Uwiteka.",
+      "start": 40.34,
+      "end": 41.93
+    },
+    "17": {
+      "text": "Ariko indi mirimo ya Manase n'ibyo yakoze byose n'icyaha yakoze, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abayuda?",
+      "start": 5.02,
+      "end": 39.03
+    },
+    "18": {
+      "text": "Nuko Manase aratanga asanga ba sekuruza, ahambwa mu murima wo ku rugo rwe wari umurima wa Uza, maze umuhungu we Amoni yima ingoma ye.",
+      "start": 0.35,
+      "end": 35.85
+    },
+    "19": {
+      "text": "Amoni yimye amaze imyaka makumyabiri n'ibiri avutse, amara imyaka ibiri i Yerusalemu ari ku ngoma. Nyina yitwaga Meshulemeti mwene Harusi w'i Yotuba.",
+      "start": 42.88,
+      "end": 43.08
+    },
+    "20": {
+      "text": "Ariko akora ibyangwa n'Uwiteka nk'uko se Manase yakoraga.",
+      "start": 6.01,
+      "end": 24.36
+    },
+    "21": {
+      "text": "Yagendanaga ingeso zose se yagendanaga, akajya akorera ibishushanyo se yakoreraga, akabiramya.",
+      "start": 42.74,
+      "end": 44.79
+    },
+    "22": {
+      "text": "Yimūra Uwiteka Imana ya ba sekuruza, ntagendere mu nzira zayo.",
+      "start": 8.33,
+      "end": 34.04
+    },
+    "23": {
+      "text": "Hanyuma abagaragu ba Amoni baramugambanira, bamutsinda mu nzu ye.",
+      "start": 8.36,
+      "end": 8.55
+    },
+    "24": {
+      "text": "Maze abantu b'icyo gihugu bica abagambaniye Umwami Amoni bose, baherako bimika umuhungu we Yosiya ingoma ye.",
+      "start": 41.64,
+      "end": 42.79
+    },
+    "25": {
+      "text": "Ariko indi mirimo Amoni yakoze, mbese ntiyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abayuda?",
+      "start": 4.05,
+      "end": 43.38
+    },
+    "26": {
+      "text": "Nuko bamuhamba mu mva ye mu murima wa Uza, maze umuhungu we Yosiya yima ingoma ye.",
+      "start": 41.61,
+      "end": 41.69
+    }
+  }
+}

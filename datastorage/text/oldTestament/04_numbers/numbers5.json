@@ -1,0 +1,163 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 27.16,
+      "end": 37.88
+    },
+    "2": {
+      "text": "“Tegeka Abisirayeli bakure mu mahema yanyu umubembe wese n'uninda wese, n'uhumanyijwe n'intumbi wese.",
+      "start": 18.52,
+      "end": 23.63
+    },
+    "3": {
+      "text": "Naho baba abagabo cyangwa abagore, mujye mubakuramo mubajyane inyuma yaho, kugira ngo batanduza aho mubambye amahema ntuye hagati.”",
+      "start": 36.75,
+      "end": 39.93
+    },
+    "4": {
+      "text": "Abisirayeli bagenza batyo, babakura mu ngando zabo. Uko Uwiteka yategetse Mose aba ari ko Abisirayeli bakora.",
+      "start": 26.58,
+      "end": 37.3
+    },
+    "5": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 5.25,
+      "end": 43.55
+    },
+    "6": {
+      "text": "“Bwira Abisirayeli uti ‘Umugabo cyangwa umugore nakora icyaha cyose mu byo abantu bakora akagibwaho n'urubanza,",
+      "start": 6.94,
+      "end": 15.4
+    },
+    "7": {
+      "text": "yature icyaha yakoze kandi arihe icyamushyirishijeho urubanza, akirihe uwo yacumuyeho kitagabanije, kandi yongereho ikingana n'igice cyacyo cya gatanu.",
+      "start": 7.69,
+      "end": 32.29
+    },
+    "8": {
+      "text": "Ariko niba uwo muntu yacumuyeho atasize mwene wabo wa bugufi wariho icyashyirishije kuri wa wundi urubanza, Uwiteka abe ari we ukirihwa gihabwe umutambyi, cyongerweho isekurume y'intama y'impongano bamuhongerera.",
+      "start": 9.67,
+      "end": 22.07
+    },
+    "9": {
+      "text": "Ituro ryose ryererejwe ryo mu byera by'Abisirayeli bashyira umutambyi, rizabe irye bwite.",
+      "start": 7.06,
+      "end": 7.54
+    },
+    "10": {
+      "text": "Ibyera umuntu wese yejeje bizabe iby'umutambyi bwite, icyo umuntu aha umutambyi cyose kizabe icye bwite.’ ”",
+      "start": 38.29,
+      "end": 43.31
+    },
+    "11": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 25.45,
+      "end": 34.91
+    },
+    "12": {
+      "text": "“Bwira Abisirayeli uti ‘Umugore w'umuntu nahindukirira undi, agacumurisha ku mugabo we gusambana n'uwo,",
+      "start": 25.4,
+      "end": 31.92
+    },
+    "13": {
+      "text": "umugabo we ntabimenye bigahishwa, uwo mugore akaba yanduye ntihabe umushinja, ntabe afashwe akibikora,",
+      "start": 7.66,
+      "end": 43.26
+    },
+    "14": {
+      "text": "umugabo we agafatwa n'ifuhe agafuhira umugore we yanduye, cyangwa yafatwa n'ifuhe agafuhira umugore we atanduye koko,",
+      "start": 25.49,
+      "end": 34.26
+    },
+    "15": {
+      "text": "nuko uwo mugabo ashyire umutambyi umugore we, amumushyirane n'ituro amutangiriye ry'igice cya cumi cya efa y'ifu ya sayiri. Ntakayisukeho amavuta ya elayo, ntakayishyireho umubavu, kuko ari ituro ry'ifu riturishwa n'ifuhe, ituro ry'urwibutso rwibutsa gukiranirwa.",
+      "start": 26.57,
+      "end": 37.81
+    },
+    "16": {
+      "text": "“ ‘Umutambyi yigize uwo mugore hafi, amushyire imbere y'Uwiteka.",
+      "start": 19.39,
+      "end": 23.74
+    },
+    "17": {
+      "text": "Uwo mutambyi yendeshe amazi yera ikintu cy'ibumba, yende ku mukungugu wo hasi mu buturo bwera, awushyire muri ayo mazi.",
+      "start": 30.23,
+      "end": 30.6
+    },
+    "18": {
+      "text": "Ashyire uwo mugore imbere y'Uwiteka, amutendeze umusatsi, amushyire ku mashyi rya turo ry'urwibutso, ituro riturishwa n'ifuhe. Uwo mutambyi afate mu ntoki ayo mazi asharira, atera umuvumo,",
+      "start": 20.99,
+      "end": 30.89
+    },
+    "19": {
+      "text": "maze arahize uwo mugore amutongera ati: Niba ari nta mugabo mwasambanye, kandi niba utahindukiriye undi ngo wiyanduze ugitegekwa n'umugabo wawe, aya mazi asharira atera umuvumo ye kugira icyo agutwara.",
+      "start": 6.59,
+      "end": 15.02
+    },
+    "20": {
+      "text": "Ariko niba warahindukiriye undi ugitegekwa n'umugabo wawe nukaba wanduye, hakagira uwo mwaryamanye atari umugabo wawe,",
+      "start": 10.66,
+      "end": 21.01
+    },
+    "21": {
+      "text": "maze uwo mutambyi arahize uwo mugore indahiro yo kwivuma amutonga ati: Uwiteka aguhindurishe intukano n'indahiro mu bwoko bwawe kunyunyura ikibero cyawe, agatumbisha inda yawe.",
+      "start": 16.26,
+      "end": 43.8
+    },
+    "22": {
+      "text": "Kandi aya mazi atera umuvumo ari bujye mu mara yawe atumbishe inda yawe, anyunyure ikibero cyawe.“ ‘Uwo mugore yikirize ati “Amen, Amen.”",
+      "start": 43.84,
+      "end": 44.12
+    },
+    "23": {
+      "text": "“ ‘Uwo mutambyi yandike iyo mivumo mu gitabo, ayogeshe ayo mazi asharira.",
+      "start": 4.0,
+      "end": 21.49
+    },
+    "24": {
+      "text": "Anyweshe uwo mugore ayo mazi asharira atera umuvumo, ayo mazi atera umuvumo azamugeramo amusharirire.",
+      "start": 17.48,
+      "end": 28.58
+    },
+    "25": {
+      "text": "Umutambyi akure rya turo ry'ifu riturishwa n'ifuhe ku mashyi y'uwo mugore, arizungurize imbere y'Uwiteka, arijyane ku gicaniro.",
+      "start": 16.67,
+      "end": 25.51
+    },
+    "26": {
+      "text": "Yende kuri iryo turo iryuzuye urushyi, ribe urwibutso rwaryo, aryosereze ku gicaniro abone kunywesha uwo mugore ya mazi.",
+      "start": 19.32,
+      "end": 44.29
+    },
+    "27": {
+      "text": "Namara kuyamunywesha, bizaba bitya: niba yanduye akaba acumuye ku mugabo we, ayo mazi atera umuvumo azamugeramo, amusharirire atumbe inda, anyunyuke ikibero, uwo mugore ahinduke intukano mu bwoko bwe.",
+      "start": 21.69,
+      "end": 40.3
+    },
+    "28": {
+      "text": "Ariko niba atanduye, ahubwo akaba adahumanye nta cyo azaba, ntibizamubuza gusama inda.",
+      "start": 11.58,
+      "end": 41.32
+    },
+    "29": {
+      "text": "“ ‘Iryo ni ryo tegeko ry'ifuhe, ku mugore ugitegekwa n'umugabo we agahindukirira undi, akaba yanduye,",
+      "start": 6.27,
+      "end": 35.04
+    },
+    "30": {
+      "text": "no ku mugabo ufatwa n'ifuhe agafuhira umugore we. Ashyire uwo mugore imbere y'Uwiteka, umutambyi amugirire ibitegekwa n'iryo tegeko byose.",
+      "start": 28.64,
+      "end": 34.34
+    },
+    "31": {
+      "text": "Ni bwo uwo mugabo azaba akuweho gukiranirwa, umugore akaba ari we ugibwaho no gukiranirwa kwe.’ ”",
+      "start": 29.36,
+      "end": 38.05
+    }
+  }
+}

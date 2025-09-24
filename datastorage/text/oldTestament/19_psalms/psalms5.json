@@ -1,0 +1,73 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi, baririmbisha Nehiloti. Ni iya Dawidi.",
+      "start": 40.73,
+      "end": 40.86
+    },
+    "2": {
+      "text": "Uwiteka, tegera ugutwi amagambo yanjye,Ita ku byo nibwira.",
+      "start": 17.85,
+      "end": 21.58
+    },
+    "3": {
+      "text": "Mwami wanjye, Mana yanjye,Tyariza ugutwi ijwi ryanjye ngutakira,Kuko ari wowe nsenga.",
+      "start": 25.22,
+      "end": 40.16
+    },
+    "4": {
+      "text": "Uwiteka, mu gitondo uzajya wumva ijwi ryanjye,Mu gitondo nzajya nerekeza gusenga kwanjye kuri wowe,Mbe maso ntegereje.",
+      "start": 33.49,
+      "end": 44.65
+    },
+    "5": {
+      "text": "Kuko utari Imana y'intambirakibi,Umunyangeso mbi ntazaba iwawe.",
+      "start": 8.42,
+      "end": 23.87
+    },
+    "6": {
+      "text": "Abībone ntibazahagarara mu maso yawe,Wanga inkozi z'ibibi zose.",
+      "start": 11.25,
+      "end": 12.57
+    },
+    "7": {
+      "text": "Uzarimbura abanyabinyoma,Uwiteka yanga urunuka umwicanyi n'umuriganya.",
+      "start": 31.51,
+      "end": 40.55
+    },
+    "8": {
+      "text": "Ariko jyeweho nzazanwa n'imbabazi zawe nyinshi mu nzu yawe,Kuko nkūbashye nzikubita hasi nsenge,Nerekeye urusengero rwawe rwera.",
+      "start": 43.32,
+      "end": 44.45
+    },
+    "9": {
+      "text": "Uwiteka ku bwo gukiranuka kwawe,Ujye unyobora kuko banyubikiye,Umpanurire inzira yawe aho nyura.",
+      "start": 24.76,
+      "end": 35.8
+    },
+    "10": {
+      "text": "Kuko ari nta murava uri mu kanwa kabo,Imitima yabo ni igomwa risa,Umuhogo wabo ni imva irangaye,Bashyeshyesha indimi zabo.",
+      "start": 6.32,
+      "end": 28.51
+    },
+    "11": {
+      "text": "Mana ubagire uko ugira abanyabyaha,Imigambi yabo ibatere kugwa,Ibicumuro byabo byinshi bigutere kubirukana,Kuko bakugomeye.",
+      "start": 5.17,
+      "end": 40.57
+    },
+    "12": {
+      "text": "Ni bwo abaguhungiraho bazishima,Ibyishimo bizabateza amajwi hejuru iteka kuko ubarinda,Kandi abakunda izina ryawe bazakwishimira.",
+      "start": 2.39,
+      "end": 27.12
+    },
+    "13": {
+      "text": "Kuko uzaha umukiranutsi umugisha,Uwiteka, uzamugotesha urukundo rwawe nk'ingabo.",
+      "start": 14.36,
+      "end": 39.13
+    }
+  }
+}

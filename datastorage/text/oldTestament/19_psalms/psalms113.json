@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 113,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Mwa bagaragu b'Uwiteka mwe, nimushime,Nimushime izina ry'Uwiteka.",
+      "start": 5.84,
+      "end": 39.43
+    },
+    "2": {
+      "text": "Izina ry'Uwiteka rihimbazwe,Uhereye none ukageza iteka ryose.",
+      "start": 30.08,
+      "end": 30.21
+    },
+    "3": {
+      "text": "Uhereye aho izuba rirasira ukageza aho rirengera,Izina ry'Uwiteka rikwiriye gushimwa.",
+      "start": 37.12,
+      "end": 40.1
+    },
+    "4": {
+      "text": "Uwiteka ari hejuru y'amahanga yose,Icyubahiro cye gisumba ijuru.",
+      "start": 38.95,
+      "end": 43.93
+    },
+    "5": {
+      "text": "Ni nde uhwanye n'Uwiteka Imana yacu,Ufite intebe ye hejuru cyane,",
+      "start": 5.01,
+      "end": 24.41
+    },
+    "6": {
+      "text": "Akicishiriza bugufi kureba,Ibyo mu ijuru n'ibyo mu isi?",
+      "start": 34.94,
+      "end": 37.43
+    },
+    "7": {
+      "text": "Akura uworoheje mu mukungugu,Ashyira hejuru umukene amukuye mu icukiro,",
+      "start": 37.92,
+      "end": 44.49
+    },
+    "8": {
+      "text": "Kugira ngo amwicaranye n'abakomeye,Abakomeye bo mu bwoko bwe.",
+      "start": 22.73,
+      "end": 40.75
+    },
+    "9": {
+      "text": "Uwari ingumba mu nzu ye,Amuha kuyibamo yishimye,Ari nyina w'abahungu.Haleluya.",
+      "start": 2.07,
+      "end": 28.85
+    }
+  }
+}

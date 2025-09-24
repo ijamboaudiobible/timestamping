@@ -1,0 +1,453 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Mose arangije gushinga ubuturo bwera no kubusīga, no kubwezanya n'ibintu byo muri bwo byose, n'igicaniro n'ibintu byacyo byose -- ibyo na byo yarabisīze arabyeza --",
+      "start": 9.4,
+      "end": 43.55
+    },
+    "2": {
+      "text": "kuri uwo munsi abatware b'Abisirayeli, abatware b'amazu ya ba sekuru batura amaturo: ni ba batware b'imiryango babarishaga ababazwe.",
+      "start": 17.23,
+      "end": 38.74
+    },
+    "3": {
+      "text": "Bazana amaturo yabo imbere y'Uwiteka: amagare atandatu yaremwe nk'ingobyi n'inka cumi n'ebyiri, igare risangirwa n'abatware babiri, bityo bityo. Inka iturwa n'umutware umwe, n'indi undi, bityo bityo. Babimurika imbere y'ubuturo bwera.",
+      "start": 38.45,
+      "end": 43.14
+    },
+    "4": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 23.23,
+      "end": 30.77
+    },
+    "5": {
+      "text": "“Wemere ibyo batuye bikoreshwe imirimo y'iby'ihema ry'ibonaniro, ubihe Abalewi nk'uko imirimo yabo iri.”",
+      "start": 37.76,
+      "end": 38.78
+    },
+    "6": {
+      "text": "Mose yakira ayo magare n'izo nka, abiha Abalewi.",
+      "start": 26.01,
+      "end": 44.68
+    },
+    "7": {
+      "text": "Amagare abiri n'inka enye abiha Abagerushoni nk'uko imirimo yabo iri.",
+      "start": 31.93,
+      "end": 32.82
+    },
+    "8": {
+      "text": "Amagare ane n'inka munani abiha Abamerari nk'uko imirimo yabo iri, bategekwa na Itamari mwene Aroni umutambyi.",
+      "start": 37.07,
+      "end": 44.5
+    },
+    "9": {
+      "text": "Ariko Abakohati ntiyagira icyo abaha kuko imirimo yo kuremērwa iby'Ahera yari iyabo, bakabiremērwa ku ntugu.",
+      "start": 41.13,
+      "end": 44.6
+    },
+    "10": {
+      "text": "Kandi ba batware batura amaturo yo kweza igicaniro ku munsi cyasīgiwe, bayaturira imbere y'igicaniro.",
+      "start": 5.15,
+      "end": 30.25
+    },
+    "11": {
+      "text": "Uwiteka abwira Mose ati “Bajye batura amaturo yabo yo kweza igicaniro, umutware wese ku murambi we.”",
+      "start": 3.95,
+      "end": 26.29
+    },
+    "12": {
+      "text": "Uwatuye amaturo ye ku murambi wa mbere ni Nahashoni mwene Aminadabu, wo mu muryango wa Yuda,",
+      "start": 16.28,
+      "end": 17.35
+    },
+    "13": {
+      "text": "amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 3.41,
+      "end": 38.8
+    },
+    "14": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 8.3,
+      "end": 31.24
+    },
+    "15": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 3.5,
+      "end": 29.08
+    },
+    "16": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 36.4,
+      "end": 43.94
+    },
+    "17": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Nahashoni mwene Aminadabu.",
+      "start": 6.55,
+      "end": 6.66
+    },
+    "18": {
+      "text": "Ku murambi wa kabiri, Netanēli mwene Suwari umutware w'Abisakari, ni we watuye amaturo.",
+      "start": 4.21,
+      "end": 38.89
+    },
+    "19": {
+      "text": "Amaturo yatuye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 19.81,
+      "end": 27.04
+    },
+    "20": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 4.51,
+      "end": 25.81
+    },
+    "21": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 23.67,
+      "end": 32.66
+    },
+    "22": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 39.15,
+      "end": 40.08
+    },
+    "23": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Netanēli mwene Suwari.",
+      "start": 8.66,
+      "end": 41.94
+    },
+    "24": {
+      "text": "Ku murambi wa gatatu, Eliyabu mwene Heloni umutware w'Abazebuluni, ni we watuye amaturo.",
+      "start": 30.72,
+      "end": 37.11
+    },
+    "25": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 14.33,
+      "end": 18.92
+    },
+    "26": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 11.2,
+      "end": 41.92
+    },
+    "27": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 1.01,
+      "end": 15.16
+    },
+    "28": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 3.05,
+      "end": 34.31
+    },
+    "29": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Eliyabu mwene Heloni.",
+      "start": 10.82,
+      "end": 19.39
+    },
+    "30": {
+      "text": "Ku murambi wa kane, Elisuri mwene Shedewuri umutware w'Abarubeni, ni we watuye amaturo.",
+      "start": 10.49,
+      "end": 13.66
+    },
+    "31": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 16.14,
+      "end": 35.49
+    },
+    "32": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 28.79,
+      "end": 37.37
+    },
+    "33": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 34.04,
+      "end": 39.1
+    },
+    "34": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 35.31,
+      "end": 35.82
+    },
+    "35": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Elisuri mwene Shedewuri.",
+      "start": 41.04,
+      "end": 41.44
+    },
+    "36": {
+      "text": "Ku murambi wa gatanu, Shelumiyeli mwene Surishadayi umutware w'Abasimeyoni, ni we watuye amaturo.",
+      "start": 39.03,
+      "end": 39.67
+    },
+    "37": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 24.33,
+      "end": 30.83
+    },
+    "38": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 27.19,
+      "end": 38.69
+    },
+    "39": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 17.32,
+      "end": 41.53
+    },
+    "40": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 7.03,
+      "end": 44.21
+    },
+    "41": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Shelumiyeli mwene Surishadayi.",
+      "start": 7.36,
+      "end": 14.46
+    },
+    "42": {
+      "text": "Ku murambi wa gatandatu, Eliyasafu mwene Deweli umutware w'Abagadi, ni we watuye amaturo.",
+      "start": 0.88,
+      "end": 12.98
+    },
+    "43": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 8.98,
+      "end": 32.36
+    },
+    "44": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 21.45,
+      "end": 35.0
+    },
+    "45": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 11.1,
+      "end": 27.19
+    },
+    "46": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 43.5,
+      "end": 44.65
+    },
+    "47": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Eliyasafu mwene Deweli.",
+      "start": 18.45,
+      "end": 22.91
+    },
+    "48": {
+      "text": "Ku murambi wa karindwi, Elishama mwene Amihudi umutware w'Abefurayimu, ni we watuye amaturo.",
+      "start": 19.86,
+      "end": 23.29
+    },
+    "49": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigeze kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 1.57,
+      "end": 8.94
+    },
+    "50": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 19.5,
+      "end": 41.09
+    },
+    "51": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 17.16,
+      "end": 34.88
+    },
+    "52": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 4.59,
+      "end": 6.88
+    },
+    "53": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Elishama mwene Amihudi.",
+      "start": 13.14,
+      "end": 33.63
+    },
+    "54": {
+      "text": "Ku murambi wa munani, Gamaliyeli mwene Pedasuri umutware w'Abamanase, ni we watuye amaturo.",
+      "start": 3.13,
+      "end": 15.07
+    },
+    "55": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 38.01,
+      "end": 38.08
+    },
+    "56": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 10.58,
+      "end": 30.69
+    },
+    "57": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 37.43,
+      "end": 42.3
+    },
+    "58": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 30.05,
+      "end": 36.95
+    },
+    "59": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Gamaliyeli mwene Pedasuri.",
+      "start": 7.94,
+      "end": 20.34
+    },
+    "60": {
+      "text": "Ku murambi wa cyenda, Abidani mwene Gideyoni umutware w'Ababenyamini, ni we watuye amaturo.",
+      "start": 1.02,
+      "end": 32.32
+    },
+    "61": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 27.94,
+      "end": 40.17
+    },
+    "62": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 21.26,
+      "end": 35.26
+    },
+    "63": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 6.3,
+      "end": 23.84
+    },
+    "64": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 17.75,
+      "end": 27.19
+    },
+    "65": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Abidani mwene Gideyoni.",
+      "start": 21.48,
+      "end": 35.13
+    },
+    "66": {
+      "text": "Ku murambi wa cumi, Ahiyezeri mwene Amishadayi umutware w'Abadani, ni we watuye amaturo.",
+      "start": 18.45,
+      "end": 33.27
+    },
+    "67": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 34.27,
+      "end": 38.51
+    },
+    "68": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 24.68,
+      "end": 30.9
+    },
+    "69": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 40.3,
+      "end": 44.07
+    },
+    "70": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 21.3,
+      "end": 40.36
+    },
+    "71": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Ahiyezeri mwene Amishadayi.",
+      "start": 20.86,
+      "end": 22.71
+    },
+    "72": {
+      "text": "Ku murambi wa cumi n'umwe, Pagiyeli mwene Okirani umutware w'Abashēri, ni we watuye amaturo.",
+      "start": 26.24,
+      "end": 27.43
+    },
+    "73": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 11.92,
+      "end": 33.28
+    },
+    "74": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 23.46,
+      "end": 26.06
+    },
+    "75": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 42.52,
+      "end": 42.55
+    },
+    "76": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 15.23,
+      "end": 21.09
+    },
+    "77": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Pagiyeli mwene Okirani.",
+      "start": 33.65,
+      "end": 35.97
+    },
+    "78": {
+      "text": "Ku murambi wa cumi n'ibiri, Ahira mwene Enani umutware w'Abanafutali, ni we watuye amaturo.",
+      "start": 35.71,
+      "end": 36.89
+    },
+    "79": {
+      "text": "Amaturo ye yari isahani y'ifeza kuremēra kwayo kwari shekeli ijana na mirongo itatu, n'urwabya rw'ifeza ruremēra shekeli mirongo irindwi zigezwe kuri shekeli y'Ahera, byombi byuzuye ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu,",
+      "start": 14.58,
+      "end": 19.72
+    },
+    "80": {
+      "text": "n'agakombe k'izahabu karemēra shekeli cumi kuzuye umubavu,",
+      "start": 5.88,
+      "end": 41.62
+    },
+    "81": {
+      "text": "n'ikimasa cy'umusore n'isekurume y'intama, n'umwana w'intama w'isekurume utaramara umwaka ho ibitambo byo koswa,",
+      "start": 6.26,
+      "end": 15.49
+    },
+    "82": {
+      "text": "n'isekurume y'ihene ho igitambo cyo gutambirwa ibyaha,",
+      "start": 2.71,
+      "end": 43.75
+    },
+    "83": {
+      "text": "n'amapfizi abiri n'amasekurume y'intama atanu n'ay'ihene atanu, n'abana b'intama b'amasekurume batanu bataramara umwaka ho ibitambo by'uko bari amahoro. Ayo ni yo maturo ya Ahira mwene Enani.",
+      "start": 43.12,
+      "end": 43.12
+    },
+    "84": {
+      "text": "Ayo ni yo yari amaturo y'abatware b'Abisirayeli yo kwezwa kw'igicaniro ku munsi cyasīgiwe: amasahani y'ifeza cumi n'abiri, n'inzabya z'ifeza cumi n'ebyiri, n'udukombe tw'izahabu cumi na tubiri.",
+      "start": 28.1,
+      "end": 31.61
+    },
+    "85": {
+      "text": "Kuremēra kw'isahani y'ifeza yose kwari shekeli ijana na mirongo itatu, uk'urwabya rwose kwari shekeli mirongo irindwi. Ifeza z'ibyo bintu zose ziremēra shekeli ibihumbi bibiri na magana ane zigezwe ku y'Ahera.",
+      "start": 32.98,
+      "end": 40.43
+    },
+    "86": {
+      "text": "Kandi utwo dukombe tw'izahabu twuzuye imibavu, kamwe karemēra shekeli cumi bityo bityo, zigezwe ku y'Ahera. Izahabu z'utwo dukombe zose ziremēra shekeli ijana na makumyabiri.",
+      "start": 15.26,
+      "end": 28.41
+    },
+    "87": {
+      "text": "Amatungo yose y'ibitambo byo koswa yari ibimasa cumi na bibiri, n'amasekurume y'intama cumi n'abiri, n'abana b'intama b'amasekurume bataramara umwaka cumi na babiri, byatambanywe n'amaturo y'ifu yo kuri byo; amasekurume y'ihene yo gutambirwa ibyaha yari cumi n'abiri.",
+      "start": 4.13,
+      "end": 8.93
+    },
+    "88": {
+      "text": "Amatungo yose y'ibitambo by'uko bari amahoro yari amapfizi makumyabiri n'ane, n'amasekurume y'intama mirongo itandatu n'ay'ihene mirongo itandatu, n'abana b'intama b'amasekurume bataramara umwaka mirongo itandatu. Ayo ni yo yari amaturo yo kwezwa kw'igicaniro kimaze gusīgwa.",
+      "start": 3.95,
+      "end": 12.28
+    },
+    "89": {
+      "text": "Mose yinjiye mu ihema ry'ibonaniro kuvugana n'Uwiteka, yumva ijwi rimubwira rituruka hejuru y'intebe y'ihongerero yo ku isanduku y'Ibihamya, hagati ya ba bakerubi bombi. Avugana n'Uwiteka.",
+      "start": 34.38,
+      "end": 37.79
+    }
+  }
+}

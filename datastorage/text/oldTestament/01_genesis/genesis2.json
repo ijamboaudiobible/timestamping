@@ -1,0 +1,133 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Ijuru n'isi n'ibirimo byinshi byose birangira kuremwa.",
+      "start": 30.04,
+      "end": 43.51
+    },
+    "2": {
+      "text": "Ku munsi wa karindwi Imana irangiza imirimo yakoze, iruhuka ku munsi wa karindwi imirimo yayo yose yakoze.",
+      "start": 36.71,
+      "end": 37.97
+    },
+    "3": {
+      "text": "Imana iha umugisha umunsi wa karindwi iraweza, kuko ari wo Imana yaruhukiyemo imirimo yakoze yose.",
+      "start": 32.74,
+      "end": 44.08
+    },
+    "4": {
+      "text": "Uku ni ko kuremwa kw'ijuru n'isi, ubwo byaremwaga, ku munsi Uwiteka Imana yaremeyemo isi n'ijuru.",
+      "start": 20.79,
+      "end": 40.53
+    },
+    "5": {
+      "text": "Kandi akatsi kose ko mu gasozi kari kataraba ku isi, n'ikimera cyose cyo mu gasozi cyari kitarāruka, kuko Uwiteka Imana yari itaravuba imvura ku isi kandi nta muntu wariho wo guhinga ubutaka,",
+      "start": 16.12,
+      "end": 21.21
+    },
+    "6": {
+      "text": "ariko igihu cyavaga mu isi kigatosa ubutaka bwose.",
+      "start": 34.03,
+      "end": 44.42
+    },
+    "7": {
+      "text": "Uwiteka Imana irema umuntu mu mukungugu wo hasi, imuhumekera mu mazuru umwuka w'ubugingo, umuntu ahinduka ubugingo buzima.",
+      "start": 11.39,
+      "end": 41.34
+    },
+    "8": {
+      "text": "Uwiteka Imana ikeba ingobyi muri Edeni mu ruhande rw'iburasirazuba, iyishyiramo umuntu yaremye.",
+      "start": 27.58,
+      "end": 34.99
+    },
+    "9": {
+      "text": "Uwiteka Imana imezamo igiti cyose cy'igikundiro cyera imbuto ziribwa, imeza n'igiti cy'ubugingo hagati muri iyo ngobyi, imezamo n'igiti cy'ubwenge bumenyesha icyiza n'ikibi.",
+      "start": 31.62,
+      "end": 33.58
+    },
+    "10": {
+      "text": "Umugezi uturuka muri Edeni unetesha iyo ngobyi, uwo mugezi uvamo wigabanyamo ine.",
+      "start": 29.51,
+      "end": 37.76
+    },
+    "11": {
+      "text": "Umwe witwa Pishoni, ari wo ugose igihugu cyose cy'i Havila kirimo izahabu,",
+      "start": 28.75,
+      "end": 37.53
+    },
+    "12": {
+      "text": "kandi izahabu yo muri icyo gihugu ni nziza. Iyo ni ho hari ubushishi buva ku giti bwitwa budola, n'amabuye yitwa shohamu.",
+      "start": 44.5,
+      "end": 44.68
+    },
+    "13": {
+      "text": "Undi witwa Gihoni, ari wo ugose igihugu cyose cy'i Kushi.",
+      "start": 20.0,
+      "end": 23.67
+    },
+    "14": {
+      "text": "Undi witwa Hidekelu, ni wo uca imbere y'igihugu cyitwa Ashuri. Uwa kane witwa Ufurate.",
+      "start": 18.41,
+      "end": 42.39
+    },
+    "15": {
+      "text": "Uwiteka Imana ijyana wa muntu, imushyira muri iyo ngobyi yo muri Edeni, ngo ahingire ibirimo, ayirinde.",
+      "start": 8.15,
+      "end": 36.59
+    },
+    "16": {
+      "text": "Uwiteka Imana iramutegeka iti “Ku giti cyose cyo muri iyo ngobyi ujye urya imbuto zacyo uko ushaka,",
+      "start": 27.73,
+      "end": 43.54
+    },
+    "17": {
+      "text": "ariko igiti cy'ubwenge bumenyesha icyiza n'ikibi ntuzakiryeho, kuko umunsi wakiriyeho no gupfa uzapfa.”",
+      "start": 20.19,
+      "end": 34.79
+    },
+    "18": {
+      "text": "Kandi Uwiteka Imana iravuga iti “Si byiza ko uyu muntu aba wenyine, reka muremere umufasha umukwiriye.”",
+      "start": 11.35,
+      "end": 29.24
+    },
+    "19": {
+      "text": "Uwiteka Imana irema mu butaka amatungo yose n'inyamaswa zo mu ishyamba zose, n'inyoni n'ibisiga byo mu kirere byose, ibizanira uwo muntu ngo imenye uko abyita, kandi uko uwo muntu yise ikintu cyose gifite ubugingo, aba ari ryo riba izina ryacyo.",
+      "start": 15.31,
+      "end": 18.85
+    },
+    "20": {
+      "text": "Uwo muntu yita amatungo yose n'inyoni n'ibisiga byo mu kirere n'inyamaswa zo mu ishyamba zose, ariko umufasha umukwiriye yari ataraboneka.",
+      "start": 1.82,
+      "end": 37.78
+    },
+    "21": {
+      "text": "Uwiteka Imana isinziriza uwo muntu ubuticura arasinzira, imukuramo urubavu rumwe ihasubiza inyama,",
+      "start": 29.46,
+      "end": 38.26
+    },
+    "22": {
+      "text": "urwo rubavu Uwiteka Imana yakuye muri uwo muntu, iruhindura umugore imushyīra uwo muntu.",
+      "start": 15.78,
+      "end": 30.71
+    },
+    "23": {
+      "text": "Aravuga ati“Uyu ni igufwa ryo mu magufwa yanjye,Ni akara ko mu mara yanjye,Azitwa Umugore kuko yakuwe mu Mugabo.”",
+      "start": 43.03,
+      "end": 44.12
+    },
+    "24": {
+      "text": "Ni cyo gituma umuntu azasiga se na nyina, akabana n'umugore we akaramata, bombi bakaba umubiri umwe.",
+      "start": 31.59,
+      "end": 36.48
+    },
+    "25": {
+      "text": "Kandi uwo mugabo n'umugore we bombi bari bambaye ubusa, ntibakorwe n'isoni.",
+      "start": 41.36,
+      "end": 42.82
+    }
+  }
+}

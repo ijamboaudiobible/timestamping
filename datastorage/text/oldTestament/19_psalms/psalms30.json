@@ -1,0 +1,73 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi ni Indirimbo yaririmbwe ubwo bezaga Inzu. Ni Zaburi ya Dawidi.",
+      "start": 33.2,
+      "end": 41.68
+    },
+    "2": {
+      "text": "Uwiteka ndaguhimbariza kuko wampagurukije,Ntukunde ko abanzi banjye banyishima hejuru.",
+      "start": 15.6,
+      "end": 34.76
+    },
+    "3": {
+      "text": "Uwiteka Mana yanjye,Naragutakiye urankiza.",
+      "start": 36.88,
+      "end": 39.32
+    },
+    "4": {
+      "text": "Uwiteka wazamuye ubugingo bwanjye ubukura ikuzimu,Wankijije urupfu ngo ne kumanuka nkajya muri rwa rwobo.",
+      "start": 14.85,
+      "end": 42.77
+    },
+    "5": {
+      "text": "Muririmbire Uwiteka ishimwe mwa bakunzi be mwe,Mushime izina rye ryera.",
+      "start": 36.84,
+      "end": 44.86
+    },
+    "6": {
+      "text": "Kuko uburakari bwe ari ubw'akanya gato,Ariko urukundo rwe ruzana ubugingo.Ahari kurira kwararira umuntu nijoro,Ariko mu gitondo impundu zikavuga.",
+      "start": 13.43,
+      "end": 31.79
+    },
+    "7": {
+      "text": "Nanjye ubwo nagubwaga neza naravuze nti“Ntabwo nzanyeganyezwa.”",
+      "start": 14.6,
+      "end": 39.42
+    },
+    "8": {
+      "text": "Uwiteka ku bw'urukundo rwawe,wari ukomeje umusozi wanjye,Wampishe mu maso hawe mpagarika umutima.",
+      "start": 27.18,
+      "end": 36.96
+    },
+    "9": {
+      "text": "Uwiteka naragutakiye,Kandi ninginze Uwiteka",
+      "start": 18.2,
+      "end": 40.46
+    },
+    "10": {
+      "text": "Nti “Amaraso yanjye azamara iki nimanuka nkajya muri rwa rwobo?Mbese umukungugu uzaguhimbaza?Uzātura umurava wawe?",
+      "start": 28.22,
+      "end": 35.65
+    },
+    "11": {
+      "text": "Uwiteka nyumva umbabarire,Uwiteka mbera umutabazi.”",
+      "start": 1.48,
+      "end": 32.61
+    },
+    "12": {
+      "text": "Uhinduye umuborogo wanjye imbyino,Unkenyuruye ibigunira byanjye, unkenyeza ibyishimo,",
+      "start": 40.08,
+      "end": 40.65
+    },
+    "13": {
+      "text": "Kugira ngo ubwiza bwanjye bukuririmbire ishimwe budaceceka.Uwiteka Mana yanjye, nzagushima iteka ryose.",
+      "start": 2.45,
+      "end": 9.47
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "book": "Book 17",
+  "book_canonical": "esther",
+  "book_number": 17,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Ku ngoma ya Ahasuwerusi (Ahasuwerusi uwo ni we wategekaga ibihugu ijana na makumyabiri na birindwi uhereye i Buhindi ukageza Etiyopiya),",
+      "start": 15.4,
+      "end": 24.07
+    },
+    "2": {
+      "text": "Umwami Ahasuwerusi yari ku ntebe y'ubwami ku murwa w'i Shushani.",
+      "start": 8.11,
+      "end": 12.38
+    },
+    "3": {
+      "text": "Mu mwaka wa gatatu ari ku ngoma, atekeshereza abatware be bose n'abagaragu be ibyokurya, abakomeye b'u Buperesi n'u Bumedi n'imfura n'abatware b'intebe bateranira imbere ye.",
+      "start": 0.15,
+      "end": 5.63
+    },
+    "4": {
+      "text": "Amara iminsi yerekana ubutunzi bwo mu bwami bwe bw'icyubahiro, n'igitinyiro cy'ubwiza bwe buhebuje, iyo minsi yari ijana na mirongo inani.",
+      "start": 4.04,
+      "end": 18.19
+    },
+    "5": {
+      "text": "Nuko iyo minsi ishize, umwami atekeshereza abantu bose ibyokurya bari ku murwa w'i Shushani, abakomeye n'aboroheje, bamara iminsi irindwi ku rurembo rw'urugo rw'ibwami.",
+      "start": 1.24,
+      "end": 23.81
+    },
+    "6": {
+      "text": "Hari hakinzwe imyenda y'ibitare n'iyirabura nk'ibyatsi bibisi n'iy'imikara ya kabayonga, imanitswe n'imishumi y'ibitambaro by'ibitare byiza n'iy'imihengeri ku nkingi z'amabuye yitwa marimari. Iyo mishumi yari ifashwe n'impeta z'ifeza, kandi hariho n'intāra z'izahabu n'ifeza ku mabuye ashashwe ya marimari y'amabara menshi, atukura n'ay'ibitare n'ay'imihondo n'ay'imikara.",
+      "start": 11.73,
+      "end": 38.15
+    },
+    "7": {
+      "text": "Babahera ibyokunywa mu bintu by'izahabu bidahuje urugero, na vino y'ibwami nyinshi kuko ari ko umwami yatangaga.",
+      "start": 44.0,
+      "end": 44.2
+    },
+    "8": {
+      "text": "Uko kunywa kwabaye nk'uko byategetswe, nta wabahataga kuko umwami yari yategetse abanyabintu bye bose ko baha umuntu wese uko ashatse.",
+      "start": 13.96,
+      "end": 43.31
+    },
+    "9": {
+      "text": "Kandi Umwamikazi Vashiti na we atekeshereza abagore ibyokurya mu nzu y'ibwami, ari yo y'Umwami Ahasuwerusi.",
+      "start": 37.11,
+      "end": 43.95
+    },
+    "10": {
+      "text": "Nuko ku munsi wa karindwi umwami anezeza umutima na vino, ategeka Mehumani na Bizita na Haribona, na Bigita na Abagita na Zetari na Karikasi, inkone ndwi zaherezaga Umwami Ahasuwerusi,",
+      "start": 19.02,
+      "end": 24.91
+    },
+    "11": {
+      "text": "ngo bazane Umwamikazi Vashiti imbere y'umwami yambaye ikamba, kugira ngo amurikire abantu n'abatware ubwiza bwe kuko yari umunyaburanga.",
+      "start": 36.12,
+      "end": 43.7
+    },
+    "12": {
+      "text": "Ariko Umwamikazi Vashiti yanga kuzanwa n'itegeko ry'umwami yamutegekesheje inkone ze. Umwami ni ko kurakara cyane, uburakari bugurumana muri we.",
+      "start": 31.96,
+      "end": 39.93
+    },
+    "13": {
+      "text": "Umwami aherako abaza abacurabwenge bazi ibyabaye kera (kuko ari ko yabigenzaga ku bacurabwenge bazi amategeko n'amateka bose,",
+      "start": 9.71,
+      "end": 10.23
+    },
+    "14": {
+      "text": "kandi umwami yegerwaga na Karishena na Shetari na Adimata, na Tarushishi na Meresi na Marisena na Memukani, abatware barindwi b'u Buperesi n'u Bumedi, ari bo bashyikiraga umwami bakaba mu cyimbo cy'imbere ku mwami).",
+      "start": 5.48,
+      "end": 17.91
+    },
+    "15": {
+      "text": "Umwami arababaza ati “Umwamikazi Vashiti turamugenza dute mu by'amategeko, kuko yagandiye itegeko Umwami Ahasuwerusi yamutegekesheje inkone?”",
+      "start": 16.66,
+      "end": 22.42
+    },
+    "16": {
+      "text": "Memukani asubiriza imbere y'umwami n'abatware ati “Umwamikazi Vashiti ntacumuye ku mwami wenyine, acumuye no ku batware bose no ku mahanga yose ari mu bihugu by'Umwami Ahasuwerusi byose,",
+      "start": 8.46,
+      "end": 34.93
+    },
+    "17": {
+      "text": "kuko ibyo umwamikazi yakoze ibyo bizamamara mu bagore bose bitume basuzugura abagabo babo, nibivugwa yuko Umwami Ahasuwerusi yategetse ko Umwamikazi Vashiti amwitaba akanga.",
+      "start": 8.56,
+      "end": 24.83
+    },
+    "18": {
+      "text": "Ndetse uyu munsi abatwarekazi b'u Buperesi n'u Bumedi nibumva ibyo umwamikazi yakoze, na bo ni ko bazagira abatware b'umwami bose. Nuko rero hazabaho agasuzuguro kenshi n'uburakari.",
+      "start": 35.94,
+      "end": 39.94
+    },
+    "19": {
+      "text": "Umwami niyemera inama ategeke itegeko ry'umwami, maze ryandikwe mu mategeko y'Abaperesi n'Abamedi rye guhindurwa, yuko Vashiti atazongera kugera imbere y'Umwami Ahasuwerusi, kandi n'icyubahiro cye cy'ubwamikazi agihe undi umurusha ingeso nziza.",
+      "start": 37.84,
+      "end": 39.11
+    },
+    "20": {
+      "text": "Nuko bamamaze iteka umwami agiye guca rikwire mu gihugu cye cyose kuko ari kinini. Ni ho abagore bose bazubaha abagabo babo, abakomeye n'aboroheje.”",
+      "start": 28.92,
+      "end": 29.79
+    },
+    "21": {
+      "text": "Iyo nama ishimwa n'umwami n'abatware. Umwami aherako abigenza uko Memukani yamugiriye inama.",
+      "start": 14.07,
+      "end": 30.21
+    },
+    "22": {
+      "text": "Yohereza inzandiko mu bihugu by'umwami byose, igihugu cyose uko imyandikire yacyo iri, n'ishyanga ryose uko ururimi rwaryo ruri, ngo umugabo wese ajye ategeka mu rugo rwe, kandi ngo baryamamaze mu ndimi z'abantu be uko zingana.",
+      "start": 15.1,
+      "end": 25.51
+    }
+  }
+}

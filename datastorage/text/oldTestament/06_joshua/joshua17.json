@@ -1,0 +1,98 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Bafindira umugabane w'umuryango wa Manase, kuko ari we mfura ya Yosefu. Makiri yari imfura ya Manase sekuru wa Gileyadi ni we wahawe iyi misozi: i Galeyadi n'i Bashani kuko yari intwari.",
+      "start": 29.04,
+      "end": 34.93
+    },
+    "2": {
+      "text": "Bafindira n'umugabane wa bene Manase bandi nk'uko amazu yabo ari. Abo ni bo Abiyezeri na bene Heleki, na bene Asiriyeli na bene Shekemu, na bene Heferi na bene Shemida. Aba bavuzwe ni bo bahungu ba Manase mwene Yosefu nk'uko amazu yabo ari.",
+      "start": 18.27,
+      "end": 40.15
+    },
+    "3": {
+      "text": "Ariko Selofehadi mwene Heferi mwene Gileyadi, mwene Makiri mwene Manase ntiyabyaye abahungu, keretse abakobwa kandi aya ni yo mazina yabo: Mahila na Nowa na Hogila, na Miluka na Tirusa.",
+      "start": 6.48,
+      "end": 41.78
+    },
+    "4": {
+      "text": "Barahaguruka basanga Eleyazari umutambyi, na Yosuwa mwene Nuni n'abatware babo baravuga bati “Uwiteka yategetse Mose yuko aduhana gakondo na bene wacu.” Ni cyo cyatumye abahana gakondo na bene se, bakurikije itegeko ry'Uwiteka.",
+      "start": 39.93,
+      "end": 42.52
+    },
+    "5": {
+      "text": "Nuko umuryango wa Manase uhabwa imigabane cumi, uretse ibihugu by'i Galeyadi n'i Bashani byo hakurya ya Yorodani,",
+      "start": 19.22,
+      "end": 28.05
+    },
+    "6": {
+      "text": "kuko abakobwa ba Manase bahanywe gakondo n'abahungu be, kandi bene Manase bandi bahabwa i Galeyadi.",
+      "start": 33.43,
+      "end": 33.73
+    },
+    "7": {
+      "text": "Nuko urugabano rw'Abamanase rwaheraga i Bwasheri rukageza i Mikimetati herekeye i Shekemu, maze urugabano rukanyura iburyo rukagera Enitapuwa.",
+      "start": 6.14,
+      "end": 10.37
+    },
+    "8": {
+      "text": "Igihugu cy'i Tapuwa cyari icya Manase, ariko i Tapuwa hafi y'urugabano rw'Abamanase hari ah'Abefurayimu.",
+      "start": 34.99,
+      "end": 35.79
+    },
+    "9": {
+      "text": "Nuko urugabano rumanukira ku kagezi kitwa Kana, ikusi yako. Iyo midugudu yari iy'Abefurayimu, ariko rero yari hagati y'iy'Abamanase. Urugabano rw'Abamanase rwari ikasikazi ya ka kagezi kandi iherezo ryarwo ryari inyanja.",
+      "start": 5.09,
+      "end": 12.83
+    },
+    "10": {
+      "text": "Kandi ikusi yako haba ah'Abefurayimu, ikasikazi yako haba ah'Abamanase, kandi inyanja ni rwo rugabano rwabo. Nuko bagera i Bwasheri ikasikazi, n'i Bwisakari iburasirazuba.",
+      "start": 9.13,
+      "end": 41.01
+    },
+    "11": {
+      "text": "Abamanase bahabwa mu Bisakari no mu Bashēri imidugudu yitwaga Betisheyani n'imidugudu yaho, na Ibuleyamu n'imidugudu yaho, n'abaturage b'i Dori n'imidugudu yaho, n'aba Endori n'imidugudu yaho, n'ab'i Tānaki n'imidugudu yaho, n'ab'i Megido n'imidugudu yaho, ari yo misozi itatu.",
+      "start": 20.84,
+      "end": 40.34
+    },
+    "12": {
+      "text": "Bene Manase ntibabasha kwirukana bene iyo midugudu, ariko Abanyakanāni bashaka kuguma muri icyo gihugu.",
+      "start": 8.76,
+      "end": 39.28
+    },
+    "13": {
+      "text": "Abisirayeli bamaze gukomera bakoresha Abanyakanāni ikoro, ntibabirukana umuhashya.",
+      "start": 21.92,
+      "end": 23.23
+    },
+    "14": {
+      "text": "Ab'umuryango wa Yosefu babaza Yosuwa bati “Ni iki cyatumye uduha umugabane umwe gusa n'igice kimwe kuba gakondo yacu, kandi uzi ko turi umuryango munini kuko Uwiteka yaduhaye umugisha kugeza ubu?”",
+      "start": 20.0,
+      "end": 36.88
+    },
+    "15": {
+      "text": "Nuko Yosuwa arabasubiza ati “Niba muri umuryango munini nimuzamuke mujye mu kibira, mugiteme mwiyagurire mu gihugu cy'Abaferizi n'Abarafa, kuko igihugu cy'imisozi ya Efurayimu ari imfungane kuri mwe.”",
+      "start": 7.37,
+      "end": 15.79
+    },
+    "16": {
+      "text": "Abayosefu baravuga bati “Igihugu cy'imisozi ntabwo cyadukwira, kandi Abanyakanāni bose b'i Betisheyani n'imidugudu yaho, n'abari mu kibaya cy'i Yezerēli uko batuye mu gihugu cy'ibibaya, bafite amagare y'ibyuma.”",
+      "start": 35.8,
+      "end": 36.85
+    },
+    "17": {
+      "text": "Yosuwa aherako abwira umuryango wa Yosefu, ari bo Befurayimu n'Abamanase ati “Muri umuryango munini koko kandi mufite imbaraga nyinshi, ntimwahabwa umugabane umwe gusa",
+      "start": 44.89,
+      "end": 44.98
+    },
+    "18": {
+      "text": "ahubwo igihugu cy'imisozi miremire kizabe icyanyu. Kandi naho ari ikibira muzagiteme n'imirenge yayo izabe iyanyu, ariko Abanyakanāni nubwo ari abanyambaraga bafite n'amagare y'ibyuma, muzabirukane.”",
+      "start": 23.65,
+      "end": 43.55
+    }
+  }
+}

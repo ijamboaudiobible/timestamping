@@ -1,0 +1,198 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 40,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 40.79,
+      "end": 41.93
+    },
+    "2": {
+      "text": "“Ku munsi wa mbere w'ukwezi kwa mbere uzashinge ubuturo. Ni bwo hema ry'ibonaniro.",
+      "start": 28.74,
+      "end": 29.06
+    },
+    "3": {
+      "text": "Ushyiremo isanduku y'Ibihamya uyikingiririshe wa mwenda.",
+      "start": 40.58,
+      "end": 43.07
+    },
+    "4": {
+      "text": "Winjizemo n'ameza ushyire ibyo kuyaterekwaho mu butereko bwabyo, winjize n'igitereko cy'amatabaza, ukongeze amatabaza yacyo.",
+      "start": 23.64,
+      "end": 32.38
+    },
+    "5": {
+      "text": "Kandi igicaniro cy'izahabu cyo koserezaho imibavu uzagishyire imbere y'iyo sanduku y'Ibihamya, kandi uzakinge umwenda mu muryango w'ubwo buturo.",
+      "start": 8.31,
+      "end": 32.97
+    },
+    "6": {
+      "text": "Ushyire igicaniro cyo koserezaho ibitambo imbere y'umuryango w'ubwo buturo. Ni bwo hema ry'ibonaniro.",
+      "start": 41.02,
+      "end": 44.11
+    },
+    "7": {
+      "text": "Ushyire igikarabiro hagati y'ihema ry'ibonaniro n'icyo gicaniro, ugisukemo amazi.",
+      "start": 8.76,
+      "end": 32.16
+    },
+    "8": {
+      "text": "Ushinge urugo rugote ubwo buturo, ukinge umwenda mu irembo ryarwo.",
+      "start": 38.74,
+      "end": 38.99
+    },
+    "9": {
+      "text": "“Wende ya mavuta yo gusīga, uyasīge ubwo buturo n'ibirimo byose, ubwezanye n'ibintu byo muri bwo byose. Ni ho buzaba ubwera.",
+      "start": 2.35,
+      "end": 25.14
+    },
+    "10": {
+      "text": "Usīge n'icyo gicaniro cyo koserezaho ibitambo n'ibintu byacyo byose, ucyeze. Ni ho kizaba icyera cyane.",
+      "start": 9.64,
+      "end": 37.04
+    },
+    "11": {
+      "text": "Usīge n'icyo gikarabiro n'igitereko cyacyo, ucyeze.",
+      "start": 3.43,
+      "end": 42.93
+    },
+    "12": {
+      "text": "“Uzane Aroni n'abana be ku muryango w'ihema ry'ibonaniro, ubuhagirireho.",
+      "start": 39.91,
+      "end": 40.21
+    },
+    "13": {
+      "text": "Wambike Aroni ya myambaro yejejwe, umusīge, umwereze kugira ngo ankorere umurimo w'ubutambyi.",
+      "start": 17.05,
+      "end": 28.96
+    },
+    "14": {
+      "text": "Uzane n'abana be ubambike amakanzu,",
+      "start": 40.02,
+      "end": 41.16
+    },
+    "15": {
+      "text": "ubasīge nk'uko wasīze se, kugira ngo bankorere umurimo w'ubutambyi. Uko gusīgwa kwabo kuzababera ubutambyi budakuka mu bihe byabo byose.”",
+      "start": 26.15,
+      "end": 27.82
+    },
+    "16": {
+      "text": "Mose agenza atyo, uko Uwiteka yamutegetse kose, aba ari ko akora.",
+      "start": 38.44,
+      "end": 43.99
+    },
+    "17": {
+      "text": "Nuko mu kwezi kwa mbere ko mu mwaka wa kabiri, ku munsi wako wa mbere, ubwo buturo burashingwa.",
+      "start": 15.6,
+      "end": 30.99
+    },
+    "18": {
+      "text": "Mose arabushinga, ashyiraho imyobo yo gushingamo ibyabwo, ashinga imbaho z'imiganda yabwo azishyiraho imbumbe zazo, ashinga inkingi zabwo.",
+      "start": 33.76,
+      "end": 39.0
+    },
+    "19": {
+      "text": "Asakaza ubwo buturo ihema, arishyiraho na ryo ibirisakara uko Uwiteka yategetse Mose.",
+      "start": 38.6,
+      "end": 39.48
+    },
+    "20": {
+      "text": "Yenda bya Bihamya abishyira muri ya sanduku, ayishyiraho imijisho yayo, ashyira hejuru yayo intebe y'ihongerero,",
+      "start": 4.25,
+      "end": 21.1
+    },
+    "21": {
+      "text": "yinjiza iyo sanduku mu buturo, akinga umwenda wo gukingiriza Ahera cyane, awukingiririsha isanduku y'Ibihamya, uko Uwiteka yategetse Mose.",
+      "start": 28.8,
+      "end": 40.82
+    },
+    "22": {
+      "text": "Kandi ashyira ameza mu ihema ry'ibonaniro mu ruhande rw'ubwo buturo rw'ibumoso, inyuma ya wa mwenda ukingiriza Ahera cyane.",
+      "start": 35.29,
+      "end": 43.75
+    },
+    "23": {
+      "text": "Ayaterekaho imitsima imbere y'Uwiteka, umutsima wose mu butereko bwawo, uko Uwiteka yategetse Mose.",
+      "start": 29.77,
+      "end": 38.17
+    },
+    "24": {
+      "text": "Ashyira igitereko cy'amatabaza mu ihema ry'ibonaniro kibangikana n'ayo meza, kiba mu ruhande rw'ubwo buturo rw'iburyo.",
+      "start": 22.26,
+      "end": 37.55
+    },
+    "25": {
+      "text": "Agishyiriraho amatabaza imbere y'Uwiteka, uko Uwiteka yategetse Mose.",
+      "start": 10.56,
+      "end": 35.56
+    },
+    "26": {
+      "text": "Ashyira igicaniro cy'izahabu mu ihema ry'ibonaniro, inyuma ya wa mwenda ukingiriza Ahera, akiwegereje,",
+      "start": 33.73,
+      "end": 33.77
+    },
+    "27": {
+      "text": "acyoserezaho umubavu w'ikivange, uko Uwiteka yategetse Mose.",
+      "start": 23.12,
+      "end": 36.04
+    },
+    "28": {
+      "text": "Akinga umwenda mu muryango w'ubwo buturo.",
+      "start": 8.37,
+      "end": 24.96
+    },
+    "29": {
+      "text": "Ashyira igicaniro cyo koserezaho ibitambo imbere y'umuryango w'ubwo buturo. Ni bwo hema ry'ibonaniro. Agitambiraho igitambo cyoswa n'ituro ry'ifu, uko Uwiteka yategetse Mose.",
+      "start": 17.63,
+      "end": 18.45
+    },
+    "30": {
+      "text": "Ashyira igikarabiro hagati y'ihema ry'ibonaniro n'icyo gicaniro, agisukamo amazi yo kwiyuhagiza.",
+      "start": 31.21,
+      "end": 37.54
+    },
+    "31": {
+      "text": "Mose na Aroni n'abana be bakajya bagikarabiramo, bakacyogeramo ibirenge",
+      "start": 6.74,
+      "end": 44.14
+    },
+    "32": {
+      "text": "uko bagiye kwinjira mu ihema ry'ibonaniro, kandi uko bagiye kwegera icyo gicaniro bakajya bakaraba bakoga ibirenge, uko Uwiteka yategetse Mose.",
+      "start": 40.26,
+      "end": 40.34
+    },
+    "33": {
+      "text": "Ashinga urugo rugota ubwo buturo n'icyo gicaniro, akinga umwenda mu irembo ryarwo. Uko ni ko Mose yarangije uwo murimo wose.",
+      "start": 32.63,
+      "end": 44.09
+    },
+    "34": {
+      "text": "Maze cya gicu gitwikira ihema ry'ibonaniro, ubwiza bw'Uwiteka burabagirana bwuzura ubwo buturo.",
+      "start": 44.44,
+      "end": 44.64
+    },
+    "35": {
+      "text": "Mose ananirwa kwinjira mu ihema ry'ibonaniro kuko icyo gicu cyari kiririho, ubwiza bw'Uwiteka bukuzura ubwo buturo.",
+      "start": 1.44,
+      "end": 21.89
+    },
+    "36": {
+      "text": "Kandi mu rugendo rwabo rwose uko icyo gicu cyaterurwaga kuri ubwo buturo, Abisirayeli barahagurukaga bakagenda,",
+      "start": 15.82,
+      "end": 18.38
+    },
+    "37": {
+      "text": "ariko icyo gicu kitaterurwaho ntibagende, bakageza umunsi giteruriweho.",
+      "start": 40.8,
+      "end": 41.21
+    },
+    "38": {
+      "text": "Kuko igicu cy'Uwiteka cyabaga kuri ubwo buturo ku manywa, hakabamo umuriro nijoro mu maso y'inzu ya Isirayeli yose, mu rugendo rwabo rwose.",
+      "start": 7.27,
+      "end": 31.06
+    }
+  }
+}

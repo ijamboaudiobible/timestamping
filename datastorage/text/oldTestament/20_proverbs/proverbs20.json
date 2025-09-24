@@ -1,0 +1,158 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Vino ni umukobanyi,Inzoga zirakubaganisha,Kandi ushukwa na byo ntagira ubwenge.",
+      "start": 43.05,
+      "end": 43.68
+    },
+    "2": {
+      "text": "Igitinyiro cy'umwami ni nk'icy'intare yivuga,Umurakaje aba agiriye amagara ye nabi.",
+      "start": 35.61,
+      "end": 41.25
+    },
+    "3": {
+      "text": "Umuntu ashimirwa kwirinda impaka,Ariko umupfapfa wese akunda intonganya.",
+      "start": 21.4,
+      "end": 30.27
+    },
+    "4": {
+      "text": "Nzarimirana w'umunyabute ntiyihingira atinya imbeho,Ni cyo gituma mu isarura azasabiriza kandi ntagire icyo abona.",
+      "start": 25.61,
+      "end": 41.03
+    },
+    "5": {
+      "text": "Imigambi yo mu mutima w'umuntu ni nk'amazi y'imuhengeri,Ariko umunyabwenge azayifindura.",
+      "start": 23.52,
+      "end": 28.21
+    },
+    "6": {
+      "text": "Abenshi mu bantu bakunda kwamamaza ineza yabo,Ariko umunyamurava wamubona he?",
+      "start": 14.15,
+      "end": 29.58
+    },
+    "7": {
+      "text": "Umukiranutsi agendera mu murava we,Hahirwa abana be bazamukurikira.",
+      "start": 9.75,
+      "end": 37.67
+    },
+    "8": {
+      "text": "Umwami wicaye ku ntebe y'imanza,Atatanyisha ibibi byose amaso ye.",
+      "start": 30.59,
+      "end": 31.23
+    },
+    "9": {
+      "text": "Ni nde ubasha kuvuga ati“Ni jye wiyejeje umutima,Ubu nkize icyaha cyanjye”?",
+      "start": 9.43,
+      "end": 15.94
+    },
+    "10": {
+      "text": "Ibipimisho biciye ukubiri n'ingero ziciye ukubiri,Byombi ni ibizira ku Uwiteka.",
+      "start": 35.31,
+      "end": 39.4
+    },
+    "11": {
+      "text": "Umuntu naho ari umwana amenyekanira ku byo akora,Niba umurimo we uboneye kandi utunganye.",
+      "start": 3.77,
+      "end": 28.32
+    },
+    "12": {
+      "text": "Ugutwi kumva n'ijisho rireba,Byombi byaremwe n'Uwiteka.",
+      "start": 21.61,
+      "end": 33.18
+    },
+    "13": {
+      "text": "Ntukunde kuryamīra kugira ngo utazakena,Kanguka ube maso kandi uzahaga ibyokurya.",
+      "start": 39.41,
+      "end": 41.5
+    },
+    "14": {
+      "text": "Ugiye kugura arapfobya ati“Urampenze, urampenze!”Ariko agenda yishimira icyo aguze.",
+      "start": 36.24,
+      "end": 42.77
+    },
+    "15": {
+      "text": "Hariho izahabu n'amabuye ya marijani menshi,Ariko umunwa w'ubwenge ni ibyambarwa by'igiciro cyinshi.",
+      "start": 32.49,
+      "end": 33.69
+    },
+    "16": {
+      "text": "Uwishingiye umushyitsi umwake umwambaro we ho ingwate,Kandi uwishingiye abashyitsi umwemere ho ubugwate.",
+      "start": 24.9,
+      "end": 41.06
+    },
+    "17": {
+      "text": "Urisha ubuhwahwa araryoherwa,Ariko hanyuma bikamubera umusenyi mu kanwa ke.",
+      "start": 26.16,
+      "end": 33.37
+    },
+    "18": {
+      "text": "Imigambi yose ikomezwa n'inama,Kandi uzajye gusembura intambara ufite inama z'ubwenge.",
+      "start": 10.07,
+      "end": 28.72
+    },
+    "19": {
+      "text": "Ugenda ari inzimuzi amena ibanga,Nuko ntukiyuzuze n'ukunda kuvugagura.",
+      "start": 9.96,
+      "end": 25.08
+    },
+    "20": {
+      "text": "Uvuma se cyangwa nyina,Urumuri rwe ruzazimira mu mwijima w'icuraburindi.",
+      "start": 4.72,
+      "end": 35.43
+    },
+    "21": {
+      "text": "Umwandu wabonekera mu maguru mashya mu itangira,Ariko amaherezo ntuhira.",
+      "start": 32.05,
+      "end": 44.0
+    },
+    "22": {
+      "text": "Ntukavuge uti “Nzihōrera.”Tegereza Uwiteka na we azagukiza.",
+      "start": 25.28,
+      "end": 31.82
+    },
+    "23": {
+      "text": "Ibipimisho biciye ukubiri ni ikizira ku Uwiteka,Kandi igipimo kibeshya si cyiza.",
+      "start": 28.45,
+      "end": 44.74
+    },
+    "24": {
+      "text": "Uwiteka ni we uyobora imigendere y'umuntu,Mbese umuntu yamenya ate inzira aganamo?",
+      "start": 13.21,
+      "end": 18.78
+    },
+    "25": {
+      "text": "Guhubukira indahiro y'ibyo yashinganye bibera umuntu umutego,Yamara kurahira agasigara yisiganuza.",
+      "start": 0.28,
+      "end": 25.27
+    },
+    "26": {
+      "text": "Umwami w'ubwenge ahūza abanyabyaha ikibando,Hanyuma akabagosora.",
+      "start": 37.61,
+      "end": 42.96
+    },
+    "27": {
+      "text": "Umwuka w'umuntu ni urumuri yahawe n'Uwiteka,Rusesengura ibihishwe mu mutima.",
+      "start": 20.66,
+      "end": 21.24
+    },
+    "28": {
+      "text": "Imbabazi n'ukuri ni byo bitera umwami kurama,Kandi ingoma ye ikomezwa n'imbabazi.",
+      "start": 39.85,
+      "end": 41.13
+    },
+    "29": {
+      "text": "Ubwiza bw'abasore ni imbaraga zabo,Kandi ubwiza bw'abasaza ni uruyenzi rw'imvi.",
+      "start": 23.38,
+      "end": 25.48
+    },
+    "30": {
+      "text": "Inguma ziryana zikuraho ibibi,Kandi imibyimba igera ku mutima.",
+      "start": 11.95,
+      "end": 13.56
+    }
+  }
+}

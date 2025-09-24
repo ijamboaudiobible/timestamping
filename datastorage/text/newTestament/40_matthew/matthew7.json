@@ -1,0 +1,153 @@
+{
+  "book": "Book 40",
+  "book_canonical": "matthew",
+  "book_number": 40,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "“Ntimugacire abandi urubanza mu mitima yanyu kugira ngo namwe mutazarucirwa,",
+      "start": 10.72,
+      "end": 41.6
+    },
+    "2": {
+      "text": "kuko urubanza muca ari rwo muzacirwa namwe, urugero mugeramo ari rwo muzagererwamo namwe.",
+      "start": 9.03,
+      "end": 18.84
+    },
+    "3": {
+      "text": "Ni iki gituma ubona agatotsi kari mu jisho rya mwene so, ariko ntiwite ku mugogo uri mu jisho ryawe?",
+      "start": 4.9,
+      "end": 25.32
+    },
+    "4": {
+      "text": "Cyangwa wabasha ute kubwira mwene so uti ‘Henga ngutokore agatotsi mu jisho ryawe’, kandi ugifite umugogo mu jisho ryawe?",
+      "start": 30.58,
+      "end": 37.78
+    },
+    "5": {
+      "text": "Wa ndyarya we, banza wikuremo umugogo uri mu ryawe jisho, kuko ari bwo wabona uko utokora agatotsi mu jisho rya mwene so.",
+      "start": 7.78,
+      "end": 29.88
+    },
+    "6": {
+      "text": "“Ibyejejwe by'Imana ntimukabihe imbwa, kandi n'imaragarita zanyu ntimukazite imbere y'ingurube, kugira ngo zitaziribata maze zikabahindukirana zikabarya.",
+      "start": 19.99,
+      "end": 20.81
+    },
+    "7": {
+      "text": "“Musabe muzahabwa, mushake muzabona, mukomange ku rugi muzakingurirwa.",
+      "start": 2.4,
+      "end": 5.62
+    },
+    "8": {
+      "text": "Kuko umuntu wese usaba ahabwa, ushatse abona, n'ukomanga agakingurirwa.",
+      "start": 4.09,
+      "end": 40.24
+    },
+    "9": {
+      "text": "Mbese muri mwe hari umuntu umwana we yasaba umutsima akamuha ibuye,",
+      "start": 39.35,
+      "end": 42.85
+    },
+    "10": {
+      "text": "cyangwa yamusaba ifi akamuha inzoka?",
+      "start": 40.01,
+      "end": 40.75
+    },
+    "11": {
+      "text": "Ko muri babi kandi mukaba muzi guha abana banyu ibyiza, none So wo mu ijuru ntazarushaho guha ibyiza ababimusabye?",
+      "start": 40.52,
+      "end": 41.8
+    },
+    "12": {
+      "text": "“Nuko ibyo mushaka ko abantu babagirira byose mube ari ko mubagirira namwe, kuko ayo ari yo mategeko n'ibyahanuwe.",
+      "start": 18.61,
+      "end": 21.14
+    },
+    "13": {
+      "text": "“Munyure mu irembo rifunganye, kuko irembo ari rigari, n'inzira ijyana abantu kurimbuka ari nini, kandi abayinyuramo ni benshi.",
+      "start": 31.15,
+      "end": 35.86
+    },
+    "14": {
+      "text": "Ariko irembo rifunganye, n'inzira ijya mu bugingo iraruhije, kandi abayinyuramo ni bake.",
+      "start": 11.69,
+      "end": 30.35
+    },
+    "15": {
+      "text": "“Mwirinde abahanuzi b'ibinyoma baza aho muri basa n'intama, ariko imbere ari amasega aryana.",
+      "start": 8.78,
+      "end": 29.86
+    },
+    "16": {
+      "text": "Muzabamenyera ku mbuto zabo. Mbese hari abasoroma imizabibu ku mugenge, cyangwa imbuto z'umutini ku gitovu?",
+      "start": 17.3,
+      "end": 31.07
+    },
+    "17": {
+      "text": "Nuko igiti cyiza cyose cyera imbuto nziza, ariko igiti kibi cyera imbuto mbi.",
+      "start": 30.19,
+      "end": 37.13
+    },
+    "18": {
+      "text": "Igiti cyiza ntikibasha kwera imbuto mbi, kandi n'igiti kibi ntikibasha kwera imbuto nziza.",
+      "start": 12.21,
+      "end": 29.24
+    },
+    "19": {
+      "text": "Igiti cyose kitera imbuto nziza kiracibwa, kikajugunywa mu muriro.",
+      "start": 9.51,
+      "end": 37.87
+    },
+    "20": {
+      "text": "Nuko muzabamenyera ku mbuto zabo.",
+      "start": 10.59,
+      "end": 22.46
+    },
+    "21": {
+      "text": "“Umuntu wese umbwira ati ‘Mwami, Mwami’, si we uzinjira mu bwami bwo mu ijuru, keretse ukora ibyo Data wo mu ijuru ashaka.",
+      "start": 14.93,
+      "end": 18.48
+    },
+    "22": {
+      "text": "Benshi bazambaza kuri uwo munsi bati ‘Mwami, Mwami, ntitwahanuraga mu izina ryawe, ntitwirukanaga abadayimoni mu izina ryawe, ntitwakoraga ibitangaza byinshi mu izina ryawe?’",
+      "start": 11.69,
+      "end": 26.19
+    },
+    "23": {
+      "text": "Ni bwo nzaberurira nti ‘Sinigeze kubamenya, nimumve imbere mwa nkozi z'ibibi mwe.’",
+      "start": 14.84,
+      "end": 17.97
+    },
+    "24": {
+      "text": "“Nuko umuntu wese wumva ayo magambo yanjye akayakomeza, azaba nk'umunyabwenge wubatse inzu ye ku rutare,",
+      "start": 42.59,
+      "end": 44.41
+    },
+    "25": {
+      "text": "imvura iragwa, imivu iratemba, umuyaga urahuha, byose byikubita kuri iyo nzu ntiyagwa, kuko yari ishinzwe ku rutare.",
+      "start": 2.16,
+      "end": 5.09
+    },
+    "26": {
+      "text": "“Kandi umuntu wese wumva ayo magambo yanjye ntayakomeze, azaba ari nk'umupfapfa wubatse inzu ye ku musenyi,",
+      "start": 26.19,
+      "end": 27.89
+    },
+    "27": {
+      "text": "imvura iragwa, imivu iratemba, umuyaga urahuha, byose byikubita kuri iyo nzu iragwa, kandi kugwa kwayo kwabaye kunini.”",
+      "start": 22.59,
+      "end": 33.42
+    },
+    "28": {
+      "text": "Yesu amaze kuvuga ayo magambo yose ba bantu batangazwa no kwigisha kwe,",
+      "start": 1.32,
+      "end": 28.38
+    },
+    "29": {
+      "text": "kuko yabigishaga nk'ufite ubutware, ntase n'abanditsi babo.",
+      "start": 32.21,
+      "end": 44.37
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose na Aroni ati",
+      "start": 35.66,
+      "end": 36.55
+    },
+    "2": {
+      "text": "“Ibi ni byo bitegekwa n'itegeko Uwiteka yategetse ati ‘Bwira Abisirayeli bakuzanire iriza y'igaju idafite inenge cyangwa ubusembwa, batigeze gukoresha.",
+      "start": 20.36,
+      "end": 36.67
+    },
+    "3": {
+      "text": "Muyihe Eleyazari umutambyi, ayikure aho muganditse, bayibīkīrire imbere ye.",
+      "start": 6.86,
+      "end": 24.12
+    },
+    "4": {
+      "text": "Eleyazari umutambyi yendeshe urutoki ku maraso yayo, ayaminjagire karindwi yerekeje umuryango w'ihema ry'ibonaniro.",
+      "start": 19.69,
+      "end": 28.46
+    },
+    "5": {
+      "text": "Iyo nka bayosereze imbere ye, bōse uruhu rwayo n'inyama zayo n'amaraso yayo n'amayezi yayo.",
+      "start": 42.59,
+      "end": 42.95
+    },
+    "6": {
+      "text": "Umutambyi yende ingiga y'umwerezi n'agati kitwa ezobu n'agatambaro k'umuhemba, abijugunye hagati mu muriro wosa iyo nka.",
+      "start": 25.86,
+      "end": 33.68
+    },
+    "7": {
+      "text": "Maze uwo mutambyi amese imyenda ye yiyuhagire, abone gusubira mu ngando, abe ahumanye ageze nimugoroba.",
+      "start": 29.74,
+      "end": 33.56
+    },
+    "8": {
+      "text": "Uwayosheje amese imyenda ye yiyuhagire, abe ahumanye ageze nimugoroba.",
+      "start": 18.78,
+      "end": 39.44
+    },
+    "9": {
+      "text": "Umuntu udahumanye ayore ivu ry'iyo nka, aribike inyuma y'aho muganditse, ahantu hadahumanijwe, ribikirwe iteraniro ry'Abisirayeli, ngo bajye barivanga n'amazi, riyahindure ayo guhumanura. Iyo nka ni igitambo gitambiwe ibyaha.",
+      "start": 34.57,
+      "end": 44.3
+    },
+    "10": {
+      "text": "Uyoye ivu ryayo amese imyenda ye, abe ahumanye ageze nimugoroba. Iryo ribere Abisirayeli n'umunyamahanga ubasuhukiyemo itegeko ridakuka iteka.’",
+      "start": 41.99,
+      "end": 42.43
+    },
+    "11": {
+      "text": "“Uzakora ku ntumbi y'umuntu yose amare iminsi irindwi ahumanye,",
+      "start": 33.33,
+      "end": 33.56
+    },
+    "12": {
+      "text": "yihumanuze ayo mazi ku munsi wa gatatu no ku wa karindwi abone guhumanuka. Ariko natihumanura ku munsi wa gatatu no ku wa karindwi, ntazaba ahumanutse.",
+      "start": 12.16,
+      "end": 29.13
+    },
+    "13": {
+      "text": "Uzakora ku ntumbi y'umuntu wese wapfuye ntiyihumanure, azaba yanduje ubuturo bw'Uwiteka, uwo muntu azakurwe mu Bisirayeli. Kuko atamishweho ayo mazi ahumanura, azaba ahumanye, azaba akiriho guhumana kwe.",
+      "start": 12.32,
+      "end": 36.66
+    },
+    "14": {
+      "text": "“Iri ni itegeko ry'umuntu upfiriye mu ihema: uzinjira muri iryo hema wese n'uribamo wese, bamare iminsi irindwi bahumanye.",
+      "start": 32.96,
+      "end": 37.54
+    },
+    "15": {
+      "text": "Kandi ikintu cyose kirangaye kidafite urupfuko, kizaba gihumanye.",
+      "start": 19.29,
+      "end": 29.21
+    },
+    "16": {
+      "text": "Kandi umuntu uzaba ari mu gasozi agakora ku ntumbi y'uwicishijwe inkota, cyangwa ku ntumbi yindi, cyangwa ku igufwa ry'umuntu cyangwa ku gituro, amare iminsi irindwi ahumanye.",
+      "start": 42.29,
+      "end": 43.92
+    },
+    "17": {
+      "text": "“Uhumanye bamwendere ku ivu rya cya gitambo cyatambiwe ibyaha, barishyire mu rwabya, barisukeho amazi yatembaga.",
+      "start": 7.32,
+      "end": 17.62
+    },
+    "18": {
+      "text": "Umuntu udahumanye yende agati ka ezobu, akinike muri ayo mazi, ayamishe kuri rya hema no ku bintu byose no ku bantu bari baririmo, no ku uwakoze ku igufwa cyangwa ku uwishwe, cyangwa ku ntumbi yindi cyangwa ku gituro.",
+      "start": 14.51,
+      "end": 24.8
+    },
+    "19": {
+      "text": "Kandi uwo muntu udahumanye amishe ku uhumanye ku munsi wa gatatu no ku wa karindwi. Nuko ku wa karindwi amuhumanure, na we amese imyenda ye yiyuhagire, nimugoroba abe ahumanutse.",
+      "start": 18.25,
+      "end": 30.27
+    },
+    "20": {
+      "text": "“Ariko umuntu uzahumana ntiyihumanure, azakurirwe hagati y'iteraniro, kuko yanduje Ahera h'Uwiteka. Kuko atamishweho amazi ahumanura, azaba ahumanye.",
+      "start": 37.96,
+      "end": 43.49
+    },
+    "21": {
+      "text": "Iryo ribabere itegeko ridakuka. Kandi umishe ayo mazi ahumanura amese imyenda ye, uyakozeho abe ahumanye ageze nimugoroba.",
+      "start": 2.09,
+      "end": 11.4
+    },
+    "22": {
+      "text": "Kandi ikintu cyose uhumanya azakoraho kibe gihumanye, uzagikoraho abe ahumanye ageze nimugoroba.”",
+      "start": 17.77,
+      "end": 35.9
+    }
+  }
+}

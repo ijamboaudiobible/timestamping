@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 85,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni Zaburi ya bene Kōra.",
+      "start": 0.45,
+      "end": 15.73
+    },
+    "2": {
+      "text": "Uwiteka, wagiriye igihugu cyawe imbabazi;Wagaruye Abayakobo bajyanywe ho iminyago.",
+      "start": 19.23,
+      "end": 38.83
+    },
+    "3": {
+      "text": "Wababariye gukiranirwa k'ubwoko bwawe,Watwikiriye ibyaha byabo byose.Sela.",
+      "start": 20.82,
+      "end": 21.43
+    },
+    "4": {
+      "text": "Wakuyeho umujinya wawe wose,Waretse uburakari bwawe bukaze urabworoshya.",
+      "start": 36.3,
+      "end": 43.18
+    },
+    "5": {
+      "text": "Mana y'agakiza kacu utwigarurire,Kandi ushire umujinya wawe utugirira.",
+      "start": 18.04,
+      "end": 25.34
+    },
+    "6": {
+      "text": "Uzaturakarira iteka?Uzakomeza uburakari bwawe ibihe byose?",
+      "start": 25.14,
+      "end": 28.39
+    },
+    "7": {
+      "text": "Ntuzagaruka ubwawe ngo utuzure,Kugira ngo ubwoko bwawe bukwishimire?",
+      "start": 41.9,
+      "end": 43.31
+    },
+    "8": {
+      "text": "Uwiteka, utwereke imbabazi zawe,Uduhe agakiza kawe.",
+      "start": 37.19,
+      "end": 42.1
+    },
+    "9": {
+      "text": "Reka numve ibyo Imana Uwiteka izavuga,Kuko izabwira ubwoko bwayo n'abakunzi bayo amahoro,Ariko be kugarukira ubupfu.",
+      "start": 10.94,
+      "end": 35.76
+    },
+    "10": {
+      "text": "Ni ukuri agakiza kayo kari bugufi bw'abayubaha,Kugira ngo ubwiza bwayo bube mu gihugu cyacu.",
+      "start": 3.78,
+      "end": 6.22
+    },
+    "11": {
+      "text": "Imbabazi n'umurava birahuye,Gukiranuka n'amahoro birahoberanye.",
+      "start": 18.04,
+      "end": 22.57
+    },
+    "12": {
+      "text": "Umurava umeze mu butaka,Gukiranuka kurebye mu isi kuri mu ijuru.",
+      "start": 5.6,
+      "end": 43.27
+    },
+    "13": {
+      "text": "Kandi Uwiteka azatanga ibyiza,Igihugu cyacu kizera umwero wacyo.",
+      "start": 35.56,
+      "end": 36.01
+    },
+    "14": {
+      "text": "Gukiranuka kuzamubanziriza,Kandi kuzahindura intambwe ze inzira yanyurwamo.",
+      "start": 20.42,
+      "end": 24.92
+    }
+  }
+}

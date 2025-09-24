@@ -1,0 +1,158 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "Mu mwaka wa cyenda wo ku ngoma ya Sedekiya mu kwezi kwa cumi, ku munsi wa cumi muri uko kwezi, Nebukadinezari umwami w'i Babuloni yazanye ingabo ze zose atera i Yerusalemu arahagerereza, bubakaho ibihome impande zose.",
+      "start": 38.32,
+      "end": 42.67
+    },
+    "2": {
+      "text": "Nuko bagota uwo murwa kugeza mu mwaka wa cumi n'umwe ku ngoma y'umwami Sedekiya.",
+      "start": 7.69,
+      "end": 39.13
+    },
+    "3": {
+      "text": "Ku munsi wa cyenda wo mu kwezi kwa kane inzara yabaye nyinshi muri uwo murwa, abantu bo muri icyo gihugu babura ibyokurya.",
+      "start": 23.39,
+      "end": 28.84
+    },
+    "4": {
+      "text": "Hanyuma Abakaludaya baca icyuho mu nkike y'umurwa, ingabo zo muri wo zose zirahunga iryo joro, zica mu nzira yo mu irembo ryo hagati y'inkike zihereranye n'umurima w'umwami. Kandi Abakaludaya bari bagose umurwa impande zose, umwami na we aca mu nzira ya Araba.",
+      "start": 19.21,
+      "end": 43.59
+    },
+    "5": {
+      "text": "Maze ingabo z'Abakaludaya zikurikira umwami zimufatira mu kibaya cy'i Yeriko, ingabo ze zose ziratatana, ziramuhāna.",
+      "start": 23.24,
+      "end": 43.11
+    },
+    "6": {
+      "text": "Nuko bafata umwami, baramuzamura bamushyira umwami w'i Babuloni i Ribula, bamucira urubanza.",
+      "start": 16.37,
+      "end": 42.4
+    },
+    "7": {
+      "text": "Abahungu be babamwicira imbere, na we bamunogoramo amaso bamubohesha iminyururu, bamujyana i Babuloni.",
+      "start": 9.09,
+      "end": 39.31
+    },
+    "8": {
+      "text": "Nuko mu kwezi kwa gatanu ku munsi wa karindwi wako, ari wo mwaka wa cumi n'icyenda ku ngoma y'umwami Nebukadinezari umwami w'i Babuloni, Nebuzaradani umutware w'abarinzi, umugaragu w'umwami w'i Babuloni, yaje i Yerusalemu.",
+      "start": 15.47,
+      "end": 44.75
+    },
+    "9": {
+      "text": "Agezeyo atwika inzu y'Uwiteka n'inzu y'umwami, n'amazu yose y'i Yerusalemu arayatwika.",
+      "start": 35.7,
+      "end": 37.47
+    },
+    "10": {
+      "text": "Maze ingabo z'Abakaludaya zose zari kumwe n'umutware w'abarinzi, zisenya inkike z'i Yerusalemu impande zose.",
+      "start": 40.16,
+      "end": 41.21
+    },
+    "11": {
+      "text": "Bukeye abantu bari basigaye mu murwa, n'abari bakeje umwami w'i Babuloni na rubanda rusigaye, abo Nebuzaradani umutware w'abarinzi abajyana ari imbohe.",
+      "start": 30.8,
+      "end": 38.64
+    },
+    "12": {
+      "text": "Ariko uwo mutware w'abarinzi ahasiga abantu baho b'abatindi hanyuma y'abandi, kujya bicira inzabibu bagahinga.",
+      "start": 34.5,
+      "end": 41.9
+    },
+    "13": {
+      "text": "Kandi inkingi z'imiringa zari mu nzu y'Uwiteka n'ibitereko n'igikarabiro kidendeje cy'umuringa cyari mu nzu y'Uwiteka, Abakaludaya barabimenagura, bajyana imiringa yabyo i Babuloni.",
+      "start": 11.97,
+      "end": 28.81
+    },
+    "14": {
+      "text": "Bajyana n'ibibindi n'ibyuma byo kuyora ivu, n'ibifashi n'indosho n'ibintu by'imiringa bakoreshaga byose, n'ibyotero n'ibyungu.",
+      "start": 30.46,
+      "end": 32.69
+    },
+    "15": {
+      "text": "Kandi uwo mutware w'abarinzi ajyana ibintu by'izahabu n'iby'ifeza.",
+      "start": 25.96,
+      "end": 31.55
+    },
+    "16": {
+      "text": "Za nkingi zombi na cya gikarabiro kidendeje n'ibitereko Salomo yakoreye gushyira mu nzu y'Uwiteka, imiringa yabyo byose ntiyagiraga akagero.",
+      "start": 17.85,
+      "end": 28.3
+    },
+    "17": {
+      "text": "Inkingi imwe uburebure bwayo bwari mikono cumi n'umunani, kandi umutwe wayo wacuzwe mu miringa, uburebure bwawo bwari mikono itatu, hasobekeranijeho ibisa n'urushundura hariho n'imbuto z'amakomamanga, byose byari imiringa. Kandi inkingi ya kabiri na yo yariho bene ibyo hamwe n'ibisa n'urushundura.",
+      "start": 43.25,
+      "end": 44.94
+    },
+    "18": {
+      "text": "Bukeye umutware w'abarinzi afata Seraya umutambyi mukuru, na Zefaniya umutambyi wa kabiri n'abarinzi b'irembo batatu,",
+      "start": 30.41,
+      "end": 44.81
+    },
+    "19": {
+      "text": "kandi muri uwo murwa ahafatira umutware w'ingabo, n'abagabo batanu b'ibyegera by'umwami yasanze aho, n'umwanditsi w'umugaba w'ingabo wakoranyaga ingabo zo muri icyo gihugu, n'abagabo mirongo itandatu bo muri rubanda yasanze mu murwa.",
+      "start": 31.98,
+      "end": 35.93
+    },
+    "20": {
+      "text": "Nuko Nebuzaradani umutware w'abarinzi, arabajyana abashyira umwami w'i Babuloni i Ribula.",
+      "start": 22.39,
+      "end": 40.93
+    },
+    "21": {
+      "text": "Umwami w'i Babuloni abicira i Ribula mu gihugu cy'i Hamati.Uko ni ko Abayuda bajyanywe ho iminyago bakurwa mu gihugu cyabo.",
+      "start": 27.83,
+      "end": 30.33
+    },
+    "22": {
+      "text": "Kandi abantu basigaye mu gihugu cy'i Buyuda, abo Nebukadinezari umwami w'i Babuloni yaretse, abaha Gedaliya mwene Ahikamu mwene Shafani kujya abategeka.",
+      "start": 31.63,
+      "end": 37.16
+    },
+    "23": {
+      "text": "Hanyuma abatware b'ingabo bose hamwe n'ingabo zabo bumvise ko umwami w'i Babuloni yahaye Gedaliya ubutware, baraza basanga Gedaliya i Misipa. Abo ni Ishimayeli mwene Netaniya na Yohanani mwene Kareya, na Seraya mwene Tanihumeti w'i Netofa, na Yāzaniya umuhungu wa wa Munyamāka hamwe n'ingabo zabo.",
+      "start": 40.99,
+      "end": 43.91
+    },
+    "24": {
+      "text": "Gedaliya abarahirana n'ingabo zabo ati “Ntimutinye abagaragu b'Abakaludaya, mugume mu gihugu mukorere umwami w'i Babuloni, ni ho muzaba amahoro.”",
+      "start": 13.7,
+      "end": 43.17
+    },
+    "25": {
+      "text": "Ariko mu kwezi kwa karindwi, Ishimayeli mwene Netaniya mwene Elishama w'igikomangoma araza azanye n'abantu cumi, bica Gedaliya n'Abayuda n'Abakaludaya bari kumwe na we i Misipa.",
+      "start": 12.51,
+      "end": 12.74
+    },
+    "26": {
+      "text": "Abantu bose, aboroheje n'abakomeye n'abatware b'ingabo, baherako barahaguruka bajya Egiputa kuko batinye Abakaludaya.",
+      "start": 7.72,
+      "end": 10.83
+    },
+    "27": {
+      "text": "Mu mwaka wa mirongo itanu n'irindwi Yehoyakini umwami w'Abayuda ari mu bunyage, mu kwezi kwa cumi n'abiri ku munsi wa makumyabiri n'irindwi wako, Evili Merodaki umwami w'i Babuloni mu mwaka wa mbere wo ku ngoma ye, asubiza Yehoyakini umwami w'Abayuda icyubahiro amuvana mu nzu y'imbohe. Ubwo hari mu mwaka yimyemo.",
+      "start": 34.15,
+      "end": 44.8
+    },
+    "28": {
+      "text": "Amubwirana ineza, yubahiriza intebe ye kuyirutisha iz'abandi bami bamubagaho i Babuloni.",
+      "start": 22.66,
+      "end": 40.36
+    },
+    "29": {
+      "text": "Amukura mu myambaro y'imbohe amwambika imyiza, akajya asangira na we iminsi yose yo kubaho kwe.",
+      "start": 37.01,
+      "end": 42.99
+    },
+    "30": {
+      "text": "Umwami yamuhaga ibimutunga igerero rya buri munsi, iminsi yose yo kubaho kwe.",
+      "start": 3.69,
+      "end": 22.99
+    }
+  }
+}

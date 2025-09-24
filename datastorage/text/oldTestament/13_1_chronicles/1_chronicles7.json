@@ -1,0 +1,208 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Bene Isakari ni Tola na Puwa, na Yashubu na Shimuroni, ni bane.",
+      "start": 27.47,
+      "end": 33.33
+    },
+    "2": {
+      "text": "Bene Tola ni Uzi na Refaya na Yeriyeli, na Yahumayi na Ibusamu na Shemweli. Abatware b'inzu ya sekuruza Tola bari abagabo b'abanyambaraga b'intwari mu bihe byabo, ku ngoma ya Dawidi umubare wabo bari inzovu ebyiri n'ibihumbi bibiri na magana atandatu.",
+      "start": 41.51,
+      "end": 43.87
+    },
+    "3": {
+      "text": "Bene Uzi ni Izurahiya, bene Izurahiya ni Mikayeli na Obadiya, na Yoweli na Ishiya. Uko ari batanu bose bari abatware.",
+      "start": 44.74,
+      "end": 44.93
+    },
+    "4": {
+      "text": "Kandi muri bo, uko kuvuka kwabo kwari kuri ukurikije amazu ya ba sekuruza, harimo imitwe y'ingabo zo kurwana intambara zose zari inzovu eshatu n'ibihumbi bitandatu, kuko bari bafite abagore benshi n'abana b'abahungu benshi.",
+      "start": 5.82,
+      "end": 9.08
+    },
+    "5": {
+      "text": "Kandi bene wabo bo mu miryango yose ya Abisakari, abagabo b'abanyambaraga b'intwari uko banditswe mu gitabo cyo kuvuka kwabo, bari inzovu munani n'ibihumbi birindwi.",
+      "start": 27.19,
+      "end": 39.21
+    },
+    "6": {
+      "text": "Bene Benyamini ni Bela na Bekeri na Yediyayeli, ni batatu.",
+      "start": 33.82,
+      "end": 44.14
+    },
+    "7": {
+      "text": "Bene Bela ni Esiboni na Uzi na Uziyeli, na Yerimoti na Iri, ni batanu. Abatware b'amazu ya ba sekuruza bari abagabo b'abanyambaraga b'intwari, babazwe uko kuvuka kwabo kwari kuri, baba inzovu ebyiri n'ibihumbi bibiri na mirongo itatu na bane.",
+      "start": 18.64,
+      "end": 39.67
+    },
+    "8": {
+      "text": "Bene Bekeri ni Zimira na Yowasi na Eliyezeri, na Eliyowenayi na Omuri na Yerimoti, na Abiya na Anatoti na Alemeti. Abo bose bari bene Bekeri.",
+      "start": 40.68,
+      "end": 44.27
+    },
+    "9": {
+      "text": "Babazwe uko kuvuka kwabo kwari kuri bakurikirana, abatware b'amazu ya ba sekuruza babo bari abagabo b'abanyambaraga b'intwari inzovu ebyiri na magana abiri.",
+      "start": 36.55,
+      "end": 41.4
+    },
+    "10": {
+      "text": "Nwene Yediyayeli ni Biluhani, bene Biluhani ni Yewushi na Benyamini na Ehudi na Kenāna, na Zetani na Tarushishi na Ahishahari.",
+      "start": 31.61,
+      "end": 36.03
+    },
+    "11": {
+      "text": "Abo bose bari bene Yediyayeli, uko abatware b'amazu ya ba sekuruza babo bari bari. Bari abagabo b'abanyambaraga b'intwari inzovu imwe n'ibihumbi birindwi na magana abiri babashaga gutabara.",
+      "start": 40.36,
+      "end": 42.92
+    },
+    "12": {
+      "text": "Shupimu na Hupimu bari bene Iri, Hushimu yari mwene Aheri.",
+      "start": 12.73,
+      "end": 25.94
+    },
+    "13": {
+      "text": "Bene Nafutali ni Yahisēli na Guni na Yeseri na Shalumu, abahungu ba Biluha.",
+      "start": 13.71,
+      "end": 30.17
+    },
+    "14": {
+      "text": "Bene Manase ni Asiriyeli wabyawe n'umugore we, (inshoreke ye Umunyaramukazi ni yo yabyaye Makiri se wa Gileyadi.",
+      "start": 29.09,
+      "end": 43.59
+    },
+    "15": {
+      "text": "Makiri arongora umugore kwa Hupimu na Shupimu, murumuna we yari Māka). Umuhungu we wa kabiri witwaga Selofehadi, Selofehadi yabyaye abakobwa.",
+      "start": 41.27,
+      "end": 42.02
+    },
+    "16": {
+      "text": "Māka muka Makiri abyara umwana w'umuhungu amwita Pereshi, murumuna we yitwaga Shereshi kandi n'abahungu be ni Ulamu na Rakemu.",
+      "start": 17.69,
+      "end": 34.19
+    },
+    "17": {
+      "text": "Mwene Ulamu ni Bedani. Abo ni bo bari bene Gileyadi mwene Makiri mwene Manase.",
+      "start": 13.44,
+      "end": 18.36
+    },
+    "18": {
+      "text": "Mushiki we Hamoleketi abyara Ishihodi na Abiyezeri na Mahila.",
+      "start": 33.25,
+      "end": 43.22
+    },
+    "19": {
+      "text": "Bene Shemida ni Ahiyani na Shekemu, na Likuhi na Aniyamu.",
+      "start": 21.54,
+      "end": 27.63
+    },
+    "20": {
+      "text": "Bene Efurayimu ni Shutela, mwene Shutela ni Beredi, mwene Beredi ni Tahati, mwene Tahati ni Eleyada, mwene Eleyada ni Tahati.",
+      "start": 36.85,
+      "end": 38.43
+    },
+    "21": {
+      "text": "Mwene Tahati ni Zabadi, mwene Zabadi ni Shutela na Ezeri na Eleyada, bishwe n'Abanyagati bavukiye muri icyo gihugu kuko bamanuwe no kunyaga inka zabo.",
+      "start": 4.03,
+      "end": 25.55
+    },
+    "22": {
+      "text": "Maze Efurayimu se amara iminsi myinshi arira, bene se baza kumumara umubabaro.",
+      "start": 40.09,
+      "end": 41.65
+    },
+    "23": {
+      "text": "Bukeye ataha ku mugore we asama inda, abyara umwana w'umuhungu amwita Beriya, kuko urubyaro rwe rwagize ibyago.",
+      "start": 5.59,
+      "end": 6.88
+    },
+    "24": {
+      "text": "(Kandi umukobwa we yitwaga Shēra, ari we wubatse i Betihoroni yo hepfo n'iyo haruguru, na Uzenishēra).",
+      "start": 3.73,
+      "end": 17.39
+    },
+    "25": {
+      "text": "Umuhungu we yari Refa na Reshefu na Tela umuhungu we, mwene Tela ni Tahani.",
+      "start": 39.88,
+      "end": 42.48
+    },
+    "26": {
+      "text": "Mwene Tahani ni Lādani, mwene Lādani ni Amihudi, mwene Amihudi ni Elishama.",
+      "start": 6.17,
+      "end": 8.55
+    },
+    "27": {
+      "text": "Mwene Elishama ni Nuni, mwene Nuni ni Yosuwa.",
+      "start": 13.47,
+      "end": 18.15
+    },
+    "28": {
+      "text": "Kandi gakondo yabo n'inturo zabo byari i Beteli n'imidugudu yaho, iburasirazuba n'i Nārani n'iburengerazuba n'i Gezeri n'imidugudu yaho, kandi n'i Shekemu n'imidugudu yaho ukageza Aza n'imidugudu yaho.",
+      "start": 20.9,
+      "end": 37.69
+    },
+    "29": {
+      "text": "Kandi no ku ngabano z'Abamanase: i Betisheyani n'imidugudu yaho, n'i Tānaki n'imidugudu yaho, n'i Megido n'imidugudu yaho, n'i Dori n'imidugudu yaho.Muri iyo midugudu, bene Yosefu mwene Isirayeli ni ho babaga.",
+      "start": 0.38,
+      "end": 15.31
+    },
+    "30": {
+      "text": "Bene Asheri ni Imuna na Ishiva na Ishivi, na Beriya na mushiki wabo Sera.",
+      "start": 36.17,
+      "end": 44.12
+    },
+    "31": {
+      "text": "Bene Beriya ni Heberi na Malikiyeli se wa Biruzawiti.",
+      "start": 40.0,
+      "end": 43.14
+    },
+    "32": {
+      "text": "Heberi yabyaye Yafuleti na Shomeri, na Hotamu na mushiki wabo Shuwa.",
+      "start": 21.97,
+      "end": 33.38
+    },
+    "33": {
+      "text": "Bene Yafuleti ni Pasaki na Bimuhali na Ashuvati. Abo ni bo bari abana ba Yafuleti.",
+      "start": 19.45,
+      "end": 22.95
+    },
+    "34": {
+      "text": "Bene Shemeri ni Ahi na Rohuga, na Yehuba na Aramu.",
+      "start": 3.48,
+      "end": 33.42
+    },
+    "35": {
+      "text": "Kandi bene Helemu murumuna we ni Sofa na Imuna, na Sheleshi na Amali.",
+      "start": 18.46,
+      "end": 22.01
+    },
+    "36": {
+      "text": "Bene Sofa ni Suwa na Haruneferi, na Shuwali na Beri na Imura,",
+      "start": 17.57,
+      "end": 35.14
+    },
+    "37": {
+      "text": "na Beseri na Hodi na Shama, na Shilusha na Yitirani na Bēra.",
+      "start": 6.42,
+      "end": 6.78
+    },
+    "38": {
+      "text": "Bene Yeteri ni Yefune na Pisipa na Ara.",
+      "start": 18.87,
+      "end": 37.02
+    },
+    "39": {
+      "text": "Bene Ula ni Ara na Haniyeli na Risiya.",
+      "start": 22.08,
+      "end": 36.18
+    },
+    "40": {
+      "text": "Abo bose bari bene Asheri n'abatware b'amazu ya ba sekuruza, abagabo batowe b'abanyambaraga b'intwari, aba mbere mu batware. Kandi umubare wabo wabazwe uko kuvuka kwabo kwari kuri ngo bakore umurimo wo kurwana intambara, bari abagabo inzovu ebyiri n'ibihumbi bitandatu.",
+      "start": 3.83,
+      "end": 20.03
+    }
+  }
+}

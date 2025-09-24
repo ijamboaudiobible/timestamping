@@ -1,0 +1,278 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwirira Mose mu butayu bwa Sinayi ari mu ihema ry'ibonaniro, ku munsi wa mbere w'ukwezi kwa kabiri k'umwaka wa kabiri bavuye mu gihugu cya Egiputa, ati",
+      "start": 3.56,
+      "end": 26.44
+    },
+    "2": {
+      "text": "“Mubare umubare w'iteraniro ry'Abisirayeli ryose nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, mubare amazina y'abagabo bose umwe umwe.",
+      "start": 21.49,
+      "end": 26.22
+    },
+    "3": {
+      "text": "Abamaze imyaka makumyabiri cyangwa isāga bavutse, abo mu Bisirayeli bose babasha gutabara, wowe na Aroni mubabare uko imitwe yabo iri.",
+      "start": 27.73,
+      "end": 30.58
+    },
+    "4": {
+      "text": "Mufatanye n'umuntu wo mu muryango wose w'umutware w'inzu ya ba sekuru.",
+      "start": 1.53,
+      "end": 8.71
+    },
+    "5": {
+      "text": "“Aya ni yo mazina y'abantu bakwiriye guhagararana namwe:mu Barubeni ni Elisuri mwene Shedewuri;",
+      "start": 28.62,
+      "end": 37.92
+    },
+    "6": {
+      "text": "mu Basimeyoni ni Shelumiyeli mwene Surishadayi;",
+      "start": 32.26,
+      "end": 41.02
+    },
+    "7": {
+      "text": "mu Bayuda ni Nahashoni mwene Aminadabu;",
+      "start": 17.71,
+      "end": 42.02
+    },
+    "8": {
+      "text": "mu Bisakari ni Netanēli mwene Suwari;",
+      "start": 20.68,
+      "end": 34.02
+    },
+    "9": {
+      "text": "mu Bazebuluni ni Eliyabu mwene Heloni;",
+      "start": 14.46,
+      "end": 17.47
+    },
+    "10": {
+      "text": "mu Bayosefu ni Elishama mwene Amihudi wo mu Befurayimu, na Gamaliyeli mwene Pedasuri wo mu Bamanase;",
+      "start": 12.95,
+      "end": 44.34
+    },
+    "11": {
+      "text": "mu Babenyamini ni Abidani mwene Gideyoni;",
+      "start": 39.45,
+      "end": 43.03
+    },
+    "12": {
+      "text": "mu Badani ni Ahiyezeri mwene Amishadayi;",
+      "start": 15.59,
+      "end": 31.36
+    },
+    "13": {
+      "text": "mu Bashēri ni Pagiyeli mwene Okirani;",
+      "start": 0.21,
+      "end": 20.27
+    },
+    "14": {
+      "text": "mu Bagadi ni Eliyasafu mwene Deweli;",
+      "start": 10.02,
+      "end": 32.16
+    },
+    "15": {
+      "text": "mu Banafutali ni Ahira mwene Enani.”",
+      "start": 15.98,
+      "end": 28.27
+    },
+    "16": {
+      "text": "Abo ni bo bajya bahamagarwa mu iteraniro, ni bo batware b'imiryango ya ba sekuruza, ni bo bategeka b'ibihumbi by'Abisirayeli.",
+      "start": 18.84,
+      "end": 29.08
+    },
+    "17": {
+      "text": "Mose na Aroni bajyana abo bantu bavuzwe amazina,",
+      "start": 31.57,
+      "end": 41.94
+    },
+    "18": {
+      "text": "bateranya iteraniro ryose ku munsi wa mbere w'ukwezi kwa kabiri. Amavuko y'abantu yandikwa nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina yabo umwe umwe y'abamaze imyaka makumyabiri n'isāga.",
+      "start": 24.81,
+      "end": 30.25
+    },
+    "19": {
+      "text": "Uko Uwiteka yategetse Mose, aba ari ko ababarira mu butayu bwa Sinayi.",
+      "start": 27.43,
+      "end": 30.68
+    },
+    "20": {
+      "text": "Bandika amavuko y'Abarubeni imfura ya Isirayeli nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 19.4,
+      "end": 26.07
+    },
+    "21": {
+      "text": "Ababazwe bo mu muryango wa Rubeni baba inzovu enye n'ibihumbi bitandatu na magana atanu.",
+      "start": 10.93,
+      "end": 17.8
+    },
+    "22": {
+      "text": "Bandika amavuko y'Abasimeyoni nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 2.33,
+      "end": 42.39
+    },
+    "23": {
+      "text": "Ababazwe bo mu muryango wa Simiyoni baba inzovu eshanu n'ibihumbi cyenda na magana atatu.",
+      "start": 7.32,
+      "end": 18.88
+    },
+    "24": {
+      "text": "Bandika amavuko y'Abagadi nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 43.43,
+      "end": 43.68
+    },
+    "25": {
+      "text": "Ababazwe bo mu muryango wa Gadi baba inzovu enye n'ibihumbi bitanu na magana atandatu na mirongo itanu.",
+      "start": 18.58,
+      "end": 39.5
+    },
+    "26": {
+      "text": "Bandika amavuko y'Abayuda nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 7.86,
+      "end": 29.49
+    },
+    "27": {
+      "text": "Ababazwe bo mu muryango wa Yuda baba inzovu ndwi n'ibihumbi bine na magana atandatu.",
+      "start": 39.84,
+      "end": 41.77
+    },
+    "28": {
+      "text": "Bandika amavuko y'Abisakari nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 34.89,
+      "end": 41.96
+    },
+    "29": {
+      "text": "Ababazwe bo mu muryango wa Isakari baba inzovu eshanu n'ibihumbi bine na magana ane.",
+      "start": 4.53,
+      "end": 6.94
+    },
+    "30": {
+      "text": "Bandika amavuko y'Abazebuluni nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 41.96,
+      "end": 42.03
+    },
+    "31": {
+      "text": "Ababazwe bo mu muryango wa Zebuluni baba inzovu eshanu n'ibihumbi birindwi na magana ane.",
+      "start": 17.34,
+      "end": 26.15
+    },
+    "32": {
+      "text": "Mu Bayosefu bandika amavuko y'Abefurayimu nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 9.95,
+      "end": 27.18
+    },
+    "33": {
+      "text": "Ababazwe bo mu muryango wa Efurayimu baba inzovu enye na magana atanu.",
+      "start": 11.84,
+      "end": 17.49
+    },
+    "34": {
+      "text": "Bandika amavuko y'Abamanase nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 21.96,
+      "end": 26.74
+    },
+    "35": {
+      "text": "Ababazwe bo mu muryango wa Manase baba inzovu eshatu n'ibihumbi bibiri na magana abiri.",
+      "start": 11.88,
+      "end": 38.4
+    },
+    "36": {
+      "text": "Bandika amavuko y'Ababenyamini nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 11.0,
+      "end": 25.48
+    },
+    "37": {
+      "text": "Ababazwe bo mu muryango wa Benyamini baba inzovu eshatu n'ibihumbi bitanu na magana ane.",
+      "start": 24.61,
+      "end": 37.74
+    },
+    "38": {
+      "text": "Bandika amavuko y'Abadani nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 4.88,
+      "end": 42.0
+    },
+    "39": {
+      "text": "Ababazwe bo mu muryango wa Dani baba inzovu esheshatu n'ibihumbi bibiri na magana arindwi.",
+      "start": 41.33,
+      "end": 43.92
+    },
+    "40": {
+      "text": "Bandika amavuko y'Abashēri nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 4.37,
+      "end": 7.07
+    },
+    "41": {
+      "text": "Ababazwe bo mu muryango wa Asheri baba inzovu enye n'igihumbi na magana atanu.",
+      "start": 40.26,
+      "end": 42.27
+    },
+    "42": {
+      "text": "Bandika amavuko y'Abanafutali nk'uko imiryango yabo iri, nk'uko amazu ya ba sekuru ari, babara amazina y'abagabo bose umwe umwe, bamaze imyaka makumyabiri bavutse cyangwa isāga, ababasha gutabara bose.",
+      "start": 14.63,
+      "end": 18.46
+    },
+    "43": {
+      "text": "Ababazwe bo mu muryango wa Nafutali baba inzovu eshanu n'ibihumbi bitatu na magana ane.",
+      "start": 43.23,
+      "end": 44.47
+    },
+    "44": {
+      "text": "Abo ni bo babazwe na Mose na Aroni na ba batware b'Abisirayeli uko ari cumi na babiri, umuntu umwe wo mu nzu ya ba sekuru yose.",
+      "start": 27.63,
+      "end": 32.41
+    },
+    "45": {
+      "text": "Nuko ababazwe bose bo mu Bisirayeli nk'uko amazu ya ba sekuru ari, bamaze imyaka makumyabiri bavutse cyangwa isāga, abo mu Bisirayeli babasha gutabara bose;",
+      "start": 34.16,
+      "end": 43.14
+    },
+    "46": {
+      "text": "ababazwe bose baba uduhumbi dutandatu n'ibihumbi bitatu na magana atanu na mirongo itanu.",
+      "start": 4.78,
+      "end": 7.74
+    },
+    "47": {
+      "text": "Abalewi nk'uko umuryango wa ba sekuru uri, ntibarakabaranwa na bo,",
+      "start": 41.53,
+      "end": 41.57
+    },
+    "48": {
+      "text": "kuko Uwiteka yabwiye Mose ati",
+      "start": 31.66,
+      "end": 34.15
+    },
+    "49": {
+      "text": "“Ariko uwo muryango wa Lewi wo ntuzawubare, ntubarane umubare wabo n'Abisirayeli bandi.",
+      "start": 35.91,
+      "end": 36.37
+    },
+    "50": {
+      "text": "Ahubwo Abalewi ubagire abarinzi b'ubuturo bw'Ibihamya, n'ab'ibintu byo muri bwo byose, n'ab'ibyabwo byose. Bajye baremērwa ubwo buturo n'ibintu byo muri bwo bwose, abe ari bo bajya bakoreramo imirimo, bajye babugotesha amahema yabo.",
+      "start": 41.25,
+      "end": 42.13
+    },
+    "51": {
+      "text": "Kandi uko ubwo buturo buhagurutse, Abalewi abe ari bo bajya babushingura, kandi uko bugiye kubambwa, Abalewi abe ari bo babushinga. Utari uwo muri bo wigizwa hafi no kubyishyiramo yicwe.",
+      "start": 8.96,
+      "end": 25.37
+    },
+    "52": {
+      "text": "Abisirayeli bajye babamba amahema yabo, umuntu wese mu cyiciro cy'amahema y'ababo, umuntu wese ahererane n'ibendera ry'ababo nk'uko imitwe yabo iri.",
+      "start": 35.08,
+      "end": 44.37
+    },
+    "53": {
+      "text": "Ariko Abalewi bakikize amahema yabo ubuturo bw'Ibihamya, kugira ngo umujinya utaba ku iteraniro ry'Abisirayeli. Abalewi bitondere umurimo wo kurinda ubuturo bw'Ibihamya.”",
+      "start": 6.16,
+      "end": 31.18
+    },
+    "54": {
+      "text": "Uko abe ari ko Abisirayeli bakora, uko Uwiteka yategetse Mose kose abe ari ko bakora.",
+      "start": 12.37,
+      "end": 20.7
+    }
+  }
+}

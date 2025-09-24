@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 114,
+  "verses": {
+    "1": {
+      "text": "Ubwo Abisirayeli bavaga muri Egiputa,Ubwo inzu y'Abayakobo yavaga mu bantu b'urundi rurimi.",
+      "start": 21.1,
+      "end": 25.83
+    },
+    "2": {
+      "text": "I Buyuda hahindutse ahera h'Imana,I Bwisirayeli hahindutse ubwami bwayo.",
+      "start": 0.45,
+      "end": 43.15
+    },
+    "3": {
+      "text": "Inyanja ibibonye irahunga,Yorodani isubizwa inyuma.",
+      "start": 7.88,
+      "end": 39.13
+    },
+    "4": {
+      "text": "Imisozi miremire yitera hejuru nk'amasekurume y'intama,Udusozi twitera hejuru nk'abana b'intama.",
+      "start": 30.96,
+      "end": 38.25
+    },
+    "5": {
+      "text": "Wa nyanja we, utewe n'iki guhunga?Nawe Yorodani, ushubijwe inyuma n'iki?",
+      "start": 14.98,
+      "end": 20.33
+    },
+    "6": {
+      "text": "Namwe misozi miremire, ni iki kibīteresha hejuru nk'amasekurume y'intama?Namwe dusozi, mugakina nk'abana b'intama?",
+      "start": 14.27,
+      "end": 39.61
+    },
+    "7": {
+      "text": "Wa si we, hindira umushyitsi imbere y'Umwami,Imbere y'Imana ya Yakobo,",
+      "start": 37.24,
+      "end": 43.77
+    },
+    "8": {
+      "text": "Yahinduye urutare ikidendezi,Yahinduye igitare gikomeye isōko.",
+      "start": 42.25,
+      "end": 43.58
+    }
+  }
+}

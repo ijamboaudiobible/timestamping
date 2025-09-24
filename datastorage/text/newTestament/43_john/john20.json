@@ -1,0 +1,163 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Ku wa mbere w'iminsi irindwi, mu rubungabungo hatarabona Mariya Magadalena aza ku gituro, asanga igitare gikuwe ku gituro.",
+      "start": 38.9,
+      "end": 40.24
+    },
+    "2": {
+      "text": "Arirukanka asanga Simoni Petero na wa mwigishwa wundi Yesu yakundaga arababwira ati “Bakuye Umwami Yesu mu gituro, kandi ntituzi aho bamushyize.”",
+      "start": 21.95,
+      "end": 29.16
+    },
+    "3": {
+      "text": "Petero asohokana na wa mwigishwa wundi bajya ku gituro.",
+      "start": 8.7,
+      "end": 14.28
+    },
+    "4": {
+      "text": "Bombi birukira icyarimwe, ariko uwo mwigishwa asiga Petero aba ari we ubanza kugera ku gituro.",
+      "start": 18.46,
+      "end": 22.81
+    },
+    "5": {
+      "text": "Arunama arungurukamo, abona imyenda y'ibitare ishyizwe hasi ariko ntiyinjiramo.",
+      "start": 21.61,
+      "end": 39.19
+    },
+    "6": {
+      "text": "Maze Simoni Petero na we aza amukurikiye, yinjira mu gituro abona imyenda y'ibitare ishyizwe hasi,",
+      "start": 10.73,
+      "end": 17.63
+    },
+    "7": {
+      "text": "n'igitambaro cyari mu mutwe we kidashyizwe hamwe n'imyenda y'ibitare, ahubwo cyari kizinze kiri ukwacyo hirya.",
+      "start": 20.69,
+      "end": 37.11
+    },
+    "8": {
+      "text": "Ni cyo cyatumye na wa mwigishwa wundi wabanje kugera ku gituro na we yinjira. Abibonye yizera ibyo yabwiwe na wa mugore,",
+      "start": 20.61,
+      "end": 36.84
+    },
+    "9": {
+      "text": "kuko bari bataramenya ibyanditswe ko akwiriye kuzuka.",
+      "start": 15.13,
+      "end": 17.14
+    },
+    "10": {
+      "text": "Maze abigishwa basubirayo bajya iwabo.",
+      "start": 6.38,
+      "end": 21.47
+    },
+    "11": {
+      "text": "Ariko Mariya yari ahagaze ku gituro arira. Akirira arunama arunguruka mu gituro,",
+      "start": 16.42,
+      "end": 33.7
+    },
+    "12": {
+      "text": "abona abamarayika babiri bambaye imyenda yera bicaye, umwe ku musego n'undi ku mirambizo, aho intumbi ya Yesu yari yarashyizwe.",
+      "start": 41.6,
+      "end": 42.88
+    },
+    "13": {
+      "text": "Baramubaza bati “Mugore, urarizwa n'iki?”Arabasubiza ati “Ni uko bakuyemo Umwami wanjye, nanjye sinzi aho bamushyize.”",
+      "start": 22.15,
+      "end": 38.43
+    },
+    "14": {
+      "text": "Amaze kuvuga atyo arakebuka, abona Yesu ahagaze ariko ntiyamenya ko ari we.",
+      "start": 6.59,
+      "end": 23.0
+    },
+    "15": {
+      "text": "Yesu aramubaza ati “Mugore, urarizwa n'iki? Urashaka nde?”Yibwira ko ari umurinzi w'agashyamba aramubwira ati “Mutware, niba ari wowe umujyanye ahandi, mbwira aho umushyize nanjye mukureyo.”",
+      "start": 43.23,
+      "end": 43.48
+    },
+    "16": {
+      "text": "Yesu aramubwira ati “Mariya.”Arahindukira amwitaba mu Ruheburayo ati “Rabuni” (risobanurwa ngo “Databuja.”)",
+      "start": 11.98,
+      "end": 20.68
+    },
+    "17": {
+      "text": "Yesu aramubwira ati “Ntunkoreho kuko ntarazamuka ngo njye kwa Data, ahubwo jya kubwira bene Data yuko nzamutse ngiye kwa Data ari we So, kandi ku Mana yanjye ari yo Mana yanyu.”",
+      "start": 43.13,
+      "end": 44.06
+    },
+    "18": {
+      "text": "Mariya Magadalena aragenda, abarira abigishwa inkuru ati “Nabonye Umwami”, kandi abatekerereza ibyo yamubwiye.",
+      "start": 23.5,
+      "end": 32.61
+    },
+    "19": {
+      "text": "Nuko kuri uwo munsi bugorobye, ari wo wa mbere w'iminsi irindwi, abigishwa bari bateraniye mu nzu, inzugi zikinze kuko batinyaga Abayuda. Yesu araza ahagarara hagati yabo arababwira ati “Amahoro abe muri mwe.”",
+      "start": 1.22,
+      "end": 7.77
+    },
+    "20": {
+      "text": "Amaze kuvuga atyo abereka ibiganza bye n'urubavu rwe. Abigishwa babonye Umwami baranezerwa.",
+      "start": 6.88,
+      "end": 40.18
+    },
+    "21": {
+      "text": "Yesu yongera kubabwira ati “Amahoro abe muri mwe. Uko Data yantumye ni ko nanjye mbatumye.”",
+      "start": 13.41,
+      "end": 25.06
+    },
+    "22": {
+      "text": "Amaze kuvuga atyo abahumekeraho ati “Nimwakire Umwuka Wera.",
+      "start": 10.93,
+      "end": 20.64
+    },
+    "23": {
+      "text": "Abo muzababarira ibyaha bose bazaba babibabariwe, abo mutazabibabarira bose bazaba batabibabariwe.”",
+      "start": 16.23,
+      "end": 38.79
+    },
+    "24": {
+      "text": "Ariko Toma umwe muri abo cumi na babiri witwaga Didumo, ntiyari kumwe na bo ubwo Yesu yazaga.",
+      "start": 26.73,
+      "end": 44.13
+    },
+    "25": {
+      "text": "Ni cyo cyatumye abandi bigishwa bamubwira bati “Tubonye Umwami!”Na we arabasubiza ati “Nintabona inkovu z'imbereri mu biganza bye ngo nzishyiremo urutoki rwanjye, sinshyire n'ikiganza cyanjye mu rubavu rwe sinzemera.”",
+      "start": 41.65,
+      "end": 42.07
+    },
+    "26": {
+      "text": "Nuko iminsi munani ishize, abigishwa bongera guterana mu nzu nka mbere na Toma ari kumwe na bo. Yesu araza abahagarara hagati, kandi inzugi zari zigikinze arababwira ati “Amahoro abe muri mwe.”",
+      "start": 23.43,
+      "end": 35.36
+    },
+    "27": {
+      "text": "Maze abwira Toma ati “Zana hano urutoki rwawe urebe ibiganza byanjye, kandi uzane n'ikiganza cyawe ugishyire mu rubavu rwanjye, kandi we kuba utizera ahubwo ube uwizeye.”",
+      "start": 31.42,
+      "end": 43.18
+    },
+    "28": {
+      "text": "Toma aramusubiza ati “Mwami wanjye! Kandi Mana yanjye!”",
+      "start": 33.04,
+      "end": 42.7
+    },
+    "29": {
+      "text": "Yesu aramubwira ati “Wijejwe n'uko umbonye, hahirwa abizeye batambonye.”",
+      "start": 37.32,
+      "end": 40.44
+    },
+    "30": {
+      "text": "Hariho n'ibindi bimenyetso byinshi Yesu yakoreye imbere y'abigishwa, bitanditswe muri iki gitabo.",
+      "start": 1.45,
+      "end": 37.62
+    },
+    "31": {
+      "text": "Ariko ibi byandikiwe kugira ngo mwizere yuko Yesu ari Kristo Umwana w'Imana, kandi ngo nimwizera muherwa ubugingo mu izina rye.",
+      "start": 2.22,
+      "end": 32.2
+    }
+  }
+}

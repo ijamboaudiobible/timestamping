@@ -1,0 +1,183 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Muri icyo gihe hari abantu bari bahari bamutekerereza iby'Abanyagalilaya, abo Pilato yavangiye amaraso yabo n'ibitambo byabo.",
+      "start": 36.44,
+      "end": 43.11
+    },
+    "2": {
+      "text": "Yesu arabasubiza ati “Mbese mugira ngo abo Banyagalilaya bari abanyabyaha kuruta abandi Banyagalilaya, ubwo bababajwe batyo?",
+      "start": 41.57,
+      "end": 44.9
+    },
+    "3": {
+      "text": "Ndababwira yuko atari ko biri, ahubwo namwe nimutihana muzarimbuka mutyo mwese.",
+      "start": 25.29,
+      "end": 27.4
+    },
+    "4": {
+      "text": "Cyangwa se ba bandi cumi n'umunani, abo umunara w'i Silowamu wagwiriye ukabica, mugira ngo bari abanyabyaha kuruta abandi b'i Yerusalemu bose?",
+      "start": 25.44,
+      "end": 34.1
+    },
+    "5": {
+      "text": "Ndababwira yuko atari ko biri, ahubwo namwe nimutihana muzarimbuka mutyo mwese.”",
+      "start": 38.15,
+      "end": 44.84
+    },
+    "6": {
+      "text": "Kandi abacira uyu mugani ati “Hāriho umuntu wateye umutini mu ruzabibu rwe, bukeye araza awushakaho imbuto arazibura.",
+      "start": 25.03,
+      "end": 35.23
+    },
+    "7": {
+      "text": "Abwira umuhinzi ati ‘Dore none uyu mwaka ni uwa gatatu, nza gushaka imbuto kuri uyu mutini sinzibone. Uwuce, urakomeza kunyunyuriza iki ubutaka?’",
+      "start": 12.53,
+      "end": 44.31
+    },
+    "8": {
+      "text": "Na we aramusubiza ati ‘Databuja, uwureke uyu mwaka na wo, nywuhingire nywufumbire,",
+      "start": 11.11,
+      "end": 17.96
+    },
+    "9": {
+      "text": "ahari hanyuma wakwera imbuto. Icyakora nutera uzawuce.’ ”",
+      "start": 32.57,
+      "end": 34.23
+    },
+    "10": {
+      "text": "Nuko ku munsi w'isabato yigishiriza mu isinagogi.",
+      "start": 9.85,
+      "end": 10.63
+    },
+    "11": {
+      "text": "Asangamo umugore ufite dayimoni utera ubumuga, uwo mugore yari amaze imyaka cumi n'umunani ahetamye, atabasha kunamuka na hato.",
+      "start": 35.04,
+      "end": 37.18
+    },
+    "12": {
+      "text": "Yesu amubonye aramuhamagara aramubwira ati “Mugore, ubohowe ubumuga bwawe.”",
+      "start": 23.16,
+      "end": 25.09
+    },
+    "13": {
+      "text": "Amurambikaho ibiganza, muri ako kanya aragororoka ahagarara yemye, ahimbaza Imana.",
+      "start": 32.87,
+      "end": 43.6
+    },
+    "14": {
+      "text": "Ariko umutware w'isinagogi arakazwa n'uko Yesu akijije umuntu ku isabato, abwira abantu ati “Hariho iminsi itandatu ikwiriye gukorerwamo imirimo, abe ari yo muzamo mukizwe hatari ku munsi w'isabato.”",
+      "start": 23.89,
+      "end": 28.78
+    },
+    "15": {
+      "text": "Umwami Yesu aramusubiza ati “Mwa ndyarya mwe, mbese umuntu wese muri mwe ntazitura inka ye cyangwa indogobe ye, ayikura mu kiraro ku isabato, akayijyana akayuhira?",
+      "start": 1.16,
+      "end": 28.98
+    },
+    "16": {
+      "text": "Kandi uyu ko ari umukobwa wa Aburahamu, akaba amaze iyi myaka cumi n'umunani aboshywe na Satani, ntiyari akwiye kubohorwa iyi ngoyi ku munsi w'isabato?”",
+      "start": 0.2,
+      "end": 23.26
+    },
+    "17": {
+      "text": "Amaze kuvuga atyo abanzi be bose baramwara, abahateraniye bose bishimira imirimo myiza itangaza yose yakoze.",
+      "start": 25.23,
+      "end": 38.77
+    },
+    "18": {
+      "text": "Nuko arabaza ati “Mbese ubwami bw'Imana bwagereranywa n'iki, cyangwa nabushushanya n'iki?",
+      "start": 12.36,
+      "end": 13.17
+    },
+    "19": {
+      "text": "Dore bugereranywa n'akabuto ka sinapi, umuntu yenze akakabiba mu murima we, kagakura kakaba igiti maze inyoni zo mu kirere zikarika ibyari mu mashami yacyo.”",
+      "start": 44.81,
+      "end": 44.86
+    },
+    "20": {
+      "text": "Yongera kuvuga ati “Ubwami bw'Imana ndabugereranya n'iki?",
+      "start": 35.9,
+      "end": 42.95
+    },
+    "21": {
+      "text": "Busa n'umusemburo umugore yenze akawuhisha mu myariko itatu y'ifu, kugeza aho yose iri butubukire.”",
+      "start": 21.42,
+      "end": 34.8
+    },
+    "22": {
+      "text": "Ajya mu midugudu n'ibirorero yigisha, ari mu nzira ajya i Yerusalemu,",
+      "start": 43.31,
+      "end": 43.95
+    },
+    "23": {
+      "text": "umuntu aramubaza ati “Databuja, mbese abakizwa ni bake?”Na we aramusubiza ati",
+      "start": 42.6,
+      "end": 43.78
+    },
+    "24": {
+      "text": "“Mugire umwete wo kunyura mu irembo rifunganye. Ndababwira yuko benshi bazashaka kurinyuramo ntibabibashe.",
+      "start": 0.52,
+      "end": 14.86
+    },
+    "25": {
+      "text": "Nyir'inzu namara guhaguruka agakinga urugi, namwe mugatangira kurukomangaho muhagaze hanze muvuga muti ‘Mwami, dukingurire’, azabasubiza ati ‘Simbazi, sinzi n'aho muturutse.’",
+      "start": 38.23,
+      "end": 43.57
+    },
+    "26": {
+      "text": "Ni bwo muzavuga muti ‘Kandi twarīraga imbere yawe, tukanywera imbere yawe, ndetse ukīgishiriza mu nzira z'iwacu!’",
+      "start": 27.62,
+      "end": 38.01
+    },
+    "27": {
+      "text": "Ariko azababwira ati ‘Sinzi aho muturutse. Nimumve imbere mwa nkozi z'ibibi mwe!’",
+      "start": 9.77,
+      "end": 13.0
+    },
+    "28": {
+      "text": "Aho ni ho bazaririra bakahahekenyera amenyo, mubonye Aburahamu na Isaka na Yakobo n'abahanuzi bose bibereye mu bwami bw'Imana, namwe mukaba mujugunywe hanze.",
+      "start": 36.38,
+      "end": 44.3
+    },
+    "29": {
+      "text": "Hazaza abava iburasirazuba n'iburengerazuba, n'ikasikazi n'ikusi, bicare basangirire mu bwami bw'Imana.",
+      "start": 12.86,
+      "end": 32.03
+    },
+    "30": {
+      "text": "Kandi rero, hariho ab'inyuma bamwe bazaba ab'imbere, n'ab'imbere bamwe bazaba ab'inyuma.”",
+      "start": 1.33,
+      "end": 17.77
+    },
+    "31": {
+      "text": "Uwo munsi haza Abafarisayo bamwe baramubwira bati “Va hano, ugende kuko Herode ashaka kukwica.”",
+      "start": 23.57,
+      "end": 33.5
+    },
+    "32": {
+      "text": "Arababwira ati “Nimugende mubwire iyo ngunzu muti ‘Dore arirukana abadayimoni, arakiza abantu none n'ejo, maze ku munsi wa gatatu azaba arangije rwose.’",
+      "start": 20.24,
+      "end": 22.29
+    },
+    "33": {
+      "text": "Ariko nkwiriye kugenda none n'ejo n'ejo bundi, kuko bidashoboka ko umuhanuzi yicwa atari i Yerusalemu.",
+      "start": 29.68,
+      "end": 30.31
+    },
+    "34": {
+      "text": "“Ayii! Yerusalemu, Yerusalemu we, wica abahanuzi ugatera amabuye abagutumweho! Ni kangahe nashatse kubundikira abana bawe, nk'uko inkoko ibundikira imishwi yayo mu mababa yayo ntimunkundire?",
+      "start": 33.22,
+      "end": 41.27
+    },
+    "35": {
+      "text": "Dore inzu yanyu muyisigiwe ari umusaka, kandi ndababwira yuko mutazambona kugeza ubwo muzavuga muti ‘Hahirwa uje mu izina ry'Uwiteka.’ ”",
+      "start": 7.86,
+      "end": 31.74
+    }
+  }
+}

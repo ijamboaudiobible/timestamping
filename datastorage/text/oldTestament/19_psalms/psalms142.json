@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 142,
+  "verses": {
+    "1": {
+      "text": "Indirimbo ya Dawidi yahimbishijwe ubwenge. Ni ugusenga kwe yasengeye muri bwa buvumo.",
+      "start": 37.28,
+      "end": 37.86
+    },
+    "2": {
+      "text": "Ndatakishiriza Uwiteka ijwi ryanjye,Ndingingisha Uwiteka ijwi ryanjye.",
+      "start": 13.75,
+      "end": 18.49
+    },
+    "3": {
+      "text": "Ndasuka amaganya yanjye imbere ye,Umubabaro wanjye ndawumuvugira imbere.",
+      "start": 26.34,
+      "end": 30.41
+    },
+    "4": {
+      "text": "Uko umutima wanjye ugwiriye isari muri jye,Ni wowe umenya inzira yanjye,Mu nzira nyuramo bantezemo umutego.",
+      "start": 43.49,
+      "end": 43.71
+    },
+    "5": {
+      "text": "Reba iburyo bwanjye umenye yuko ari nta muntu umenya,Mbuze ubuhungiro nta muntu wita ku bugingo bwanjye.",
+      "start": 23.49,
+      "end": 43.47
+    },
+    "6": {
+      "text": "Uwiteka, njya ngutakira,Nkakubwira nti “Ni wowe buhungiro bwanjye,N'umugabane wanjye mu isi y'ababaho.”",
+      "start": 37.53,
+      "end": 39.86
+    },
+    "7": {
+      "text": "Tyariza ugutwi gutaka kwanjye,Kuko ncishijwe bugufi cyane,Unkize abangenza kuko bandusha imbaraga.",
+      "start": 9.89,
+      "end": 21.32
+    },
+    "8": {
+      "text": "Kura umutima wanjye mu nzu y'imbohe,Kugira ngo nshime izina ryawe.Abakiranutsi bazangota,Kuko uzangirira neza.",
+      "start": 44.41,
+      "end": 44.61
+    }
+  }
+}

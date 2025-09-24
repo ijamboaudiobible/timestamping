@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 32,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi ni iya Dawidi. Ni indirimbo yahimbishijwe ubwenge.Hahirwa uwababariwe ibicumuro bye,Ibyaha bye bigatwikirwa.",
+      "start": 41.58,
+      "end": 41.95
+    },
+    "2": {
+      "text": "Hahirwa umuntu Uwiteka atabaraho gukiranirwa,Umutima we ntubemo uburiganya.",
+      "start": 10.69,
+      "end": 39.09
+    },
+    "3": {
+      "text": "Ngicecetse,Amagufwa yanjye ashajishwa no kuniha kwanjye umunsi ukira.",
+      "start": 13.66,
+      "end": 15.05
+    },
+    "4": {
+      "text": "Kuko ukuboko kwawe ku manywa na nijoro kwandemereraga,Ibyuya byanjye bigahinduka nk'amapfa yo mu cyi.Sela.",
+      "start": 5.2,
+      "end": 39.48
+    },
+    "5": {
+      "text": "Nakwemereye ibyaha byanjye,Sinatwikiriye gukiranirwa kwanjye.Naravuze nti “Ndaturira Uwiteka ibicumuro byanjye”,Nawe unkuraho urubanza rw'ibyaha byanjye.Sela",
+      "start": 24.92,
+      "end": 25.1
+    },
+    "6": {
+      "text": "Ni cyo gituma umukunzi wawe wese akwiriye kugusengera igihe wabonerwamo,Ni ukuri umwuzure w'amazi y'isanzure ntuzamugeraho.",
+      "start": 44.17,
+      "end": 44.85
+    },
+    "7": {
+      "text": "Ni wowe bwihisho bwanjye uzandinda amakuba n'ibyago,Uzangotesha impundu zishima agakiza.Sela.",
+      "start": 17.63,
+      "end": 32.9
+    },
+    "8": {
+      "text": "Nzakwigisha nkwereke inzira unyura,Nzakugira inama,Ijisho ryanjye rizakugumaho.",
+      "start": 16.81,
+      "end": 26.91
+    },
+    "9": {
+      "text": "Ntimube nk'ifarashi cyangwa inyumbu zitagira ubwenge,Zikwiriye guhatwa n'icyuma cyo mu kanwa n'umukoba wo ku ijosi,Utagira ibyo ntizakwegera.",
+      "start": 13.16,
+      "end": 42.75
+    },
+    "10": {
+      "text": "Abanyabyaha bazabona imibabaro myinshi,Ariko uwiringira Uwiteka imbabazi zizamugota.",
+      "start": 43.75,
+      "end": 43.76
+    },
+    "11": {
+      "text": "Mwa bakiranutsi mwe,Munezererwe Uwiteka mwishime,Mwa bafite imitima itunganye mwese mwe,Ibyishimo bibatere kuvuza impundu.",
+      "start": 34.81,
+      "end": 40.97
+    }
+  }
+}

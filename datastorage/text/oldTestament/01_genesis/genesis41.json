@@ -1,0 +1,293 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 41,
+  "verses": {
+    "1": {
+      "text": "Imyaka ibiri ishize, Farawo arota ahagaze iruhande rw'uruzi.",
+      "start": 24.72,
+      "end": 25.17
+    },
+    "2": {
+      "text": "Mu ruzi havamo inka ndwi z'igikundiro zibyibushye, zirishiriza mu mifunzo.",
+      "start": 6.61,
+      "end": 39.79
+    },
+    "3": {
+      "text": "Izindi nka ndwi z'umwaku zinanutse zirazikurikira, ziva mu ruzi zihagararana na za zindi ku nkombe y'uruzi.",
+      "start": 24.38,
+      "end": 35.31
+    },
+    "4": {
+      "text": "Za nka z'umwaku zinanutse, zirya za zindi z'igikundiro zibyibushye uko ari indwi. Farawo aribambura.",
+      "start": 18.79,
+      "end": 38.62
+    },
+    "5": {
+      "text": "Arongera aribīkīra arota inzozi za kabiri, ngo amahundo arindwi ahunze meza, ameze ku giti kimwe.",
+      "start": 40.97,
+      "end": 44.29
+    },
+    "6": {
+      "text": "Maze andi mahundo arindwi y'iminambe yumishijwe n'umuyaga uva iburasirazuba, akurikiraho aramera.",
+      "start": 37.02,
+      "end": 40.9
+    },
+    "7": {
+      "text": "Ayo mahundo y'iminambe amira ya mahundo ahunze atsibaze, uko ari arindwi. Farawo aribambura, amenya yuko ari inzozi.",
+      "start": 18.01,
+      "end": 30.88
+    },
+    "8": {
+      "text": "Mu gitondo ahagarika umutima, ahamagaza abakonikoni ba Egiputa bose n'abanyabwenge baho bose. Farawo abarotorera inzozi ze, ntihagira ubasha kuzisobanurira Farawo.",
+      "start": 5.97,
+      "end": 7.63
+    },
+    "9": {
+      "text": "Maze umuhereza wa vino mukuru abwira Farawo ati “Uyu munsi ndakwibutsa ibyaha byanjye.",
+      "start": 28.76,
+      "end": 37.34
+    },
+    "10": {
+      "text": "Farawo yarakariye abagaragu be andindishiriza mu nzu y'umutware w'abamurinda, jye n'umuvuzi w'imitsima mukuru.",
+      "start": 2.93,
+      "end": 39.94
+    },
+    "11": {
+      "text": "Turotera ijoro rimwe twembi, turota inzozi zisobanurwa ukubiri.",
+      "start": 32.26,
+      "end": 34.96
+    },
+    "12": {
+      "text": "Twari kumwe n'umuhungu w'Umuheburayo, umugurano w'umutware w'abakurinda, tumurotorera inzozi zacu arazidusobanurira, asobanurira umuntu wese nk'uko inzozi ze ziri.",
+      "start": 13.14,
+      "end": 37.43
+    },
+    "13": {
+      "text": "Kandi uko yabidusobanuriye ni ko byasohoye, Farawo yansubije mu butware bwanjye, wa wundi aramumanika.”",
+      "start": 20.34,
+      "end": 43.07
+    },
+    "14": {
+      "text": "Maze Farawo ahamagaza Yosefu, bamuhubura mu nzu y'imbohe, ariyogoshesha yambara indi myenda, yinjira aho Farawo ari.",
+      "start": 18.78,
+      "end": 31.74
+    },
+    "15": {
+      "text": "Farawo abwira Yosefu ati “Narose none nta wushobora kuzisobanura. Numvise bavuga yuko ubasha gusobanura inzozi bakurotoreye.”",
+      "start": 21.88,
+      "end": 36.14
+    },
+    "16": {
+      "text": "Yosefu asubiza Farawo ati “Si jye, Imana ni yo iri busubize Farawo amagambo y'amahoro.”",
+      "start": 34.0,
+      "end": 39.42
+    },
+    "17": {
+      "text": "Farawo abwira Yosefu ati “Narose mpagaze ku nkombe y'uruzi,",
+      "start": 30.51,
+      "end": 37.13
+    },
+    "18": {
+      "text": "havamo inka ndwi zibyibushye z'igikundiro zirishiriza mu mifunzo,",
+      "start": 1.98,
+      "end": 15.56
+    },
+    "19": {
+      "text": "maze zikurikirwa n'izindi nka ndwi zizamuka zonze, ari umwaku zinanutse cyane. Sinari nabona inka mbi nk'izo mu gihugu cya Egiputa hose.",
+      "start": 10.56,
+      "end": 26.36
+    },
+    "20": {
+      "text": "Izo nka zinanutse z'umwaku zirya za nka zibyibushye zabanje uko ari indwi,",
+      "start": 26.59,
+      "end": 31.51
+    },
+    "21": {
+      "text": "zimaze kuzirya, ntiwamenya yuko ziziriye, ziguma kuba umwaku nk'ubwa mbere. Nuko ndakanguka.",
+      "start": 15.79,
+      "end": 27.87
+    },
+    "22": {
+      "text": "Kandi ndota ngo amahundo arindwi atsibaze meza, ameze ku giti kimwe,",
+      "start": 13.2,
+      "end": 17.46
+    },
+    "23": {
+      "text": "maze andi mahundo arindwi yumye y'iminambe, yumishijwe n'umuyaga uva iburasirazuba akurikiraho aramera,",
+      "start": 22.91,
+      "end": 25.74
+    },
+    "24": {
+      "text": "ayo mahundo y'iminambe amira ya mahundo meza uko ari arindwi. Nzirotorera abakonikoni, ntihagira ubasha kuzinsobanurira.”",
+      "start": 36.86,
+      "end": 42.26
+    },
+    "25": {
+      "text": "Yosefu abwira Farawo ati “Inzozi za Farawo ni zimwe: ibyo Imana igiye gukora yabibwiye Farawo.",
+      "start": 28.7,
+      "end": 31.6
+    },
+    "26": {
+      "text": "Za nka ndwi nziza ni imyaka irindwi, na ya mahundo arindwi meza ni imyaka irindwi. Inzozi ni zimwe.",
+      "start": 17.69,
+      "end": 40.12
+    },
+    "27": {
+      "text": "Na za nka zinanutse z'umwaku zazikurikiye ni imyaka irindwi, na ya mahundo arindwi y'imishishi yumishijwe n'umuyaga uva iburasirazuba na yo ni imyaka irindwi. Izaba imyaka irindwi y'inzara.",
+      "start": 31.17,
+      "end": 40.01
+    },
+    "28": {
+      "text": "Icyo ni cyo nabwiye Farawo nti ‘Ibyo Imana igiye gukora yabibwiye Farawo.’",
+      "start": 13.19,
+      "end": 32.77
+    },
+    "29": {
+      "text": "Hazaza imyaka irindwi y'uburumbuke bwinshi mu gihugu cya Egiputa cyose,",
+      "start": 14.06,
+      "end": 33.5
+    },
+    "30": {
+      "text": "hanyuma hazakurikiraho imyaka irindwi y'inzara, ubwo burumbuke bwose bwibagirane mu gihugu cya Egiputa. Inzara izamara igihugu,",
+      "start": 44.1,
+      "end": 44.13
+    },
+    "31": {
+      "text": "uburumbuke bwe kwibukwa ku bw'inzara ibukurikiye, kuko izaba nyinshi cyane.",
+      "start": 43.12,
+      "end": 44.16
+    },
+    "32": {
+      "text": "Kandi icyatumye izo nzozi zibonekera Farawo kabiri, ni uko ibyo byakomejwe n'Imana kandi izabisohoza vuba.",
+      "start": 19.27,
+      "end": 42.7
+    },
+    "33": {
+      "text": "“Nuko Farawo nashake umuntu w'umunyabwenge w'umuhanga, amuhe ubutware bw'igihugu cya Egiputa.",
+      "start": 29.21,
+      "end": 33.52
+    },
+    "34": {
+      "text": "Farawo ashyireho abahunikisha, ahunikishe igice cya gatanu cy'ubutaka bwa Egiputa mu myaka y'uburumbuke, uko ari irindwi.",
+      "start": 20.13,
+      "end": 30.6
+    },
+    "35": {
+      "text": "Bateranye ibihunikwa by'iyo myaka myiza igiye gutaha, bahunike mu midugudu imyaka y'impeke izatunga abantu, itegekwe na Farawo, bayirinde.",
+      "start": 9.86,
+      "end": 41.41
+    },
+    "36": {
+      "text": "Kandi ibyo bihunikwa bizabera igihugu ibibikiwe imyaka irindwi y'inzara izatera mu gihugu cya Egiputa, igihugu cye kumarwa n'inzara.”",
+      "start": 13.68,
+      "end": 44.7
+    },
+    "37": {
+      "text": "Iyo nama inezeza Farawo n'abagaragu be bose.",
+      "start": 1.25,
+      "end": 1.94
+    },
+    "38": {
+      "text": "Farawo abaza abagaragu be ati “Tuzabona hehe umuntu umeze nk'uyu, urimo umwuka w'Imana?”",
+      "start": 36.63,
+      "end": 38.44
+    },
+    "39": {
+      "text": "Farawo abwira Yosefu ati “Kuko Imana ikweretse ibyo byose nta wundi munyabwenge w'umuhanga muhwanye,",
+      "start": 26.59,
+      "end": 33.26
+    },
+    "40": {
+      "text": "nguhaye gutwara urugo rwanjye kandi abantu banjye bose bazumvire icyo utegetse, ku ntebe yanjye y'ubwami yonyine nzagusumba.”",
+      "start": 22.95,
+      "end": 39.44
+    },
+    "41": {
+      "text": "Farawo abwira Yosefu ati “Dore nkweguriye igihugu cya Egiputa cyose.”",
+      "start": 3.6,
+      "end": 17.38
+    },
+    "42": {
+      "text": "Farawo yiyambura impeta iriho ikimenyetso yo ku rutoki rwe ayambika Yosefu ku rutoki, amwambika imyenda y'ibitare byiza, amwambika n'umukufi w'izahabu mu ijosi,",
+      "start": 15.18,
+      "end": 43.86
+    },
+    "43": {
+      "text": "amugendeshereza mu igare rikurikira irye bakajya bamurangana bati “Nimumupfukamire!” Nuko amwegurira igihugu cya Egiputa cyose.",
+      "start": 3.76,
+      "end": 44.16
+    },
+    "44": {
+      "text": "Farawo abwira Yosefu ati “Jye Farawo ndahiriye ko nta wuzunamura ukuboko, nta wuzashingura ikirenge, mu gihugu cya Egiputa cyose utabyemeye.”",
+      "start": 35.98,
+      "end": 43.42
+    },
+    "45": {
+      "text": "Farawo ahimba Yosefu Safunatipāneya, amushyingira Asenati mwene Potifera, umutambyi wo mu mudugudu wa Oni. Yosefu atambagira igihugu cya Egiputa.",
+      "start": 38.42,
+      "end": 42.29
+    },
+    "46": {
+      "text": "Yosefu yari amaze imyaka mirongo itatu avutse, ubwo yakoreraga Farawo. Yosefu ava aho Farawo ari, atambagira igihugu cya Egiputa cyose.",
+      "start": 28.8,
+      "end": 33.16
+    },
+    "47": {
+      "text": "Mu myaka y'uburumbuke uko ari irindwi, igihugu kirera gisenyukamo imyaka.",
+      "start": 19.66,
+      "end": 36.19
+    },
+    "48": {
+      "text": "Ahunikisha ibihunikwa byose byo mu gihugu cya Egiputa uko iyo myaka irindwi ingana, abihunika mu midugudu, imyaka yo mu mirima ikikije umudugudu wose ayihunika muri wo.",
+      "start": 23.48,
+      "end": 25.9
+    },
+    "49": {
+      "text": "Yosefu ahunika imyaka y'impeke myinshi cyane ihwanye n'umusenyi wo ku nyanja, ageza aho yarorereye kubara kuko itabarikaga.",
+      "start": 12.11,
+      "end": 32.99
+    },
+    "50": {
+      "text": "Yosefu abyara abahungu babiri inzara itaratera, ababyarana na Asenati mwene Potifera, umutambyi wo mu mudugudu wa Oni.",
+      "start": 1.65,
+      "end": 11.79
+    },
+    "51": {
+      "text": "Yosefu yita imfura ye Manase ati “Ni uko Imana yanyibagije umuruho wanjye wose w'inzu ya data yose.”",
+      "start": 24.63,
+      "end": 42.44
+    },
+    "52": {
+      "text": "Uwa kabiri amwita Efurayimu ati “Ni uko Imana yanyororokereje mu gihugu nabonyemo umubabaro.”",
+      "start": 30.71,
+      "end": 39.55
+    },
+    "53": {
+      "text": "Ya myaka irindwi y'uburumbuke bwabaye mu gihugu cya Egiputa irashira.",
+      "start": 37.3,
+      "end": 43.69
+    },
+    "54": {
+      "text": "Imyaka irindwi y'inzara itangira gutaha nk'uko Yosefu yari yarabivuze, inzara itera mu bihugu byose ariko mu gihugu cya Egiputa cyose bo bafite ibyokurya.",
+      "start": 1.0,
+      "end": 25.52
+    },
+    "55": {
+      "text": "Igihugu cya Egiputa cyose kibabajwe n'inzara, batakambira Farawo ngo abahe ibyo barya. Farawo abwira Abanyegiputa bose ati “Nimusange Yosefu, mukore icyo abategeka.”",
+      "start": 35.35,
+      "end": 43.57
+    },
+    "56": {
+      "text": "Inzara ikwira mu bihugu byose, Yosefu akingura ubuhuniko bwose ahahisha Abanyegiputa, inzara irakomera cyane mu gihugu cya Egiputa.",
+      "start": 7.74,
+      "end": 25.73
+    },
+    "57": {
+      "text": "Abo mu bihugu byose bajya muri Egiputa kuri Yosefu guhaha imyaka y'impeke, kuko inzara yari nyinshi mu bihugu byose.",
+      "start": 38.51,
+      "end": 39.98
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Hariho umugabo w'Umubenyamini witwaga Kishi mwene Abiyeli mwene Serori, mwene Bekorati mwene Afiya umwana w'Umubenyamini, umugabo ukomeye w'intwari.",
+      "start": 8.01,
+      "end": 12.12
+    },
+    "2": {
+      "text": "Kandi yari afite umuhungu mwiza w'umusore witwaga Sawuli. Nta muntu n'umwe mu Bisirayeli wamurutaga ubwiza, kandi yasumbaga abantu bose bamugeraga ku rutugu.",
+      "start": 6.02,
+      "end": 30.07
+    },
+    "3": {
+      "text": "Bukeye indogobe za Kishi se wa Sawuli, zirazimira. Kishi abwira umuhungu we Sawuli ati “Ubu ngubu jyana umugaragu wacu umwe, mujye gushaka indogobe.”",
+      "start": 31.31,
+      "end": 34.01
+    },
+    "4": {
+      "text": "Nuko arahaguruka anyura mu gihugu cy'imisozi ya Efurayimu no mu gihugu cy'i Shalisha, ntibazibona. Maze banyura mu gihugu cy'i Shālimu barazibura, banyura mu gihugu cy'Ababenyamini na ho ntibazibona.",
+      "start": 12.34,
+      "end": 26.07
+    },
+    "5": {
+      "text": "Bukeye bagera mu gihugu cy'i Sufi, Sawuli abwira umugaragu bari kumwe ati “Hoshi dusubireyo, kugira ngo data atareka guhagarikira indogobe umutima, akaba ari twe awuhagarikira.”",
+      "start": 13.34,
+      "end": 29.07
+    },
+    "6": {
+      "text": "Na we aramubwira ati “Muri uyu mudugudu harimo umuntu w'Imana, kandi ni umuntu wubahwa, ibyo avuga byose bijya bisohora rwose. None tujyeyo ahari yadusobanurira iby'uru rugendo rwacu turimo.”",
+      "start": 4.64,
+      "end": 41.05
+    },
+    "7": {
+      "text": "Sawuli abaza umugaragu we ati “Ariko se nitujyayo turamutura iki, ko impamba ishize mu nkangara zacu kandi tukaba tudafite impano yo gushyira uwo muntu w'Imana? Mbese dufite iki?”",
+      "start": 37.17,
+      "end": 43.5
+    },
+    "8": {
+      "text": "Uwo mugaragu yongera gusubiza Sawuli ati “Dore mu ntoki zanjye mfitemo igice cya kane cya shekeli y'ifeza, ni cyo ndi buture uwo muntu w'Imana kugira ngo atuyobore.”",
+      "start": 20.75,
+      "end": 40.75
+    },
+    "9": {
+      "text": "(Kera kose mu Bisirayeli, umuntu wese iyo yajyaga gusobanuza Imana yavugaga atya ati “Ngwino dusange bamenya”, kuko kuri ubu uwitwa umuhanuzi kera yitwaga bamenya.)",
+      "start": 25.88,
+      "end": 38.2
+    },
+    "10": {
+      "text": "Sawuli abwira umugaragu we ati “Uvuze neza hoshi tugende.” Nuko binjira mu mudugudu aho uwo muntu w'Imana yari ari.",
+      "start": 42.96,
+      "end": 43.86
+    },
+    "11": {
+      "text": "Bakizamuka mu mudugudu, bahahurira n'abakobwa basohoka bajya kuvoma barababaza bati “Bamenya ari yo?”",
+      "start": 10.55,
+      "end": 27.12
+    },
+    "12": {
+      "text": "Barabasubiza bati “Ari yo, dore ari imbere yanyu aho. Wihute kuko uyu munsi ari ho asohoye mu mudugudu, none ubu abantu bagiye gutambira mu rusengero rwo ku kanunga.",
+      "start": 13.46,
+      "end": 19.82
+    },
+    "13": {
+      "text": "Nimugera mu mudugudu, uwo mwanya muramubona atarazamuka ngo ajye kurīra ku kanunga. Abantu ntibabasha kurya ataraza, kuko ari we usabira igitambo umugisha maze abatowe bakabona kurya. None nimuzamuke muramusangayo nonaha.”",
+      "start": 0.98,
+      "end": 24.04
+    },
+    "14": {
+      "text": "Baherako bazamuka bajya mu mudugudu. Bacyinjira muri wo bahubirana na Samweli asohotse ajya ku kanunga.",
+      "start": 31.29,
+      "end": 33.74
+    },
+    "15": {
+      "text": "Kandi umunsi Sawuli arasuka, Uwiteka yari yaraye abihishuriye Samweli aramubwira ati",
+      "start": 30.25,
+      "end": 41.94
+    },
+    "16": {
+      "text": "“Ejo nka magingo aya nzakoherereza umugabo uturutse mu gihugu cya Benyamini, uzamwimikishe amavuta abe umwami w'ubwoko bwanjye Isirayeli. Ni we uzakiza ubwoko bwanjye amaboko y'Abafilisitiya, kuko maze kureba abantu banjye kandi gutaka kwabo kwangezeho.”",
+      "start": 27.19,
+      "end": 34.37
+    },
+    "17": {
+      "text": "Nuko Samweli akirabukwa Sawuli, Uwiteka aramubwira ati “Dore nguyu wa muntu nakubwiraga! Uyu ni we uzategeka ubwoko bwanjye.”",
+      "start": 17.14,
+      "end": 23.58
+    },
+    "18": {
+      "text": "Nuko Sawuli yegera Samweli mu irembo ry'umudugudu aramubwira ati “Ndakwinginze, nyobora aho inzu ya bamenya iherereye.”",
+      "start": 6.14,
+      "end": 12.79
+    },
+    "19": {
+      "text": "Samweli aramusubiza ati “Erega ni jye bamenya! None njya imbere tujye ku kanunga kuko uyu munsi muri busangire nanjye, maze ejo mu gitondo nzagusezerera ngusobanuriye ibiri mu mutima wawe byose.",
+      "start": 27.98,
+      "end": 43.23
+    },
+    "20": {
+      "text": "Kandi rero iby'indogobe byo zimaze iminsi itatu zizimiye ntiziguhagarike umutim, zarabonetse. Mbese iby'igikundiro byose byo mu Isirayeli bibikiwe nde? Si wowe se n'inzu ya so yose?”",
+      "start": 38.31,
+      "end": 38.97
+    },
+    "21": {
+      "text": "Maze Sawuli aramusubiza ati “Mbese sindi Umubenyamini wo mu muryango muto wo mu ya Isirayeli? Kandi se inzu yanjye si yo iri hanyuma y'ayandi mazu yose y'Ababenyamini? Ni iki gitumye umbwira bene ibyo?”",
+      "start": 12.68,
+      "end": 28.08
+    },
+    "22": {
+      "text": "Samweli aherako ajyana Sawuli n'umugaragu we abinjiza mu nzu y'abashyitsi, abicaza ku ntebe z'icyubahiro mu basangwa bari nka mirongo itatu.",
+      "start": 39.35,
+      "end": 44.78
+    },
+    "23": {
+      "text": "Maze Samweli abwira umunyagikari we ati “Zana umugabane naguhaye nkakubwira kuwuhisha.”",
+      "start": 35.81,
+      "end": 39.51
+    },
+    "24": {
+      "text": "Nuko umunyagikari aterura ukuguru n'ibyako byose, abihereza Sawuli. Maze Samweli aravuga ati “Ngurwo uruhisho rwawe! Tereka imbere yawe urye kuko wabihishiwe, bikarindira igihe cyategetswe nkirarika abantu.”Nuko uwo munsi Sawuli asangira na Samweli.",
+      "start": 0.45,
+      "end": 1.59
+    },
+    "25": {
+      "text": "Bamaze kuva ku kanunga bamanuka mu mudugudu, baherako burira inzu bajya kuganira.",
+      "start": 6.63,
+      "end": 12.89
+    },
+    "26": {
+      "text": "Bukeye bwaho bazinduka kare. Mu rubungabungo Samweli ahamagara Sawuli ari hejuru y'inzu aramubwira ati “Haguruka ngusezerere.” Nuko Sawuli arahaguruka asohokana na Samweli bajya hanze.",
+      "start": 17.01,
+      "end": 29.56
+    },
+    "27": {
+      "text": "Bakimanuka aho umudugudu ugarukira Samweli abwira Sawuli ati “Bwira umugaragu wawe atambuke, abe agiye imbere.” Nuko abanyuraho. Ati “Ba uhagaze aho none aha, nkumvishe ijambo ry'Imana.”",
+      "start": 22.93,
+      "end": 32.44
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Ibihanurirwa Mowabu. 2.8-11Erega Ari, umudugudu w'i Mowabu urarimbutse ushiraho ijoro rimwe. Erega Kiri, umudugudu w'i Mowabu urarimbutse ushiraho ijoro rimwe.",
+      "start": 20.36,
+      "end": 34.82
+    },
+    "2": {
+      "text": "Barazamutse bajya i Bayiti n'i Diboni mu ngoro zo mu mpinga ngo baririreyo. Abamowabu bararirira i Nebo n'i Medeba, imitwe yabo yose ni inkomborera kandi bogosha n'ubwanwa bose.",
+      "start": 6.73,
+      "end": 23.55
+    },
+    "3": {
+      "text": "Bagenda mu nzira z'iwabo bambaye ibigunira, hejuru y'amazu yabo no mu miharuro y'iwabo umuntu wese araboroga arira cyane.",
+      "start": 35.45,
+      "end": 43.79
+    },
+    "4": {
+      "text": "Heshiboni na Eleyale barataka ndetse amajwi yabo agera i Yahasi, ni cyo gituma ingabo z'i Mowabu ziboroga, imitima yabo igahinda imishyitsi.",
+      "start": 5.5,
+      "end": 10.62
+    },
+    "5": {
+      "text": "Umutima wanjye uririra Abamowabu, imfura zabo zihungiye i Sowari na Egilatishelishiya ahaterera hajya i Luhiti, ni ho ho bazamuka barira umugenda, no mu nzira ijya i Horonayimu, ni ho baririra amarira y'abarimbuka.",
+      "start": 5.83,
+      "end": 8.17
+    },
+    "6": {
+      "text": "Kuko amazi y'i Nimurimu azakama, ubwatsi buzuma, ubwatsi bubisi buzashiraho he kumera ikintu cyose kibisi.",
+      "start": 24.24,
+      "end": 30.93
+    },
+    "7": {
+      "text": "Ni cyo kizatuma ibintu batunze n'ibyo babitse babijyana ku mugezi w'imikinga,",
+      "start": 0.79,
+      "end": 34.53
+    },
+    "8": {
+      "text": "kuko kurira kugeze mu ngabano z'i Mowabu, kandi umuborogo wako ukagera Egilayimu n'i Bēriyelimu.",
+      "start": 7.21,
+      "end": 35.09
+    },
+    "9": {
+      "text": "Amazi y'i Dimoni yuzuye amaraso kandi nzongera guteza i Dimoni ibindi byago, impunzi ziri i Mowabu n'abacitse ku icumu bagasigara mu gihugu, nzabateza intare.",
+      "start": 13.47,
+      "end": 35.26
+    }
+  }
+}

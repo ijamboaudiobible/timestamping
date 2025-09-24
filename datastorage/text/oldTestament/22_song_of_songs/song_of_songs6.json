@@ -1,0 +1,68 @@
+{
+  "book": "Book 22",
+  "book_canonical": "song_of_songs",
+  "book_number": 22,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Umukunzi wawe yagiye he,Yewe wa mugore we, w'indatwa mu bagore?Umukunzi wawe yerekeye he,Kugira ngo tumushakane nawe? Umugeni:",
+      "start": 23.55,
+      "end": 39.1
+    },
+    "2": {
+      "text": "Umukunzi wanjye yamanutse ajya mu murima we,Mu turima tw'imibavu,Kuragira mu murima,No guca uburabyo bw'imyangange.",
+      "start": 20.01,
+      "end": 21.0
+    },
+    "3": {
+      "text": "Ndi uw'umukunzi wanjye,Umukunzi wanjye na we ni uwanjye,Aragirira umukumbi we mu myangange. Umukwe:",
+      "start": 25.01,
+      "end": 25.4
+    },
+    "4": {
+      "text": "Mukunzi wanjye, uri mwiza nka Tirusa,Urarimba nk'i Yerusalemu,Uteye ubwoba nk'igitero cy'ingabo zigendana ibendera.",
+      "start": 40.91,
+      "end": 44.31
+    },
+    "5": {
+      "text": "Unkureho amaso yawe,Kuko binzonga.Umusatsi wawe umeze nk'umukumbi w'ihene,Ziryamye mu ibanga ry'i Galeyadi.",
+      "start": 25.85,
+      "end": 31.53
+    },
+    "6": {
+      "text": "Amenyo yawe yera nk'umukumbi w'intama zivuye kuhagirwa,Zose zigenda zikurikirwa n'impanga zazo,Ntihagira n'imwe ipfusha.",
+      "start": 9.21,
+      "end": 21.73
+    },
+    "7": {
+      "text": "Mu misaya yawe hameze nk'igisate cy'ikomamanga,Hagati y'imishunzi yawe.",
+      "start": 2.34,
+      "end": 7.07
+    },
+    "8": {
+      "text": "Hariho abamikazi mirongo itandatu,N'inshoreke mirongo inani,N'abakobwa batabarika.",
+      "start": 19.7,
+      "end": 39.58
+    },
+    "9": {
+      "text": "Ariko inuma yanjye naciye akayonga ni we gusa,Ni ikinege cya nyina,Ni umutoni w'uwamubyaye.Abakobwa iyo bamubonye bamwita Uwahiriwe,Ndetse abamikazi n'inshoreke na bo baramusingiza. Abakobwa:",
+      "start": 7.36,
+      "end": 33.8
+    },
+    "10": {
+      "text": "Uyu ni nde utungutse umeze nk'umuseke utambitse?Ni mwiza nk'ukwezi,Arabagirana nk'ikizubazuba,Ateye ubwoba nk'igitero cy'ingabo zigendana ibendera. Umugeni:",
+      "start": 28.79,
+      "end": 35.28
+    },
+    "11": {
+      "text": "Naramanutse njya mu murima w'imijozi,Kureba imbuto zashibutse mu kibaya,Kureba ko umuzabibu upfunditse udupfundo,N'imikomamanga ko irabije.",
+      "start": 11.9,
+      "end": 21.5
+    },
+    "12": {
+      "text": "Ntarabimenya,Umutima wanjye wangejeje mu magare y'intambara,Y'ubwoko bwanjye bw'imfura. Abakobwa:",
+      "start": 6.95,
+      "end": 12.98
+    }
+  }
+}

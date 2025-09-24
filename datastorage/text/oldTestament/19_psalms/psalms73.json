@@ -1,0 +1,148 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 73,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi ni iya Asafu.Ni ukuri Imana igirira neza Abisirayeli,Bafite imitima iboneye.",
+      "start": 28.96,
+      "end": 40.3
+    },
+    "2": {
+      "text": "Ariko jyeweho,Ibirenge byanjye byari bugufi bwo guhanuka,Intambwe zanjye zari zishigaje hato zikanyerera.",
+      "start": 0.41,
+      "end": 28.42
+    },
+    "3": {
+      "text": "Kuko nagiriraga ishyari abibone,Ubwo narebaga abanyabyaha baguwe neza.",
+      "start": 32.01,
+      "end": 42.55
+    },
+    "4": {
+      "text": "Kuko batababazwa mu ipfa ryabo,Ahubwo imbaraga zabo zirakomera.",
+      "start": 41.73,
+      "end": 42.1
+    },
+    "5": {
+      "text": "Ntibagira imibabaro nk'abandi,Ntibaterwa n'ibyago nk'abandi.",
+      "start": 28.9,
+      "end": 33.04
+    },
+    "6": {
+      "text": "Ni cyo gituma ubwibone buba nk'urunigi mu majosi yabo,Urugomo rukabatwikīra nk'igishura.",
+      "start": 38.75,
+      "end": 39.61
+    },
+    "7": {
+      "text": "Amaso yabo avanywe imutwe no kubyibuha kwabo,Bafite ibiruta ibyo umutima w'umuntu wakwifuza.",
+      "start": 24.0,
+      "end": 30.88
+    },
+    "8": {
+      "text": "Barakoba bakavugishwa iby'agahato no gukiranirwa kwabo,Bavuga iby'ubwibone.",
+      "start": 0.98,
+      "end": 29.11
+    },
+    "9": {
+      "text": "Bashyize akanwa kabo mu ijuru,Ururimi rwabo ruzerera mu isi yose.",
+      "start": 0.11,
+      "end": 2.06
+    },
+    "10": {
+      "text": "Ni cyo gituma abantu be bagaruka aho,Bakamara amazi yuzuye mu gikombe,",
+      "start": 2.83,
+      "end": 37.49
+    },
+    "11": {
+      "text": "Bakavuga bati “Imana ikibwirwa n'iki?Isumbabyose hari icyo izi?”",
+      "start": 25.24,
+      "end": 43.35
+    },
+    "12": {
+      "text": "Dore abo ni bo banyabyaha,Kandi kuko bagira amahoro iteka bagwiza ubutunzi.",
+      "start": 2.62,
+      "end": 23.11
+    },
+    "13": {
+      "text": "Ni ukuri nogereje ubusa umutima wanjye,Kudacumura nagukarabiye ubusa.",
+      "start": 35.28,
+      "end": 43.51
+    },
+    "14": {
+      "text": "Kuko natewe n'ibyago umunsi ukira,Ngahanwa ibihano mu bitondo byose.",
+      "start": 5.14,
+      "end": 27.56
+    },
+    "15": {
+      "text": "Iyaba naravuze nti “Reka mvuge ntyo”,Mba narahemukiye ubwoko bw'abana bawe.",
+      "start": 21.6,
+      "end": 29.49
+    },
+    "16": {
+      "text": "Natekereje uko nabasha kubimenya,Birandushya birananira,",
+      "start": 43.14,
+      "end": 44.47
+    },
+    "17": {
+      "text": "Kugeza aho nagiriye ahera h'Imana,Nkita ku iherezo rya ba bandi.",
+      "start": 35.23,
+      "end": 37.51
+    },
+    "18": {
+      "text": "Ni ukuri ubashyira ahanyerera,Urabagusha bagasenyuka.",
+      "start": 32.52,
+      "end": 37.8
+    },
+    "19": {
+      "text": "Erega bahindutse amatongo mu kanya gato!Ubwoba bw'uburyo bwinshi burabatsembye rwose.",
+      "start": 22.44,
+      "end": 29.86
+    },
+    "20": {
+      "text": "Nk'uko inzozi zimeze iyo umuntu akangutse,Ni ko nawe Mwami nukanguka,Uzasuzugura icyubahiro cyabo cy'igicucu.",
+      "start": 25.65,
+      "end": 40.17
+    },
+    "21": {
+      "text": "Ubwo umutima wanjye washariraga,Nkibabaza mu mutima,",
+      "start": 18.83,
+      "end": 25.97
+    },
+    "22": {
+      "text": "Nari umupfapfa nta bwenge nagiraga,Nameraga nk'inka imbere yawe.",
+      "start": 14.77,
+      "end": 17.68
+    },
+    "23": {
+      "text": "Ariko none ndi kumwe nawe iteka,Umfashe ukuboko kw'iburyo.",
+      "start": 8.48,
+      "end": 28.69
+    },
+    "24": {
+      "text": "Uzanyoboza ubwenge bwawe,Kandi hanyuma uzanyakirane icyubahiro.",
+      "start": 32.07,
+      "end": 36.35
+    },
+    "25": {
+      "text": "Ni nde mfite mu ijuru utari wowe?Kandi mu isi nta we nishimira utari wowe.",
+      "start": 3.21,
+      "end": 19.89
+    },
+    "26": {
+      "text": "Umubiri wanjye n'umutima wanjye birashira,Ariko Imana ni yo gitare umutima wanjye uhungiraho,Kandi ni yo mugabane wanjye iteka ryose.",
+      "start": 44.79,
+      "end": 44.83
+    },
+    "27": {
+      "text": "Kuko abakujya kure bazarimbuka,Watsembye abakurekeshejwe no kurarikira bose.",
+      "start": 20.96,
+      "end": 32.89
+    },
+    "28": {
+      "text": "Ariko jyeweho kwegera Imana ni ko kwiza kuri jye,Umwami Uwiteka ni we ngize ubuhungiro,Kugira ngo namamaze imirimo wakoze yose.",
+      "start": 13.44,
+      "end": 19.44
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "“Ntimukareme ibigirwamana by'ubusa, ntimugashinge igishushanyo kibajwe cyangwa inkingi y'amabuye, kandi ikibuye cyabajweho ibishushanyo ntimukagishyirire mu gihugu cyanyu, kugira ngo mwikubite imbere yacyo, kuko ndi Uwiteka Imana yanyu.",
+      "start": 42.51,
+      "end": 43.21
+    },
+    "2": {
+      "text": "Mujye muziririza amasabato yanjye, mwubahe Ahera hanjye. Ndi Uwiteka.",
+      "start": 14.78,
+      "end": 42.33
+    },
+    "3": {
+      "text": "“Nimuhora mwumvira amategeko yanjye, mukitondera ibyo nategetse mukabyumvira,",
+      "start": 41.53,
+      "end": 43.61
+    },
+    "4": {
+      "text": "nzajya mbavubira imvura mu bihe byayo, ubutaka buzajya bwera imyaka yabwo, ibiti byo mu mirima bizajya byera imbuto zabyo.",
+      "start": 37.84,
+      "end": 44.38
+    },
+    "5": {
+      "text": "Ihura ryanyu rizageza mu isarura ry'inzabibu, iryo sarura rizageza mu ibiba. Muzajya murya ibyokurya byanyu muhage, mube mu gihugu cyanyu amahoro.",
+      "start": 8.0,
+      "end": 41.94
+    },
+    "6": {
+      "text": "“Kandi nzaha igihugu kugira amahoro, muzaryama ari nta wubateye ubwoba, kandi nzamaraho inyamaswa z'inkazi, kandi inkota ntizanyura mu gihugu cyanyu.",
+      "start": 3.8,
+      "end": 15.2
+    },
+    "7": {
+      "text": "Muzirukana ababisha banyu, bagushirizwe n'inkota imbere yanyu.",
+      "start": 38.15,
+      "end": 40.09
+    },
+    "8": {
+      "text": "Abatanu muri mwe bazirukana ijana, ijana muri mwe bazirukana abantu inzovu, ababisha banyu bazagushirizwa n'inkota imbere yanyu.",
+      "start": 33.23,
+      "end": 36.27
+    },
+    "9": {
+      "text": "Nzabitaho mbororotse mbagwize, nkomeze isezerano ryanjye namwe.",
+      "start": 22.44,
+      "end": 28.21
+    },
+    "10": {
+      "text": "Muzarya ibigugu bya kera, mudahe ibigugu kugira ngo mubone aho muhunika ibishya.",
+      "start": 21.33,
+      "end": 33.93
+    },
+    "11": {
+      "text": "Nanjye nzashyira ubuturo bwanjye hagati muri mwe, umutima wanjye ntuzabanga.",
+      "start": 21.96,
+      "end": 44.08
+    },
+    "12": {
+      "text": "Nzagendera hagati muri mwe mbe Imana yanyu, namwe mube ubwoko bwanjye.",
+      "start": 7.24,
+      "end": 31.82
+    },
+    "13": {
+      "text": "Ndi Uwiteka Imana yanyu yabakuriye mu gihugu cya Egiputa kugira ngo mutaba abaretwa babo, nabatuye umutwaro wabahetamishaga mbagendesha mwemye.",
+      "start": 3.1,
+      "end": 41.39
+    },
+    "14": {
+      "text": "“Ariko nimutanyumvira ntimwitondere ayo mategeko yose,",
+      "start": 33.7,
+      "end": 34.38
+    },
+    "15": {
+      "text": "kandi nimwanga amategeko yanjye, imitima yanyu ikanga amateka yanjye urunuka, bigatuma mutitondera amategeko yanjye yose ahubwo mukica isezerano ryanjye,",
+      "start": 39.93,
+      "end": 44.14
+    },
+    "16": {
+      "text": "nanjye nzabagenza ntya: nzategeka ibiteye ubwoba ko bibatera, urusogobero n'ubuganga bizabamaramo amaso, byonze imitima yanyu. Muzabibira ubusa kuko ababisha banyu ari bo bazabirya.",
+      "start": 11.85,
+      "end": 19.94
+    },
+    "17": {
+      "text": "Kandi nzahoza igitsure cyanjye kuri mwe, muzaneshwa n'ababisha banyu, muzatwarwa n'abanzi banyu, muzahunga ari nta wubirukana.",
+      "start": 27.94,
+      "end": 32.38
+    },
+    "18": {
+      "text": "“Ibyo nibidatuma munyumvira, nzongera karindwi kubahanira ibyaha byanyu.",
+      "start": 0.55,
+      "end": 31.34
+    },
+    "19": {
+      "text": "Nzacogoza kwihimbaza mwihimbariza amaboko yanyu, nzahindura ijuru ry'iwanyu nk'icyuma, n'ubutaka bwanyu nk'imiringa.",
+      "start": 17.7,
+      "end": 36.17
+    },
+    "20": {
+      "text": "Amaboko yanyu azapfa ubusa kuko ubutaka bwanyu butazera imyaka yabwo, ibiti byo mu gihugu bitazera imbuto zabyo.",
+      "start": 11.82,
+      "end": 24.73
+    },
+    "21": {
+      "text": "“Kandi nimukomeza kunyuranya nanjye mukanga kunyumvira, nzongera kandi karindwi kubateza ibyago bihwanye n'ibyaha byanyu.",
+      "start": 34.93,
+      "end": 40.56
+    },
+    "22": {
+      "text": "Nzabaterereza inyamaswa zo mu ishyamba zibanyage abana banyu, zirimbure amatungo yanyu zibatubye, inzira zanyu zisibe.",
+      "start": 44.57,
+      "end": 44.9
+    },
+    "23": {
+      "text": "“Ibyo nibidatuma mwihana mukampindukirira, ahubwo mugakomeza kunyuranya nanjye,",
+      "start": 18.05,
+      "end": 21.03
+    },
+    "24": {
+      "text": "nuko nanjye nzanyuranya namwe, kandi ubwanjye nzabakubita karindwi mbahora ibyaha byanyu.",
+      "start": 33.68,
+      "end": 34.38
+    },
+    "25": {
+      "text": "Nzabaterereza inkota ibahora kwica isezerano ryanjye, muteranirizwe mu midugudu yanyu maze mboherezemo mugiga, mugabizwe ababisha banyu.",
+      "start": 5.61,
+      "end": 8.67
+    },
+    "26": {
+      "text": "Nimvuna inkoni mwishingikirije ni yo mutsima wanyu, abagore cumi bazajya bokereza imitsima yanyu mu cyokezo kimwe bayibagerere, murye itabahagije.",
+      "start": 40.54,
+      "end": 41.83
+    },
+    "27": {
+      "text": "“Ibyo byose nibidatuma munyumvira ahubwo mukanyuranya nanjye,",
+      "start": 28.74,
+      "end": 41.03
+    },
+    "28": {
+      "text": "nuko rero nanjye nzanyuranya namwe mfite umujinya mwinshi, mbahanire ibyaha byanyu karindwi.",
+      "start": 34.85,
+      "end": 34.92
+    },
+    "29": {
+      "text": "Muzarya inyama z'abahungu banyu n'iz'abakobwa banyu, muzazirya.",
+      "start": 40.76,
+      "end": 42.27
+    },
+    "30": {
+      "text": "Kandi nzatsemba amasengero yanyu yo mu mpinga z'imisozi, nzatema nce ibishushanyo byanyu bishinze byerejwe izuba, nzajugunya intumbi zanyu ku bimene by'ibigirwamana byanyu, umutima wanjye uzabanga urunuka.",
+      "start": 43.62,
+      "end": 44.83
+    },
+    "31": {
+      "text": "Nzahindura imidugudu yanyu imisaka, ahera hanyu nzahahindura amatongo, sinzahumurirwa n'impumuro y'ibyo munyosereza.",
+      "start": 9.8,
+      "end": 22.92
+    },
+    "32": {
+      "text": "Nzahindura igihugu cyanyu amatongo, bitangaze ababisha banyu bagituyemo.",
+      "start": 9.35,
+      "end": 23.8
+    },
+    "33": {
+      "text": "Namwe nzabatataniriza mu mahanga mbakurikirane nkuye inkota, igihugu cyanyu kizaba amatongo, imidugudu yanyu izaba imisaka.",
+      "start": 17.59,
+      "end": 25.88
+    },
+    "34": {
+      "text": "Icyo gihe igihugu kizabona kwishimira amasabato yacyo kikiri amatongo, namwe mukiri mu gihugu cy'ababisha banyu. Ubwo ni bwo igihugu kizaruhuka, cyishimira amasabato yacyo.",
+      "start": 39.93,
+      "end": 42.41
+    },
+    "35": {
+      "text": "Kikiri amatongo kizaruhuka, kuruhuka kitajyaga kiruhuka mukikibamo.",
+      "start": 41.8,
+      "end": 42.83
+    },
+    "36": {
+      "text": "“Abarokotse muri mwe nzabaterereza gukukira imitima mu bihugu by'ababisha babo, bazakangwa n'ikibabi kijyanwa n'umuyaga, bahunge nk'uko umuntu ahunga inkota, bazagwa ari nta wubirukanye.",
+      "start": 25.16,
+      "end": 25.46
+    },
+    "37": {
+      "text": "Bazagwana hejuru nk'abahunga inkota ari nta wubirukanye, ntimuzashobora guhagarara ababisha banyu imbere.",
+      "start": 22.69,
+      "end": 30.91
+    },
+    "38": {
+      "text": "Muzarimbukira mu mahanga, igihugu cy'ababisha banyu kizabamara.",
+      "start": 0.48,
+      "end": 37.47
+    },
+    "39": {
+      "text": "Abarokotse muri mwe bazasogobererezwa no gukiranirwa kwabo mu bihugu by'ababisha banyu, no gukiranirwa kwa ba sekuruza kuzatuma basogobera nka bo.",
+      "start": 0.95,
+      "end": 10.76
+    },
+    "40": {
+      "text": "“Bazavuga gukiranirwa kwabo n'ukwa ba sekuruza, ni ko bicumuro bancumuyeho, bemere yuko kunyuranya nanjye kwabo",
+      "start": 10.33,
+      "end": 18.6
+    },
+    "41": {
+      "text": "ari ko kwatumye nanjye nyuranya na bo, nkabazana mu gihugu cy'ababisha babo. Icyo gihe imitima yabo yanduye nk'imibiri itakebwe niyicisha bugufi, bakemeresha imitima ikunze ibihano byazanywe no gukiranirwa kwabo,",
+      "start": 25.71,
+      "end": 39.7
+    },
+    "42": {
+      "text": "ni bwo nanjye nzibuka isezerano nasezeranye na Yakobo n'iryo nasezeranye na Isaka, n'iryo nasezeranye na Aburahamu na we nzaryibuka, kandi igihugu na cyo nzacyibuka.",
+      "start": 3.11,
+      "end": 33.9
+    },
+    "43": {
+      "text": "Kandi igihugu bazaba bakiretse, cyishimire amasabato yacyo kikiri amatongo batakikirimo, na bo bazemeresha imitima ikunze ibihano byazanywe no gukiranirwa kwabo kuko banze amateka yanjye, imitima yabo ikanga urunuka amategeko yanjye.",
+      "start": 10.66,
+      "end": 10.68
+    },
+    "44": {
+      "text": "Ariko nubwo bimeze bityo, sinzabata nibaba mu gihugu cy'ababisha babo, kandi sinzabanga urunuka rwatuma mbarimbura pe, nkica isezerano ryanjye na bo, kuko ndi Uwiteka Imana yabo.",
+      "start": 12.78,
+      "end": 26.67
+    },
+    "45": {
+      "text": "Ahubwo nzabibukira isezerano nasezeranye na ba sekuruza, nakuriye mu gihugu cya Egiputa imbere y'abanyamahanga kugira ngo mbe Imana yabo. Ndi Uwiteka.”",
+      "start": 18.75,
+      "end": 24.91
+    },
+    "46": {
+      "text": "Ayo ni yo mategeko n'amateka n'ibyategetswe, Uwiteka yashyize hagati ye n'Abisirayeli, abitegekeye ku musozi wa Sinayi mu kanwa ka Mose.",
+      "start": 21.15,
+      "end": 28.66
+    }
+  }
+}

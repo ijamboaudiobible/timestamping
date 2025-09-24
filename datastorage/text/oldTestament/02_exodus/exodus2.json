@@ -1,0 +1,133 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Umugabo wo mu muryango wa Lewi aragenda, arongora umukobwa wa Lewi.",
+      "start": 43.03,
+      "end": 44.66
+    },
+    "2": {
+      "text": "Uwo mugore asama inda abyara umuhungu, maze abonye ko ari umwana mwiza, amuhisha amezi atatu.",
+      "start": 43.94,
+      "end": 45.0
+    },
+    "3": {
+      "text": "Ananiwe guhora amuhisha, amubohera akato gapfundikiye mu ntamyi, agasiga ibumba n'ubushishi, ashyiramo uwo mwana, agashyira mu rufunzo rwo ku nkombe y'uruzi.",
+      "start": 38.27,
+      "end": 40.29
+    },
+    "4": {
+      "text": "Mushiki we aramwitarura, ngo amenye ikiri bumubeho.",
+      "start": 26.92,
+      "end": 28.82
+    },
+    "5": {
+      "text": "Umukobwa wa Farawo amanurwa no kwiyuhagira mu ruzi, abaja be bagendagenda ku nkombe y'uruzi, abona ka kato mu rufunzo atuma umuja we kukazana.",
+      "start": 6.17,
+      "end": 33.76
+    },
+    "6": {
+      "text": "Agapfunduye abonamo uwo mwana, umwana ararira. Aramubabarira ati “Uyu ni umwana w'Abaheburayo.”",
+      "start": 4.41,
+      "end": 18.05
+    },
+    "7": {
+      "text": "Mushiki we abaza umukobwa wa Farawo ati “Sinajya se kukuzanira umurera wo mu Baheburayokazi ngo amukurerere?”",
+      "start": 1.54,
+      "end": 16.1
+    },
+    "8": {
+      "text": "Umukobwa wa Farawo aramusubiza ati “Nuko genda umunzanire.” Umukobwa aragenda, ahamagara nyina w'uwo mwana.",
+      "start": 28.89,
+      "end": 32.89
+    },
+    "9": {
+      "text": "Umukobwa wa Farawo aramubwira ati “Jyana uyu mwana umunderere, nzaguhemba.” Uwo mugore ajyana uwo mwana, aramurera.",
+      "start": 11.11,
+      "end": 27.22
+    },
+    "10": {
+      "text": "Umwana arakura, amushyira umukobwa wa Farawo, ahinduka umwana we. Amwita Mose ati “Ni uko namukuye mu mazi.”",
+      "start": 20.77,
+      "end": 32.51
+    },
+    "11": {
+      "text": "Icyo gihe, Mose amaze gukura asanga bene wabo abona uburetwa barimo, bukeye abona Umunyegiputa akubita Umuheburayo muri bene wabo.",
+      "start": 30.53,
+      "end": 34.37
+    },
+    "12": {
+      "text": "Akebaguza impande zose abona nta wuhari, yica uwo Munyegiputa amuhisha mu musenyi.",
+      "start": 10.73,
+      "end": 34.36
+    },
+    "13": {
+      "text": "Bukeye bwaho arasohoka, abona abagabo babiri b'Abaheburayo barwana, abwira ugiriye undi nabi ati “Ni iki gitumye ukubita mugenzi wawe?”",
+      "start": 26.63,
+      "end": 31.81
+    },
+    "14": {
+      "text": "Aramusubiza ati “Ni nde waguhaye ubutware n'ubucamanza kuri twe? Urashaka kunyica nk'uko wishe wa Munyegiputa?” Mose aratinya aribwira ati “Ni ukuri byaramenyekanye.”",
+      "start": 35.96,
+      "end": 40.41
+    },
+    "15": {
+      "text": "Farawo abyumvise ashaka kwica Mose. Maze Mose aramuhunga ajya gutura mu gihugu cy'i Midiyani, agezeyo yicara iruhande rw'iriba.",
+      "start": 36.03,
+      "end": 41.51
+    },
+    "16": {
+      "text": "Umutambyi w'i Midiyani yari afite abakobwa barindwi, baraza badahirira intama za se buzuza ibibumbiro.",
+      "start": 11.36,
+      "end": 13.1
+    },
+    "17": {
+      "text": "Abashumba baraza barabirukana, Mose arahaguruka arabatabara, yuhira umukumbi wabo.",
+      "start": 22.5,
+      "end": 37.5
+    },
+    "18": {
+      "text": "Bagiye kwa se Reweli arababaza ati “Noneho ko mutebutse?”",
+      "start": 14.96,
+      "end": 35.35
+    },
+    "19": {
+      "text": "Baramusubiza bati “Ni uko umugabo w'Umunyegiputa yadukijije abashumba, kandi akatudahirira, akatwuhirira umukumbi.”",
+      "start": 12.22,
+      "end": 19.51
+    },
+    "20": {
+      "text": "Abaza abakobwa be ati “Ari he? Ni iki gitumye musiga uwo mugabo? Nimumuhamagare, tumufungurire.”",
+      "start": 4.13,
+      "end": 29.88
+    },
+    "21": {
+      "text": "Mose yemera kubana n'uwo mugabo, ashyingira Mose umukobwa we Zipora.",
+      "start": 31.75,
+      "end": 33.92
+    },
+    "22": {
+      "text": "Abyara umuhungu, se amwita Gerushomu ati “Nari umusuhuke mu gihugu kitari icyacu.”",
+      "start": 29.28,
+      "end": 41.24
+    },
+    "23": {
+      "text": "Hashize iminsi myinshi, umwami wa Egiputa aratanga. Abisirayeli banihishwa n'uburetwa babakoresha barataka, gutaka batakishwa n'uburetwa kurazamuka kugera ku Mana.",
+      "start": 22.03,
+      "end": 42.55
+    },
+    "24": {
+      "text": "Imana yumva umuniho wabo, yibuka isezerano ryayo yasezeranye na Aburahamu na Isaka na Yakobo.",
+      "start": 21.77,
+      "end": 34.28
+    },
+    "25": {
+      "text": "Imana ireba Abisirayeli, imenya uko bameze.",
+      "start": 7.09,
+      "end": 17.63
+    }
+  }
+}

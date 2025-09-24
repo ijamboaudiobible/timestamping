@@ -1,0 +1,193 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Elisa ahamagara umwe mu bana b'abahanuzi aramubwira ati “Cebura wende iyi mperezo irimo amavuta, ujye i Ramoti Galeyadi.",
+      "start": 29.99,
+      "end": 30.59
+    },
+    "2": {
+      "text": "Nugerayo ubaririze Yehu mwene Yehoshafati mwene Nimushi. Numenya aho ari winjire, umuhagurutse muri bene se umujyane haruguru mu mwinjiro,",
+      "start": 32.46,
+      "end": 37.47
+    },
+    "3": {
+      "text": "uhereko wende iyi mperezo irimo amavuta, uyamusuke ku mutwe uvuge uti ‘Uwiteka aravuze ngo akwimikishije amavuta ngo ube umwami w'Abisirayeli.’ Maze uhereko ukingure urugi, wiruke uhunge ntutinde.”",
+      "start": 6.15,
+      "end": 9.5
+    },
+    "4": {
+      "text": "Nuko uwo muhungu w'umuhanuzi aragenda ajya i Ramoti Galeyadi.",
+      "start": 38.5,
+      "end": 40.29
+    },
+    "5": {
+      "text": "Agezeyo asanga abatware b'ingabo aho bari bicaye aravuga ati “Ngufitiye ubutumwa, mutware.”Yehu aramubaza ati “Ni uwuhe muri twe twese?”Aramusubiza ati “Ni wowe, mutware.”",
+      "start": 38.99,
+      "end": 39.16
+    },
+    "6": {
+      "text": "Nuko Yehu arahaguruka binjirana mu nzu. Bagezemo, uwo muhanuzi amusuka amavuta mu mutwe aravuga ati “Uwiteka Imana ya Isirayeli iravuze iti ‘Nkwimikishije amavuta ngo ube umwami w'Abisirayeli, ubwoko bw'Uwiteka.",
+      "start": 21.83,
+      "end": 32.82
+    },
+    "7": {
+      "text": "Kandi uzice ab'inzu ya shobuja Ahabu, kugira ngo mpore Yezebeli amaraso y'abagaragu banjye b'abahanuzi, n'abandi bagaragu b'Uwiteka bose.",
+      "start": 22.47,
+      "end": 29.3
+    },
+    "8": {
+      "text": "Ab'inzu ya Ahabu bose bazarimburwa mare umuhungu wese kuri Ahabu, uw'imbata n'uw'umudendezo mu Bisirayeli.",
+      "start": 0.86,
+      "end": 9.62
+    },
+    "9": {
+      "text": "Nuko inzu ya Ahabu nzayihindura nk'iya Yerobowamu mwene Nebati, kandi nk'iya Bāsha mwene Ahiya.",
+      "start": 11.79,
+      "end": 18.93
+    },
+    "10": {
+      "text": "Imbwa zizarira Yezebeli mu gikingi cy'i Yezerēli kandi nta wuzamuhamba.’ ” Nuko akingura urugi arahunga.",
+      "start": 44.12,
+      "end": 44.58
+    },
+    "11": {
+      "text": "Maze Yehu arasohoka asanga abandi bagaragu ba shebuja. Umwe aramubaza ati “Ni amahoro masa? Wa mugabo w'umusazi yari akuzanyweho n'iki?”Aramusubiza ati “Uwo mugabo muramuzi n'amagambo ye.”",
+      "start": 9.29,
+      "end": 21.26
+    },
+    "12": {
+      "text": "Baramusubiza bati “Oya, uratubeshya. Noneho tubwire ibyo ari byo.”Arabasubiza ati “Arambwiye ngo ‘Uwiteka aravuze ngo akwimikishije amavuta ngo ube umwami w'Abisirayeli.’ ”",
+      "start": 41.22,
+      "end": 41.41
+    },
+    "13": {
+      "text": "Nuko barabaduka n'ingoga umuntu wese yenda umwambaro we, bayisasa aho yari ahagaze hejuru ku rwuririro, baherako bavuza ikondera baravuga bati “Yehu ni we mwami.”",
+      "start": 23.0,
+      "end": 28.46
+    },
+    "14": {
+      "text": "Uko ni ko Yehu mwene Yehoshafati mwene Nimushi yagomeye Yehoramu. Kandi Yehoramu n'Abisirayeli bose barindaga i Ramoti Galeyadi, baharinda Hazayeli umwami w'i Siriya.",
+      "start": 9.33,
+      "end": 44.52
+    },
+    "15": {
+      "text": "Ariko umwami Yehoramu yari yasubiye i Yezerēli kwiyomoza ibisare Abasiriya bari baramukomerekeje, ubwo yarwanaga na Hazayeli umwami w'i Siriya. Nuko Yehu aravuga ati “Niba ari byo mushaka, ntihagire umuntu wese ucika ngo ave mu mudugudu ajye kubivuga i Yezerēli.”",
+      "start": 36.36,
+      "end": 43.3
+    },
+    "16": {
+      "text": "Nuko Yehu agendera mu igare ajya i Yezerēli, kuko ari ho Yehoramu yari arwariye. Kandi ubwo Ahaziya umwami w'Abayuda yari yaramanutse aje gusura Yehoramu.",
+      "start": 20.06,
+      "end": 22.91
+    },
+    "17": {
+      "text": "Kandi umunetsi yari ahagaze ku munara w'i Yezerēli arabukwa umutwe w'ingabo za Yehu aje, aravuga ati “Mbonye umutwe w'ingabo.”Yehoramu aravuga ati “Shaka umuntu ugendera ku ifarashi umwohereze kubasanganira, ababaze ko ari amahoro.”",
+      "start": 8.07,
+      "end": 10.78
+    },
+    "18": {
+      "text": "Nuko umwe aza gusanganira Yehu agendera ku ifarashi, aramubaza ati “Umwami ngo ni amahoro?”Yehu aramusubiza ati “Iby'amahoro urabishakira iki? Hindukira unkurikire.”Maze wa munetsi aravuga ati “Intumwa ihuye na bo ariko ntigarutse.”",
+      "start": 28.66,
+      "end": 30.78
+    },
+    "19": {
+      "text": "Nuko atuma uwa kabiri na we ari ku ifarashi, abagezeho aravuga ati “Umwami ngo ni amahoro?” Yehu aramusubiza ati “Iby'amahoro urabishakira iki? Nkurikira.”",
+      "start": 18.32,
+      "end": 32.56
+    },
+    "20": {
+      "text": "Wa munetsi aravuga ati “Intumwa ihuye na bo ariko ntigarutse. Ariko uwo muntu uburyo agenza igare rye burasa n'ingendo ya Yehu mwene Nimushi, kuko arigenza aryihutisha.”",
+      "start": 25.12,
+      "end": 31.51
+    },
+    "21": {
+      "text": "Yehoramu aherako aravuga ati “Nimutunganye igare ryanjye.” Nuko bararitunganya. Maze Yehoramu umwami w'Abisirayeli na Ahaziya umwami w'Abayuda barasohoka baragenda, umwe ajya mu igare rye n'undi mu rye bajya gusanganira Yehu, bahurira na we mu gikingi cya Naboti w'i Yezerēli.",
+      "start": 23.63,
+      "end": 27.19
+    },
+    "22": {
+      "text": "Nuko Yehoramu abonye Yehu aramubaza ati “Ni amahoro Yehu?”Aramusubiza ati “Mahoro ki, ubusambanyi n'uburozi bwa nyoko Yezebeli butagira akagero bukiri aho?”",
+      "start": 44.84,
+      "end": 44.86
+    },
+    "23": {
+      "text": "Yehoramu ahinduza amafarashi imikoba arahunga, abwira Ahaziya ati “Ahaziya we, batugambaniye!”",
+      "start": 19.13,
+      "end": 33.11
+    },
+    "24": {
+      "text": "Nuko Yehu afora umuheto we, arinjiza arasa Yehoramu mu gihumbi, umwambi usohoka mu mutima agwa mu igare rye.",
+      "start": 40.02,
+      "end": 42.18
+    },
+    "25": {
+      "text": "Yehu aherako abwira Bidukari umutware we ati “Muterure umujugunye muri cya gikingi cya Naboti w'i Yezerēli. Wibuke yuko ubwo jyewe nawe twagenderaga ku mafarashi twembi dukurikiye se Ahabu, Uwiteka yamushyizeho iki gihano akavuga ati",
+      "start": 6.81,
+      "end": 36.48
+    },
+    "26": {
+      "text": "‘Ni ukuri ejo nabonye amaraso ya Naboti n'ay'abana be, ni ko Uwiteka yavuze’. Kandi ati ‘Nzakwiturira muri iki gikingi, ni ko Uwiteka yavuze.’ Nuko rero muterure umujugunye muri icyo gikingi, nk'uko Uwiteka yavuze.”",
+      "start": 35.94,
+      "end": 39.9
+    },
+    "27": {
+      "text": "Ahaziya umwami w'Abayuda abibonye, ahungira mu nzira ijya ku kazu ko mu murima. Yehu aramukurikira aravuga ati “Na we nimumuterere mu igare rye!” Nuko bamuterera mu igare rye mu nzira izamuka ijya i Guri, hateganye na Ibuleyamu. Maze ahungira i Megido, agwayo.",
+      "start": 15.86,
+      "end": 31.27
+    },
+    "28": {
+      "text": "Abagaragu be bamushyira mu igare rye bamujyana i Yerusalemu, bamuhamba mu gituro cya ba sekuruza mu mudugudu wa Dawidi.",
+      "start": 12.0,
+      "end": 34.01
+    },
+    "29": {
+      "text": "Mu mwaka wa cumi n'umwe wo ku ngoma ya Yehoramu mwene Ahabu, Ahaziya yimye i Buyuda.",
+      "start": 18.13,
+      "end": 35.7
+    },
+    "30": {
+      "text": "Yehu ageze i Yezerēli, Yezebeli arabyumva. Maze yisiga irangi mu maso asokoza umusatsi, aherako arungurukira mu idirishya.",
+      "start": 30.41,
+      "end": 33.32
+    },
+    "31": {
+      "text": "Abona Yehu anyura mu irembo aramubaza ati “Ni amahoro Zimuri we, warishe shobuja?”",
+      "start": 27.32,
+      "end": 28.2
+    },
+    "32": {
+      "text": "Yehu arararama areba mu idirishya aravuga ati “Uwo dufatanije ni nde?” Nuko abagabo babiri b'inkone cyangwa batatu baramurunguruka.",
+      "start": 44.93,
+      "end": 44.94
+    },
+    "33": {
+      "text": "Arababwira ati “Nimumujugunye hasi.” Nuko bamujugunya hasi. Amaraso ye yimisha ku mazu no ku mafarashi, Yehu araza aramuribata.",
+      "start": 37.62,
+      "end": 44.43
+    },
+    "34": {
+      "text": "Yinjira mu nzu arafungura maze aravuga ati “Nimugende murebe iby'uwo mugore w'ikivume mumuhambe, kuko ari umwana w'umwami.”",
+      "start": 21.0,
+      "end": 32.72
+    },
+    "35": {
+      "text": "Nuko bajya kumuhamba, ariko intumbi ye ntibayihasanga keretse igihanga cye n'ibirenge n'ibiganza.",
+      "start": 10.64,
+      "end": 26.74
+    },
+    "36": {
+      "text": "Bituma bagaruka barabimubwira, aravuga ati “Iryo ni rya jambo Uwiteka yavugiye mu mugaragu we Eliya w'i Tishubi ati ‘Mu gikingi cy'i Yezerēli ni ho imbwa zizarira intumbi ya Yezebeli.’",
+      "start": 15.18,
+      "end": 31.59
+    },
+    "37": {
+      "text": "Kandi intumbi ya Yezebeli izaba nk'amase ari ku gasozi mu gikingi cy'i Yezerēli, bitume nta wavuga ati ‘Uyu ni Yezebeli.’ ”",
+      "start": 27.86,
+      "end": 30.5
+    }
+  }
+}

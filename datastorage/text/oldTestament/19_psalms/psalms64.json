@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 64,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 21.49,
+      "end": 30.12
+    },
+    "2": {
+      "text": "Mana, umva ijwi ryanjye ryo kuganya,Kiza ubugingo bwanjye gutinyishwa n'umwanzi.",
+      "start": 21.24,
+      "end": 25.08
+    },
+    "3": {
+      "text": "Mpisha inama z'abakora nabi bangīra rwihishwa,N'imidugararo y'inkozi z'ibibi.",
+      "start": 17.92,
+      "end": 28.8
+    },
+    "4": {
+      "text": "Batyaje indimi zabo nk'inkota,Batamitse imyambi yabo azi yo magambo abishye,",
+      "start": 17.87,
+      "end": 37.02
+    },
+    "5": {
+      "text": "Kugira ngo barasire utunganye mu rwihisho.Bamurasa gitunguro ntibatinya,",
+      "start": 4.55,
+      "end": 10.92
+    },
+    "6": {
+      "text": "Bihumuririza imigambi mibi,Bajya inama zo gutega ibigoyi rwihishwa,Bakibwira bati “Ni nde uzabireba?”",
+      "start": 4.76,
+      "end": 30.89
+    },
+    "7": {
+      "text": "Bahirimbanira kunguka inama mbi,Bakibwira bati “Tunogeje inama twungutse.”Umutima w'umuntu wese n'ibihishwe atekereza ntibirondorwa.",
+      "start": 0.6,
+      "end": 13.97
+    },
+    "8": {
+      "text": "Ariko Imana izabarasa,Bazakomeretswa n'umwambi ubatunguye.",
+      "start": 35.38,
+      "end": 40.59
+    },
+    "9": {
+      "text": "Uko ni ko bazasitazwa,Ururimi rwabo ubwarwo ruzabarwanya,Ababareba bose bazazunguza imitwe.",
+      "start": 12.87,
+      "end": 28.99
+    },
+    "10": {
+      "text": "Kandi abantu bose bazatinya,Bavuge umurimo w'Imana,Batekerereshe ubwenge ibyo yakoze.",
+      "start": 1.56,
+      "end": 36.62
+    },
+    "11": {
+      "text": "Umukiranutsi azanezererwa Uwiteka amwiringire,Kandi abafite imitima itunganye bose bazirata.",
+      "start": 19.24,
+      "end": 21.38
+    }
+  }
+}

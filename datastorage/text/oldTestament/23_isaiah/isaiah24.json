@@ -1,0 +1,123 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Dore Uwiteka arahindura isi umwirare, arayiraza, arayubika, atatanya abaturage bayo.",
+      "start": 44.7,
+      "end": 44.92
+    },
+    "2": {
+      "text": "Ibizaba kuri rubanda bizaba no ku mutambyi, ibizaba ku mugaragu bizaba no kuri shebuja, ibizaba ku muja bizaba no kuri nyirabuja. Ibizaba ku muguzi bizaba no ku mutunzi, ibizaba ku ūguriza abandi bizaba no ku ūgurizwa, ibizaba ku ūguriza inyungu bizaba no ku ūmwishyura.",
+      "start": 42.86,
+      "end": 44.52
+    },
+    "3": {
+      "text": "Isi izanyagwa ihinduke umwirare rwose, kuko Uwiteka ari we uvuze iryo jambo.",
+      "start": 18.34,
+      "end": 20.89
+    },
+    "4": {
+      "text": "Igihugu kirarira kandi kibaye umuhonge, isi icitse intege ibaye umuhonge, abanyacyubahiro b'isi bacitse intege.",
+      "start": 3.14,
+      "end": 16.82
+    },
+    "5": {
+      "text": "Kandi isi ihumanijwe n'abaturage bayo kuko bishe amategeko, bagahindura ibyategetswe, bakica isezerano ridakuka.",
+      "start": 32.13,
+      "end": 42.64
+    },
+    "6": {
+      "text": "Ni cyo gitumye umuvumo utsemba isi n'abayibamo bagatsindwa n'urubanza, ni cyo gitumye abaturage b'isi batwikwa hagasigara bake.",
+      "start": 30.33,
+      "end": 42.12
+    },
+    "7": {
+      "text": "Vino y'ihira irarira, uruzabibu rurarabye, ab'imitima iguwe neza bose barasuhuza umutima.",
+      "start": 39.02,
+      "end": 41.92
+    },
+    "8": {
+      "text": "Ibyishimo bitewe n'amashako birashize, urusaku rw'abanezerwa rurahoze, umunezero utewe n'inanga urashize.",
+      "start": 24.42,
+      "end": 25.4
+    },
+    "9": {
+      "text": "Ntibazanywa vino baririmba, ibisindisha bizasharirira ababinywa.",
+      "start": 18.33,
+      "end": 21.22
+    },
+    "10": {
+      "text": "Umurwa uvurungana urasenyutse, amazu yose arakinze kugira ngo hatagira uwinjira.",
+      "start": 29.67,
+      "end": 31.82
+    },
+    "11": {
+      "text": "Bararirira mu miharuro kuko babuze vino, aho umunezero wari uri harazimye, ibyishimo byo mu gihugu birahebwe.",
+      "start": 33.79,
+      "end": 44.54
+    },
+    "12": {
+      "text": "Mu murwa hasigaye amatongo, n'irembo riraridutse.",
+      "start": 34.28,
+      "end": 37.69
+    },
+    "13": {
+      "text": "Nuko abantu bo mu isi bazamera nk'umutini unyeganyezwa, cyangwa nk'uko bahumba inzabibu isarura rishize.",
+      "start": 42.3,
+      "end": 44.8
+    },
+    "14": {
+      "text": "Aba bazarangurura amajwi basakuze ku bw'icyubahiro cy'Uwiteka, bazatera hejuru bari ku nyanja.",
+      "start": 41.26,
+      "end": 42.46
+    },
+    "15": {
+      "text": "Nuko nimuhimbarize Uwiteka iburasirazuba, muhimbarize izina ry'Uwiteka Imana ya Isirayeli mu birwa byo mu nyanja.",
+      "start": 26.02,
+      "end": 36.74
+    },
+    "16": {
+      "text": "Twumvise indirimbo zituruka ku mpera y'isi ziti “Abakiranutsi bahabwe icyubahiro.”Ariko ndavuga nti “Ndonze! Ndonze! Mbonye ishyano! Abariganya barariganije, ni koko abariganya barariganije cyane.”",
+      "start": 19.9,
+      "end": 33.55
+    },
+    "17": {
+      "text": "Wa muturage w'isi we, ubwoba n'urwobo n'umutego bikugezeho.",
+      "start": 18.06,
+      "end": 35.01
+    },
+    "18": {
+      "text": "Nuko uhunga urusaku rw'ubwoba azagwa mu rwobo, uwurira ngo akuke urwobo umutego uzamufata, kuko imigomero yo mu ijuru igomorowe kandi imfatiro z'isi zikanyeganyega.",
+      "start": 17.85,
+      "end": 38.39
+    },
+    "19": {
+      "text": "Isi iramenetse, isi irayaze, isi iranyeganyejwe cyane.",
+      "start": 34.59,
+      "end": 42.23
+    },
+    "20": {
+      "text": "Isi izadandabirana nk'umusinzi kandi izanyeganyezwa nk'ingando, igicumuro cyayo kizayiremerera, kandi izagwa ye kongera kubyuka.",
+      "start": 27.46,
+      "end": 27.56
+    },
+    "21": {
+      "text": "Uwo munsi Uwiteka azahana ingabo zo hejuru mu ijuru, n'abami bo hasi mu isi.",
+      "start": 32.08,
+      "end": 32.88
+    },
+    "22": {
+      "text": "Bazateranirizwa hamwe nk'uko imbohe ziteranirizwa mu rwobo, bazakingiranirwa mu nzu y'imbohe kandi iminsi myinshi nishira bazagendererwa.",
+      "start": 13.14,
+      "end": 32.21
+    },
+    "23": {
+      "text": "Nuko ukwezi kuzakorwa n'isoni n'izuba rizamwara, kuko Uwiteka Nyiringabo azategekera ku musozi wa Siyoni n'i Yerusalemu, kandi azahabwa icyubahiro imbere y'abatware be bakuru.",
+      "start": 25.3,
+      "end": 31.78
+    }
+  }
+}

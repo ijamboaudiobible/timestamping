@@ -1,0 +1,83 @@
+{
+  "book": "Book 7",
+  "book_canonical": "judges",
+  "book_number": 7,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Abefurayimu baraterana bajya ikasikazi bazimuza Yefuta bati “Ni iki cyatumye ujya kurwana n'Abamoni ntudutabaze? Tuzagutwikira mu nzu.”",
+      "start": 17.28,
+      "end": 27.18
+    },
+    "2": {
+      "text": "Yefuta arabasubiza ati “Jye n'abantu banjye twari tugihigirana cyane n'Abamoni, ndabatabaza ntimwankiza amaboko yabo.",
+      "start": 24.64,
+      "end": 38.73
+    },
+    "3": {
+      "text": "Maze mbonye ko mutakinkijije mperako mpara amagara yanjye, ndambuka ntera Abamoni, Uwiteka arabangabiza. None ni iki gitumye muntera kundwanya?”",
+      "start": 9.95,
+      "end": 32.8
+    },
+    "4": {
+      "text": "Nuko Yefuta ateranya ingabo zose z'i Galeyadi, barwana n'Abefurayimu. Abanyagaleyadi barabica, kuko babacyuriye ngo “Mwa Banyagaleyadi mwe, muri abacitse mwavuye mu muryango wa Efurayimu no mu wa Manase.”",
+      "start": 39.91,
+      "end": 43.07
+    },
+    "5": {
+      "text": "Abanyagaleyadi baherako bategera Abefurayimu mu byambu bya Yorodani, maze impunzi yose ya Efurayimu yahagera ikabasaba ngo yambuke, bakayibaza bati “Uri Umwefurayimu?” Yabasubiza ati “Oya”,",
+      "start": 34.48,
+      "end": 38.59
+    },
+    "6": {
+      "text": "bakayibwira bati “Ngaho vuga ‘Shiboleti.’ ” Na yo ikavuga iti “Siboleti” kuko idashobora kurishyitsa neza, bagaherako bakayifata, bakayīcira muri ibyo byambu bya Yorodani. Icyo gihe hapfa Abefurayimu inzovu enye n'ibihumbi bibiri.",
+      "start": 13.26,
+      "end": 39.46
+    },
+    "7": {
+      "text": "Nuko Yefuta amara imyaka itandatu ari umucamanza w'Abisirayeli. Maze Yefuta Umugileyadi arapfa, bamuhamba mu mudugudu umwe w'i Galeyadi.",
+      "start": 21.21,
+      "end": 25.24
+    },
+    "8": {
+      "text": "Nuko akurikirwa na Ibusani w'i Betelehemu, aba umucamanza wa Isirayeli.",
+      "start": 13.93,
+      "end": 17.92
+    },
+    "9": {
+      "text": "Yari afite abahungu mirongo itatu n'abakobwa mirongo itatu yashyingiye mu kindi gihugu, kandi atumirira abahungu be abakobwa mirongo itatu arababashyingira. Ibusani amara imyaka irindwi ari umucamanza wa Isirayeli.",
+      "start": 27.66,
+      "end": 28.52
+    },
+    "10": {
+      "text": "Nuko Ibusani arapfa bamuhamba i Betelehemu.",
+      "start": 41.94,
+      "end": 42.1
+    },
+    "11": {
+      "text": "Akurikirwa na Eloni w'Umuzebuluni aba umucamanza wa Isirayeli, amara imyaka icumi abacira imanza.",
+      "start": 23.91,
+      "end": 27.94
+    },
+    "12": {
+      "text": "Nuko Eloni w'Umuzebuluni arapfa, bamuhamba kuri Ayaloni mu gihugu cya Zebuluni.",
+      "start": 21.69,
+      "end": 43.78
+    },
+    "13": {
+      "text": "Akurikirwa na Abudoni mwene Hileli w'Umunyapiratoni, aba umucamanza wa Isirayeli.",
+      "start": 28.07,
+      "end": 31.04
+    },
+    "14": {
+      "text": "Kandi yari afite abahungu mirongo ine n'abuzukuru mirongo itatu bagendera ku byana by'indogobe mirongo irindwi, amara imyaka munani ari umucamanza wa Isirayeli.",
+      "start": 34.34,
+      "end": 36.67
+    },
+    "15": {
+      "text": "Nuko Abudoni mwene Hileli w'Umunyapiratoni arapfa, bamuhamba i Piratoni mu gihugu cya Efurayimu. Ni cyo gihugu cy'imisozi miremire y'Abamaleki.",
+      "start": 8.0,
+      "end": 38.62
+    }
+  }
+}

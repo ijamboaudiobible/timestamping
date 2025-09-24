@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi, babwira inanga. Ni Zaburi ya Dawidi.",
+      "start": 11.62,
+      "end": 13.57
+    },
+    "2": {
+      "text": "Mana gukiranuka kwanjye guturukaho,unsubize uko ngutakiye.Warambohoye ubwo nari mfite umubabaro,Mbabarira, wumve gusenga kwanjye.",
+      "start": 34.23,
+      "end": 42.75
+    },
+    "3": {
+      "text": "Bana b'abantu,Muzageza he guhindura icyubahiro cyanjye igisuzuguriro?Muzageza he gukunda ibitagira umumaro no gukurikiza ibinyoma?Sela.",
+      "start": 34.45,
+      "end": 44.71
+    },
+    "4": {
+      "text": "Ariko mumenye yuko Uwiteka yirobanuriye umukunzi we,Uwiteka azanyumva uko mutakiye.",
+      "start": 40.19,
+      "end": 42.0
+    },
+    "5": {
+      "text": "Mugire impuhwe zo gukora icyaha,Muri ku mariri yanyu mwibwirire mu mitima mucecetse.Sela.",
+      "start": 23.04,
+      "end": 35.54
+    },
+    "6": {
+      "text": "Mutambe ibitambo mukiranutse,Kandi mwiringire Uwiteka.",
+      "start": 32.67,
+      "end": 34.05
+    },
+    "7": {
+      "text": "Hariho benshi babaza bati“Ni nde uzatwereka ibitunezeza?Uwiteka utuvushirize umucyo wo mu maso hawe.”",
+      "start": 25.39,
+      "end": 36.66
+    },
+    "8": {
+      "text": "Ushyire ibyishimo mu mutima wanjye,Biruta ibyo ku burumbuke bw'amasaka na vino.",
+      "start": 43.39,
+      "end": 43.78
+    },
+    "9": {
+      "text": "Nzajya ndyama nsinzire niziguye,Kuko ari wowe wenyine Uwiteka umpa kuba amahoro.",
+      "start": 38.61,
+      "end": 41.18
+    }
+  }
+}

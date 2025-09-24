@@ -1,0 +1,88 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Miriyamu na Aroni banegura Mose ku bw'Umunyetiyopiyakazi yarongoye. Koko yari yararongoye Umunyetiyopiyakazi.",
+      "start": 37.88,
+      "end": 40.95
+    },
+    "2": {
+      "text": "Baravuga bati “Ni ukuri Uwiteka avugira mu kanwa ka Mose musa? Twe ntatuvugiramo?” Uwiteka arabyumva.",
+      "start": 33.59,
+      "end": 43.3
+    },
+    "3": {
+      "text": "Kandi uwo mugabo Mose yari umugwaneza urusha abantu bo mu isi bose.",
+      "start": 31.5,
+      "end": 33.75
+    },
+    "4": {
+      "text": "Uwiteka atungura Mose na Aroni na Miriyamu ati “Nimusohoke uko muri batatu, muze ku ihema ry'ibonaniro.” Barasohoka uko ari batatu.",
+      "start": 18.81,
+      "end": 34.43
+    },
+    "5": {
+      "text": "Uwiteka amanukira mu nkingi y'igicu, ahagarara mu muryango w'Ihema ryera, ahamagara Aroni na Miriyamu, bombi baraza.",
+      "start": 36.42,
+      "end": 43.14
+    },
+    "6": {
+      "text": "Arababwira ati “Nimwumve amagambo yanjye: niba muri mwe hazabamo umuhanuzi, mu iyerekwa ni ho Uwiteka nzamwimenyeshereza, mu nzozi ni ho nzavuganira na we.",
+      "start": 32.7,
+      "end": 38.32
+    },
+    "7": {
+      "text": "Umugaragu wanjye Mose si ko ameze, akiranuka mu rugo rwanjye hose.",
+      "start": 27.96,
+      "end": 38.47
+    },
+    "8": {
+      "text": "Uwo we tujya twivuganira n'akanwa kacu neruye, atari mu migani, kandi ishusho y'Uwiteka ajya ayibona. Nuko ni iki cyabatinyuye kunegura umugaragu wanjye Mose?”",
+      "start": 19.1,
+      "end": 30.76
+    },
+    "9": {
+      "text": "Bikongereza uburakari bw'Uwiteka, aragenda.",
+      "start": 10.22,
+      "end": 41.69
+    },
+    "10": {
+      "text": "Cya gicu kiva hejuru y'Ihema ryera kiragenda, Miriyamu asesa ibibembe byera nk'urubura. Aroni ahindukirira Miriyamu, abona asheshe ibibembe.",
+      "start": 22.21,
+      "end": 39.19
+    },
+    "11": {
+      "text": "Aroni abwira Mose ati “Databuja ndakwingize, we kudushyiraho igihano cy'icyaha twakoreshejwe n'ubupfu, tukizanira urubanza.",
+      "start": 28.26,
+      "end": 39.96
+    },
+    "12": {
+      "text": "Ndakwingize, ye kumera nk'igihwereye kivutse kiboze mu ruhande rumwe.”",
+      "start": 3.8,
+      "end": 36.86
+    },
+    "13": {
+      "text": "Mose atakira Uwiteka ati “Mana ndakwingize, mukize.”",
+      "start": 44.63,
+      "end": 44.86
+    },
+    "14": {
+      "text": "Uwiteka asubiza Mose ati “Iyaba se yamuciriye mu maso gusa, ntiyakozwe n'isoni iminsi irindwi? Bamukingiranire inyuma y'ingando z'amahema, amare iminsi irindwi abone kuhagarurwa.”",
+      "start": 28.53,
+      "end": 32.68
+    },
+    "15": {
+      "text": "Bakingiranira Miriyamu inyuma y'ingando amara iminsi irindwi, ubwo bwoko ntibwahaguruka, Miriyamu atarahagarurwa.",
+      "start": 42.36,
+      "end": 44.19
+    },
+    "16": {
+      "text": "Nyuma ubwo bwoko burahaguruka buva i Haseroti, bubamba amahema mu butayu bwa Parani.",
+      "start": 25.94,
+      "end": 34.83
+    }
+  }
+}

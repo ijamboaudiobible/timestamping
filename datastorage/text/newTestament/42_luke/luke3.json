@@ -1,0 +1,198 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Nuko mu mwaka wa cumi n'itanu wo ku ngoma ya Kayisari Tiberiyo, ubwo Pontiyo Pilato yari umutegeka w'i Yudaya, na Herode ari umwami w'i Galilaya, na Filipo mwene se ari umwami wa Ituraya n'uw'igihugu cy'i Tirakoniti, na Lusaniya ari umwami wa Abilene,",
+      "start": 23.95,
+      "end": 28.37
+    },
+    "2": {
+      "text": "Ana na Kayafa ari abatambyi bakuru, ni bwo ijambo ry'Imana ryageze kuri Yohana mwene Zakariya ari mu butayu.",
+      "start": 12.5,
+      "end": 26.55
+    },
+    "3": {
+      "text": "Ajya mu gihugu cyose giteganye na Yorodani, abwiriza abantu iby'umubatizo wo kwihana ngo bababarirwe ibyaha,",
+      "start": 26.44,
+      "end": 35.3
+    },
+    "4": {
+      "text": "nk'uko byanditswe mu gitabo cy'amagambo y'umuhanuzi Yesaya ngo“Ijwi ry'urangururira mu butayu ati‘Nimutunganye inzira y'Uwiteka,Mugorore inzira ze.",
+      "start": 43.33,
+      "end": 44.26
+    },
+    "5": {
+      "text": "Igikombe cyose kizuzuzwa,N'umusozi wose n'agasozi bizaringanizwa,N'ibigoramye bizagororoka,N'inzira zidaharuwe zizaharurwa.",
+      "start": 13.43,
+      "end": 42.75
+    },
+    "6": {
+      "text": "Abantu bose bazabona agakiza k'Imana.’ ”",
+      "start": 10.34,
+      "end": 31.89
+    },
+    "7": {
+      "text": "Nuko abwira iteraniro ry'abantu benshi bari baje kubatizwa na we ati “Mwa bana b'incira mwe, ni nde wababuriye ngo muhunge umujinya uzatera?",
+      "start": 30.13,
+      "end": 32.52
+    },
+    "8": {
+      "text": "Ngaho nimwere imbuto zikwiriye abihannye, kandi ntimutangire kwibwira muti ‘Ko dufite Aburahamu akaba ari we sogokuruza!’ Ndababwira yuko ndetse Imana ibasha guhindurira Aburahamu abana muri aya mabuye.",
+      "start": 13.24,
+      "end": 31.68
+    },
+    "9": {
+      "text": "N'ubu intorezo igezwe ku bishyitsi by'ibiti, igiti cyose kitera imbuto nziza kiracibwa kikajugunywa mu muriro.”",
+      "start": 42.99,
+      "end": 43.41
+    },
+    "10": {
+      "text": "Abantu baramubaza bati “None se tugire dute?”",
+      "start": 21.71,
+      "end": 36.36
+    },
+    "11": {
+      "text": "Arabasubiza ati “Ufite imyenda ibiri umwe awuhe utawufite, n'ufite ibyokurya nagire atyo na we.”",
+      "start": 5.58,
+      "end": 9.97
+    },
+    "12": {
+      "text": "N'abakoresha b'ikoro na bo baje ngo babatizwe baramubaza bati “Mwigisha, tugire dute?”",
+      "start": 6.86,
+      "end": 12.77
+    },
+    "13": {
+      "text": "Arabasubiza ati “Ntimukake abantu ibiruta ibyo mwategetswe.”",
+      "start": 8.27,
+      "end": 38.49
+    },
+    "14": {
+      "text": "N'abasirikare na bo baramubaza bati “Natwe tugire dute?”Arabasubiza ati “Ntimukagire umuntu muhongesha cyangwa ngo mumurege ibinyoma, kandi ibihembo byanyu bibanyure.”",
+      "start": 40.29,
+      "end": 43.86
+    },
+    "15": {
+      "text": "Nuko abo bantu bagira amatsiko, bose bibwira yuko ahari none Yohana yaba ari we Kristo.",
+      "start": 30.84,
+      "end": 34.88
+    },
+    "16": {
+      "text": "Nuko Yohana abasubiza bose ati “Ni koko jyeweho ndababatirisha amazi ariko hazaza undusha ubushobozi, ndetse ntibikwiriye ko napfundura udushumi tw'inkweto ze. Uwo ni we uzababatirisha Umwuka Wera n'umuriro.",
+      "start": 0.26,
+      "end": 37.34
+    },
+    "17": {
+      "text": "Intara ye iri mu kuboko kwe, kandi azeza imbuga ye cyane, amasaka ayahunike mu kigega cye naho umurama azawucanisha umuriro utazima.”",
+      "start": 37.29,
+      "end": 38.53
+    },
+    "18": {
+      "text": "Akomeza kubwiriza abantu ubutumwa bwiza, kandi abahuguza byinshi.",
+      "start": 15.81,
+      "end": 32.43
+    },
+    "19": {
+      "text": "Ariko muri icyo gihe, Umwami Herode acyashywe na Yohana ku bwa Herodiya muka mwene se, no ku bw'ibindi bibi yari yarakoze,",
+      "start": 30.18,
+      "end": 40.67
+    },
+    "20": {
+      "text": "kuri ibyo byose yongeraho iki: afata Yohana amushyira mu nzu y'imbohe.",
+      "start": 10.41,
+      "end": 37.73
+    },
+    "21": {
+      "text": "Nuko abantu bose babatijwe, na Yesu amaze kubatizwa, agisenga ijuru rirakinguka,",
+      "start": 16.47,
+      "end": 25.77
+    },
+    "22": {
+      "text": "Umwuka Wera aramumanukira afite ishusho y'umubiri usa n'inuma, ijwi rivugira mu ijuru riti “Ni wowe Mwana wanjye nkunda nkakwishimira.” 9.35",
+      "start": 43.35,
+      "end": 44.87
+    },
+    "23": {
+      "text": "Ubwo Yesu yatangiraga kwigisha yari amaze imyaka nka mirongo itatu avutse, abantu bibwiraga ko ari we mwene Yosefu, mwene Heli;",
+      "start": 36.62,
+      "end": 40.19
+    },
+    "24": {
+      "text": "mwene Matati, mwene Lewi, mwene Meluki, mwene Yanayi, mwene Yosefu;",
+      "start": 6.56,
+      "end": 13.85
+    },
+    "25": {
+      "text": "mwene Matatiya, mwene Amosi, mwene Nahumu, mwene Esili, mwene Nagayi;",
+      "start": 42.3,
+      "end": 43.77
+    },
+    "26": {
+      "text": "mwene Māti, mwene Matatiya, mwene Semeyini, mwene Yoseki, mwene Yoda;",
+      "start": 43.67,
+      "end": 44.72
+    },
+    "27": {
+      "text": "mwene Yohanani, mwene Resa, mwene Zerubabeli, mwene Sheyalutiyeli, mwene Neri;",
+      "start": 21.81,
+      "end": 43.93
+    },
+    "28": {
+      "text": "mwene Meluki, mwene Adi, mwene Kosamu, mwene Elumadamu, mwene Eri;",
+      "start": 29.27,
+      "end": 44.55
+    },
+    "29": {
+      "text": "mwene Yesu, mwene Eliyezeri, mwene Yorimu, mwene Matati, mwene Lewi;",
+      "start": 35.6,
+      "end": 44.83
+    },
+    "30": {
+      "text": "mwene Simiyoni, mwene Yuda, mwene Yosefu, mwene Yonamu, mwene Eliyakimu;",
+      "start": 36.12,
+      "end": 43.43
+    },
+    "31": {
+      "text": "mwene Meleya, mwene Mena, mwene Matata, mwene Natani, mwene Dawidi;",
+      "start": 27.57,
+      "end": 43.88
+    },
+    "32": {
+      "text": "mwene Yesayi, mwene Obedi, mwene Bowazi, mwene Salumoni, mwene Nahashoni;",
+      "start": 9.63,
+      "end": 43.82
+    },
+    "33": {
+      "text": "mwene Aminadabu, mwene Aruni, mwene Hesironi, mwene Perēsi, mwene Yuda;",
+      "start": 0.05,
+      "end": 39.69
+    },
+    "34": {
+      "text": "mwene Yakobo, mwene Isaka, mwene Aburahamu, mwene Tera, mwene Nahori;",
+      "start": 21.6,
+      "end": 26.28
+    },
+    "35": {
+      "text": "mwene Serugi, mwene Rewu, mwene Pelegi, mwene Heberi, mwene Shela;",
+      "start": 36.83,
+      "end": 38.13
+    },
+    "36": {
+      "text": "mwene Kenani, mwene Arupakisadi, mwene Shemu, mwene Nowa, mwene Lameki;",
+      "start": 29.0,
+      "end": 31.84
+    },
+    "37": {
+      "text": "mwene Metusela, mwene Henoki, mwene Yeredi, mwene Mahalalēli, mwene Kenani;",
+      "start": 35.8,
+      "end": 38.63
+    },
+    "38": {
+      "text": "mwene Enoshi, mwene Seti, mwene Adamu, w'Imana.",
+      "start": 39.57,
+      "end": 41.84
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 122,
+  "verses": {
+    "1": {
+      "text": "Indirimbo ya Dawidi y'Amazamuka.Narishimye ubwo bambwiraga bati“Tujye mu nzu y'Uwiteka.”",
+      "start": 34.15,
+      "end": 42.4
+    },
+    "2": {
+      "text": "Yerusalemu,Ibirenge byacu bihagaze mu marembo yawe.",
+      "start": 39.27,
+      "end": 39.55
+    },
+    "3": {
+      "text": "Yerusalemu,Wubatswe nk'umudugudu ufatanijwe hamwe.",
+      "start": 1.55,
+      "end": 33.69
+    },
+    "4": {
+      "text": "Aho imiryango izamuka ijya,Ari yo miryango y'Uwiteka,Kugira ngo babe abagabo bo guhamiriza Abisirayeli,Kandi bashime izina ry'Uwiteka.",
+      "start": 19.74,
+      "end": 40.34
+    },
+    "5": {
+      "text": "Kuko ari ho batereka intebe z'imanza,Intebe z'inzu ya Dawidi.",
+      "start": 26.95,
+      "end": 41.86
+    },
+    "6": {
+      "text": "Nimusabire i Yerusalemu amahoro,“Abagukunda bagubwe neza.",
+      "start": 7.66,
+      "end": 16.96
+    },
+    "7": {
+      "text": "Amahoro abe imbere y'inkike zawe,Kugubwa neza kube mu nyumba zawe.”",
+      "start": 31.72,
+      "end": 32.05
+    },
+    "8": {
+      "text": "Ku bwa bene data na bagenzi banjye,None ndavuga nti “Amahoro abe muri wowe.”",
+      "start": 26.41,
+      "end": 34.28
+    },
+    "9": {
+      "text": "Ku bw'inzu y'Uwiteka Imana yacu,Nzajya ngushakira ibyiza.",
+      "start": 41.65,
+      "end": 43.98
+    }
+  }
+}

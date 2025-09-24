@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 120,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Mu mubabaro wanjye natakiye Uwiteka,Aransubiza.",
+      "start": 15.51,
+      "end": 18.83
+    },
+    "2": {
+      "text": "Uwiteka, kiza ubugingo bwanjye iminwa ibeshya,N'ururimi ruriganya.",
+      "start": 5.9,
+      "end": 42.27
+    },
+    "3": {
+      "text": "Wa rurimi ruriganya we, azaguha iki?Azakongēra birutaho ki?",
+      "start": 8.03,
+      "end": 21.76
+    },
+    "4": {
+      "text": "Ni imyambi ityaye y'intwari,Ni amakara y'umurotemu.",
+      "start": 36.97,
+      "end": 40.03
+    },
+    "5": {
+      "text": "Mbonye ishyano kuko ntuye i Mesheki,Nkaba mu mahema ya Kedari.",
+      "start": 19.78,
+      "end": 41.63
+    },
+    "6": {
+      "text": "Umutima wanjye wahereye kera,Uturanye n'uwanga amahoro.",
+      "start": 23.93,
+      "end": 26.57
+    },
+    "7": {
+      "text": "Jyeweho nshaka amahoro,Ariko iyo mvuze bashaka intambara.",
+      "start": 26.32,
+      "end": 38.18
+    }
+  }
+}

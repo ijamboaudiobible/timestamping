@@ -1,0 +1,138 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Kandi uwo mugabo atwika Eva umugore we inda, abyara Kayini aravuga ati “Mpeshejwe umuhungu n'Uwiteka.”",
+      "start": 24.59,
+      "end": 24.64
+    },
+    "2": {
+      "text": "Arongera abyara Abeli, murumuna wa Kayini. Abeli aba umwungeri w'intama, Kayini aba umuhinzi.",
+      "start": 6.36,
+      "end": 16.79
+    },
+    "3": {
+      "text": "Bukeye Kayini azana ituro ku mbuto z'ubutaka, ngo ariture Uwiteka.",
+      "start": 19.36,
+      "end": 43.27
+    },
+    "4": {
+      "text": "Na Abeli azana ku buriza bw'umukumbi we no ku rugimbu rwawo. Uwiteka yita kuri Abeli no ku ituro rye,",
+      "start": 16.38,
+      "end": 25.97
+    },
+    "5": {
+      "text": "maze ntiyita kuri Kayini n'ituro rye. Kayini ararakara cyane, agaragaza umubabaro.",
+      "start": 24.04,
+      "end": 40.0
+    },
+    "6": {
+      "text": "Uwiteka abaza Kayini ati “Ni iki kikurakaje, kandi ni iki gitumye ugaragaza umubabaro?",
+      "start": 13.96,
+      "end": 15.35
+    },
+    "7": {
+      "text": "Nukora ibyiza ntuzemerwa? Ariko nudakora ibyiza, ibyaha byitugatugira ku rugi, kandi ni wowe byifuza ariko ukwiriye kubitegeka.”",
+      "start": 9.25,
+      "end": 42.61
+    },
+    "8": {
+      "text": "Kayini abibwira Abeli murumuna we. Kandi bari mu gasozi, Kayini ahagurukira Abeli murumuna we, aramwica.",
+      "start": 40.2,
+      "end": 45.0
+    },
+    "9": {
+      "text": "Uwiteka abaza Kayini ati “Abeli murumuna wawe ari he?”Aramusubiza ati “Ndabizi se? Ndi umurinzi wa murumuna wanjye?”",
+      "start": 12.91,
+      "end": 18.69
+    },
+    "10": {
+      "text": "Aramubaza ati “Icyo wakoze icyo ni iki? Ijwi ry'amaraso ya murumuna wawe rirantakirira ku butaka.",
+      "start": 19.45,
+      "end": 22.17
+    },
+    "11": {
+      "text": "Noneho uri ikivume ubutaka bwanga, bwasamuye akanwa kabwo kwakira amaraso ya murumuna wawe, ukuboko kwawe kwavushije.",
+      "start": 42.97,
+      "end": 44.28
+    },
+    "12": {
+      "text": "Nuhinga ubutaka, uhereye none ntibuzakwerera umwero wabwo, uzaba igicamuke n'inzererezi mu isi.”",
+      "start": 21.78,
+      "end": 29.67
+    },
+    "13": {
+      "text": "Kayini abwira Uwiteka ati “Igihano umpannye kiruta icyo nakwihanganira.",
+      "start": 38.84,
+      "end": 42.58
+    },
+    "14": {
+      "text": "Dore unyirukanye uyu munsi ku butaka, no mu maso hawe nzahahishwa, nzaba igicamuke n'inzererezi mu isi kandi uzambona wese azanyica.”",
+      "start": 35.46,
+      "end": 41.87
+    },
+    "15": {
+      "text": "Uwiteka abwira Kayini ati “Ni cyo gituma uwica Kayini azabihorerwa karindwi.” Kandi Uwiteka ashyira kuri Kayini ikimenyetso, kugira ngo hatagira umubona, akamwica.",
+      "start": 27.15,
+      "end": 44.26
+    },
+    "16": {
+      "text": "Nuko Kayini ava mu maso y'Uwiteka atura mu gihugu cy'i Nodi, mu ruhande rw'iburasirazuba rwa Edeni.",
+      "start": 21.99,
+      "end": 33.95
+    },
+    "17": {
+      "text": "Kandi Kayini atwika umugore we inda abyara Henoki, yubaka umudugudu awitirira umwana we Henoki.",
+      "start": 21.71,
+      "end": 25.91
+    },
+    "18": {
+      "text": "Henoki abyara Iradi, Iradi abyara Mehuyayeli, Mehuyayeli abyara Metushayeli, Metushayeli abyara Lameki.",
+      "start": 16.05,
+      "end": 41.57
+    },
+    "19": {
+      "text": "Lameki arongora abagore babiri, umwe yitwa Ada, undi yitwa Zila.",
+      "start": 14.98,
+      "end": 44.3
+    },
+    "20": {
+      "text": "Ada abyara Yabalu, aba sekuruza w'abanyamahema baragira inka.",
+      "start": 14.12,
+      "end": 31.76
+    },
+    "21": {
+      "text": "Murumuna we yitwa Yubalu, aba sekuruza w'abacuranzi n'abavuza imyironge.",
+      "start": 41.72,
+      "end": 44.35
+    },
+    "22": {
+      "text": "Na Zila abyara Tubalukayini, umucuzi w'ikintu cyose gikebeshwa cy'umuringa n'icyuma. Mushiki wa Tubalukayini yitwa Nāma.",
+      "start": 31.42,
+      "end": 38.46
+    },
+    "23": {
+      "text": "Lameki abwira abagore be ati“Ada na Zila nimwumve ijwi ryanjye,Baka Lameki, nimutegere amatwi amagambo yanjye.Nishe umugabo muhora kunkomeretsa,Nishe umusore muhora kuntera imibyimba.",
+      "start": 24.92,
+      "end": 27.06
+    },
+    "24": {
+      "text": "Niba Kayini azahorerwa karindwi,Ni ukuri Lameki azahorerwa incuro mirongo irindwi n'indwi.”",
+      "start": 9.61,
+      "end": 26.13
+    },
+    "25": {
+      "text": "Adamu arongera atwika umugore we inda, abyara umuhungu amwita Seti ati “Ni uko Imana inshumbushije urundi rubyaro mu cyimbo cya Abeli, kuko Kayini yamwishe.”",
+      "start": 43.32,
+      "end": 44.88
+    },
+    "26": {
+      "text": "Na Seti abyara umuhungu amwita Enoshi, icyo gihe abantu batangira kwambaza izina ry'Uwiteka.",
+      "start": 31.92,
+      "end": 32.66
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Muri icyo gihe abantu ibihumbi byinshi bateranira aho ari, ndetse bigeza aho bakandagirana. Nuko abwira abigishwa be ati “Mubanze mwirinde umusemburo w'Abafarisayo ari wo buryarya,",
+      "start": 41.55,
+      "end": 41.71
+    },
+    "2": {
+      "text": "kuko ari nta cyatwikiriwe kitazatwikururwa, cyangwa icyahishwe kitazamenyekana.",
+      "start": 14.3,
+      "end": 19.31
+    },
+    "3": {
+      "text": "Nuko ibyo mwavugiye mu mwijima byose bizumvikanira mu mucyo, n'icyo mwongoreraniye mu mazu imbere kizavugirwa hejuru yayo.",
+      "start": 41.89,
+      "end": 44.74
+    },
+    "4": {
+      "text": "“Kandi ndababwira mwebwe ncuti zanjye nti ‘Ntimugatinye abica umubiri, hanyuma ntibagire ikindi babatwara.",
+      "start": 35.64,
+      "end": 36.29
+    },
+    "5": {
+      "text": "Ahubwo ndabereka uwo mukwiriye gutinya: mutinye umara kwica umuntu agashobora kumujugunya muri Gehinomu. Ni koko, ndababwira abe ari we mutinya.’",
+      "start": 41.84,
+      "end": 44.96
+    },
+    "6": {
+      "text": "“Mbese ibishwi bitanu ntibigurwa amakuta abiri? Nyamara nta na kimwe muri byo cyibagirana mu maso y'Imana.",
+      "start": 25.36,
+      "end": 33.65
+    },
+    "7": {
+      "text": "Ndetse n'umusatsi wo ku mitwe yanyu wose warabazwe. Ntimutinye rero, kuko muruta ibishwi byinshi.",
+      "start": 26.66,
+      "end": 43.09
+    },
+    "8": {
+      "text": "“Kandi ndababwira yuko uzampamiriza imbere y'abantu, nanjye Umwana w'umuntu nzamuhamiriza imbere y'abamarayika b'Imana,",
+      "start": 28.15,
+      "end": 34.14
+    },
+    "9": {
+      "text": "ariko unyihakanira imbere y'abantu, na we azihakanirwa imbere y'abamarayika b'Imana.",
+      "start": 44.18,
+      "end": 44.96
+    },
+    "10": {
+      "text": "“Kandi umuntu wese usebya Umwana w'umuntu azabibabarirwa, ariko utuka Umwuka Wera ntazabibabarirwa.",
+      "start": 12.59,
+      "end": 20.52
+    },
+    "11": {
+      "text": "“Kandi nibabajyana mu masinagogi no mu batware no mu bakomeye, ntimuzahagarike umutima w'icyo muzireguza cyangwa w'ibyo muzavuga,",
+      "start": 27.56,
+      "end": 38.24
+    },
+    "12": {
+      "text": "kuko Umwuka Wera azabigisha ibyo muzaba mukwiriye kuvuga muri uwo mwanya.”",
+      "start": 6.81,
+      "end": 9.75
+    },
+    "13": {
+      "text": "Nuko umuntu umwe wo muri iryo teraniro aramubwira ati “Mwigisha, bwira mwene data tugabane imyandu.”",
+      "start": 23.5,
+      "end": 37.37
+    },
+    "14": {
+      "text": "Na we aramusubiza ati “Wa mugabo we, ni nde wanshyizeho kuba umucamanza wanyu, cyangwa ngo ngabanye ibyanyu?”",
+      "start": 13.17,
+      "end": 35.24
+    },
+    "15": {
+      "text": "Arababwira ati “Mwitonde kandi mwirinde kwifuza kose, kuko ubugingo bw'umuntu butava mu bwinshi bw'ibintu bye.”",
+      "start": 28.1,
+      "end": 43.27
+    },
+    "16": {
+      "text": "Nuko abacira umugani ati “Hariho umukungu wari ufite imirima irumbuka cyane,",
+      "start": 21.6,
+      "end": 24.65
+    },
+    "17": {
+      "text": "nuko aribaza mu mutima we ati ‘Ndagira nte ko ntafite aho mpunika imyaka yanjye?’",
+      "start": 34.79,
+      "end": 44.69
+    },
+    "18": {
+      "text": "Aribwira ati ‘Ndabigenza ntya: ndasenya urugarama rwanjye nubake urundi runini, abe ari mo mpunika imyaka yanjye yose n'ibintu byanjye.",
+      "start": 42.2,
+      "end": 44.85
+    },
+    "19": {
+      "text": "Ni bwo nzabwira umutima wanjye nti: Mutima, ufite ibintu byinshi bibikiwe imyaka myinshi, ngaho ruhuka, urye unywe, unezerwe.’",
+      "start": 25.56,
+      "end": 26.48
+    },
+    "20": {
+      "text": "Ariko Imana iramubwira iti ‘Wa mupfu we, muri iri joro uranyagwa ubugingo bwawe. Ibyo wabitse bizaba ibya nde?’",
+      "start": 40.85,
+      "end": 41.72
+    },
+    "21": {
+      "text": "“Ni ko umuntu wirundaniriza ubutunzi amera, atari umutunzi mu by'Imana.”",
+      "start": 5.99,
+      "end": 42.67
+    },
+    "22": {
+      "text": "Abwira abigishwa be ati “Ni cyo gituma mbabwira nti: Ntimukīganyire ngo mutekereze iby'ubugingo muti ‘Tuzarya iki?’ Cyangwa iby'umubiri muti ‘Tuzambara iki?’",
+      "start": 20.34,
+      "end": 25.43
+    },
+    "23": {
+      "text": "Kuko ubugingo buruta ibyokurya, n'umubiri uruta imyambaro.",
+      "start": 17.34,
+      "end": 23.61
+    },
+    "24": {
+      "text": "Mwitegereze ibikona bitabiba ntibisarure, ntibigire ububiko cyangwa ikigega, nyamara Imana irabigaburira. Mwe se ntimuruta ibisiga cyane?",
+      "start": 5.79,
+      "end": 19.36
+    },
+    "25": {
+      "text": "Ni nde muri mwe wabasha kwiyunguraho umukono umwe, abiheshejwe no kwiganyira?",
+      "start": 2.94,
+      "end": 10.13
+    },
+    "26": {
+      "text": "Nuko ubwo mutabasha gukora igito rwose, ni iki kibaganyisha ibindi?",
+      "start": 21.16,
+      "end": 21.62
+    },
+    "27": {
+      "text": "Mwitegereze uburabyo uko bumera: ntibugira umurimo bukora, ntibuboha imyenda, ariko ndababwira yuko Salomo mu bwiza bwe bwose atarimbaga nka kamwe muri bwo.",
+      "start": 18.65,
+      "end": 37.92
+    },
+    "28": {
+      "text": "Ariko Imana ubwo yambika ubwatsi bwo mu gasozi ityo, buriho none n'ejo bakabujugunya mu muriro, ntizarushaho kubambika mwebwe abafite kwizera guke mwe?",
+      "start": 16.02,
+      "end": 28.16
+    },
+    "29": {
+      "text": "“Ntimugahagarike umutima wo gushaka ibyokurya n'ibyokunywa, kandi ntimwiganyire.",
+      "start": 27.28,
+      "end": 44.01
+    },
+    "30": {
+      "text": "Ibyo byose abapagani bo mu isi ni byo bashaka, burya So aba azi ko namwe mubikennye.",
+      "start": 38.35,
+      "end": 44.21
+    },
+    "31": {
+      "text": "Ahubwo mushake ubwami bwe, kuko ari ho ibyo muzabyongerwa.",
+      "start": 28.89,
+      "end": 40.81
+    },
+    "32": {
+      "text": "“Mwa mukumbi muto mwe, ntimutinye kuko So yishimira kubaha ubwami.",
+      "start": 36.12,
+      "end": 40.38
+    },
+    "33": {
+      "text": "Mugure ibyo mufite, mutange ku buntu. Mwidodere udusaho tudasaza, ari bwo butunzi budashira buri mu ijuru, aho umujura atabwegera n'inyenzi ntizibwonone,",
+      "start": 24.72,
+      "end": 44.8
+    },
+    "34": {
+      "text": "kuko aho ubutunzi bwanyu buri, ari ho n'imitima yanyu izaba.",
+      "start": 9.01,
+      "end": 39.48
+    },
+    "35": {
+      "text": "“Muhore mukenyeye kandi amatabaza yanyu yake,",
+      "start": 7.4,
+      "end": 44.84
+    },
+    "36": {
+      "text": "mumere nk'abantu bategereza shebuja aho agarukira ava mu bukwe, kugira ngo ubwo azaza nakomanga bamukingurire vuba.",
+      "start": 23.28,
+      "end": 37.35
+    },
+    "37": {
+      "text": "Hahirwa abagaragu shebuja azaza agasanga bari maso. Ndababwira ukuri yuko azakenyera, akabicaza akabahereza.",
+      "start": 12.07,
+      "end": 36.11
+    },
+    "38": {
+      "text": "Naza mu gicuku cyangwa mu nkoko agasanga bameze batyo, bazaba bahirwa.",
+      "start": 27.1,
+      "end": 42.1
+    },
+    "39": {
+      "text": "Kandi mumenye ibi yuko nyir'inzu iyaba yamenyaga igihe umujura azazira, yabaye maso, ntiyakunze ko inzu icukurwa.",
+      "start": 14.38,
+      "end": 30.51
+    },
+    "40": {
+      "text": "Namwe muhore mwiteguye, kuko Umwana w'umuntu azaza mu gihe mudatekereza.”",
+      "start": 33.05,
+      "end": 40.88
+    },
+    "41": {
+      "text": "Petero aramubaza ati “Databuja, uwo mugani ni twe twenyine uwuciriye cyangwa ni abantu bose?”",
+      "start": 19.41,
+      "end": 28.59
+    },
+    "42": {
+      "text": "Umwami Yesu aramusubiza ati “Ni nde gisonga gikiranuka cy'ubwenge, shebuja azasigira abo mu rugo rwe ngo abagerere igerero igihe cyaryo?",
+      "start": 42.05,
+      "end": 42.38
+    },
+    "43": {
+      "text": "Hahirwa uwo mugaragu shebuja azaza agasanga abikora.",
+      "start": 25.86,
+      "end": 36.53
+    },
+    "44": {
+      "text": "Ndababwira ukuri yuko azamwegurira ibyo afite byose.",
+      "start": 39.15,
+      "end": 40.52
+    },
+    "45": {
+      "text": "Ariko uwo mugaragu niyibwira ati ‘Databuja aratinze’, agatangira gukubita abagaragu n'abaja, no kurya no kunywa no gusinda,",
+      "start": 19.32,
+      "end": 32.59
+    },
+    "46": {
+      "text": "shebuja w'uwo mugaragu azaza umunsi atamutegereje n'igihe atazi, azamucamo kabiri amuhanane n'abakiranirwa.",
+      "start": 39.57,
+      "end": 42.15
+    },
+    "47": {
+      "text": "“Kandi uwo mugaragu wari uzi ibyo shebuja ashaka, ntiyitegure ngo akore ibyo ashaka, azakubitwa inkoni nyinshi.",
+      "start": 39.58,
+      "end": 43.17
+    },
+    "48": {
+      "text": "Ariko uwari utabizi agakora ibikwiriye kumuhanisha, azakubitwa nkeya. Uwahawe byinshi wese azabazwa byinshi, n'uweguriwe byinshi ni we bazarushaho kwaka byinshi.",
+      "start": 37.21,
+      "end": 39.28
+    },
+    "49": {
+      "text": "“Naje kujugunya umuriro mu isi, none niba umaze gufatwa ndacyashaka iki kandi?",
+      "start": 44.86,
+      "end": 44.97
+    },
+    "50": {
+      "text": "Hariho umubatizo nkwiriye kuzabatizwa. Nyamuna uburyo mbabazwa kugeza aho uzasohorera!",
+      "start": 28.73,
+      "end": 39.2
+    },
+    "51": {
+      "text": "Mbese mutekereza yuko nazanywe no kuzana amahoro mu isi? Ndababwira yuko atari ko biri, ahubwo naje gutanya abantu!",
+      "start": 40.88,
+      "end": 41.28
+    },
+    "52": {
+      "text": "Kuko uhereye none hazabaho batanu mu nzu imwe badahuje, abatatu n'ababiri, kandi n'ababiri n'abatatu badahuje.",
+      "start": 9.34,
+      "end": 24.95
+    },
+    "53": {
+      "text": "Umwana ntazahuza na se, na se n'umwana we ntibazahuza. Umukobwa ntazahuza na nyina, na nyina n'umukobwa we ntibazahuza. Umukazana ntazahuza na nyirabukwe, na nyirabukwe n'umukazana we ntibazahuza.”",
+      "start": 29.13,
+      "end": 30.03
+    },
+    "54": {
+      "text": "Nuko abwira abateraniye aho na bo ati “Iyo mubonye igicu kivuye iburengerazuba, uwo mwanya muravuga ngo ‘Imvura iragwa’, kandi ni ko biba.",
+      "start": 33.73,
+      "end": 35.15
+    },
+    "55": {
+      "text": "N'iyo mubonye umuyaga uturutse ikusi, muravuga ngo ‘Haraba ubushyuhe’, kandi ni ko biba.",
+      "start": 7.94,
+      "end": 41.55
+    },
+    "56": {
+      "text": "Mwa ndyarya mwe, ko muzi kugenzura isi n'ijuru, ni iki kibabuza kugenzura iby'iki gihe?",
+      "start": 2.53,
+      "end": 28.85
+    },
+    "57": {
+      "text": "“Kandi namwe ubwanyu, ni iki kibabuza guhitamo ibitunganye?",
+      "start": 43.85,
+      "end": 44.8
+    },
+    "58": {
+      "text": "Nujyana n'ukurega kuburanira ku mutware, ugire umwete mukiri mu nzira wikiranure na we ngo ye kugukururira ku mucamanza, umucamanza akagushyikiriza umusirikare, na we akagushyira mu nzu y'imbohe.",
+      "start": 34.56,
+      "end": 43.78
+    },
+    "59": {
+      "text": "Ndakubwira yuko utazavamo rwose, keretse umaze kwishyura umwenda wose hadasigaye ikuta na rimwe.”",
+      "start": 20.0,
+      "end": 26.92
+    }
+  }
+}

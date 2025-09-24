@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi babwirisha inanga ijwi ryitwa Gititi. Ni Zaburi ya Dawidi.",
+      "start": 16.75,
+      "end": 17.9
+    },
+    "2": {
+      "text": "Uwiteka Mwami wacu,Erega izina ryawe ni ryiza mu isi yose!Washyize icyubahiro cyawe hejuru y'ijuru.",
+      "start": 33.83,
+      "end": 36.71
+    },
+    "3": {
+      "text": "Akanwa k'abana bato n'abonka wagahaye gukomeza imbaraga zawe,Gutsindisha abanzi bawe,Kugira ngo uhoze umwanzi n'uhōra inzigo.",
+      "start": 43.07,
+      "end": 44.49
+    },
+    "4": {
+      "text": "Iyo nitegereje ijuru, umurimo w'intoki zawe,N'ukwezi n'inyenyeri, ibyo waremye,",
+      "start": 5.38,
+      "end": 15.04
+    },
+    "5": {
+      "text": "Umuntu ni iki ko umwibuka,Cyangwa umwana w'umuntu ko umugenderera?",
+      "start": 11.46,
+      "end": 28.36
+    },
+    "6": {
+      "text": "Wenze kumugira nk'Imana aburaho hato,Umwambika ubwiza n'icyubahiro nk'ikamba.",
+      "start": 17.61,
+      "end": 21.74
+    },
+    "7": {
+      "text": "Wamuhaye gutegeka ibyo waremesheje intoki zawe,Wamweguriye ibintu byose ubishyira munsi y'ibirenge bye.",
+      "start": 16.47,
+      "end": 39.63
+    },
+    "8": {
+      "text": "Wamuhaye gutwara intama zose n'inka,N'inyamaswa zo mu ishyamba na zo,",
+      "start": 19.25,
+      "end": 38.39
+    },
+    "9": {
+      "text": "N'ibiguruka mu kirere n'amafi yo mu nyanja,N'ibinyura mu nzira zo mu nyanja byose.",
+      "start": 30.67,
+      "end": 39.0
+    },
+    "10": {
+      "text": "Uwiteka Mwami wacu,Erega izina ryawe ni ryiza mu isi yose!",
+      "start": 32.14,
+      "end": 43.77
+    }
+  }
+}

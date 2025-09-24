@@ -1,0 +1,183 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "Yakobo akomeza urugendo, agera mu gihugu cy'abanyaburasirazuba.",
+      "start": 24.54,
+      "end": 42.66
+    },
+    "2": {
+      "text": "Abona iriba riri mu gasozi, ririho imikumbi y'intama itatu ziryamye, kuko kuri iryo riba buhiriraga imikumbi kandi igitare kigomeye amazi cyari kinini.",
+      "start": 22.19,
+      "end": 38.99
+    },
+    "3": {
+      "text": "Aho ni ho imikumbi yose yateraniraga, bagatembagaza cya gitare, bakagikura ku munwa w'iriba, bakuhira intama, bakagisubiza ku munwa w'iriba aho gihora.",
+      "start": 13.51,
+      "end": 32.7
+    },
+    "4": {
+      "text": "Yakobo abaza abungeri ati “Bene data murava he?”Baramusubiza bati “Turi Abanyaharani.”",
+      "start": 36.54,
+      "end": 42.55
+    },
+    "5": {
+      "text": "Arababaza ati “Muzi Labani mwene Nahori?”Baramusubiza bati “Turamuzi.”",
+      "start": 1.9,
+      "end": 15.35
+    },
+    "6": {
+      "text": "Arababaza ati “Araho?”Baramusubiza bati “Araho kandi dore umukobwa we Rasheli azanye intama.”",
+      "start": 42.38,
+      "end": 44.69
+    },
+    "7": {
+      "text": "Arababwira ati “Dore ntiburīra, igihe cy'amahindūra ntikirasohora, mwuhire intama mugende muziragire.”",
+      "start": 7.69,
+      "end": 40.49
+    },
+    "8": {
+      "text": "Baramusubiza bati “Ntitubibasha imikumbi yose itaraterana, bagatembagaza igitare bakagikura ku munwa w'iriba, ni bwo turi bubone kuhira intama.”",
+      "start": 27.85,
+      "end": 36.3
+    },
+    "9": {
+      "text": "Akivugana na bo Rasheli azana intama za se, kuko ari we uziragira.",
+      "start": 25.14,
+      "end": 31.83
+    },
+    "10": {
+      "text": "Nuko Yakobo abonye Rasheli mwene Labani nyirarume, n'intama za Labani nyirarume, yegera iriba, atembagaza cya gitare, agikura ku munwa w'iriba, yuhira umukumbi wa Labani nyirarume.",
+      "start": 38.8,
+      "end": 42.45
+    },
+    "11": {
+      "text": "Yakobo asoma Rasheli, araturika ararira.",
+      "start": 1.12,
+      "end": 8.63
+    },
+    "12": {
+      "text": "Yakobo abwira Rasheli yuko ari mwene wabo wa se, ko ari mwene Rebeka, arirukanka abibwira se.",
+      "start": 5.79,
+      "end": 19.82
+    },
+    "13": {
+      "text": "Nuko Labani yumvise inkuru ya Yakobo mwishywa we, arirukanka aramusanganira, aramuhobera aramusoma, amujyana iwe. Abwira Labani ibyabaye byose.",
+      "start": 27.3,
+      "end": 41.65
+    },
+    "14": {
+      "text": "Labani aramubwira ati “Ni ukuri uri amaraso yanjye n'ubura bwanjye.” Abana na we ukwezi kumwe.",
+      "start": 39.15,
+      "end": 40.56
+    },
+    "15": {
+      "text": "Labani abaza Yakobo ati “Kuko uri mwene wacu, ni cyo gituma unkorera ku busa? Urashaka ko nzaguhemba iki?”",
+      "start": 4.9,
+      "end": 17.66
+    },
+    "16": {
+      "text": "Kandi Labani yari afite abakobwa babiri: umukuru yitwaga Leya, umuto yitwaga Rasheli.",
+      "start": 2.96,
+      "end": 23.83
+    },
+    "17": {
+      "text": "Leya yari afite amaso atabengerana, ariko Rasheli yari mwiza wese, no mu maso ari heza.",
+      "start": 7.99,
+      "end": 43.73
+    },
+    "18": {
+      "text": "Yakobo abenguka Rasheli asubiza Labani ati “Ndagutendera imyaka irindwi, uzanshyingire Rasheli umukobwa wawe muto.”",
+      "start": 15.34,
+      "end": 37.43
+    },
+    "19": {
+      "text": "Labani aramusubiza ati “Kumuguha biruta kumuha undi muntu wese, gumana nanjye.”",
+      "start": 24.81,
+      "end": 24.88
+    },
+    "20": {
+      "text": "Nuko Yakobo atendera imyaka irindwi kugira ngo ahabwe Rasheli, imuhwanira n'iminsi mike ku bw'urukundo amukunze.",
+      "start": 13.58,
+      "end": 14.31
+    },
+    "21": {
+      "text": "Yakobo atebutsa kuri Labani ati “Nshyingira umugeni wanjye, murongore kuko ndangije iminsi yanjye.”",
+      "start": 37.15,
+      "end": 40.67
+    },
+    "22": {
+      "text": "Labani atora abakwe baho bose, arabatekera arabagaburira.",
+      "start": 18.05,
+      "end": 32.79
+    },
+    "23": {
+      "text": "Nimugoroba azana Leya umukobwa we aramumushyingira, aramurongora.",
+      "start": 0.34,
+      "end": 15.23
+    },
+    "24": {
+      "text": "Labani atanga Zilupa umuja we, amuha umukobwa we Leya ho indongoranyo.",
+      "start": 26.34,
+      "end": 40.98
+    },
+    "25": {
+      "text": "Mu gitondo Yakobo abona ari Leya. Abaza Labani ati “Wangize ibiki? Rasheli si we natendeye? Ni iki gitumye undiganya utyo?”",
+      "start": 43.34,
+      "end": 43.92
+    },
+    "26": {
+      "text": "Labani aramusubiza ati “Iwacu ntibagenza batyo, gushyingira umuto basize umukuru.",
+      "start": 18.39,
+      "end": 40.81
+    },
+    "27": {
+      "text": "Mara iminsi irindwi y'uwo, tubone kugushyingirira n'uriya iyindi myaka irindwi uzatenda.”",
+      "start": 11.74,
+      "end": 24.87
+    },
+    "28": {
+      "text": "Yakobo abigenza atyo amara iminsi irindwi ya Leya, Labani amushyingira Rasheli umukobwa we.",
+      "start": 39.84,
+      "end": 42.11
+    },
+    "29": {
+      "text": "Kandi Labani atanga Biluha umuja we, amuha Rasheli umukobwa we ho indongoranyo.",
+      "start": 26.79,
+      "end": 36.54
+    },
+    "30": {
+      "text": "Yakobo arongora na Rasheli, akundwakaza Rasheli, anyungwakaza Leya, atenda kuri Labani indi myaka irindwi.",
+      "start": 22.17,
+      "end": 44.73
+    },
+    "31": {
+      "text": "Uwiteka abona ko Leya anyungwakaye azibūra inda ye, ariko Rasheli yari ingumba.",
+      "start": 29.55,
+      "end": 33.1
+    },
+    "32": {
+      "text": "Leya asama inda abyara umuhungu, amwita Rubeni ati “Ni uko Uwiteka yabonye umubabaro wanjye, noneho umugabo wanjye azankunda.”",
+      "start": 24.74,
+      "end": 43.31
+    },
+    "33": {
+      "text": "Asama indi nda abyara umuhungu ati “Kuko Uwiteka yumvise nywungwakaye, ni cyo gitumye anyongera n'uyu.” Amwita Simiyoni.",
+      "start": 27.39,
+      "end": 37.23
+    },
+    "34": {
+      "text": "Asama indi nda abyara umuhungu ati “Noneho ndafatana n'umugabo wanjye, kuko twabyaranye abahungu batatu.” Ni cyo cyatumye yitwa Lewi.",
+      "start": 11.1,
+      "end": 23.76
+    },
+    "35": {
+      "text": "Asama indi nda abyara umuhungu ati “Ubu ndashima Uwiteka.” Ni cyo cyatumye amwita Yuda. Aba arekeye aho kubyara.",
+      "start": 35.17,
+      "end": 36.86
+    }
+  }
+}

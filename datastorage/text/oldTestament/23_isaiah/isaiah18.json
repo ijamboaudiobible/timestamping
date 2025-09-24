@@ -1,0 +1,43 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Dore re! Dore igihugu gihindisha amababa kiri hakurya y'imigezi ya Etiyopiya,",
+      "start": 23.95,
+      "end": 44.01
+    },
+    "2": {
+      "text": "cyatumye intumwa zinyura mu nyanja zigenda ku mazi ku bihare by'inkorogoto kiti “Nimugende mwa ntumwa mwe z'impayamaguru, musange ishyanga ry'abantu barebare b'umubiri urembekereye, ryahoze ritera ubwoba na bugingo n'ubu, ishyanga risenya rigasiribanga igihugu cyaryo kigabanywa n'imigezi.”",
+      "start": 41.39,
+      "end": 42.08
+    },
+    "3": {
+      "text": "Yemwe baturage bo ku isi mwese, yemwe abatura ku isi, ibendera nirishingwa ku misozi miremire mujye mureba, kandi ikondera nirivuga mujye mwumva.",
+      "start": 37.05,
+      "end": 39.31
+    },
+    "4": {
+      "text": "Kuko Uwiteka yambwiye ati “Nzigumira mu buturo bwanjye nitegereze mere nk'izuba ritera ibishashi, nk'igicu cy'ikime cyo mu gihe cy'ubushyuhe bwo mu isarura.”",
+      "start": 44.8,
+      "end": 44.87
+    },
+    "5": {
+      "text": "Nuko isarura ritaragera ururabo ruhunguye, inzabibu ari intenge, amashami magufi azayatemesha impabuzo, n'amashami agabye azayatema ayakureho.",
+      "start": 0.78,
+      "end": 15.55
+    },
+    "6": {
+      "text": "Bazasigara ari ibirundo, basigiwe inkongoro zo ku misozi miremire n'inyamaswa zo mu isi. Inkongoro zizabarya mu cyi n'inyamaswa zo mu isi zose zizabarya mu itumba.",
+      "start": 1.03,
+      "end": 26.16
+    },
+    "7": {
+      "text": "Icyo gihe bazazanira Uwiteka Nyiringabo abantu barebare b'umubiri urembekereye ho indabukirano, ari bo bantu bahoze batera ubwoba na bugingo n'ubu, ishyanga risenya rigasiribanga igihugu cyaryo kigabanywa n'imigezi, babazane ahantu h'izina ry'Uwiteka Nyiringabo, ari wo musozi wa Siyoni.",
+      "start": 15.85,
+      "end": 39.07
+    }
+  }
+}

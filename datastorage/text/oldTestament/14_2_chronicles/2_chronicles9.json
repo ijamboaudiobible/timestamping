@@ -1,0 +1,163 @@
+{
+  "book": "Book 14",
+  "book_canonical": "2_chronicles",
+  "book_number": 14,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Umugabekazi w'i Sheba yumvise inkuru ya Salomo, aza i Yerusalemu azanywe no kumubaza ibinaniranye amugerageza. Yari azanye n'abantu benshi cyane n'ingamiya zihetse ibihumura neza, n'izahabu nyinshi cyane n'amabuye y'igiciro cyinshi. Ageze kuri Salomo amurondorera ibyari mu mutima we byose.",
+      "start": 36.0,
+      "end": 39.01
+    },
+    "2": {
+      "text": "Salomo amusobanurira ibyo yamubajije byose, nta kintu cyasobye Salomo atamusobanuriye.",
+      "start": 40.35,
+      "end": 42.68
+    },
+    "3": {
+      "text": "Nuko umugabekazi w'i Sheba abonye ubwenge bwa Salomo n'inzu yubatse,",
+      "start": 6.47,
+      "end": 32.76
+    },
+    "4": {
+      "text": "n'ibyokurya byo ku meza ye n'imyicarire y'abagaragu be, no guhereza kw'abahereza be n'imyambarire yabo, n'abahereza be ba vino n'imyambarire yabo, n'urwuririro yazamukiragaho ajya mu nzu y'Uwiteka, arumirwa bimukura umutima.",
+      "start": 25.21,
+      "end": 42.74
+    },
+    "5": {
+      "text": "Aherako abwira umwami ati “Inkuru numviye mu gihugu cyanjye z'ibyo wakoze n'iz'ubwenge bwawe, zari iz'ukuri.",
+      "start": 7.53,
+      "end": 33.04
+    },
+    "6": {
+      "text": "Ariko sindakemera ibyo bavuze kugeza aho naziye nkabyirebera n'ayanjye maso, kandi mbonye ko ntabwiwe n'igice cy'ubwenge bwawe bukomeye, urengeje inkuru numvise.",
+      "start": 25.08,
+      "end": 39.97
+    },
+    "7": {
+      "text": "Hahirwa abantu bawe, aba bagaragu bawe barahirwa bibera imbere yawe iminsi yose, bakumva ubwenge bwawe.",
+      "start": 2.69,
+      "end": 31.57
+    },
+    "8": {
+      "text": "Uwiteka Imana yawe ihimbazwe, yakwishimiye ikakwicaza ku ntebe yayo ukaba umwami utwarira Uwiteka Imana yawe, kuko Imana yawe yakunze ubwoko bwa Isirayeli igashaka kubukomeza iteka ryose, ni cyo cyatumye ikugira umwami wabo ngo uce imanza zitabera.”",
+      "start": 3.29,
+      "end": 11.76
+    },
+    "9": {
+      "text": "Maze atura umwami italanto z'izahabu ijana na makumyabiri, n'ibihumura neza byinshi cyane n'amabuye y'igiciro cyinshi, kandi ntabwo higeze kubaho ibihumura neza nk'ibyo umugabekazi w'i Sheba yatuye Umwami Salomo.",
+      "start": 26.56,
+      "end": 42.52
+    },
+    "10": {
+      "text": "Kandi n'abagaragu ba Hiramu n'aba Salomo, abazanaga izahabu ya Ofiri, ni bo bazanaga ibiti bimeze nk'imisagavu n'amabuye y'igiciro cyinshi.",
+      "start": 11.65,
+      "end": 18.34
+    },
+    "11": {
+      "text": "Umwami akoresha ibiti bimeze nk'imisagavu inzuririro z'inzu y'Uwiteka n'iz'inzu y'ubwami, abibāzamo n'inanga na nebelu by'abaririmbyi, kandi kera kose mu gihugu cy'i Buyuda ntihigeze kuboneka ibiti nk'ibyo.",
+      "start": 0.24,
+      "end": 0.32
+    },
+    "12": {
+      "text": "Maze Umwami Salomo aha umugabekazi w'i Sheba ibyo yifuzaga n'ibyo yasabye byose, biruta ibyo yatuye umwami. Nuko arahaguruka asubira mu gihugu cye n'abagaragu be.",
+      "start": 6.73,
+      "end": 22.27
+    },
+    "13": {
+      "text": "Izahabu yajyaga kwa Salomo mu mwaka yari italanto magana atandatu na mirongo itandatu n'esheshatu,",
+      "start": 32.67,
+      "end": 33.26
+    },
+    "14": {
+      "text": "udashyizeho izo abagenza n'abacuruzi bazanaga, kandi abami ba Arabiya bose n'abatware bo mu gihugu bajyaga bazanira Salomo izahabu n'ifeza.",
+      "start": 14.98,
+      "end": 25.04
+    },
+    "15": {
+      "text": "Maze Salomo acurisha ingabo magana abiri mu izahabu, italanto z'izahabu magana atandatu zikajya zicurwamo ingabo imwe.",
+      "start": 0.07,
+      "end": 27.67
+    },
+    "16": {
+      "text": "Acura n'ingabo ntoya magana atatu mu izahabu, ishekeli magana atandatu z'izahabu zikajya zicurwamo ingabo imwe, umwami azitambika mu nzu y'ibiti by'ikibira cy'i Lebanoni.",
+      "start": 6.17,
+      "end": 8.65
+    },
+    "17": {
+      "text": "Kandi umwami yibarishiriza intebe nini y'ubwami mu mahembe y'inzovu, ayiteraho izahabu itunganijwe.",
+      "start": 17.27,
+      "end": 36.72
+    },
+    "18": {
+      "text": "Iyo ntebe yari ifite urwuririro rw'intambwe esheshatu, ifite n'agatebe k'ibirenge k'izahabu. Izo nzuririro zari zifashe ku ntebe, kandi hariho n'imikondo impande zombi z'ahicarwa, n'ibishushanyo by'intare bibiri bihagaze impande zombi iruhande rw'imikondo.",
+      "start": 3.62,
+      "end": 44.12
+    },
+    "19": {
+      "text": "Kandi ibindi bishushanyo by'intare cumi na bibiri byahagararaga impande zombi ku nzuririro uko ari esheshatu. Mu bihugu byose nta ntebe yigeze kubazwa isa na yo.",
+      "start": 17.56,
+      "end": 32.27
+    },
+    "20": {
+      "text": "Ibintu umwami yanyweshaga byose byari izahabu, n'ibirirwaho byose byo mu nzu y'ibiti by'ikibira cy'i Lebanoni byari izahabu itunganijwe. Ku ngoma ya Salomo ifeza ntiyatekerezwaga ko ari ikintu,",
+      "start": 42.48,
+      "end": 42.69
+    },
+    "21": {
+      "text": "kuko umwami yari afite inkuge zajyaga zijya i Tarushishi zijyanwa n'abagaragu ba Hiramu. Uko imyaka itatu yashiraga, inkuge z'i Tarushishi zajyaga zigaruka zizanye izahabu n'ifeza, n'amahembe y'inzovu n'inkima na tawusi.",
+      "start": 7.17,
+      "end": 33.62
+    },
+    "22": {
+      "text": "Nuko Salomo arusha abami bo mu isi bose ubutunzi n'ubwenge.",
+      "start": 14.88,
+      "end": 15.72
+    },
+    "23": {
+      "text": "Abami bo mu isi bose bashakaga kureba Salomo, ngo bamenye ubwenge Imana yashyize mu mutima we.",
+      "start": 19.5,
+      "end": 35.3
+    },
+    "24": {
+      "text": "Uwazaga wese yazanaga ituro rye, ibintu by'ifeza n'iby'izahabu n'imyambaro, n'intwaro zo kurwanisha n'ibihumura neza n'amafarashi n'inyumbu. Ni ko byagendaga uko umwaka utashye.",
+      "start": 39.53,
+      "end": 43.05
+    },
+    "25": {
+      "text": "Kandi Salomo yari afite ibiraro by'amafarashi ibihumbi bine yakururaga amagare ye, n'abagendera ku mafarashi inzovu imwe n'ibihumbi bibiri, ibyo abishyira mu midugudu ibikwamo amagare n'i Yerusalemu mu murwa w'umwami.",
+      "start": 3.85,
+      "end": 30.53
+    },
+    "26": {
+      "text": "Kandi yategekaga abami bose, uhereye kuri rwa Ruzi ukageza ku gihugu cy'Abafilisitiya no ku rugabano rwa Egiputa.",
+      "start": 4.06,
+      "end": 33.21
+    },
+    "27": {
+      "text": "Umwami atuma i Yerusalemu hagwira ifeza ingana n'amabuye yaho ubwinshi, n'ibiti by'imyerezi atuma bingana n'imivumu yo mu kibaya ubwinshi.",
+      "start": 0.32,
+      "end": 39.03
+    },
+    "28": {
+      "text": "Kandi bazaniraga Salomo amafarashi avuye muri Egiputa no mu bihugu byose.",
+      "start": 7.2,
+      "end": 16.69
+    },
+    "29": {
+      "text": "Kandi indi mirimo ya Salomo yose iyabanje n'iyaherutse, mbese ntiyanditswe mu by'umuhanuzi Natani no mu byahanuwe na Ahiya w'i Shilo, no mu byahishuriwe Ido bamenya kuri Yerobowamu mwene Nebati?",
+      "start": 23.0,
+      "end": 28.14
+    },
+    "30": {
+      "text": "Salomo amara ku ngoma imyaka mirongo ine i Yerusalemu, ategeka Abisirayeli bose.",
+      "start": 3.67,
+      "end": 23.34
+    },
+    "31": {
+      "text": "Hanyuma Salomo aratanga asanga ba sekuruza, ahambwa mu mudugudu wa se Dawidi, maze umuhungu we Rehobowamu yima ingoma ye.",
+      "start": 3.83,
+      "end": 5.3
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Balāmu abwira Balaki ati “Nyubakishiriza hano ibicaniro birindwi, unyitegurire hano amapfizi arindwi n'amasekurume y'intama arindwi.”",
+      "start": 28.27,
+      "end": 44.66
+    },
+    "2": {
+      "text": "Balaki abigenza uko Balāmu amubwiye. Balaki na Balāmu batambira ku gicaniro cyose impfizi n'isekurume y'intama.",
+      "start": 27.71,
+      "end": 43.27
+    },
+    "3": {
+      "text": "Balāmu abwira Balaki ati “Hagarara iruhande rw'ibitambo byawe byoshejwe nanjye ngende, ahari Uwiteka araza ansanganire; icyo ambwira ndakikubwira.” Ajya mu mpinga y'ibiharabuge.",
+      "start": 6.92,
+      "end": 35.6
+    },
+    "4": {
+      "text": "Imana isanganira Balāmu arayibwira ati “Niteguye ibicaniro birindwi, ntambira ku gicaniro cyose impfizi n'isekurume y'intama.”",
+      "start": 4.92,
+      "end": 31.3
+    },
+    "5": {
+      "text": "Uwiteka ashyira ijambo mu kanwa ka Balāmu aramubwira ati “Subira kuri Balaki uvuga utya.”",
+      "start": 39.75,
+      "end": 44.32
+    },
+    "6": {
+      "text": "Amusubiraho asanga ahagararanye n'abatware b'i Mowabu bose, iruhande rw'ibitambo bye byoshejwe.",
+      "start": 27.23,
+      "end": 32.44
+    },
+    "7": {
+      "text": "Aca umugani uhanura ati“Mu Aramu ni ho Balaki yankuye,Umwami w'i Mowabu yankuye mu misozi y'iburasirazuba.Ati ‘Ngwino umvumire ubwoko bwa Yakobo,Ngwino urakarire ubwoko bwa Isirayeli.’",
+      "start": 4.08,
+      "end": 37.68
+    },
+    "8": {
+      "text": "Navuma nte abo Imana itavumye?Kandi narakarira nte abo Imana itarakariye?",
+      "start": 42.17,
+      "end": 43.87
+    },
+    "9": {
+      "text": "Kuko nitegeye ubwo bwoko ndi hejuru y'ibitare,Nkabwitegera ndi mu mpinga z'imisozi.Dore ni ubwoko butura ukwabwo,Ntibuzabarwa mu mahanga.",
+      "start": 42.95,
+      "end": 43.1
+    },
+    "10": {
+      "text": "Ni nde ubasha kubara umukungugu w'ubwoko bwa Yakobo?Cyangwa ni nde ubasha kubara igice cya kane cy'Abisirayeli?Icyampa nkipfira nk'uko abakiranutsi bapfa,Iherezo ryanjye rikaba nk'iryabo!”",
+      "start": 2.9,
+      "end": 16.99
+    },
+    "11": {
+      "text": "Balaki abwira Balāmu ati “Ungenjeje ute? Nakuzaniye kuvuma ababisha banjye, none ubahesheje umugisha musa?”",
+      "start": 10.09,
+      "end": 37.92
+    },
+    "12": {
+      "text": "Aramusubiza ati “Ibyo Uwiteka ashyize mu kanwa kanjye, sinkwiye kwirinda akaba ari byo mvuga?”",
+      "start": 13.18,
+      "end": 30.85
+    },
+    "13": {
+      "text": "Balaki aramubwira ati “Ndakwinginze, ngwino nkujyane ahandi aho uri bubashe kubītegera, kuko witēgeye impera imwe yabo gusa ntubitēgere bose, abe ari ho ubamvumirira.”",
+      "start": 37.72,
+      "end": 42.7
+    },
+    "14": {
+      "text": "Amujyana mu ishyamba ry'i Sofimu amugeza mu mpinga ya Pisiga, yubakaho ibicaniro birindwi, atamba impfizi n'isekurume y'intama ku gicaniro cyose.",
+      "start": 4.97,
+      "end": 33.94
+    },
+    "15": {
+      "text": "Balāmu abwira Balaki ati “Hagarara hano iruhande rw'ibitambo byawe byoshejwe, mbanze mpurire n'Uwiteka hariya.”",
+      "start": 29.9,
+      "end": 39.33
+    },
+    "16": {
+      "text": "Uwiteka asanganira Balāmu ashyira ijambo mu kanwa ke, aramubwira ati “Subira kuri Balaki uvuge utya.”",
+      "start": 7.81,
+      "end": 37.31
+    },
+    "17": {
+      "text": "Asanga ahagararanye n'abatware b'i Mowabu iruhande rw'ibitambo bye. Balaki aramubaza ati “Uwiteka yavuze iki?”",
+      "start": 42.64,
+      "end": 43.45
+    },
+    "18": {
+      "text": "Aca umugani uhanura ati“Haguruka Balaki wumve,Ntegera ugutwi, mwene Sipori.",
+      "start": 3.6,
+      "end": 18.61
+    },
+    "19": {
+      "text": "Imana si umuntu ngo ibeshye,Kandi si umwana w'umuntu ngo yicuze.Ibyo yavuze, no gukora ntizabikora?Ibyavuye mu kanwa kayo, no gusohoza ntizabisohoza?",
+      "start": 34.67,
+      "end": 42.57
+    },
+    "20": {
+      "text": "Dore nategetswe kubahesha umugisha,Na yo yawubahaye simbasha kuwukura.",
+      "start": 20.9,
+      "end": 27.33
+    },
+    "21": {
+      "text": "Ntibonye gukiranirwa k'ubwoko bwa Yakobo,Ubugoryi ntibubonye ku Bisirayeli,Uwiteka Imana iri kumwe na bo,Ni umwami wabo, bayivugiriza impundu.",
+      "start": 19.78,
+      "end": 32.4
+    },
+    "22": {
+      "text": "Imana yabakuye muri Egiputa ni yo ibajyana,Ifite amaboko nk'ay'imbogo.",
+      "start": 1.65,
+      "end": 32.79
+    },
+    "23": {
+      "text": "Nta kuragura kuri mu bwoko bwa Yakobo,Nta bupfumu buri mu Bisirayeli,Mu gihe cyategetswe Abayakobo n'Abisirayeli bazabwirwa icyo Imana ikora.",
+      "start": 14.77,
+      "end": 27.21
+    },
+    "24": {
+      "text": "Dore ubwo bwoko bubaduka nk'intare y'ingore,Buvumbuka nk'intare y'ingabo.Ntizaryama itararya umuhigo,Itaranywa amaraso y'abishwe.”",
+      "start": 35.93,
+      "end": 38.25
+    },
+    "25": {
+      "text": "Balaki abwira Balāmu ati “Ntubavume na hato, ntubaheshe umugisha na muke.”",
+      "start": 24.11,
+      "end": 36.34
+    },
+    "26": {
+      "text": "Maze Balāmu abwira Balaki ati “Sinakubwiye nti ‘Icyo Uwiteka avuga cyose ni cyo nkwiriye gukora’? ”",
+      "start": 13.55,
+      "end": 31.76
+    },
+    "27": {
+      "text": "Balaki abwira Balāmu ati “Nuko ngwino nkujyane ahandi, ahari Imana irakunda ko ubamvumirirayo.",
+      "start": 23.41,
+      "end": 34.58
+    },
+    "28": {
+      "text": "Balaki ajyana Balāmu mu mpinga ya Pewori, harengeye ubutayu.”",
+      "start": 31.27,
+      "end": 43.33
+    },
+    "29": {
+      "text": "Balāmu abwira Balaki ati “Nyubakishiriza hano ibicaniro birindwi, unyitegurire hano amapfizi arindwi n'amasekurume y'intama arindwi.”",
+      "start": 3.86,
+      "end": 14.56
+    },
+    "30": {
+      "text": "Balaki abigenza uko Balāmu amubwiye, atambira ku gicaniro cyose impfizi n'isekurume y'intama.",
+      "start": 43.87,
+      "end": 44.46
+    }
+  }
+}

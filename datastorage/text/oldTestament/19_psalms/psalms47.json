@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 47,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya bene Kōra.",
+      "start": 40.2,
+      "end": 44.15
+    },
+    "2": {
+      "text": "Mwa mahanga yose mwe, nimukome mu mashyi,Muvugirize Imana impundu z'abanesheje.",
+      "start": 0.04,
+      "end": 20.49
+    },
+    "3": {
+      "text": "Kuko Uwiteka Usumbabyose ateye ubwoba,Ari Umwami ukomeye utegeka isi yose.",
+      "start": 35.96,
+      "end": 44.08
+    },
+    "4": {
+      "text": "Atugomōrera amoko tukayatwara,Ashyira amahanga munsi y'ibirenge byacu.",
+      "start": 31.54,
+      "end": 34.86
+    },
+    "5": {
+      "text": "Adutoraniriza umwandu wacu,Ni wo byirato bya Yakobo uwo yakunze.Sela.",
+      "start": 30.15,
+      "end": 37.83
+    },
+    "6": {
+      "text": "Imana izamukanye impundu,Uwiteka azamukanye ijwi ry'impanda.",
+      "start": 26.26,
+      "end": 40.39
+    },
+    "7": {
+      "text": "Muririmbire Imana ishimwe,Muririmbe ishimwe,Muririmbire Umwami wacu ishimwe,Muririmbe ishimwe.",
+      "start": 12.44,
+      "end": 19.38
+    },
+    "8": {
+      "text": "Kuko Imana ari Umwami w'isi yose,Muririmbishe ishimwe ryayo,Indirimbo ihimbishijwe ubwenge.",
+      "start": 41.02,
+      "end": 44.33
+    },
+    "9": {
+      "text": "Imana itegeka amahanga,Imana yicaye ku ntebe yayo yera.",
+      "start": 19.45,
+      "end": 22.56
+    },
+    "10": {
+      "text": "Abakomeye bo mu mahanga,Bateraniye guhinduka abantu b'Imana ya Aburahamu.Kuko ingabo zikingira abo mu isi ari iz'Imana,Ishyizwe hejuru cyane.",
+      "start": 31.08,
+      "end": 37.38
+    }
+  }
+}

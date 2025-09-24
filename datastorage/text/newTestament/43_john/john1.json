@@ -1,0 +1,263 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Mbere na mbere hariho Jambo; Jambo uwo yahoranye n'Imana kandi Jambo yari Imana.",
+      "start": 33.46,
+      "end": 39.49
+    },
+    "2": {
+      "text": "Uwo yahoranye n'Imana mbere na mbere.",
+      "start": 11.96,
+      "end": 16.85
+    },
+    "3": {
+      "text": "Ibintu byose ni we wabiremye, ndetse mu byaremwe byose nta na kimwe kitaremwe na we.",
+      "start": 42.09,
+      "end": 42.56
+    },
+    "4": {
+      "text": "Muri we harimo ubugingo, kandi ubwo bugingo bwari Umucyo w'abantu.",
+      "start": 17.25,
+      "end": 26.33
+    },
+    "5": {
+      "text": "Uwo Mucyo uvira mu mwijima, ariko umwijima ntiwawumenya.",
+      "start": 44.48,
+      "end": 44.6
+    },
+    "6": {
+      "text": "Hariho umuntu watumwe n'Imana witwaga Yohana.",
+      "start": 10.58,
+      "end": 27.88
+    },
+    "7": {
+      "text": "Uwo yazanywe no guhamya iby'Umucyo, ngo atume bose bizera.",
+      "start": 20.63,
+      "end": 43.81
+    },
+    "8": {
+      "text": "Icyakora uwo si we uwo Mucyo, ahubwo ni we wahamije ibyawo.",
+      "start": 10.82,
+      "end": 11.59
+    },
+    "9": {
+      "text": "Uwo Mucyo ni we Mucyo nyakuri, kandi ubwo ni bwo yatangiraga kuza mu isi ngo amurikire umuntu wese.",
+      "start": 38.03,
+      "end": 44.79
+    },
+    "10": {
+      "text": "Yari mu isi ndetse ni we wayiremye, nyamara ab'isi ntibamumenya.",
+      "start": 36.65,
+      "end": 40.06
+    },
+    "11": {
+      "text": "Yaje mu bye, ariko abe ntibamwemera.",
+      "start": 5.48,
+      "end": 6.99
+    },
+    "12": {
+      "text": "Icyakora abamwemeye bose bakizera izina rye, yabahaye ubushobozi bwo kuba abana b'Imana.",
+      "start": 2.36,
+      "end": 16.01
+    },
+    "13": {
+      "text": "Abo ntibabyawe n'amaraso cyangwa n'ubushake bw'umubiri, cyangwa n'ubushake bw'umugabo, ahubwo babyawe n'Imana.",
+      "start": 35.39,
+      "end": 37.75
+    },
+    "14": {
+      "text": "Jambo uwo yabaye umuntu abana natwe (tubona ubwiza bwe busa n'ubw'Umwana w'ikinege wa Se), yuzuye ubuntu n'ukuri.",
+      "start": 26.59,
+      "end": 37.12
+    },
+    "15": {
+      "text": "Yohana yahamije iby'uwo avuga yeruye ati “Uwo ni we navuze nti ‘Uzaza hanyuma ni we unduta, kuko yahozeho ntarabaho.’ ”",
+      "start": 36.29,
+      "end": 38.99
+    },
+    "16": {
+      "text": "Kandi ibimwuzuye akaba ari byo twahaweho twese, ni ubuntu bukurikira ubundi,",
+      "start": 11.23,
+      "end": 33.88
+    },
+    "17": {
+      "text": "kuko amategeko yatanzwe na Mose, ariko ubuntu n'ukuri byo byazanywe na Yesu Kristo.",
+      "start": 18.1,
+      "end": 43.64
+    },
+    "18": {
+      "text": "Uhereye kera kose nta muntu wigeze kubona Imana, ahubwo Umwana w'ikinege uri mu gituza cya Se, ni we wayimenyekanishije.",
+      "start": 42.97,
+      "end": 43.06
+    },
+    "19": {
+      "text": "Ibi ni byo Yohana yahamije, ubwo Abayuda bamutumagaho abatambyi n'Abalewi, bavanywe i Yerusalemu no kumubaza bati “Uri nde?”",
+      "start": 36.03,
+      "end": 36.12
+    },
+    "20": {
+      "text": "Nuko ntiyabahisha ukuri, ahubwo araberurira ati “Si jye Kristo.”",
+      "start": 38.99,
+      "end": 44.28
+    },
+    "21": {
+      "text": "Nuko baramubaza bati “Tubwire, uri Eliya?”Na we ati “Sindi we.”Bati “Uri wa muhanuzi?”Arabasubiza ati “Oya.”",
+      "start": 7.32,
+      "end": 22.16
+    },
+    "22": {
+      "text": "Baramubaza bati “None se uri nde ngo dusubize abadutumye? Wowe wiyita nde?”",
+      "start": 5.0,
+      "end": 38.39
+    },
+    "23": {
+      "text": "Ati “Ndi ijwi ry'urangururira mu butayu ngo ‘Nimugorore inzira y'Uwiteka’, nk'uko umuhanuzi Yesaya yabivuze.”",
+      "start": 6.44,
+      "end": 44.0
+    },
+    "24": {
+      "text": "Abari batumwe bari Abafarisayo.",
+      "start": 37.59,
+      "end": 41.99
+    },
+    "25": {
+      "text": "Nuko baramubaza bati “None ubatiriza iki, ko utari Kristo, ntube na Eliya, ntube na wa muhanuzi?”",
+      "start": 12.12,
+      "end": 42.11
+    },
+    "26": {
+      "text": "Yohana arabasubiza ati “Jye ndabatirisha amazi, ariko muri mwe hahagaze uwo mutaramenya,",
+      "start": 10.75,
+      "end": 42.12
+    },
+    "27": {
+      "text": "uwo ni we unsimbura kandi ntibinkwiriye gupfundura udushumi tw'inkweto ze.”",
+      "start": 4.03,
+      "end": 23.6
+    },
+    "28": {
+      "text": "Ibyo byabereye i Betaniya hakurya ya Yorodani, aho Yohana yabatirizaga.",
+      "start": 18.99,
+      "end": 23.4
+    },
+    "29": {
+      "text": "Bukeye bw'aho abona Yesu aza aho ari aravuga ati “Nguyu Umwana w'intama w'Imana, ukuraho ibyaha by'abari mu isi.",
+      "start": 7.51,
+      "end": 41.79
+    },
+    "30": {
+      "text": "Uyu ni we navuze nti ‘Nyuma yanjye hazaza umugabo unduta ubukuru, kuko yahozeho ntarabaho.’",
+      "start": 6.25,
+      "end": 38.0
+    },
+    "31": {
+      "text": "Icyakora sinari muzi, ariko kugira ngo yerekwe Abisirayeli, ni cyo cyatumye nza mbatirisha amazi.”",
+      "start": 13.59,
+      "end": 37.48
+    },
+    "32": {
+      "text": "Kandi Yohana arahamya ati “Nabonye Umwuka amanuka ava mu ijuru asa n'inuma, atinda kuri we.",
+      "start": 10.56,
+      "end": 14.13
+    },
+    "33": {
+      "text": "Icyakora sinari muzi, keretse yuko Iyantumye kubatirisha amazi yambwiye iti ‘Uwo uzabona Umwuka amanukira akagwa kuri we, uwo ni we ubatirisha Umwuka Wera’.",
+      "start": 12.65,
+      "end": 26.96
+    },
+    "34": {
+      "text": "Nanjye mbibonye, mpamya yuko ari Umwana w'Imana.”",
+      "start": 22.18,
+      "end": 25.99
+    },
+    "35": {
+      "text": "Bukeye bw'aho, Yohana yongera guhagararana n'abigishwa be babiri.",
+      "start": 34.44,
+      "end": 42.18
+    },
+    "36": {
+      "text": "Yitegereza Yesu agenda aravuga ati “Nguyu Umwana w'intama w'Imana.”",
+      "start": 24.73,
+      "end": 42.57
+    },
+    "37": {
+      "text": "Abo bigishwa bombi bumvise avuze atyo, bakurikira Yesu.",
+      "start": 31.14,
+      "end": 39.13
+    },
+    "38": {
+      "text": "Yesu arahindukira abona bamukurikiye arababaza ati “Murashaka iki?” Baramusubiza bati “Rabi, (risobanurwa ngo: Mwigisha) ucumbitse he?”",
+      "start": 14.83,
+      "end": 27.77
+    },
+    "39": {
+      "text": "Arababwira ati “Nimuze murahabona.” Barajyana babona aho acumbitse. Hari nk'isaha cumi, baherako bamarana na we umwanya burīra.",
+      "start": 2.37,
+      "end": 25.95
+    },
+    "40": {
+      "text": "Andereya mwene se wa Simoni Petero, yari umwe muri abo babiri bumvise Yohana bagakurikira Yesu.",
+      "start": 3.9,
+      "end": 13.28
+    },
+    "41": {
+      "text": "Abanza kubona mwene se Simoni aramubwira ati “Twabonye Mesiya” (risobanurwa ngo: Kristo).",
+      "start": 40.74,
+      "end": 41.14
+    },
+    "42": {
+      "text": "Amuzanira Yesu, na we aramwitegereza aramubwira ati “Uri Simoni mwene Yona, uzitwa Kefa.” (Risobanurwa ngo: ibuye).",
+      "start": 28.15,
+      "end": 41.55
+    },
+    "43": {
+      "text": "Bukeye bwaho Yesu ashaka kujya i Galilaya. Abona Filipo aramubwira ati “Nkurikira.”",
+      "start": 19.78,
+      "end": 31.54
+    },
+    "44": {
+      "text": "Filipo uwo yari uw'i Betsayida, umudugudu w'iwabo wa Andereya na Petero.",
+      "start": 16.91,
+      "end": 22.62
+    },
+    "45": {
+      "text": "Filipo abona Natanayeli aramubwira ati “Uwo Mose yanditse mu mategeko, n'abahanuzi bakamwandika twamubonye. Ni Yesu mwene Yosefu w'i Nazareti.”",
+      "start": 44.0,
+      "end": 44.7
+    },
+    "46": {
+      "text": "Natanayeli aramubaza ati “Mbese i Nazareti hari icyiza cyahaturuka?” Filipo aramusubiza ati “Ngwino urebe.”",
+      "start": 10.57,
+      "end": 23.9
+    },
+    "47": {
+      "text": "Yesu abona Natanayeli aza aho ari amuvugaho ati “Dore Umwisirayeli nyakuri, udafite uburiganya.”",
+      "start": 4.92,
+      "end": 22.13
+    },
+    "48": {
+      "text": "Natanayeli aramubaza ati “Wamenyeye he?” Yesu aramusubiza ati “Filipo ataraguhamagara, ubwo wari munsi y'umutini nakubonye.”",
+      "start": 16.94,
+      "end": 24.82
+    },
+    "49": {
+      "text": "Natanayeli aramusubiza ati “Rabi, uri Umwana w'Imana koko. Ni wowe Mwami w'Abisirayeli.”",
+      "start": 24.71,
+      "end": 35.54
+    },
+    "50": {
+      "text": "Yesu aramusubiza ati “Mbese wijejwe n'uko nkubwiye yuko nakubonye uri munsi y'umutini? Uzabona ibiruta ibyo.”",
+      "start": 5.04,
+      "end": 34.84
+    },
+    "51": {
+      "text": "Kandi arongera aramubwira ati “Ni ukuri, ni ukuri, ndababwira yuko muzabona ijuru rikingutse, abamarayika b'Imana bazamuka bavuye ku Mwana w'umuntu, bakamumanukiraho.”",
+      "start": 13.54,
+      "end": 16.53
+    }
+  }
+}

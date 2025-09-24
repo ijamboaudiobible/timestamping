@@ -1,0 +1,93 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 30,
+  "verses": {
+    "1": {
+      "text": "Nuko Mose abwira Abisirayeli ibyo Uwiteka yamutegetse byose.",
+      "start": 27.24,
+      "end": 37.09
+    },
+    "2": {
+      "text": "Mose abwira abatware b'imiryango y'Abisirayeli ati “Iri ni ryo tegeko Uwiteka ategetse:",
+      "start": 25.56,
+      "end": 36.24
+    },
+    "3": {
+      "text": "Umugabo nahiga Uwiteka umuhigo cyangwa niyibohesha indahiro, ntagace ku isezerano rye ngo aryonone, ahubwo ahigure ibyaturutse mu kanwa ke.",
+      "start": 36.2,
+      "end": 39.62
+    },
+    "4": {
+      "text": "“Kandi umukobwa nahiga Uwiteka umuhigo, akibohesha isezerano akiri mu rugo rwa se mu bukumi bwe,",
+      "start": 39.99,
+      "end": 43.15
+    },
+    "5": {
+      "text": "se akumva umuhigo we n'isezerano yibohesheje akamwihorera, imihigo ye yose n'isezerano yibohesheje ryose bizahama.",
+      "start": 17.58,
+      "end": 31.81
+    },
+    "6": {
+      "text": "Ariko se namubuza ku munsi abyumviyeho, ntihazagire umuhigo we cyangwa isezerano yibohesheje gihama, kandi Uwiteka azamubabarira kuko se yamubujije.",
+      "start": 6.26,
+      "end": 30.46
+    },
+    "7": {
+      "text": "“Cyangwa narongorwa n'umugabo akiboshywe n'umuhigo, cyangwa n'amagambo yaturumbukiye kuvuga yibohesheje,",
+      "start": 0.36,
+      "end": 19.72
+    },
+    "8": {
+      "text": "umugabo we akabyumva, akamwihorera ku munsi abyumviyeho, imihigo ye n'isezerano yibohesheje bizahama.",
+      "start": 40.19,
+      "end": 44.33
+    },
+    "9": {
+      "text": "Ariko umugabo we namubuza ku munsi abyumviyeho, azaba akuye umuhigo we yahize n'amagambo yaturumbukiye kuvuga yibohesheje, kandi Uwiteka azamubabarira.",
+      "start": 6.29,
+      "end": 14.8
+    },
+    "10": {
+      "text": "“Ariko umuhigo w'umupfakazi cyangwa w'uwasenzwe, icyo yibohesheje cyose kizahama.",
+      "start": 9.88,
+      "end": 39.76
+    },
+    "11": {
+      "text": "“Umugore nahigira umuhigo mu nzu y'umugabo we, cyangwa niyibohesherezayo indahiro,",
+      "start": 2.25,
+      "end": 6.99
+    },
+    "12": {
+      "text": "umugabo we akabyumva akamwihorera ntamubuze, imihigo ye yose n'isezerano yibohesheje ryose bizahama.",
+      "start": 24.19,
+      "end": 37.78
+    },
+    "13": {
+      "text": "Ariko umugabo we nabikura ku munsi yabyumviyeho, ibyaturutse mu kanwa ke byose byo ku mihigo ye cyangwa ku isezerano yibohesheje, ntibizahama kuko umugabo we yabikuye, kandi Uwiteka azamubabarira.",
+      "start": 11.31,
+      "end": 38.19
+    },
+    "14": {
+      "text": "Umuhigo wose n'indahiro yose yiboheshereza kwibabaza, umugabo we yagikomeza cyangwa yagikura.",
+      "start": 36.39,
+      "end": 39.76
+    },
+    "15": {
+      "text": "Ariko umugabo we namara iminsi amwihorera rwose, azaba akomeje imihigo ye yose cyangwa ibyo yibohesheje byose bimuboshye. Kuko yamwihoreye ku munsi yabyumviyeho, azaba abikomeje.",
+      "start": 10.22,
+      "end": 23.52
+    },
+    "16": {
+      "text": "Ariko nabikura yari yarabyumvise, azagibwaho no gukiranirwa k'umugore we.”",
+      "start": 21.52,
+      "end": 29.14
+    },
+    "17": {
+      "text": "Ayo ni yo mategeko Uwiteka yategetse Mose, ategeka ibyo umugabo n'umugore we, n'iby'umukobwa na se akiri inkumi mu rugo rwa se.",
+      "start": 29.42,
+      "end": 40.78
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "book": "Book 22",
+  "book_canonical": "song_of_songs",
+  "book_number": 22,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Inyamibwa mu ndirimbo za Salomo. Umugeni:",
+      "start": 19.89,
+      "end": 30.94
+    },
+    "2": {
+      "text": "Ansome no gusoma k'umunwa we,Kuko urukundo unkunda rundutira vino.",
+      "start": 20.98,
+      "end": 44.49
+    },
+    "3": {
+      "text": "Imibavu yawe ihumura neza,Izina ryawe rimeze nk'amadahano atāmye,Ni cyo gituma abakobwa bagukunda.",
+      "start": 20.62,
+      "end": 20.86
+    },
+    "4": {
+      "text": "Unkurure twiruke inyuma yawe tugukurikiye.Umwami yanjyanye mu rugo rwe,Tuzanezerwa tukwishimana,Tuzasingiza urukundo rwawe tururutisha vino,Bafite impamvu rwose bagukundira.",
+      "start": 34.57,
+      "end": 36.91
+    },
+    "5": {
+      "text": "Yemwe bakobwa b'i Yerusalemu mwe,Ndirabura ariko ndi mwiza,Nsa n'amahema y'Abakedari,N'inyegamo za Salomo.",
+      "start": 41.73,
+      "end": 44.14
+    },
+    "6": {
+      "text": "Mwe kundeba nabi ni uko nirabura,Nabitewe n'izuba ryambabuye.Abahungu ba mama barandakariye,Bangize umurinzi w'inzabibu,Ariko uruzabibu rwanjye sinarurinze.",
+      "start": 9.75,
+      "end": 33.86
+    },
+    "7": {
+      "text": "Yewe uwo nkundisha umutima,Mbwira aho uragira n'aho ubyagiza ku manywa,Kuki namera nk'uwatwikiririwe,Hafi y'imikumbi ya bagenzi bawe? Umukwe:",
+      "start": 2.13,
+      "end": 29.78
+    },
+    "8": {
+      "text": "Niba utabizi, wa mugore we,Uri indatwa mu bagore.Genda ukurikire mu nkōra y'umukumbi,Uragire abana b'ihene bawe iruhande rw'amahema y'abungeri.",
+      "start": 0.29,
+      "end": 30.67
+    },
+    "9": {
+      "text": "Wa mukunzi wanjye we,Nakugereranije n'ifarashi ikurura amagare ya Farawo.",
+      "start": 14.7,
+      "end": 16.45
+    },
+    "10": {
+      "text": "Mu misaya yawe ni heza hashotsemo imishunzi,Ijosi ryawe ririmbishwa n'inigi z'amasaro y'igiciro cyinshi.",
+      "start": 20.61,
+      "end": 21.32
+    },
+    "11": {
+      "text": "Tuzakuremera imikufi y'izahabu,Duteremo amabara y'ifeza. Umugeni:",
+      "start": 44.19,
+      "end": 44.57
+    },
+    "12": {
+      "text": "Igihe umwami yabaga yicaye ku meza ye,Impumuro y'amadahano yanjye yaratāmaga.",
+      "start": 23.4,
+      "end": 40.7
+    },
+    "13": {
+      "text": "Umukunzi wanjye yamereye nk'ishangi,Iri hagati y'amabere yanjye. Umukwe:",
+      "start": 23.28,
+      "end": 40.36
+    },
+    "14": {
+      "text": "Umukunzi wanjye amereye nk'uburabyo bwa Koferi,Buba mu nzabibu zo muri Enigedi.",
+      "start": 39.13,
+      "end": 43.64
+    },
+    "15": {
+      "text": "Mukunzi wanjye we, uri mwiza,Ni koko uri mwiza,Amaso yawe ni nk'ay'inyana. Umugeni:",
+      "start": 8.23,
+      "end": 43.11
+    },
+    "16": {
+      "text": "Dore uri mwiza mukunzi wanjye,Ni ukuri uranezeza,Uburiri bwacu ni ubwatsi bugitoha.",
+      "start": 15.44,
+      "end": 35.81
+    },
+    "17": {
+      "text": "Inkingi z'inzu yacu ni imyerezi,N'imishoro yayo ni imiberoshi.",
+      "start": 30.1,
+      "end": 37.38
+    }
+  }
+}

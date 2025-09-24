@@ -1,0 +1,343 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Aburahamu yari ashaje ageze mu za bukuru, kandi Uwiteka yari yarahaye Aburahamu umugisha kuri byose.",
+      "start": 39.65,
+      "end": 44.57
+    },
+    "2": {
+      "text": "Aburahamu abwira umugaragu we, umukuru wo mu rugo rwe wategekaga ibye byoseati “Ndakwinginze, shyira ukuboko kwawe munsi y'ikibero cyanjye,",
+      "start": 39.68,
+      "end": 41.31
+    },
+    "3": {
+      "text": "nanjye ndakurahiza Uwiteka, ni we Mana nyir'ijuru, ni we Mana nyir'isi, yuko utazasabira umwana wanjye Umunyakanānikazi, abo ntuyemo.",
+      "start": 28.33,
+      "end": 41.42
+    },
+    "4": {
+      "text": "Ahubwo uzajye mu gihugu cyacu kuri bene wacu, usabireyo umwana wanjye Isaka umugeni.”",
+      "start": 39.45,
+      "end": 42.83
+    },
+    "5": {
+      "text": "Uwo mugaragu aramusubiza ati “Ahari umukobwa ntazemera ko tuzana muri iki gihugu, byaba bityo naba nkwiriye gusubiza umwana wawe mu gihugu wavuyemo?”",
+      "start": 18.92,
+      "end": 19.94
+    },
+    "6": {
+      "text": "Aburahamu aramusubiza ati “Wirinde gusubizayo umwana wanjye.",
+      "start": 0.36,
+      "end": 38.9
+    },
+    "7": {
+      "text": "Uwiteka Imana nyir'ijuru, yankuye mu nzu ya data no mu gihugu navukiyemo, ikambwira indahira iti ‘Urubyaro rwawe nzaruha iki gihugu’, iyo ni yo izatuma marayika wayo akujya imbere, nawe uzasabireyo umwana wanjye umugeni.",
+      "start": 43.29,
+      "end": 44.1
+    },
+    "8": {
+      "text": "Kandi umukobwa yaramuka yanze, ntuzafatwa n'iyi ndahiro undahiye. Icyakora ntuzasubizeyo umwana wanjye.”",
+      "start": 30.09,
+      "end": 34.98
+    },
+    "9": {
+      "text": "Uwo mugaragu ashyira ukuboko munsi y'ikibero cya Aburahamu shebuja, arabimurahira.",
+      "start": 41.14,
+      "end": 44.83
+    },
+    "10": {
+      "text": "Uwo mugaragu ajyana ingamiya cumi zo mu ngamiya za shebuja, agenda afite ibyiza bya shebuja by'uburyo bwose, arahaguruka ajya muri Mezopotamiya, agera ku mudugudu w'aba Nahori.",
+      "start": 23.88,
+      "end": 25.17
+    },
+    "11": {
+      "text": "Apfukamisha izo ngamiya ku iriba riri inyuma y'uwo mudugudu. Hari nimugoroba, igihe abagore basohokera kuvoma.",
+      "start": 44.51,
+      "end": 44.92
+    },
+    "12": {
+      "text": "Arasenga ati “Uwiteka Mana ya databuja Aburahamu, ndakwinginze, umpe ihirwe uyu munsi, ugirire neza databuja Aburahamu.",
+      "start": 34.15,
+      "end": 39.66
+    },
+    "13": {
+      "text": "Dore mpagaze ku isōko, abakobwa b'abo mu mudugudu basohotse kuvoma.",
+      "start": 2.89,
+      "end": 7.18
+    },
+    "14": {
+      "text": "Bibe bitya: umukobwa ndi bubwire nti ‘Ndakwinginze, cisha bugufi ikibindi cyawe nyweho’, akansubiza ati ‘Nywaho nduhira n'ingamiya zawe’, abe ari we watoranirije Isaka umugaragu wawe. Ibyo ni byo bizamenyesha yuko ugiriye databuja neza.”",
+      "start": 3.84,
+      "end": 33.74
+    },
+    "15": {
+      "text": "Nuko agisenga atyo, Rebeka arasohoka, wabyawe na Betuweli mwene Miluka, muka Nahori, mwene se wa Aburahamu, ashyize ikibindi ku rutugu.",
+      "start": 42.01,
+      "end": 42.53
+    },
+    "16": {
+      "text": "Uwo mukobwa yari umunyagikundiro cyinshi kandi yari umwari, nta mugabo wigeze kuryamana na we, aramanuka ajya ku isōko, aravoma arazamuka.",
+      "start": 44.78,
+      "end": 44.79
+    },
+    "17": {
+      "text": "Uwo mugaragu arirukanka aramusanganira, aramubwira ati “Ndakwinginze, mpa utuzi mu kibindi cyawe, nyweho.”",
+      "start": 17.64,
+      "end": 43.53
+    },
+    "18": {
+      "text": "Aramusubiza ati “Databuja, nywaho.” Atengamatira vuba ikibindi cye, aramuha aranywa.",
+      "start": 11.39,
+      "end": 36.73
+    },
+    "19": {
+      "text": "Amaze kuyamuha aramubwira ati “Nduhira n'ingamiya zawe zeguke.”",
+      "start": 14.5,
+      "end": 42.54
+    },
+    "20": {
+      "text": "Ayasuka vuba mu kibumbiro arirukanka, yongera kujya ku iriba kudahira, adahirira ingamiya ze zose.",
+      "start": 37.16,
+      "end": 41.23
+    },
+    "21": {
+      "text": "Uwo mugabo amwitegereza acecetse, kugira ngo amenye yuko Uwiteka yahaye urugendo rwe amahirwe, cyangwa ataruyahaye.",
+      "start": 24.84,
+      "end": 35.66
+    },
+    "22": {
+      "text": "Nuko ingamiya zimaze kweguka, uwo mugabo yenda impeta y'izahabu, kuremera kwayo kwari nk'igice cya shekeli, n'ibimeze nk'imiringa bibiri byo kwambara ku maboko, kuremera kwabyo ni shekeli cumi z'izahabu, arabimwambika.",
+      "start": 24.22,
+      "end": 33.91
+    },
+    "23": {
+      "text": "Aramubaza ati “Uri mwene nde? Ndakwinginze mbwira. Kandi kwa so hari aho twarara?”",
+      "start": 9.61,
+      "end": 21.73
+    },
+    "24": {
+      "text": "Aramusubiza ati “Ndi mwene Betuweli wa Miluka na Nahori.”",
+      "start": 31.64,
+      "end": 37.58
+    },
+    "25": {
+      "text": "Kandi ati “Dufite inganagano n'ibyokurya bizihagije, kandi dufite n'aho kubaraza.”",
+      "start": 31.63,
+      "end": 33.47
+    },
+    "26": {
+      "text": "Uwo mugabo arunama, yikubita hasi, asenga Uwiteka.",
+      "start": 21.31,
+      "end": 23.0
+    },
+    "27": {
+      "text": "Ati “Uwiteka ahimbazwe, Imana ya databuja Aburahamu, itaretse kugirira databuja imbabazi n'umurava, nanjye Uwiteka anyoboye inzira ijya kwa bene wabo wa databuja.”",
+      "start": 2.7,
+      "end": 5.78
+    },
+    "28": {
+      "text": "Uwo mukobwa arirukanka, abwira abo mu nzu ya nyina uko byabaye.",
+      "start": 42.46,
+      "end": 43.85
+    },
+    "29": {
+      "text": "Kandi Rebeka yari afite musaza we witwa Labani. Labani uwo arasohoka, ajya gusanganirira uwo mugabo ku iriba.",
+      "start": 37.93,
+      "end": 43.02
+    },
+    "30": {
+      "text": "Abonye ya mpeta na za zahabu zimeze nk'imiringa, biri ku maboko ya mushiki we, kandi yumvise amagambo ya Rebeka mushiki we ati “Ibyo ni byo uwo mugabo yambwiye”, ni ko kujya aho uwo mugabo ari. Asanga ahagaze iruhande rwa za ngamiya ku isōko.",
+      "start": 30.31,
+      "end": 35.8
+    },
+    "31": {
+      "text": "Aramubwira ati “Ngwino winjire, uhiriwe ku Uwiteka, ni iki kiguhagaritse hanze, ko niteguye inzu n'ikiraro cy'ingamiya?”",
+      "start": 3.55,
+      "end": 19.16
+    },
+    "32": {
+      "text": "Uwo mugabo yinjira mu nzu, Labani akura imitwaro kuri izo ngamiya, atanga inganagano n'ibyokurya by'ingamiya, n'amazi yo kumwoza ibirenge n'ayo koza iby'abo bari kumwe.",
+      "start": 18.39,
+      "end": 28.15
+    },
+    "33": {
+      "text": "Bamuzanira ibyokurya, maze arababwira ati “Sindya ntaravuga ubutumwa.”Labani aramubwira ati “Buvuge.”",
+      "start": 28.53,
+      "end": 42.36
+    },
+    "34": {
+      "text": "Aramubwira ati “Ndi umugaragu wa Aburahamu.",
+      "start": 42.35,
+      "end": 43.56
+    },
+    "35": {
+      "text": "Kandi Uwiteka yahaye databuja imigisha myinshi ahinduka umuntu ukomeye, kandi yamuhaye imikumbi n'amashyo, n'ifeza n'izahabu, n'abagaragu n'abaja, n'ingamiya n'indogobe.",
+      "start": 31.03,
+      "end": 35.09
+    },
+    "36": {
+      "text": "Kandi na Sara muka databuja yamubyariye umuhungu akecuye, ni we yahaye ibye byose.",
+      "start": 10.13,
+      "end": 21.0
+    },
+    "37": {
+      "text": "Kandi databuja yarandahirije ngo ne kuzasabira umwana we Umunyakanānikazi, abo atuyemo.",
+      "start": 15.85,
+      "end": 43.1
+    },
+    "38": {
+      "text": "Ahubwo ngo nzajye mu nzu ya se no muri bene wabo, ngo abe ari bo nsabiriramo umwana we.",
+      "start": 16.69,
+      "end": 23.04
+    },
+    "39": {
+      "text": "Mbwira databuja nti ‘Ahari umukobwa azanga ko tuzana.’",
+      "start": 13.3,
+      "end": 21.22
+    },
+    "40": {
+      "text": "Aransubiza ati ‘Uwiteka ngendera imbere, azatuma marayika we ngo ajyane nawe, azaha urugendo rwawe ihirwe, maze nawe uzasabire umwana wanjye umugeni wo muri bene wacu, mu nzu ya data.",
+      "start": 9.4,
+      "end": 31.25
+    },
+    "41": {
+      "text": "Nugera kuri bene wacu, ni bwo utazafatwa n'indahiro nkurahije. Baramuka bamukwimye, ntuzafatwa n'indahiro nkurahije.’",
+      "start": 17.42,
+      "end": 43.55
+    },
+    "42": {
+      "text": "“Maze uyu munsi ngera ku isōko, ndasenga nti ‘Uwiteka Mana ya databuja Aburahamu, niba uhaye urugendo ngenda ihirwe,",
+      "start": 33.49,
+      "end": 39.81
+    },
+    "43": {
+      "text": "dore mpagaze ku isōko, bibe bitya: umukobwa usohoka kuvoma nkamubwira nti “Ndakwinginze, mpa utuzi ku kibindi cyawe nyweho”,",
+      "start": 9.46,
+      "end": 29.91
+    },
+    "44": {
+      "text": "akansubiza ati “Nywaho ubwawe kandi nduhira n'ingamiya zawe”, abe ari we uba umugeni Uwiteka yatoranirije mwene databuja.’",
+      "start": 3.56,
+      "end": 25.19
+    },
+    "45": {
+      "text": "Ngisengera mu mutima wanjye, Rebeka asohoka ashyize ikibindi ku rutugu, aramanuka ajya ku isōko, aravoma. Ndamubwira nti ‘Ndakwinginze, mpa nyweho.’",
+      "start": 9.07,
+      "end": 39.31
+    },
+    "46": {
+      "text": "Acisha bugufi ikibindi n'ingoga agikuye ku rutugu rwe, arambwira ati ‘Nywaho, nduhira n'ingamiya zawe.’ Ndanywa, kandi yuhira n'ingamiya zanjye.",
+      "start": 13.52,
+      "end": 32.81
+    },
+    "47": {
+      "text": "Ndamubaza nti ‘Uri mwene nde?’ Aransubiza ati ‘Ndi mwene Betuweli wa Nahori na Miluka.’ Mpera ko nkatira impeta ku zuru rye n'imiringa ku maboko ye.",
+      "start": 0.56,
+      "end": 20.97
+    },
+    "48": {
+      "text": "Ndunama, nikubita hasi, nsenga Uwiteka, mpimbaza Uwiteka Imana ya databuja Aburahamu, yanyoboye inzira ikwiriye ngo mboneremo umukobwa wabo wa databuja, musabire umwana we.",
+      "start": 10.93,
+      "end": 23.13
+    },
+    "49": {
+      "text": "Nuko nimushaka kugirira databuja neza, ntimumurerege nimumbwire, kandi nimutabyemera nimumbwire nanjye mpindukire njye iburyo cyangwa ibumoso.”",
+      "start": 22.62,
+      "end": 28.55
+    },
+    "50": {
+      "text": "Labani na Betuweli baramusubiza bati “Ibyo biturutse ku Uwiteka, nta kindi tubasha kukubwira, ari icyiza, ari n'ikibi.",
+      "start": 10.38,
+      "end": 33.64
+    },
+    "51": {
+      "text": "Dore Rebeka ari imbere yawe, mujyane abe muka mwene shobuja, nk'uko Uwiteka yavuze.”",
+      "start": 28.68,
+      "end": 28.73
+    },
+    "52": {
+      "text": "Umugaragu wa Aburahamu yumvise amagambo yabo, yikubita hasi, aramya Uwiteka.",
+      "start": 25.41,
+      "end": 33.75
+    },
+    "53": {
+      "text": "Uwo mugaragu azana ibintu by'ifeza n'iby'izahabu n'imyenda abiha Rebeka, kandi aha na musaza we na nyina ibintu by'igiciro cyinshi.",
+      "start": 16.02,
+      "end": 29.05
+    },
+    "54": {
+      "text": "We n'abo bazanye bararya baranywa, baraharara buracya, babyuka mu gitondo, arababwira ati “Nimunsezerere nsubire kwa databuja.”",
+      "start": 24.62,
+      "end": 30.43
+    },
+    "55": {
+      "text": "Musaza w'umukobwa na nyina baramusubiza bati “Umukobwa nasigarane natwe iminsi cumi cyangwa isagaho, azabone kugenda.”",
+      "start": 16.79,
+      "end": 35.72
+    },
+    "56": {
+      "text": "Arabasubiza ati “Mwintinza kuko Uwiteka yahaye urugendo rwanjye ihirwe, nimunsezerere nsubire kwa databuja.”",
+      "start": 33.02,
+      "end": 36.84
+    },
+    "57": {
+      "text": "Baramusubiza bati “Reka duhamagare umukobwa tumubaze, twumve irimuva mu kanwa.”",
+      "start": 42.51,
+      "end": 43.86
+    },
+    "58": {
+      "text": "Bahamagara Rebeka, baramubaza bati “Urajyana n'uyu mugabo?”Arabasubiza ati “Turajyana.”",
+      "start": 35.89,
+      "end": 36.72
+    },
+    "59": {
+      "text": "Basezera kuri Rebeka mushiki wabo n'umurezi we, basezerera umugaragu wa Aburahamu n'abantu be.",
+      "start": 20.35,
+      "end": 40.89
+    },
+    "60": {
+      "text": "Bifuriza Rebeka umugisha baramubwira bati“Mushiki wacu, uzabe nyirakuruza w'abantu inzovu ibihumbi,Urubyaro rwawe ruzahindūre amarembo y'abanzi barwo.”",
+      "start": 18.26,
+      "end": 22.56
+    },
+    "61": {
+      "text": "Rebeka ahagurukana n'abaja be bajya ku ngamiya, zirabaheka bakurikira uwo mugabo, uwo mugaragu ajyana Rebeka aragenda.",
+      "start": 41.45,
+      "end": 43.98
+    },
+    "62": {
+      "text": "Bukeye Isaka aza aturutse mu nzira yo ku iriba ryitwa Lahayiroyi, kuko yari atuye mu gihugu cy'i Negebu.",
+      "start": 21.75,
+      "end": 43.05
+    },
+    "63": {
+      "text": "Isaka arasohoka, ajya kwibwirira mu gasozi nimugoroba, yubura amaso, abona ingamiya ziza.",
+      "start": 27.24,
+      "end": 29.35
+    },
+    "64": {
+      "text": "Rebeka yubura amaso, abonye Isaka, ava ku ngamiya.",
+      "start": 19.52,
+      "end": 27.69
+    },
+    "65": {
+      "text": "Abaza wa mugaragu ati “Uriya mugabo ni nde ugenda ku gasozi, tugiye guhura?”Uwo mugaragu aramusubiza ati “Ni databuja.” Rebeka yenda umwenda we, yitwikira mu maso.",
+      "start": 21.45,
+      "end": 35.14
+    },
+    "66": {
+      "text": "Uwo mugaragu atekerereza Isaka ibyo yakoze byose.",
+      "start": 10.53,
+      "end": 21.27
+    },
+    "67": {
+      "text": "Isaka azana Rebeka mu ihema rya nyina Sara, aramurongora, aba umugore we, aramukundwakaza. Isaka ashira umubabaro wa nyina yapfushije.",
+      "start": 43.37,
+      "end": 44.12
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 65,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni indirimbo ya Dawidi.",
+      "start": 20.68,
+      "end": 26.5
+    },
+    "2": {
+      "text": "Mana, i Siyoni bagushimisha kuguturiza,Ni wowe bazahigura umuhigo.",
+      "start": 40.57,
+      "end": 42.02
+    },
+    "3": {
+      "text": "Ni wowe wumva ibyo usabwa,Abantu bose bazajya aho uri.",
+      "start": 17.35,
+      "end": 23.79
+    },
+    "4": {
+      "text": "Gukiranirwa kwinshi kuranesheje,Ibicumuro byacu uzabitwikīra.",
+      "start": 24.83,
+      "end": 41.22
+    },
+    "5": {
+      "text": "Hahirwa umuntu utoranya ukamwiyegereza,Kugira ngo agume mu bikari byawe.Tuzahazwa n'ibyiza byo mu nzu yawe,Ibyiza by'Ahera ho mu rusengero rwawe.",
+      "start": 27.47,
+      "end": 39.22
+    },
+    "6": {
+      "text": "Mana y'agakiza kacu,Uzadusubirishe ibiteye ubwoba ku bwo gukiranuka kwawe,Ni wowe byiringiro by'abo ku mpera y'ubutaka hose,N'iby'abo ku mpera y'inyanja za kure.",
+      "start": 25.44,
+      "end": 31.52
+    },
+    "7": {
+      "text": "Iyo ni yo ishimangirisha imisozi imbaraga zayo,Ikenyeye imbaraga.",
+      "start": 2.52,
+      "end": 9.51
+    },
+    "8": {
+      "text": "Iturisha guhorera kw'inyanja,Guhorera k'umuraba wo muri zo,N'imidugararo y'amahanga.",
+      "start": 12.85,
+      "end": 17.83
+    },
+    "9": {
+      "text": "Kandi abatuye ku mpera y'isi batinya ibimenyetso byawe,Uvugisha impundu ab'aho igitondo gitangariza,N'ab'aho umugoroba ukubira.",
+      "start": 18.06,
+      "end": 38.52
+    },
+    "10": {
+      "text": "Ugenderera isi ukayivubira,Uyitungisha cyane uruzi rw'Imana rwuzuye amazi.Ni wowe uha abantu amasaka,Umaze gutunganya ubutaka utyo.",
+      "start": 39.02,
+      "end": 44.0
+    },
+    "11": {
+      "text": "Uvubira impavu zo muri bwo imvura nyinshi,Uringaniza imitabo yo muri bwo.Ubworohesha ibitonyanga,Uha umugisha kumeza kwabwo.",
+      "start": 6.38,
+      "end": 27.59
+    },
+    "12": {
+      "text": "Wambika umwaka kugira neza kwawe nk'ikamba,Inkōra z'igare ryawe zigusha umwero.",
+      "start": 2.53,
+      "end": 5.68
+    },
+    "13": {
+      "text": "Imvura igwa ku rwuri rwo mu butayu,Imisozi igakenyera ibyishimo.",
+      "start": 42.05,
+      "end": 44.8
+    },
+    "14": {
+      "text": "Urwuri rukagatirwa n'imikumbi,Ibikombe bitwikīrwa n'amasaka,Biranguruzwa n'ibyishimo bikaririmba.",
+      "start": 9.97,
+      "end": 26.35
+    }
+  }
+}

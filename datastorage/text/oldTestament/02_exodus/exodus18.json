@@ -1,0 +1,143 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Yetiro umutambyi w'i Midiyani sebukwe wa Mose, yumva ibyo Imana yagiriye Mose n'Abisirayeli ubwoko bwayo, kandi uko Uwiteka yakuye Abisirayeli muri Egiputa.",
+      "start": 31.12,
+      "end": 31.44
+    },
+    "2": {
+      "text": "Yetiro sebukwe wa Mose ajyana Zipora muka Mose, Mose amaze kumusezererana,",
+      "start": 39.86,
+      "end": 40.0
+    },
+    "3": {
+      "text": "n'abahungu be bombi. Umwe yitwa Gerushomu kuko se yavuze ati “Nari umusuhuke mu gihugu kitari icyacu.”",
+      "start": 28.96,
+      "end": 44.41
+    },
+    "4": {
+      "text": "Undi yitwa Eliyezeri kuko se yavuze ati “Imana ya data yambereye umutabazi, inkiza inkota ya Farawo.”",
+      "start": 43.32,
+      "end": 43.7
+    },
+    "5": {
+      "text": "Yetiro sebukwe wa Mose azanira Mose abahungu be n'umugore we, amusanga muri bwa butayu aho yari yabambye amahema, ku musozi w'Imana.",
+      "start": 37.35,
+      "end": 39.46
+    },
+    "6": {
+      "text": "Abwira Mose ati “Jyewe sobukwe Yetiro nkuzaniye umugore wawe n'abahungu be bombi na bo.”",
+      "start": 11.5,
+      "end": 22.63
+    },
+    "7": {
+      "text": "Mose arasohoka ajya gusanganira sebukwe, amwikubita imbere aramusoma, barasuhuzanya binjira mu ihema.",
+      "start": 4.26,
+      "end": 37.18
+    },
+    "8": {
+      "text": "Mose atekerereza sebukwe ibyo Uwiteka yagiriye Farawo n'Abanyegiputa byose abahora Abisirayeli, n'ibyabaruhirije mu nzira byose, kandi uko Uwiteka yabakijije.",
+      "start": 43.45,
+      "end": 43.84
+    },
+    "9": {
+      "text": "Yetiro ashimishwa n'ibyiza Uwiteka yagiriye Abisirayeli byose, kuko yabakijije Abanyegiputa.",
+      "start": 11.8,
+      "end": 13.97
+    },
+    "10": {
+      "text": "Yetiro aravuga ati “Uwiteka ahimbarizwe yuko yabakijije Abanyegiputa na Farawo, agakūra ubwo bwoko mu butware bw'Abanyegiputa.",
+      "start": 36.07,
+      "end": 36.84
+    },
+    "11": {
+      "text": "None menye yuko Uwiteka aruta izindi mana zose, kuko yanesheje Abanyegiputa, ubwo bishyiranaga hejuru ubwibone ngo bagirire Abisirayeli nabi.”",
+      "start": 23.19,
+      "end": 37.31
+    },
+    "12": {
+      "text": "Yetiro sebukwe wa Mose ajyana igitambo cyo koswa n'ibindi bitambo ngo abitambire Imana, Aroni n'abakuru b'Abisirayeli bose baraza basangirira na sebukwe wa Mose imbere y'Imana.",
+      "start": 3.32,
+      "end": 27.85
+    },
+    "13": {
+      "text": "Bukeye bwaho Mose yicazwa no gucira abantu imanza, abantu bahagarara bagose Mose bahera mu gitondo bageza nimugoroba.",
+      "start": 23.7,
+      "end": 31.4
+    },
+    "14": {
+      "text": "Sebukwe wa Mose abonye ibyo akorera abantu byose aramubaza ati “Ibyo ukorera abantu ibi ni ibiki? Ni iki gituma wicara uri umwe, abantu bose bagahagarara bakugose bagahera mu gitondo bakageza nimugoroba?”",
+      "start": 12.26,
+      "end": 24.83
+    },
+    "15": {
+      "text": "Mose asubiza sebukwe ati “Ni uko abantu baza kuri jye ngo mbabarize Imana.",
+      "start": 38.12,
+      "end": 44.82
+    },
+    "16": {
+      "text": "Iyo bafite amagambo baza kuri jye nkabacira imanza, nkabamenyesha amategeko y'Imana n'ibyo yategetse.”",
+      "start": 44.35,
+      "end": 44.85
+    },
+    "17": {
+      "text": "Sebukwe wa Mose aramubwira ati “Ibyo ukora ibyo si byiza.",
+      "start": 21.24,
+      "end": 33.42
+    },
+    "18": {
+      "text": "Ntuzabura gucikana intege n'aba bantu muri kumwe, kuko binaniranye biruta ibyo washobora gukora wenyine.",
+      "start": 28.86,
+      "end": 41.63
+    },
+    "19": {
+      "text": "None umvira ibyo nkubwira: ndakugira inama, Imana iyigufashemo. Ube ari wowe mushyikirwa w'amagambo w'abantu n'Imana, ujye ushyira Imana imanza zabo",
+      "start": 38.7,
+      "end": 41.42
+    },
+    "20": {
+      "text": "kandi ujye ubigisha amategeko yayo n'ibyo yategetse, ujye ubereka inzira bakwiriye gucamo n'imirimo bakwiriye gukora.",
+      "start": 37.86,
+      "end": 38.0
+    },
+    "21": {
+      "text": "Kandi utoranye mu bantu bose abashoboye ubucamanza, bubaha Imana n'inyangamugayo, banga impongano. Ubahe ubutware bamwe batware igihumbi igihumbi, abandi ijana ijana, abandi mirongo itanu itanu, abandi icumi icumi.",
+      "start": 18.8,
+      "end": 38.35
+    },
+    "22": {
+      "text": "Bajye bacira abantu imanza ibihe byose kandi urubanza rukomeye rwose bajye barukuzanira, ariko urubanza rworoheje abe ari bo baruca. Ni ho uziyorohereza umuruho, na bo bazajya bafatanya nawe.",
+      "start": 4.21,
+      "end": 40.39
+    },
+    "23": {
+      "text": "Nugira utyo Imana ikabigutegeka uzabishobora, kandi ubu bwoko bwose buzajya ahabwo bufite amahoro.”",
+      "start": 20.26,
+      "end": 33.98
+    },
+    "24": {
+      "text": "Mose yumvira sebukwe, akora ibyo yamubwiye byose.",
+      "start": 19.08,
+      "end": 21.5
+    },
+    "25": {
+      "text": "Mose atoranya mu Bisirayeli bose abashoboye ubucamanza abaha gutwara abantu, bamwe ngo batware igihumbi igihumbi, abandi ngo batware ijana ijana, abandi ngo batware mirongo itanu itanu, abandi ngo batware icumi icumi.",
+      "start": 26.05,
+      "end": 31.43
+    },
+    "26": {
+      "text": "Bakajya bacira abantu imanza ibihe byose, imanza zikomeye bazizaniraga Mose, ariko izoroheje zose bakazica ubwabo.",
+      "start": 6.68,
+      "end": 8.82
+    },
+    "27": {
+      "text": "Mose asezerera sebukwe, asubira mu gihugu cy'iwabo.",
+      "start": 1.6,
+      "end": 21.07
+    }
+  }
+}

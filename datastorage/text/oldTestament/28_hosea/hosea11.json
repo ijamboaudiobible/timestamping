@@ -1,0 +1,63 @@
+{
+  "book": "Book 28",
+  "book_canonical": "hosea",
+  "book_number": 28,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "“Isirayeli akiri umwana naramukundaga, hanyuma mpamagara umwana wanjye ngo ave muri Egiputa.",
+      "start": 18.11,
+      "end": 22.93
+    },
+    "2": {
+      "text": "Ariko bitandukanije n'ababahamagaraga bagatambirira ibigirwamana bya Bāli, kandi bakosereza ibishushanyo bibajwe imibavu.",
+      "start": 18.66,
+      "end": 40.4
+    },
+    "3": {
+      "text": "Ariko ni jye wigishije Abefurayimu gutambuka ndabahagatira, ariko ntibamenye ko ari jye wabakijije.",
+      "start": 4.84,
+      "end": 13.41
+    },
+    "4": {
+      "text": "Nabiyegereje n'imigozi nk'umuntu, mbakuruza imirunga y'urukundo, kandi nabamereye nk'abakura imikoba mu nzasaya zabo, mbashyira ibyokurya imbere.",
+      "start": 25.37,
+      "end": 28.09
+    },
+    "5": {
+      "text": "“Ntibazasubira mu gihugu cya Egiputa, ariko Umwashuri ni we uzaba umwami wabo, kuko banze kungarukira.",
+      "start": 36.91,
+      "end": 38.82
+    },
+    "6": {
+      "text": "Inkota izagwira imidugudu yabo, izavunagura imyugariro yabo iyitsembeho, bazize imigambi yabo.",
+      "start": 31.7,
+      "end": 36.27
+    },
+    "7": {
+      "text": "Ubwoko bwanjye bwishimira kungomera, nubwo bahamagarirwa kwerekeza amaso ku Isumbabyose, ariko nta n'umwe uyihimbaza.",
+      "start": 37.22,
+      "end": 40.22
+    },
+    "8": {
+      "text": "“Efurayimu we, nabasha nte kukureka? Nawe Isirayeli we, naguhana nte? Mbese nakugenza nka Adima? Nakugira nk'uko nagize i Seboyimu? Umutima wanjye urabagarukiye, n'imbabazi zanjye zose ziragurumana.",
+      "start": 41.55,
+      "end": 44.99
+    },
+    "9": {
+      "text": "Sinzakurikiza uburakari bwanjye bukaze, kandi sinzagarurwa no gutsemba Efurayimu, kuko ndi Imana, sindi nk'umuntu. Ni jye Uwera uri hagati yanyu, sinzatwarana kuri uwo mudugudu.",
+      "start": 26.52,
+      "end": 32.58
+    },
+    "10": {
+      "text": "“Bazakurikira Uwiteka, azivuga nk'intare, ni ukuri azivuga. Abana bazaza bahinda umushyitsi bavuye iburengerazuba.",
+      "start": 17.67,
+      "end": 35.99
+    },
+    "11": {
+      "text": "Bazaza bavuye muri Egiputa bameze nk'uruhūri, no muri Ashuri bameze nk'inuma, kandi nzabaha kuba mu mazu yabo.” Ni ko Uwiteka avuga.",
+      "start": 5.68,
+      "end": 27.85
+    }
+  }
+}

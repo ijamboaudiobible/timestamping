@@ -1,0 +1,188 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 10,
+  "verses": {
+    "1": {
+      "text": "Kandi Ahabu yari afite abahungu mirongo irindwi i Samariya. Bukeye Yehu yandika inzandiko, azoherereza abakuru b'abatware b'i Yezerēli, n'abareraga abana ba Ahabu i Samariya, arabandikira ngo",
+      "start": 9.17,
+      "end": 15.32
+    },
+    "2": {
+      "text": "“Uru rwandiko nirubageraho ubwo mufite bene shobuja, kandi mufite amagare n'amafarashi n'umudugudu ugoswe n'inkike, mufite n'ibyo kurwanisha,",
+      "start": 10.55,
+      "end": 22.12
+    },
+    "3": {
+      "text": "nimutoranye muri bene shobuja umwiza ukwiriye mube ari we mushyira ku ntebe y'ubwami bwa se, murwanire inzu ya shobuja.”",
+      "start": 10.1,
+      "end": 23.67
+    },
+    "4": {
+      "text": "Ariko baratinya cyane baravugana bati “Ubwo abo bami bombi batashoboye kumuhagarara imbere ni twe twabishobora?”",
+      "start": 15.64,
+      "end": 26.9
+    },
+    "5": {
+      "text": "Nuko umunyarugo n'umutware w'umurwa n'abakuru n'abareraga abo bana batuma kuri Yehu bati “Turi abagaragu bawe, ibyo udutegeka byose tuzabikora kandi nta muntu wese tuzimika, ahubwo ubigenze uko ushaka.”",
+      "start": 26.09,
+      "end": 40.4
+    },
+    "6": {
+      "text": "Yongera kubandikira urwandiko ubwa kabiri, ngo “Niba muri abanjye mukanyumvira, nimuce ibihanga bya bene shobuja, ejo nk'iki gihe muzabinsangishe i Yezerēli.”Icyo gihe abana b'umwami uko ari mirongo irindwi, bari kumwe n'abakuru b'umurwa babarerega.",
+      "start": 20.6,
+      "end": 41.14
+    },
+    "7": {
+      "text": "Urwo rwandiko rubagezeho, bafata abana b'umwami babica uko ari mirongo irindwi, ibihanga byabo babishyira mu nkangara babimwoherereza i Yezerēli.",
+      "start": 25.93,
+      "end": 27.0
+    },
+    "8": {
+      "text": "Intumwa iraza iramubwira iti “Bazanye ibihanga by'abana b'umwami.”Aravuga ati “Nimubirunde ibirundo bibiri ku irembo, bihagume bigeze ejo.”",
+      "start": 7.9,
+      "end": 33.75
+    },
+    "9": {
+      "text": "Bukeye bwaho arasohoka yiyereka abantu bose, arababwira ati “Muri abakiranutsi. Jyeweho nagomeye databuja ndamwica, ariko uwishe aba bose ni nde?",
+      "start": 5.49,
+      "end": 27.25
+    },
+    "10": {
+      "text": "Nuko mumenye ko ari nta jambo na rimwe Uwiteka yavuze ku nzu ya Ahabu rizagwa hasi, kuko Uwiteka ashohoje ibyo yavugiye mu mugaragu we Eliya.”",
+      "start": 11.94,
+      "end": 17.07
+    },
+    "11": {
+      "text": "Hanyuma Yehu atsemba abari basigaye mu b'inzu ya Ahabu bose bari i Yezerēli, abakuru be bose n'incuti ze z'amagara n'abatambyi be, ntiyasigaza n'uw'indamyi.",
+      "start": 2.38,
+      "end": 41.27
+    },
+    "12": {
+      "text": "Nuko Yehu arahaguruka avayo, ajya i Samariya. Ageze ku nzu y'abashumba iri ku nzira ikemurirwamo ubwoya bw'intama,",
+      "start": 3.77,
+      "end": 5.62
+    },
+    "13": {
+      "text": "ahura na bene se wa Ahaziya umwami w'Abayuda arababaza ati “Muri izihe?”Baramusubiza bati “Turi bene se wa Ahaziya, turamanuka tujya kuramutsa abana b'umwami n'abana b'umwamikazi.”",
+      "start": 0.55,
+      "end": 24.5
+    },
+    "14": {
+      "text": "Abwira abari kumwe na we ati “Nimubafate mpiri.” Babafata mpiri, babicira ku rwobo rwo ku nzu ikemurirwamo ubwoya bw'intama. Bose bari abagabo mirongo ine na babiri, nta n'umwe yarokoye muri bo.",
+      "start": 29.91,
+      "end": 30.13
+    },
+    "15": {
+      "text": "Avuye aho ahura na Yehonadabu mwene Rekabu aje kumusanganira, aramuramutsa aramubaza ati “Umutima wawe uratunganye nk'uko uwanjye utunganiye uwawe?”Yehonadabu aramusubiza ati “Uratunganye.” Na we ati “Niba utunganye, mpa ukuboko kwawe.” Arakumuha, aherako aramwuriza amushyira mu igare rye.",
+      "start": 35.34,
+      "end": 44.38
+    },
+    "16": {
+      "text": "Aravuga ati “Nuko tujyane, urebe ishyaka ndwanira Uwiteka.” Nuko amujyana mu igare rye.",
+      "start": 34.12,
+      "end": 42.22
+    },
+    "17": {
+      "text": "Ageze i Samariya, atsemba abari basigaye bose mu bantu ba Ahabu bari i Samariya, kugeza aho yabarimburiye nk'uko Uwiteka yabwiye Eliya.",
+      "start": 7.03,
+      "end": 26.31
+    },
+    "18": {
+      "text": "Bukeye Yehu ateranya abantu bose, arababwira ati “Ahabu yakoreye Bāli buhoro, ariko Yehu azamukorera cyane.",
+      "start": 3.8,
+      "end": 8.96
+    },
+    "19": {
+      "text": "Nuko nimumpamagarire nonaha abahanuzi ba Bāli bose, n'abamuramyaga bose n'abatambyi be bose. Ntihagire n'umwe ubura kuko nenda gutambira Bāli igitambo gikomeye. Uzabura wese ntazandokoka.” Ariko Yehu yabigenjeje atyo mu buryarya, kugira ngo abone uko yatsemba abaramyaga Bāli.",
+      "start": 6.48,
+      "end": 23.88
+    },
+    "20": {
+      "text": "Maze Yehu aravuga ati “Nimuteranire Bāli guterana kwera.” Barabyamamaza.",
+      "start": 7.94,
+      "end": 28.98
+    },
+    "21": {
+      "text": "Yehu atuma ku Bisirayeli bose. Nuko abaramyaga Bāli bose baraza, ntihagira umuntu n'umwe usigara ataje. Baraza binjira mu ngoro ya Bāli, ingoro ya Bāli iruzura, uhereye mu ruhande rumwe ukageza mu rundi.",
+      "start": 7.22,
+      "end": 17.53
+    },
+    "22": {
+      "text": "Maze Yehu abwira utegeka inzu ibikwamo imyambaro ati “Zanira abaramya Bāli bose imyambaro.” Arayibazanira.",
+      "start": 11.33,
+      "end": 34.28
+    },
+    "23": {
+      "text": "Nuko Yehu azana na Yehonadabu mwene Rekabu, binjira mu ngoro ya Bāli. Abwira abaramya Bāli ati “Nimushake murebe muri mwe hataba harimo n'umwe wo mu bagaragu b'Uwiteka, keretse abaramya Bāli bonyine.”",
+      "start": 10.97,
+      "end": 28.28
+    },
+    "24": {
+      "text": "Nuko barinjira ngo batambe igitambo n'ibitambo byoswa. Ariko Yehu yari yashyize hanze abagabo mirongo inani arababwira ati “Aba bagabo mbashyize mu maboko yanyu. Nihagira ucika, umubuze azamuryora, apfe mu cyimbo cye.”",
+      "start": 27.43,
+      "end": 38.17
+    },
+    "25": {
+      "text": "Bamaze gutamba igitambo cyoswa, Yehu abwira abarinzi n'abatware ati “Nimwinjire mubice, ntihagire usohoka n'umwe.” Nuko babicisha inkota, hanyuma abarinzi n'abatware babajugunya hanze, binjira mu rurembo rw'ingoro ya Bāli.",
+      "start": 7.81,
+      "end": 28.84
+    },
+    "26": {
+      "text": "Basohora inkingi zari mu ngoro ya Bāli barazitwika.",
+      "start": 40.42,
+      "end": 41.46
+    },
+    "27": {
+      "text": "Maze bamenagura igishushanyo cya Bāli, basenya ingoro ye, bayihindura icyavu na bugingo n'ubu.",
+      "start": 37.97,
+      "end": 44.03
+    },
+    "28": {
+      "text": "Uko ni ko Yehu yarimbuye Bāli, amukura muri Isirayeli.",
+      "start": 14.1,
+      "end": 39.61
+    },
+    "29": {
+      "text": "Ariko rero Yehu ntiyaretse gukurikiza ibyaha bya Yerobowamu mwene Nebati, ibyo yoheje Abisirayeli ngo bacumure, n'iby'ibigirwamana by'izahabu byari i Beteli n'i Dani.",
+      "start": 33.99,
+      "end": 39.77
+    },
+    "30": {
+      "text": "Hanyuma Uwiteka abwira Yehu ati “Kuko wakoze neza ubwo washohoje ibishimwa imbere yanjye ukagirira inzu ya Ahabu nk'uko imigambi yanjye yari iri, abana bawe bazicara ku ntebe y'ubwami bwa Isirayeli kugeza ku buvivi.”",
+      "start": 9.98,
+      "end": 17.91
+    },
+    "31": {
+      "text": "Ariko Yehu ntiyita ku kugendera mu mategeko y'Uwiteka Imana ya Isirayeli n'umutima we wose, ntiyava mu byaha Yerobowamu yoheje Abisirayeli ngo bacumure.",
+      "start": 12.02,
+      "end": 35.62
+    },
+    "32": {
+      "text": "Muri iyo minsi Uwiteka atangira kugabanya Abisirayeli. Hazayeli abatsinda mu ngabano za Isirayeli zose,",
+      "start": 42.25,
+      "end": 44.64
+    },
+    "33": {
+      "text": "uhereye kuri Yorodani ukajya iburasirazuba, igihugu cyose cy'i Galeyadi n'icy'Abagadi, n'icy'Abarubeni n'icy'Abamanase, uhereye Aroweri hahereranye n'ikibaya cya Arunoni ukageza i Galeyadi n'i Bashani.",
+      "start": 10.14,
+      "end": 27.34
+    },
+    "34": {
+      "text": "Ariko indi mirimo ya Yehu n'ibyo yakoze byose n'iby'imbaraga ze zose, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abisirayeli?",
+      "start": 11.35,
+      "end": 29.4
+    },
+    "35": {
+      "text": "Bukeye Yehu aratanga asanga ba sekuruza, bamuhamba i Samariya, maze umuhungu we Yehowahazi yima ingoma ye.",
+      "start": 38.35,
+      "end": 41.85
+    },
+    "36": {
+      "text": "Kandi igihe Yehu yamaze ku ngoma ya Isirayeli i Samariya, cyari imyaka makumyabiri n'umunani.",
+      "start": 20.61,
+      "end": 30.3
+    }
+  }
+}

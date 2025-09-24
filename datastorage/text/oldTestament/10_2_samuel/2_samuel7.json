@@ -1,0 +1,153 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Nuko umwami aba mu rugo rwe, kandi Uwiteka amuha ihumure ku babisha be bamugose bose.",
+      "start": 27.82,
+      "end": 40.05
+    },
+    "2": {
+      "text": "Bukeye umwami abwira umuhanuzi Natani ati “Dore ubu mba mu nzu yubakishijwe imyerezi, ariko isanduku y'Imana iba mu ihema.”",
+      "start": 44.24,
+      "end": 44.48
+    },
+    "3": {
+      "text": "Natani asubiza umwami ati “Genda ukore uko umutima wawe ukubwira kose, kuko Uwiteka ari kumwe nawe.”",
+      "start": 1.42,
+      "end": 29.09
+    },
+    "4": {
+      "text": "Iryo joro ijambo ry'Uwiteka ribonekera Natani riti",
+      "start": 7.15,
+      "end": 10.53
+    },
+    "5": {
+      "text": "“Genda ubwire umugaragu wanjye Dawidi uti ‘Uko ni ko Uwiteka avuze ngo: Mbese aho uzanyubakira inzu yo kubamo?",
+      "start": 11.5,
+      "end": 39.45
+    },
+    "6": {
+      "text": "Uhereye igihe nakuriye Abisirayeli muri Egiputa, ntabwo nigeze kuba mu nzu kugeza ubu, ahubwo nagenderaga mu ihema nk'ubuturo.",
+      "start": 29.55,
+      "end": 40.73
+    },
+    "7": {
+      "text": "Mbese ahantu hose nakagendanye n'Abisirayeli bose, hari ubwo navuganye n'umucamanza wese wa Isirayeli, uwo nategetse kuragira ubwoko bwanjye bwa Isirayeli nti: Ni iki cyababujije kunyubakira inzu yubakishijwe imyerezi?’",
+      "start": 41.0,
+      "end": 43.32
+    },
+    "8": {
+      "text": "“Nuko umugaragu wanjye Dawidi umubwire utya uti ‘Uko ni ko Uwiteka Nyiringabo avuze ati: Nagukuye mu rugo rw'intama mu bwungeri bwazo, ngo ube umutware w'ubwoko bwanjye bwa Isirayeli.",
+      "start": 37.6,
+      "end": 41.86
+    },
+    "9": {
+      "text": "Kandi nabanaga nawe aho wajyaga hose, nkarimburira abanzi bawe imbere yawe, kandi nzaguha izina rikomeye nk'amazina y'abakomeye bo mu isi.",
+      "start": 21.58,
+      "end": 31.16
+    },
+    "10": {
+      "text": "Kandi nzatoraniriza ubwoko bwanjye bwa Isirayeli ahantu, mpabashinge bahature, habe ahabo bwite batazimuka ukundi. Kandi abanyabyaha ntibazongera kubaburabuza nk'ubwa mbere,",
+      "start": 33.78,
+      "end": 40.14
+    },
+    "11": {
+      "text": "ubwo nategekaga abacamanza gutwara ubwoko bwanjye bwa Isirayeli, kandi nzaguha ihumure ku banzi bawe bose. Ndetse Uwiteka arakubwiye ngo azakuremamo umuryango.",
+      "start": 3.62,
+      "end": 22.69
+    },
+    "12": {
+      "text": "Kandi iminsi yawe nigera ugasinzirana na ba sogokuruza bawe, nzimika umwana wawe wibyariye akuzungure, kandi nzakomeza ubwami bwe.",
+      "start": 40.17,
+      "end": 42.48
+    },
+    "13": {
+      "text": "Nuko uwo ni we uzubakira izina ryanjye inzu, kandi nzakomeza intebe y'ubwami bwe iteka ryose.",
+      "start": 36.43,
+      "end": 38.28
+    },
+    "14": {
+      "text": "Nzamubera se na we azambere umwana: nacumura nzamuhanisha inkoni z'abantu, n'ibyago by'amoko y'abantu,",
+      "start": 28.61,
+      "end": 28.96
+    },
+    "15": {
+      "text": "kandi imbabazi zanjye ntizizamwomorokaho nk'uko zomorotse kuri Sawuli nagukuye imbere.",
+      "start": 43.04,
+      "end": 43.29
+    },
+    "16": {
+      "text": "Inzu yawe n'ubwami bwawe bizahoraho bidakuka iminsi yose kandi intebe y'ubwami bwawe izakomera iteka ryose.’ ”",
+      "start": 24.99,
+      "end": 30.99
+    },
+    "17": {
+      "text": "Nuko ayo magambo yose n'uko kwerekwa kose, Natani abirondorera Dawidi.",
+      "start": 3.77,
+      "end": 42.53
+    },
+    "18": {
+      "text": "Umwami Dawidi aherako arinjira, yicara imbere y'Uwiteka aravuga ati “Nkanjye ndi nde Nyagasani Mana, kandi inzu yanjye ni iki, nkanjye ko undinda ukarinda ungeza aha?",
+      "start": 40.78,
+      "end": 42.27
+    },
+    "19": {
+      "text": "Ariko ibyo kuri wowe ntibikomeye, Nyagasani Mana. None uvuze no ku by'inzu y'umugaragu wawe uko bizamera igihe kirekire kigiye kuza, na byo bibaye nk'itegeko mu bantu, Nyagasani Mana.",
+      "start": 18.65,
+      "end": 44.02
+    },
+    "20": {
+      "text": "Kandi se, Dawidi yakubwira kindi ki, ko uzi umugaragu wawe Nyagasani Mana.",
+      "start": 5.61,
+      "end": 12.31
+    },
+    "21": {
+      "text": "Ku bw'ijambo ryawe wakoze ibyo byose bikomeye nk'uko umutima wawe wibwiye, kugira ngo ubimenyeshe umugaragu wawe.",
+      "start": 20.16,
+      "end": 36.88
+    },
+    "22": {
+      "text": "Ni cyo ubereye ukomeye, Uwiteka Mana, kuko nta wuhwanye nawe, kandi nta yindi mana iriho keretse wowe, nk'ibyo twumvishije amatwi yacu byose.",
+      "start": 12.52,
+      "end": 17.54
+    },
+    "23": {
+      "text": "Ni irihe shyanga riri mu isi rihwanye n'ubwoko bwawe bwa Isirayeli? Imana yahagurukijwe no kuricungurira kuba ubwoko bwayo kugira ngo yibonere izina, igakora ibikomeye kandi biteye ubwoba ku bwabo no ku bw'igihugu cyawe imbere y'abantu bawe wacunguye, ukabīvanira muri Egiputa, ukabakiza amahanga n'imana zayo?",
+      "start": 25.81,
+      "end": 38.0
+    },
+    "24": {
+      "text": "Kandi wikomereje ubwoko bwawe bwa Isirayeli kugira ngo bube ubwawe iteka ryose, kandi nawe Uwiteka ubabere Imana yabo.",
+      "start": 34.18,
+      "end": 34.42
+    },
+    "25": {
+      "text": "“Nuko none Uwiteka Mana, ijambo uvuze ku mugaragu wawe no ku nzu ye urikomeze iminsi yose, kandi uzasohoze ibyo uvuze.",
+      "start": 38.97,
+      "end": 42.48
+    },
+    "26": {
+      "text": "Maze izina ryawe rihimbazwe iteka ryose, bavuge bati ‘Uwiteka Nyiringabo ni we Mana ya Isirayeli’, kandi inzu y'umugaragu wawe Dawidi izakomezwe imbere yawe.",
+      "start": 40.08,
+      "end": 40.4
+    },
+    "27": {
+      "text": "Kuko Uwiteka Nyiringabo Mana ya Isirayeli, uhishuriye umugaragu wawe ukavuga ngo uzamwubakira inzu, ni cyo gitumye umugaragu wawe nubahuka mu mutima wanjye kugusenga iri sengesho.",
+      "start": 41.73,
+      "end": 44.16
+    },
+    "28": {
+      "text": "“None Nyagasani Mana, ni wowe Mana, n'amagambo yawe ni ay'ukuri, kandi usezeranije umugaragu wawe iryo jambo ryiza.",
+      "start": 23.98,
+      "end": 34.98
+    },
+    "29": {
+      "text": "Nuko none emera guha umugisha inzu y'umugaragu wawe, irame imbere yawe iminsi yose, kuko ari wowe ubivuze Nyagasani Mana, kandi umugisha utanga ujye uba umugisha inzu y'umugaragu wawe ihabwa iteka ryose.”",
+      "start": 2.63,
+      "end": 35.66
+    }
+  }
+}

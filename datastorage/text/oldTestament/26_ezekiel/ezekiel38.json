@@ -1,0 +1,123 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 38,
+  "verses": {
+    "1": {
+      "text": "Ijambo ry'Uwiteka ryanjeho riti",
+      "start": 18.94,
+      "end": 19.4
+    },
+    "2": {
+      "text": "“Mwana w'umuntu, erekeza amaso yawe kuri Gogi wo mu gihugu cya Magogi, umwami w'i Roshi n'i Mesheki n'i Tubali,",
+      "start": 30.31,
+      "end": 43.15
+    },
+    "3": {
+      "text": "maze umuhanurire uti ‘Umva uko Umwami Uwiteka avuga ngo: Dore ndakwibasiye yewe Gogi we, mwami w'i Roshi n'i Mesheki n'i Tubali.",
+      "start": 3.82,
+      "end": 41.85
+    },
+    "4": {
+      "text": "Nzagusubiza inyuma nshyire indobo mu nzasaya zawe, maze nkuzanane n'ingabo zawe zose, amafarashi n'abayagenderaho bose bitwaje intwaro zishyitse, n'igitero kinini gifite ingabo nto n'ingabo nini, bose bambaye inkota,",
+      "start": 31.2,
+      "end": 39.3
+    },
+    "5": {
+      "text": "ab'i Buperesi no muri Etiyopiya n'i Puti bari kumwe na bo, bose bafite ingabo nini n'ingofero z'icyuma,",
+      "start": 38.11,
+      "end": 40.7
+    },
+    "6": {
+      "text": "na Gomeri n'ingabo ze zose, ab'inzu ya Togaruma b'ahahera h'ikasikazi n'ingabo ze zose, ndetse n'amahanga menshi ari kumwe nawe.",
+      "start": 16.61,
+      "end": 43.58
+    },
+    "7": {
+      "text": "Ube witeguye, ni ukuri witegure wowe n'ibitero byawe byose biguteraniyeho, kandi ubabere umugaba.",
+      "start": 25.23,
+      "end": 37.57
+    },
+    "8": {
+      "text": "Iminsi myinshi nishira uzagendererwa, mu myaka y'iherezo uzaza mu gihugu cyari cyaramazwe n'inkota hanyuma kikagarurwa, kikababwamo n'ubwoko bwateranirijwe hamwe buvuye mu moko menshi, bukajya ku misozi ya Isirayeli yahoze ari amatongo, ariko bwazanywe buvanywe mu mahanga, kandi bazaba biraye bose uko bangana.",
+      "start": 43.42,
+      "end": 44.95
+    },
+    "9": {
+      "text": "Nawe uzazamuka uze umeze nk'umugaru, uzaba umeze nk'igicu gitwikira igihugu wowe n'ingabo zawe zose, n'amahanga menshi ari kumwe namwe.’",
+      "start": 32.75,
+      "end": 40.64
+    },
+    "10": {
+      "text": "“Uku ni ko Umwami Uwiteka avuga ngo: Uwo munsi uzagira icyo wibwira, kandi uzagira imigambi mibi maze uvuge uti",
+      "start": 5.31,
+      "end": 24.64
+    },
+    "11": {
+      "text": "‘Ngiye kuzamuka ntere igihugu kirimo ibirorero bidafite inkike, ntungure abaguwe neza bari biraye, bose uko bangana batuye ahatari inkike z'amabuye kandi nta myugariro ihari cyangwa amarembo, mbone uko nsahura nkajyana iminyago,",
+      "start": 18.45,
+      "end": 25.8
+    },
+    "12": {
+      "text": "kugira ngo uramburire ukuboko kwawe ku matongo yongeye guturwamo, no ku bwoko bwateraniye hamwe buvuye mu mahanga, bukibonera amatungo n'ibintu kandi butuye mu isi hagati.’",
+      "start": 13.89,
+      "end": 22.14
+    },
+    "13": {
+      "text": "Sheba na Dedani n'abagenza b'i Tarushishi n'imigunzu y'intare yaho yose bazakubaza bati ‘Mbese uzanywe no gusahura? Igitero cyawe se wagiteranirije kuza kunyaga no gusahura ifeza n'izahabu, no gushorera amatungo n'ubutunzi, no kunyaga iminyago ikomeye?’",
+      "start": 36.51,
+      "end": 38.8
+    },
+    "14": {
+      "text": "“Nuko rero mwana w'umuntu, uhanure maze ubwire Gogi uti ‘Umva uko Umwami Uwiteka avuga ngo: Uwo munsi, igihe ubwoko bwanjye Isirayeli buzaba bwiraye, mbese ntuzabimenya?",
+      "start": 9.53,
+      "end": 22.22
+    },
+    "15": {
+      "text": "Icyo gihe uzaza uvuye mu gihugu cyawe ahahera h'ikasikazi, wowe n'amahanga menshi ari kumwe nawe bose bagendera ku mafarashi, igitero kinini n'ingabo nyinshi,",
+      "start": 7.52,
+      "end": 41.74
+    },
+    "16": {
+      "text": "maze uzazamuka utere ubwoko bwanjye Isirayeli umeze nk'igicu gitwikiriye igihugu. Ku minsi y'imperuka nzatuma utera igihugu cyanjye kugira ngo amahanga akurizeho kumenya, igihe nziyerekanira muri wowe imbere yabo ko ndi Uwera, yewe Gogi we.",
+      "start": 28.99,
+      "end": 31.37
+    },
+    "17": {
+      "text": "Uku ni ko Umwami Uwiteka avuga ngo: Mbese ni wowe uwo navugaga kera cyane, mvugiye mu bagaragu banjye b'abahanuzi ba Isirayeli, bahanuye mu myaka myinshi icyo gihe yuko ari wowe nzohereza kubatera?",
+      "start": 31.42,
+      "end": 43.97
+    },
+    "18": {
+      "text": "“ ‘Uwo munsi igihe Gogi azatera igihugu cya Isirayeli, uburakari bwanjye buzatunguka mu maso hanjye. Ni ko Umwami Uwiteka avuga.",
+      "start": 40.42,
+      "end": 44.39
+    },
+    "19": {
+      "text": "Kuko navuganye ifuhe ryanjye n'umuriro w'uburakari byanjye nti: Ni ukuri, uwo munsi hazaba igishyitsi gikomeye mu gihugu cya Isirayeli,",
+      "start": 2.34,
+      "end": 12.16
+    },
+    "20": {
+      "text": "gituma amafi yo mu nyanja n'ibisiga byo mu kirere, n'inyamaswa zo mu ishyamba n'ibyikurura bikururuka hasi byose, n'abantu bose bari ku isi bihindira umushyitsi imbere yanjye. Imisozi izubikwa, ahacuramye hatenguke kandi inkike zose ziridukire hasi.",
+      "start": 44.63,
+      "end": 44.77
+    },
+    "21": {
+      "text": "Nzahamagaza inkota yo kumutera imusange mu misozi yanjye yose, ni ko Umwami Uwiteka avuga, umuntu wese yuhire mwene se inkota.",
+      "start": 6.47,
+      "end": 14.56
+    },
+    "22": {
+      "text": "Nzamusohorezaho amateka yanjye, muteze indwara ya mugiga no kuva amaraso, kandi we n'ingabo ze n'amahanga menshi ari kumwe na we nzabamanurira imvura y'inkundura, mbateze amahindu manini y'urubura rukomeye n'umuriro n'amazuku.",
+      "start": 7.58,
+      "end": 21.43
+    },
+    "23": {
+      "text": "Uko ni ko nzagaragaza icyubahiro cyanjye no kwera kwanjye, kandi nzimenyekanisha imbere y'amahanga menshi, maze bamenye yuko ndi Uwiteka.’",
+      "start": 7.17,
+      "end": 28.27
+    }
+  }
+}

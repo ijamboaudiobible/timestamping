@@ -1,0 +1,58 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Maze arambwira ati “Mwana w'umuntu, byuka uhagarare mvugane nawe.”",
+      "start": 25.97,
+      "end": 35.47
+    },
+    "2": {
+      "text": "Akivugana nanjye Umwuka anyinjiramo, anshingisha ibirenge byanjye maze numva uwavuganaga nanjye arambwira ati",
+      "start": 2.41,
+      "end": 4.94
+    },
+    "3": {
+      "text": "“Mwana w'umuntu, ngutumye ku Bisirayeli no ku mahanga yansuzuguye akangomera, bo na ba sekuruza bancumuyeho kugeza n'uyu munsi.",
+      "start": 0.8,
+      "end": 15.55
+    },
+    "4": {
+      "text": "Abana babo ni abashizi b'isoni b'imitima inangiwe, ni bo ngutumyeho maze uzababwire uti ‘Uku ni ko Umwami Uwiteka avuga.’",
+      "start": 33.18,
+      "end": 34.34
+    },
+    "5": {
+      "text": "Na bo nubwo bazumva naho batakumva (kuko ari inzu y'abagome), ariko rero bazamenya ko umuhanuzi yari abarimo.",
+      "start": 22.47,
+      "end": 27.77
+    },
+    "6": {
+      "text": "“Kandi nawe mwana w'umuntu we kubatinya, ntutinye n'amagambo yabo nubwo uri mu mifatangwe no mu mahwa, ukaba utuye muri sikorupiyo. We gutinya amagambo yabo, ntushishwe n'igitsure cyabo nubwo ari inzu y'abagome.",
+      "start": 9.9,
+      "end": 38.84
+    },
+    "7": {
+      "text": "Maze uzababwira amagambo yanjye nubwo bazumva naho batakumva, kuko ari abagome bikabije.",
+      "start": 37.36,
+      "end": 39.68
+    },
+    "8": {
+      "text": "“Ariko weho mwana w'umuntu, umva icyo nkubwira. We kuba umugome nk'iyo nzu y'abagome, bumbura akanwa kawe maze icyo nguha ukirye.”",
+      "start": 42.87,
+      "end": 43.14
+    },
+    "9": {
+      "text": "Nuko ndebye mbona ukuboko kunyerekeyeho, maze mbona gufite umuzingo w'igitabo.",
+      "start": 15.35,
+      "end": 21.46
+    },
+    "10": {
+      "text": "Akibumburira imbere yanjye kandi cyari cyanditsweho imbere n'inyuma, cyanditswemo amaganya n'umuborogo n'ibyago.",
+      "start": 43.97,
+      "end": 44.07
+    }
+  }
+}

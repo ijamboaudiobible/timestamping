@@ -1,0 +1,118 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Abantu batangiye kugwira mu isi babyara abakobwa,",
+      "start": 4.22,
+      "end": 32.56
+    },
+    "2": {
+      "text": "abana b'Imana bareba abakobwa b'abantu ari beza, barongoramo abo batoranyije bose.",
+      "start": 7.09,
+      "end": 34.87
+    },
+    "3": {
+      "text": "Uwiteka aravuga ati “Umwuka wanjye ntazahora aruhanya n'abantu iteka ryose, kuko ari abantu b'umubiri. Nuko rero iminsi yabo izaba imyaka ijana na makumyabiri.”",
+      "start": 23.22,
+      "end": 34.59
+    },
+    "4": {
+      "text": "Muri iyo minsi abantu barebare banini bari mu isi, no mu gihe cyo hanyuma, abana b'Imana bamaze kurongora abakobwa b'abantu babyarana na bo abana, ari bo za ntwari za kera zari ibirangirire.",
+      "start": 21.74,
+      "end": 22.34
+    },
+    "5": {
+      "text": "Kandi Uwiteka abona yuko ingeso z'abantu zari mbi cyane mu isi, kandi ko kwibwira kose imitima yabo itekereza ari kubi gusa iteka ryose.",
+      "start": 32.4,
+      "end": 44.93
+    },
+    "6": {
+      "text": "Uwiteka yicuza yuko yaremye abantu mu isi, bimutera agahinda mu mutima.",
+      "start": 44.97,
+      "end": 44.99
+    },
+    "7": {
+      "text": "Uwiteka aravuga ati “Nzarimbura abantu naremye, mbatsembe mu isi uhereye ku muntu n'inyamaswa n'amatungo n'ibikururuka n'inyoni n'ibisiga byo mu kirere, kuko nicujije yuko nabiremye.”",
+      "start": 24.75,
+      "end": 38.1
+    },
+    "8": {
+      "text": "Ariko Nowa agirira umugisha ku Uwiteka.",
+      "start": 44.41,
+      "end": 44.98
+    },
+    "9": {
+      "text": "Uru ni rwo rubyaro rwa Nowa. Nowa yari umukiranutsi, yatunganaga rwose mu gihe cye. Nowa yagendanaga n'Imana.",
+      "start": 22.98,
+      "end": 26.04
+    },
+    "10": {
+      "text": "Kandi yabyaye abahungu batatu, Shemu na Hamu na Yafeti.",
+      "start": 2.16,
+      "end": 33.18
+    },
+    "11": {
+      "text": "Kandi isi yari yononekaye mu maso y'Imana, yuzuye urugomo.",
+      "start": 28.48,
+      "end": 37.3
+    },
+    "12": {
+      "text": "Imana ireba isi, ibona yuko yononekaye, kuko abafite umubiri bose bari bononnye ingeso zabo mu isi.",
+      "start": 10.88,
+      "end": 39.42
+    },
+    "13": {
+      "text": "Imana ibwira Nowa iti “Iherezo ry'abafite umubiri bose rije mu maso yanjye, kuko isi yuzuye urugomo ku bwabo, dore nzabarimburana n'isi.",
+      "start": 26.32,
+      "end": 31.54
+    },
+    "14": {
+      "text": "Nuko rero wibārize inkuge mu giti cyitwa goferu, ugabanyemo ibyumba, uyihome ubushishi imbere n'inyuma.",
+      "start": 1.14,
+      "end": 14.98
+    },
+    "15": {
+      "text": "Uyibāze utya: uburebure bw'umurambararo bw'iyo nkuge bube mikono magana atatu, ubugari bwayo bube mikono mirongo itanu, uburebure bw'igihagararo bwayo bube mikono mirongo itatu.",
+      "start": 9.83,
+      "end": 10.26
+    },
+    "16": {
+      "text": "Kandi uzacemo idirishya, rizaba irya mukono umwe nuyirangiza hejuru, umuryango w'inkuge uzawushyire mu rubavu rwayo. Uzayishyiremo amazu, iyo hasi n'iya kabiri hejuru yayo n'iya gatatu.",
+      "start": 0.24,
+      "end": 2.97
+    },
+    "17": {
+      "text": "Nanjye dore nzazana umwuzūre w'amazi mu isi, urimbure ibifite umubiri byose, birimo umwuka w'ubugingo, ubitsembe hasi y'ijuru, ibiri mu isi byose bipfe.",
+      "start": 29.73,
+      "end": 34.82
+    },
+    "18": {
+      "text": "Ariko nzakomeza isezerano ryanjye nawe, uzinjirane muri iyo nkuge n'abana bawe n'umugore wawe n'abakazana bawe.",
+      "start": 39.19,
+      "end": 44.29
+    },
+    "19": {
+      "text": "Kandi mu moko yose y'ibibaho bifite umubiri byose, uzinjize muri iyo nkuge bibiri bibiri, ngo ubirokorane nawe, bizaba ikigabo n'ikigore.",
+      "start": 35.87,
+      "end": 40.37
+    },
+    "20": {
+      "text": "Mu nyoni no mu bisiga nk'uko amoko yabyo ari, no mu matungo nk'uko amoko yayo ari, no mu bikururuka hasi byose nk'uko amoko yabyo ari, bibiri by'amoko yose bizaze aho uri, kugira ngo ubirokore.",
+      "start": 7.98,
+      "end": 12.46
+    },
+    "21": {
+      "text": "Kandi uzijyanire mu biribwa byose, ubyihunikire bizabe ibyo kubatungana n'ibyo muri kumwe.”",
+      "start": 11.48,
+      "end": 11.56
+    },
+    "22": {
+      "text": "Nowa agenza atyo, ibyo Imana yamutegetse byose aba ari byo akora.",
+      "start": 22.88,
+      "end": 24.49
+    }
+  }
+}

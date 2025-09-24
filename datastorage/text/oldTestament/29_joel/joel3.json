@@ -1,0 +1,33 @@
+{
+  "book": "Book 29",
+  "book_canonical": "joel",
+  "book_number": 29,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "“Hanyuma y'ibyo, nzasuka Umwuka wanjye ku bantu bose, abahungu banyu n'abakobwa banyu bazahanura, abakambwe banyu bazarota, n'abasore banyu bazerekwa.",
+      "start": 40.5,
+      "end": 42.55
+    },
+    "2": {
+      "text": "Ndetse n'abagaragu banjye n'abaja banjye nzabasukira ku Mwuka wanjye muri iyo minsi.",
+      "start": 21.53,
+      "end": 26.03
+    },
+    "3": {
+      "text": "“Nzashyira amahano mu ijuru no mu isi: amaraso n'umuriro n'umwotsi ucumba.",
+      "start": 34.13,
+      "end": 34.54
+    },
+    "4": {
+      "text": "Izuba rizahinduka umwijima, n'ukwezi kuzahinduka amaraso, uwo munsi mukuru w'Uwiteka uteye ubwoba utaraza.",
+      "start": 34.19,
+      "end": 39.99
+    },
+    "5": {
+      "text": "Kandi umuntu wese uzambaza izina ry'Uwiteka azakizwa, kuko i Siyoni n'i Yerusalemu hazaba abarokotse, nk'uko Uwiteka yabivuze, kandi mu barokotse hazabamo abo Uwiteka ahamagara.",
+      "start": 14.88,
+      "end": 41.82
+    }
+  }
+}

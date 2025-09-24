@@ -1,0 +1,68 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 97,
+  "verses": {
+    "1": {
+      "text": "Uwiteka ari ku ngoma, isi yishime,Ibirwa binezerwe uko bingana.",
+      "start": 44.12,
+      "end": 44.41
+    },
+    "2": {
+      "text": "Ibicu n'umwijima biramukikiza,Gukiranuka no guca imanza zitabera ni imfatiro z'intebe ye.",
+      "start": 18.53,
+      "end": 23.81
+    },
+    "3": {
+      "text": "Umuriro uramubanziriza,Ugatwika ababisha be impande zose.",
+      "start": 21.97,
+      "end": 29.07
+    },
+    "4": {
+      "text": "Imirabyo ye yamurikiye isi,Ubutaka burabireba buhinda umushyitsi.",
+      "start": 27.2,
+      "end": 35.39
+    },
+    "5": {
+      "text": "Imisozi iyagira nk'ibimamāra imbere y'Uwiteka,Imbere y'Umwami w'isi yose.",
+      "start": 37.34,
+      "end": 40.96
+    },
+    "6": {
+      "text": "Ijuru rivuga gukiranuka kwe,Amahanga yose yarebye ubwiza bwe.",
+      "start": 10.46,
+      "end": 41.2
+    },
+    "7": {
+      "text": "Abasenga ibishushanyo bibajwe,Bakirata iby'ubusa bamware,Ibigirwamana byose biramuramya.",
+      "start": 43.4,
+      "end": 43.45
+    },
+    "8": {
+      "text": "Siyoni yarabyumvise iranezerwa,Abakobwa ba Yuda bishimishwa n'imanza zawe zitabera, Uwiteka.",
+      "start": 32.34,
+      "end": 37.73
+    },
+    "9": {
+      "text": "Kuko wowe Uwiteka usumba byose,Ugategeka isi yose,Ushyizwe hejuru cyane y'ibigirwamana byose.",
+      "start": 31.46,
+      "end": 43.24
+    },
+    "10": {
+      "text": "Mwa bakunda Uwiteka mwe, mwange ibibi,Arinda ubugingo bw'abakunzi be,Abakiza amaboko y'abanyabyaha.",
+      "start": 25.06,
+      "end": 31.04
+    },
+    "11": {
+      "text": "Umucyo ubibirwa umukiranutsi,Umunezero ubibirwa abafite imitima itunganye.",
+      "start": 38.51,
+      "end": 39.92
+    },
+    "12": {
+      "text": "Mwa bakiranutsi mwe, mwishimire Uwiteka,Kandi mushime izina rye, ari ryo rwibutso rwo kwera kwe.",
+      "start": 26.9,
+      "end": 38.46
+    }
+  }
+}

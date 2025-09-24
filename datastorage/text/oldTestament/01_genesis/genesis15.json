@@ -1,0 +1,113 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo, ijambo ry'Uwiteka riza kuri Aburamu, mu iyerekwa riti “Aburamu, witinya ni jye ngabo igukingira, uzagororerwa ingororano ikomeye cyane.”",
+      "start": 2.77,
+      "end": 30.58
+    },
+    "2": {
+      "text": "Aburamu aramubaza ati “Mwami Uwiteka, uzangororera iki ko ngenda ndi incike, kandi uzazungura urugo rwanjye ari Eliyezeri Umunyadamasiko?”",
+      "start": 2.44,
+      "end": 24.75
+    },
+    "3": {
+      "text": "Ati “Dore nta rubyaro wampaye, kandi uwavukiye mu rugo rwanjye azaragwa ibyanjye.”",
+      "start": 36.15,
+      "end": 43.16
+    },
+    "4": {
+      "text": "Maze ijambo ry'Uwiteka riza kuri we riti “Uwo si we uzaragwa ibyawe, ahubwo uzakomoka ku rukiryi rwawe ni we uzabiragwa.”",
+      "start": 38.23,
+      "end": 39.94
+    },
+    "5": {
+      "text": "Aramusohokana aramubwira ati “Rarama urebe ijuru, ubare inyenyeri niba wabasha kuzibara.” Ati “Urubyaro rwawe ni ko ruzangana.”",
+      "start": 34.18,
+      "end": 42.34
+    },
+    "6": {
+      "text": "Nuko yizera Uwiteka, abimuhwaniriza no gukiranuka.",
+      "start": 34.77,
+      "end": 41.2
+    },
+    "7": {
+      "text": "Aramubwira ati “Ni jye Uwiteka wakuvaniye muri Uri y'Abakaludaya kugira ngo nzakurage iki gihugu.”",
+      "start": 27.89,
+      "end": 28.84
+    },
+    "8": {
+      "text": "Aramubaza ati “Mwami Uwiteka, icyamenyesha yuko nzakiragwa ni iki?”",
+      "start": 15.92,
+      "end": 31.11
+    },
+    "9": {
+      "text": "Aramusubiza ati “Enda iriza y'inka imaze imyaka itatu ivutse, n'ibuguma y'ihene imaze imyaka itatu, n'impfizi y'intama imaze imyaka itatu, n'intungura imwe, n'icyana cy'inuma.”",
+      "start": 16.71,
+      "end": 31.56
+    },
+    "10": {
+      "text": "Maze yenda ibyo byose abicamo kabiri, arabyerekeranya, keretse za nyoni ni zo atagabanije.",
+      "start": 27.63,
+      "end": 33.62
+    },
+    "11": {
+      "text": "Inkongoro zagwaga ku mirambo, Aburamu akazigurutsa.",
+      "start": 40.5,
+      "end": 42.15
+    },
+    "12": {
+      "text": "Ku kirengarenga Aburamu asinzira ubuticura, ubwoba butewe n'umwijima w'icuraburindi buramufata.",
+      "start": 12.88,
+      "end": 25.72
+    },
+    "13": {
+      "text": "Uwiteka abwira Aburamu ati “Menya neza yuko urubyaro rwawe ruzaba abashyitsi mu gihugu kitari icyabo, bazakorera ab'aho, na bo bazabababaza imyaka magana ane.",
+      "start": 38.39,
+      "end": 44.67
+    },
+    "14": {
+      "text": "Nanjye nzacira ho iteka iryo shyanga bazakorera, ubwa nyuma bazarivamo bavanyemo ubutunzi bwinshi.",
+      "start": 27.3,
+      "end": 40.18
+    },
+    "15": {
+      "text": "Ariko wowe ho uzasanga ba sogokuruza amahoro, uzahambwa ushaje neza.",
+      "start": 17.62,
+      "end": 29.94
+    },
+    "16": {
+      "text": "Ubuvivi bw'abazajyayo ni bwo buzagaruka ino, kuko gukiranirwa kw'Abamori kutaruzura.”",
+      "start": 32.18,
+      "end": 41.81
+    },
+    "17": {
+      "text": "Maze izuba rirenze hatakibona, ikome ricumba n'urumuri rwaka binyura hagati ya bya bice.",
+      "start": 3.47,
+      "end": 17.02
+    },
+    "18": {
+      "text": "Kuri uwo munsi Uwiteka asezeranya Aburamu isezerano, ati “Urubyaro rwawe nduhaye iki gihugu, uhereye ku ruzi rwa Egiputa ukageza ku ruzi runini ari rwo Ufurate,",
+      "start": 10.17,
+      "end": 12.97
+    },
+    "19": {
+      "text": "igihugu cy'Abakeni n'icy'Abakenizi n'icy'Abakadimoni,",
+      "start": 37.3,
+      "end": 42.89
+    },
+    "20": {
+      "text": "n'icy'Abaheti n'icy'Abaferizi n'icy'Abarafa,",
+      "start": 6.7,
+      "end": 17.35
+    },
+    "21": {
+      "text": "n'icy'Abamori n'icy'Abanyakanāni, n'icy'Abagirugashi n'icy'Abayebusi.”",
+      "start": 7.01,
+      "end": 40.66
+    }
+  }
+}

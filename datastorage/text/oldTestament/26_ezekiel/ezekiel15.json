@@ -1,0 +1,48 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Maze ijambo ry'Uwiteka rinzaho riti",
+      "start": 25.1,
+      "end": 28.59
+    },
+    "2": {
+      "text": "“Mwana w'umuntu, igiti cy'umuzabibu ndetse n'amashami yacyo birusha iki ibindi biti byo mu kibira?",
+      "start": 18.04,
+      "end": 23.35
+    },
+    "3": {
+      "text": "Mbese hari uwagishakamo ibisate ngo abikoreshe? Cyangwa se umuntu yakibazamo agati ko kumanikaho ikintu?",
+      "start": 36.0,
+      "end": 44.6
+    },
+    "4": {
+      "text": "Dore bagitaye mu muriro nk'inkwi, umutwe wacyo n'ikibuno cyacyo birashirira, kandi hagati yacyo na ho harashya. Mbese cyagira icyo kimara?",
+      "start": 43.2,
+      "end": 43.31
+    },
+    "5": {
+      "text": "Dore kikiriho nta cyo cyamaze, nkanswe ubu umuriro umaze kugitwika kigashya. Hari icyo cyamara?”",
+      "start": 2.59,
+      "end": 29.51
+    },
+    "6": {
+      "text": "Ni cyo gituma Uwiteka avuga ati “Uko umuzabibu umeze mu biti byo mu kibira, uwo natanzeho inkwi, ni ko nzatanga abaturage b'i Yerusalemu.",
+      "start": 25.54,
+      "end": 38.87
+    },
+    "7": {
+      "text": "Kandi nzabarindisha igitsure, nibasohoka bavuye mu muriro bazagwa mu wundi, kandi namwe muzamenya yuko ndi Uwiteka, ubwo nzabarindisha igitsure.",
+      "start": 41.65,
+      "end": 42.41
+    },
+    "8": {
+      "text": "Kandi igihugu nzakigira amatongo kuko bacumuye.” Ni ko Umwami Uwiteka avuga.",
+      "start": 7.01,
+      "end": 22.41
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Uwiteka, ni nde uzaguma mu ihema ryawe?Ni nde uzatura ku musozi wawe wera?",
+      "start": 37.22,
+      "end": 39.39
+    },
+    "2": {
+      "text": "Ni ugendera mu bitunganye agakora ibyo gukiranuka,Akavuga iby'ukuri nk'uko biri mu mutima we.",
+      "start": 34.17,
+      "end": 35.07
+    },
+    "3": {
+      "text": "Utabeshyeresha abandi ururimi rwe,Ntagirire nabi mugenzi we,Ntashyushye inkuru y'umuturanyi we.",
+      "start": 30.85,
+      "end": 34.38
+    },
+    "4": {
+      "text": "Mu maso ye umunyagisuzuguriro arahinyurwa,Ariko abatinya Uwiteka arabubaha.Icyo yarahiriye naho cyamugirira nabi ntiyivuguruza.",
+      "start": 31.89,
+      "end": 36.87
+    },
+    "5": {
+      "text": "Ntaguriza ifeza kubona indamu zirenze urugero,Cyangwa ntiyemera ibiguzi ku utariho urubanza.Ugenza atyo ntabwo azanyeganyezwa.",
+      "start": 37.83,
+      "end": 41.27
+    }
+  }
+}

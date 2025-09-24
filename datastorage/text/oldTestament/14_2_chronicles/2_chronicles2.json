@@ -1,0 +1,93 @@
+{
+  "book": "Book 14",
+  "book_canonical": "2_chronicles",
+  "book_number": 14,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Atoranya abantu inzovu ndwi bo kwikorera imitwaro, n'abantu inzovu munani bo kubāza amabuye mu misozi, n'abantu ibihumbi bitatu na magana atandatu bo kubahagarikira.",
+      "start": 25.61,
+      "end": 34.76
+    },
+    "2": {
+      "text": "Salomo atuma kuri Hiramu umwami w'i Tiro ati “Nk'uko wagiriraga umukambwe wanjye Dawidi, ukamwoherereza imyerezi yo kubaka inzu yo kubamo, abe ari ko ungirira nanjye.",
+      "start": 0.87,
+      "end": 28.72
+    },
+    "3": {
+      "text": "Dore ndenda kubakira izina ry'Uwiteka Imana yanjye inzu ngo nyiyiture, mbone kuyosereza imbere imibavu ihumura neza, no ku bw'imitsima ihora imurikwa imbere y'Uwiteka, no ku bw'ibitambo byoswa mu gitondo na nimugoroba, ku masabato no ku mboneko z'amezi, no ku birori byashyizweho by'Uwiteka Imana yacu uko itegeko rya Isirayeli risanzwe.",
+      "start": 27.03,
+      "end": 27.51
+    },
+    "4": {
+      "text": "Kandi n'inzu nenda kubaka ni nini kuko Imana yacu ikomeye, iruta izindi mana zose.",
+      "start": 17.59,
+      "end": 31.5
+    },
+    "5": {
+      "text": "Ariko ni nde ubasha kuyubakira inzu, ubwo ijuru ndetse n'ijuru risumba ayandi itarikwirwamo? Mbese nkanjye ndi nde wo kuyubakira inzu yo kuyoserezamo imibavu imbere?",
+      "start": 35.24,
+      "end": 38.08
+    },
+    "6": {
+      "text": "Nuko none unyoherereze umugabo w'umuhanga, uzi gukora iby'izahabu n'ifeza n'imiringa n'ibyuma, n'imyenda y'imihengeri n'iya kamurari n'iy'imikara ya kabayonga, kandi uzi gukeba amabara y'uburyo bwose, kugira ngo abane n'abagabo b'abahanga turi kumwe i Buyuda n'i Yerusalemu, abo umukambwe wanjye Dawidi yatoye.",
+      "start": 5.86,
+      "end": 25.3
+    },
+    "7": {
+      "text": "Kandi unyoherereze imyerezi n'imiberoshi, n'ibiti bisa n'imisagavu by'i Lebanoni, kuko nzi yuko abagaragu bawe ari abahanga bo gutsinda ibiti i Lebanoni, kandi abagaragu banjye bazakorana n'abagaragu bawe,",
+      "start": 29.9,
+      "end": 31.25
+    },
+    "8": {
+      "text": "kugira ngo bantunganyirize ibiti byinshi cyane, kuko inzu ngiye kubaka izaba nini bitangaje.",
+      "start": 1.43,
+      "end": 18.97
+    },
+    "9": {
+      "text": "Kandi dore nzaha abagaragu bawe b'ababaji batsinda ibiti, indengo z'ingano zihuye inzovu ebyiri, n'indengo za sayiri inzovu ebyiri, n'incuro z'intango za vino inzovu ebyiri, n'ibibindi by'amavuta inzovu ebyiri.”",
+      "start": 41.99,
+      "end": 43.51
+    },
+    "10": {
+      "text": "Nuko Hiramu umwami w'i Tiro yandikira Salomo urwandiko amusubiza, ararumwoherereza ati “Kuko Uwiteka yakunze ubwoko bwe, ni cyo cyatumye akugira umwami wabwo.”",
+      "start": 8.14,
+      "end": 25.36
+    },
+    "11": {
+      "text": "Kandi Hiramu yongera kuvuga ati “Uwiteka Imana ya Isirayeli yaremye ijuru n'isi ihimbazwe, kuko yahaye Umwami Dawidi umwana ujijutse wahawe ubwenge n'ubuhanga, akaba ari we ugiye kubakira Uwiteka inzu, no kubaka inzu y'ubwami.",
+      "start": 25.62,
+      "end": 26.41
+    },
+    "12": {
+      "text": "None ntumye umugabo w'umuhanga uzi kwitegereza witwa Huramu,",
+      "start": 35.9,
+      "end": 40.46
+    },
+    "13": {
+      "text": "umwana w'umugore wo muri bene Dani, na se yari umugabo w'i Tiro, umuhanga w'imirimo y'izahabu n'ifeza n'imiringa n'ibyuma, n'amabuye n'ibiti n'imyenda y'imihengeri, n'iy'imikara ya kabayonga n'iy'igitare cyiza n'iya kamurari, kandi azi no gukeba amabara y'uburyo bwose no guhimba uburyo bwose buhimbwa, kugira ngo ahabwe umwanya hamwe n'abagaragu bawe b'abahanga, n'abahanga ba databuja umukambwe wawe Dawidi.",
+      "start": 20.41,
+      "end": 43.94
+    },
+    "14": {
+      "text": "Nuko rero ingano na sayiri n'amavuta na vino uko databuja yavuze, azabyoherereza abagaragu be,",
+      "start": 16.75,
+      "end": 21.14
+    },
+    "15": {
+      "text": "natwe tuzatsinda ibiti kuri Lebanoni, ibyo muzashaka byose, kandi tuzabikoherereza aho uri tubinyuze ku mazi nk'ibihare tubigeze i Yopa, nawe uzabizamura ubigeze i Yerusalemu.”",
+      "start": 27.37,
+      "end": 37.24
+    },
+    "16": {
+      "text": "Bukeye Salomo abara abanyamahanga bose bari mu gihugu cya Isirayeli, uko umubare wari warabazwe na se Dawidi wari uri, haboneka abantu agahumbi n'inzovu eshanu n'ibihumbi bitatu na magana atandatu.",
+      "start": 36.85,
+      "end": 42.21
+    },
+    "17": {
+      "text": "Akura muri bo abantu inzovu ndwi bo kwikorera imitwaro, n'inzovu umunani bo kubāza amabuye mu misozi, n'ibihumbi bitatu na magana atandatu bo guhagarikira abantu babakoresha.",
+      "start": 5.88,
+      "end": 44.04
+    }
+  }
+}

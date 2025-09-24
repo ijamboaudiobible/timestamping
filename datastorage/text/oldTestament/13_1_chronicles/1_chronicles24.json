@@ -1,0 +1,163 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Ibihe bya bene Aroni byari ibi: bene Aroni ni Nadabu na Abihu, na Eleyazari na Itamari.",
+      "start": 27.4,
+      "end": 42.32
+    },
+    "2": {
+      "text": "Nadabu na Abihu babanjirije se gupfa, kandi nta bana bagiraga. Ni cyo cyatumye Eleyazari na Itamari bakora umurimo w'ubutambyi.",
+      "start": 1.07,
+      "end": 18.91
+    },
+    "3": {
+      "text": "Dawidi afatanya na Sadoki wo muri bene Eleyazari, na Ahimeleki wo muri bene Itamari kubagabanya imirimo nk'uko ibihe byabo byari biri.",
+      "start": 37.09,
+      "end": 38.31
+    },
+    "4": {
+      "text": "Kandi muri bene Eleyazari habonekamo abagabo bakomeye benshi baruta abo muri bene Itamari, uko ni ko bagabanijwe: muri bene Eleyazari bari abatware b'amazu ya ba sekuruza cumi na batandatu, kandi muri bene Itamari uko amazu ya ba sekuruza babo yari ari, bari umunani.",
+      "start": 22.27,
+      "end": 23.88
+    },
+    "5": {
+      "text": "Uko ni ko bagabanijwe n'ubufindo ibice byombi, kuko hariho abatware b'ubuturo bwera n'abatware b'Imana muri bene Eleyazari na bene Itamari.",
+      "start": 7.26,
+      "end": 44.6
+    },
+    "6": {
+      "text": "Nuko Shemaya mwene Netanēli umwanditsi wo mu Balewi, abandikira imbere y'umwami n'abatware n'imbere y'umutambyi Sadoki, na Ahimeleki mwene Abiyatari, n'imbere y'abatware b'amazu ya ba sekuruza b'abatambyi n'ab'Abalewi, inzu imwe itoranirizwa Eleyazari n'indi itoranirizwa Itamari.",
+      "start": 44.54,
+      "end": 44.83
+    },
+    "7": {
+      "text": "Maze ubufindo bwa mbere butoranya Yehoyaribu, ubwa kabiri Yedaya.",
+      "start": 40.13,
+      "end": 40.27
+    },
+    "8": {
+      "text": "Ubwa gatatu Harimu, ubwa kane Seworimu.",
+      "start": 11.58,
+      "end": 40.72
+    },
+    "9": {
+      "text": "Ubwa gatanu Malikiya, ubwa gatandatu Miyamini.",
+      "start": 25.28,
+      "end": 30.8
+    },
+    "10": {
+      "text": "Ubwa karindwi Hakosi, ubwa munani Abiya.",
+      "start": 41.29,
+      "end": 43.22
+    },
+    "11": {
+      "text": "Ubwa cyenda Yeshuwa, ubwa cumi Shekaniya.",
+      "start": 29.86,
+      "end": 36.65
+    },
+    "12": {
+      "text": "Ubwa cumi na bumwe Eliyashibu, ubwa cumi na bubiri Yakimu.",
+      "start": 37.71,
+      "end": 42.24
+    },
+    "13": {
+      "text": "Ubwa cumi na butatu Hupa, ubwa cumi na bune Yeshebeyabu.",
+      "start": 22.38,
+      "end": 44.28
+    },
+    "14": {
+      "text": "Ubwa cumi na butanu Biluga, ubwa cumi na butandatu Imeri.",
+      "start": 24.41,
+      "end": 33.07
+    },
+    "15": {
+      "text": "Ubwa cumi na burindwi Heziri, ubwa cumi n'umunani Hapisesi.",
+      "start": 23.65,
+      "end": 33.69
+    },
+    "16": {
+      "text": "Ubwa cumi n'icyenda Petahiya, ubwa makumyabiri Yezekeli.",
+      "start": 27.05,
+      "end": 31.94
+    },
+    "17": {
+      "text": "Ubwa makumyabiri na bumwe Yakini, ubwa makumyabiri na bubiri Gamuli.",
+      "start": 25.51,
+      "end": 44.71
+    },
+    "18": {
+      "text": "Ubwa makumyabiri na butatu Delaya, ubwa makumyabiri na bune Māziya.",
+      "start": 42.04,
+      "end": 44.56
+    },
+    "19": {
+      "text": "Ibi ni byo bihe byabo uko bakoraga, ngo bajye binjira mu nzu y'Uwiteka bakurikije itegeko bahawe na Aroni sekuruza wabo, nk'uko Uwiteka Imana ya Isirayeli yamutegetse.",
+      "start": 24.4,
+      "end": 42.09
+    },
+    "20": {
+      "text": "Ngaba abatware bo muri bene Lewi bandi: uwa bene Amuramu ni Shubayeli, uwa bene Shubayeli ni Yedeya.",
+      "start": 29.38,
+      "end": 40.55
+    },
+    "21": {
+      "text": "Mu Barehabiya, umutware wabo ni Ishiya. Ni we wari mukuru.",
+      "start": 29.93,
+      "end": 42.22
+    },
+    "22": {
+      "text": "Uwa bene Isuhari ni Shelomoti, uwa bene Shelomoti ni Yahati.",
+      "start": 17.51,
+      "end": 32.31
+    },
+    "23": {
+      "text": "Uwa bene Heburoni: uwa mbere ni Yeriya, uwa kabiri ni Amariya, uwa gatatu ni Yahaziyeli, uwa kane ni Yekameyamu.",
+      "start": 43.1,
+      "end": 44.82
+    },
+    "24": {
+      "text": "Bene Uziyeli ni Mika, uwa bene Mika ni Shamiri.",
+      "start": 0.67,
+      "end": 22.04
+    },
+    "25": {
+      "text": "Murumuna wa Mika ni Ishiya, uwa bene Ishiya ni Zekariya.",
+      "start": 3.87,
+      "end": 32.24
+    },
+    "26": {
+      "text": "Bene Merari ni Mahali na Mushi, bene Yāziya ni Beno.",
+      "start": 12.47,
+      "end": 37.76
+    },
+    "27": {
+      "text": "Bene Merari, aba Yāziya ni Beno na Shohamu, na Zakuri na Iburi.",
+      "start": 3.15,
+      "end": 19.73
+    },
+    "28": {
+      "text": "Uwa Mahali ni Eleyazari, kandi nta bana b'abahungu yari afite.",
+      "start": 35.33,
+      "end": 36.36
+    },
+    "29": {
+      "text": "Mu Bakishi, bene Kishi ni Yeramēli.",
+      "start": 39.57,
+      "end": 41.01
+    },
+    "30": {
+      "text": "Na bene Mushi ni Mahali na Ederi na Yerimoti.Abo ni bo bahungu b'Abalewi nk'uko amazu ya ba sekuruza babo yari ari.",
+      "start": 14.4,
+      "end": 38.69
+    },
+    "31": {
+      "text": "Kandi na bo bafinda ubufindo nka bene wabo, ari bo bahungu ba Aroni, imbere y'Umwami Dawidi n'imbere ya Sadoki na Ahimeleki, kandi n'imbere y'abatware b'amazu ya ba sekuruza b'abatambyi n'Abalewi. Umutware w'inzu ya ba sekuruza yafindaga nka murumuna we.",
+      "start": 1.37,
+      "end": 2.91
+    }
+  }
+}

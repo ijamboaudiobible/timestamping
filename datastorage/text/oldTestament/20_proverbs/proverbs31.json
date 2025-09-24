@@ -1,0 +1,163 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "Amagambo y'umwami Lemuweli n'ubuhanuzi nyina yamwigishije:",
+      "start": 21.16,
+      "end": 31.17
+    },
+    "2": {
+      "text": "“Mwana wanjye, ndakubwira iki?Ese nkubwire iki, mwana wanjye nibyariye,Ko ari wowe nahigiye?",
+      "start": 15.01,
+      "end": 16.91
+    },
+    "3": {
+      "text": "Ntugahe abagore intege zawe n'ubugingo bwawe,Kuko ari cyo kigusha abami.",
+      "start": 31.53,
+      "end": 32.38
+    },
+    "4": {
+      "text": "“Ntibikwiriye abami, Lemuweli we,Abami ntibakwiriye kunywa vino,Cyangwa ibikomangoma kubaririza ibisindisha aho biri.",
+      "start": 3.38,
+      "end": 28.87
+    },
+    "5": {
+      "text": "Be kunywa bakibagirwa ibyategetswe,Bakagoreka imanza z'abarengana.",
+      "start": 29.6,
+      "end": 41.27
+    },
+    "6": {
+      "text": "Ibisindisha ubihe ugiye gupfa,Na vino uyihe ufite intimba mu mutima.",
+      "start": 37.12,
+      "end": 42.72
+    },
+    "7": {
+      "text": "Mureke anywe urwo rushungandushyi,Rumutere kwibagirwa intimba ye.",
+      "start": 6.66,
+      "end": 42.69
+    },
+    "8": {
+      "text": "“Bumbura akanwa kawe uvugire ikiragi,Kandi uburanire abatagira shinge na rugero.",
+      "start": 20.11,
+      "end": 34.47
+    },
+    "9": {
+      "text": "Bumbura akanwa kawe uce imanza zitabera,Ucire abakene n'indushyi urubanza rutunganye.”",
+      "start": 28.28,
+      "end": 29.92
+    },
+    "10": {
+      "text": "Umugore w'imico myiza ni nde wamubona?Arusha cyane rwose marijani igiciro.",
+      "start": 18.83,
+      "end": 33.94
+    },
+    "11": {
+      "text": "Umutima w'umugabo we uhora umwiringira,Kandi ntazabura kunguka.",
+      "start": 26.7,
+      "end": 39.04
+    },
+    "12": {
+      "text": "Ahora amugirira neza ntabwo amugirira nabi,Igihe cyose akiriho.",
+      "start": 6.23,
+      "end": 19.22
+    },
+    "13": {
+      "text": "Ashaka ubwoya bw'intama n'imigwegwe,Anezezwa no gukoresha amaboko ye.",
+      "start": 19.89,
+      "end": 29.43
+    },
+    "14": {
+      "text": "Ameze nk'inkuge z'abagenza,Azana ibyokurya bye abikura kure.",
+      "start": 40.45,
+      "end": 43.74
+    },
+    "15": {
+      "text": "Abyuka kare butaracya,Akagaburira abo mu rugo,Agategeka abaja be imirimo ibakwiriye.",
+      "start": 19.87,
+      "end": 40.24
+    },
+    "16": {
+      "text": "Yitegereza umurima akawugura,Awutezamo urutoki mu by'inyungu ivuye mu maboko ye.",
+      "start": 5.41,
+      "end": 21.6
+    },
+    "17": {
+      "text": "Akenyerana imbaraga,Agakomeza amaboko ye.",
+      "start": 29.57,
+      "end": 32.08
+    },
+    "18": {
+      "text": "Abona yuko ibyo akora bimufitiye akamaro,Kandi nijoro itabaza rye ntirizima.",
+      "start": 29.21,
+      "end": 36.58
+    },
+    "19": {
+      "text": "Afatisha ukuboko urubambo ruriho ipamba,Intoki ze zigafata igiti ahotoza.",
+      "start": 12.62,
+      "end": 39.34
+    },
+    "20": {
+      "text": "Aramburira abakene ibiganza,Kandi indushyi akazitiza amaboko.",
+      "start": 10.84,
+      "end": 25.92
+    },
+    "21": {
+      "text": "Ntatinyisha abo mu rugo igihe cy'imbeho,Kuko abo mu rugo bose bambaye ibikomeye by'imihemba.",
+      "start": 2.2,
+      "end": 21.33
+    },
+    "22": {
+      "text": "Yibohera ibirago by'ibisuna,Imyambaro ye ni imyenda y'ibitare byiza n'imihengeri.",
+      "start": 36.26,
+      "end": 36.76
+    },
+    "23": {
+      "text": "Umugabo we amenyekana mu marembo y'umudugudu,Yicaranye n'abakuru b'igihugu.",
+      "start": 42.41,
+      "end": 44.7
+    },
+    "24": {
+      "text": "Aboha imyambaro akayigura,Agurira abagenza imikandara.",
+      "start": 32.57,
+      "end": 36.53
+    },
+    "25": {
+      "text": "Imbaraga n'icyubahiro ni byo myambaro ye,Kandi igihe kizaza azaba agiseka atacyitayeho.",
+      "start": 9.6,
+      "end": 30.74
+    },
+    "26": {
+      "text": "Abumbuza akanwa ke ubwenge,Kandi itegeko ry'ururimi rwe riva ku rukundo.",
+      "start": 8.18,
+      "end": 21.82
+    },
+    "27": {
+      "text": "Amenya neza imico yo mu rugo rwe,Kandi ntabwo arya ibyokurya by'ubute.",
+      "start": 15.11,
+      "end": 35.19
+    },
+    "28": {
+      "text": "Abana be barahaguruka bakamwita Munyamugisha,N'umugabo we na we aramushima ati",
+      "start": 28.56,
+      "end": 37.64
+    },
+    "29": {
+      "text": "“Abagore benshi bagenza neza,Ariko weho urabarusha bose.”",
+      "start": 2.03,
+      "end": 17.23
+    },
+    "30": {
+      "text": "Ubutoni burashukana kandi uburanga bwiza ni ubusa,Ariko umugore wubaha Uwiteka ni we uzashimwa.",
+      "start": 26.26,
+      "end": 42.45
+    },
+    "31": {
+      "text": "Mumuhe ku mbuto ziva mu maboko ye,Kandi imirimo ye nibayimushimire mu marembo.",
+      "start": 4.52,
+      "end": 41.87
+    }
+  }
+}

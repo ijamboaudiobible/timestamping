@@ -1,0 +1,38 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "Maze Biludadi w'Umushuhi arasubiza ati",
+      "start": 5.33,
+      "end": 39.3
+    },
+    "2": {
+      "text": "“Ubutware n'igitinyiro ni iby'Imana,Kandi itanga amahoro mu buturo bwayo bwo hejuru.",
+      "start": 36.34,
+      "end": 36.54
+    },
+    "3": {
+      "text": "Mbese imitwe y'ingabo zayo irabarika?Kandi utamurikirwa n'umucyo wayo ni nde?",
+      "start": 44.58,
+      "end": 44.66
+    },
+    "4": {
+      "text": "Umuntu yabasha ate kuba umukiranutsi imbere y'Imana?Cyangwa uwabyawe n'umugore yabasha ate kuba intungane?",
+      "start": 28.09,
+      "end": 34.2
+    },
+    "5": {
+      "text": "Dore ndetse n'ukwezi ntikumurika,N'inyenyeri ntabwo ziboneye mu maso yayo,",
+      "start": 39.62,
+      "end": 39.76
+    },
+    "6": {
+      "text": "Nkanswe umuntu w'inyo gusa,N'umwana w'umuntu w'umunyorogoto!”",
+      "start": 28.17,
+      "end": 29.43
+    }
+  }
+}

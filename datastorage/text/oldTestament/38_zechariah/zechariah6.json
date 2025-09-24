@@ -1,0 +1,83 @@
+{
+  "book": "Book 38",
+  "book_canonical": "zechariah",
+  "book_number": 38,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Ndongera nubura amaso, ngiye kubona mbona amagare ane aturuka hagati y'imisozi ibiri, kandi iyo misozi yari imiringa.",
+      "start": 0.97,
+      "end": 2.82
+    },
+    "2": {
+      "text": "Ku igare rya mbere hari amafarashi y'amagaju, ku rya kabiri hari amafarashi y'imikara.",
+      "start": 11.27,
+      "end": 44.12
+    },
+    "3": {
+      "text": "Ku igare rya gatatu hari amafarashi y'imyeru, no ku rya kane hari ay'ibigina y'amabara y'ibitanga.",
+      "start": 8.37,
+      "end": 18.67
+    },
+    "4": {
+      "text": "Maze mbaza marayika twavuganaga nti “Biriya bisobanurwa bite, nyagasani?”",
+      "start": 17.01,
+      "end": 26.15
+    },
+    "5": {
+      "text": "Marayika aransubiza ati “Biriya ni imiyaga ine yo mu ijuru, ivuye guhagarara imbere y'Umwami nyir'isi yose.",
+      "start": 22.17,
+      "end": 33.23
+    },
+    "6": {
+      "text": "Ririya gare rikururwa n'amafarashi y'imikara rirajya mu gihugu cy'ikasikazi, ay'imyeru yaje ayakurikiye n'ay'amabara y'ibitanga, arajya mu gihugu cy'ikusi.”",
+      "start": 40.79,
+      "end": 42.07
+    },
+    "7": {
+      "text": "Ay'amagaju asohotse ashaka kugenda isi yose ayicuraganamo, aravuga ati “Nimusohoke mugende isi yose muyicuraganemo.” Nuko agenda isi yose ayicuraganamo.",
+      "start": 27.01,
+      "end": 44.27
+    },
+    "8": {
+      "text": "Maze arampamagara arambwira ati “Ariya ajya mu gihugu cy'ikasikazi, yurūye umwuka wanjye w'uburakari nari narakariye igihugu cy'ikasikazi.”",
+      "start": 28.25,
+      "end": 30.61
+    },
+    "9": {
+      "text": "Ijambo ry'Uwiteka rinzaho rivuga riti",
+      "start": 14.58,
+      "end": 30.64
+    },
+    "10": {
+      "text": "“Akira amaturo y'abo banyagano, Heludayi na Tobiya na Yedaya, kandi uwo munsi uzajye kwa Yosiya mwene Zefaniya, ni ho bazaba bari bavuye i Babuloni.",
+      "start": 11.48,
+      "end": 24.48
+    },
+    "11": {
+      "text": "Bazaguhe ifeza n'izahabu ureme amakamba, uyambike Yosuwa mwene Yosadaki umutambyi mukuru.",
+      "start": 10.92,
+      "end": 31.95
+    },
+    "12": {
+      "text": "Umubwire uti ‘Uwiteka Nyiringabo aravuga ati: Dore umuntu witwa Shami uzumbūra azamera ahantu he, kandi ni we uzubaka urusengero rw'Uwiteka.",
+      "start": 18.28,
+      "end": 23.19
+    },
+    "13": {
+      "text": "Ni koko ni we uzubaka urusengero rw'Uwiteka, azagira icyubahiro, azicara ku ntebe y'ubwami ategeke, kandi azaba umutambyi ku ntebe ye. Bombi bazahuza inama zizana amahoro.’",
+      "start": 14.22,
+      "end": 41.73
+    },
+    "14": {
+      "text": "Ayo makamba azaba aya Helemu na Tobiya, na Yedaya na Heni mwene Zefaniya, azaba urwibutso mu rusengero rw'Uwiteka.",
+      "start": 34.28,
+      "end": 41.03
+    },
+    "15": {
+      "text": "“Kandi abazaba bari kure bazaza bubake mu rusengero rw'Uwiteka, maze muzamenye yuko Uwiteka Nyiringabo ari we wabantumyeho. Ibyo bizasohora nimugira umwete wo kumvira Uwiteka Imana yanyu.”",
+      "start": 16.21,
+      "end": 18.01
+    }
+  }
+}

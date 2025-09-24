@@ -1,0 +1,38 @@
+{
+  "book": "Book 39",
+  "book_canonical": "malachi",
+  "book_number": 39,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "“Dore hazaba umunsi utwika nk'itanura ry'umuriro, abibone bose n'inkozi z'ibibi zose bazaba ibishingwe, maze habe umunsi uzabatwika bashire, ni ko Uwiteka Nyiringabo avuga, ntuzabasigira umuzi cyangwa ishami.",
+      "start": 23.01,
+      "end": 38.22
+    },
+    "2": {
+      "text": "Ariko mwebweho abubaha izina ryanjye, Izuba ryo gukiranuka rizabarasira rifite gukiza mu mababa yaryo, maze muzasohoka mukinagire nk'inyana zo mu kiraro.",
+      "start": 32.6,
+      "end": 42.03
+    },
+    "3": {
+      "text": "Kandi muzaribatira abanyabyaha hasi, bazaba ivu munsi y'ibirenge byanyu ku munsi nzabikoreraho. Ni ko Uwiteka Nyiringabo avuga.",
+      "start": 40.7,
+      "end": 43.75
+    },
+    "4": {
+      "text": "“Nimwibuke amategeko y'umugaragu wanjye Mose, ayo namutegekeye i Horebu yari ay'Abisirayeli bose, yari amategeko n'amateka.",
+      "start": 44.48,
+      "end": 44.81
+    },
+    "5": {
+      "text": "“Dore nzaboherereza umuhanuzi Eliya, umunsi w'Uwiteka ukomeye kandi uteye ubwoba utaragera.",
+      "start": 17.34,
+      "end": 37.5
+    },
+    "6": {
+      "text": "Uwo ni we uzasanganya imitima y'abana n'iya ba se, kugira ngo ntazaza kurimbuza isi umuvumo.”",
+      "start": 43.63,
+      "end": 44.09
+    }
+  }
+}

@@ -1,0 +1,888 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 119,
+  "verses": {
+    "1": {
+      "text": "Hahirwa abagenda batunganye,Bakagendera mu mategeko y'Uwiteka.",
+      "start": 8.45,
+      "end": 22.59
+    },
+    "2": {
+      "text": "Hahirwa abitondera ibyo yahamije,Bakamushakisha umutima wose.",
+      "start": 42.07,
+      "end": 42.98
+    },
+    "3": {
+      "text": "Ni koko nta cy'ubugoryi bakora,Bagendera mu nzira ze.",
+      "start": 27.6,
+      "end": 35.41
+    },
+    "4": {
+      "text": "Wategekeye amategeko wigishije,Kugira ngo bayitondere n'umwete.",
+      "start": 40.09,
+      "end": 41.82
+    },
+    "5": {
+      "text": "Icyampa inzira zanjye zigakomerera,Kwitondera amategeko wandikishije.",
+      "start": 20.88,
+      "end": 27.87
+    },
+    "6": {
+      "text": "Ubwo nzita ku byo wategetse byose,Ni bwo ntazakorwa n'isoni.",
+      "start": 36.91,
+      "end": 37.33
+    },
+    "7": {
+      "text": "Nzagushimisha umutima utunganye,Nimara kwiga amateka yawe yo gukiranuka.",
+      "start": 10.39,
+      "end": 34.32
+    },
+    "8": {
+      "text": "Nzajya nitondera amategeko wandikishije,Ntundeke rwose.",
+      "start": 39.31,
+      "end": 40.44
+    },
+    "9": {
+      "text": "Umusore azeza inzira ye ate?Azayejesha kuyitondera nk'uko ijambo ryawe ritegeka.",
+      "start": 6.22,
+      "end": 15.63
+    },
+    "10": {
+      "text": "Nagushakishije umutima wose,Ntukunde ko nyoba ngo ndeke ibyo wategetse.",
+      "start": 31.27,
+      "end": 36.94
+    },
+    "11": {
+      "text": "Nabikiye ijambo ryawe mu mutima wanjye,Kugira ngo ntagucumuraho.",
+      "start": 6.06,
+      "end": 31.92
+    },
+    "12": {
+      "text": "Uwiteka, uri uwo guhimbazwa,Ujye unyigisha amategeko wandikishije.",
+      "start": 13.74,
+      "end": 20.37
+    },
+    "13": {
+      "text": "Iminwa yanjye yatekerereje abantu,Amateka y'akanwa kawe yose.",
+      "start": 33.61,
+      "end": 39.09
+    },
+    "14": {
+      "text": "Njya nishimira inzira y'ibyo wahamije,Ngo nyihwanye n'ubutunzi bwose.",
+      "start": 42.87,
+      "end": 44.91
+    },
+    "15": {
+      "text": "Nzibwira amategeko wigishije,Kandi nzita ku nzira zawe.",
+      "start": 22.78,
+      "end": 41.04
+    },
+    "16": {
+      "text": "Nzishimira amategeko wandikishije,Sinzibagirwa ijambo ryawe.",
+      "start": 24.75,
+      "end": 33.62
+    },
+    "17": {
+      "text": "Ugirire neza umugaragu wawe,Kugira ngo mbeho nitondere ijambo ryawe.",
+      "start": 39.0,
+      "end": 44.01
+    },
+    "18": {
+      "text": "Hwejesha amaso yanjye,Kugira ngo ndebe ibitangaza byo mu mategeko yawe.",
+      "start": 22.95,
+      "end": 39.22
+    },
+    "19": {
+      "text": "Ndi umusuhuke mu isi,Ntumpishe ibyo wategetse.",
+      "start": 40.45,
+      "end": 44.36
+    },
+    "20": {
+      "text": "Umutima wanjye ushenguwe no kwifuza,Ujya wifuza amateka yawe ibihe byose.",
+      "start": 36.11,
+      "end": 44.18
+    },
+    "21": {
+      "text": "Uhana abībone ari bo bivume,Byiyobagiza ibyo wategetse.",
+      "start": 27.57,
+      "end": 35.85
+    },
+    "22": {
+      "text": "Unkureho umugayo n'igisuzuguriro,Kuko njya nitondera ibyo wahamije.",
+      "start": 20.42,
+      "end": 39.72
+    },
+    "23": {
+      "text": "N'abakomeye bicaraga bamvuga nabi,Ariko umugaragu wawe nkibwira amategeko wandikishije.",
+      "start": 36.61,
+      "end": 38.16
+    },
+    "24": {
+      "text": "Kandi nishimira ibyo wahamije,Ni byo bingīra inama.",
+      "start": 43.68,
+      "end": 44.24
+    },
+    "25": {
+      "text": "Umutima wanjye womatanye n'umukungugu,Unzure nk'uko ijambo ryawe ryasezeranije.",
+      "start": 11.44,
+      "end": 19.54
+    },
+    "26": {
+      "text": "Nagutekerereje inzira zanjye uransubiza,Ujye unyigisha amategeko wandikishije.",
+      "start": 28.52,
+      "end": 37.49
+    },
+    "27": {
+      "text": "Umenyeshe inzira y'amategeko wigishije,Kugira ngo nibwire imirimo itangaza wakoze.",
+      "start": 42.2,
+      "end": 43.62
+    },
+    "28": {
+      "text": "Umutima wanjye urijijwe n'agahinda,Nkomeza nk'uko ijambo ryawe ryasezeranije.",
+      "start": 43.23,
+      "end": 44.03
+    },
+    "29": {
+      "text": "Unkureho inzira y'ibinyoma,Umpere amategeko yawe ubuntu.",
+      "start": 43.76,
+      "end": 44.97
+    },
+    "30": {
+      "text": "Nahisemo inzira y'umurava,Nashyize amateka yawe imbere yanjye.",
+      "start": 25.48,
+      "end": 30.36
+    },
+    "31": {
+      "text": "Nomatanye n'ibyo wahamije,Uwiteka, ntunkoze isoni.",
+      "start": 27.9,
+      "end": 40.87
+    },
+    "32": {
+      "text": "Nzagenda niruka mu nzira y'ibyo wategetse,Ubwo uzagūra umutima wanjye.",
+      "start": 20.77,
+      "end": 33.72
+    },
+    "33": {
+      "text": "Uwiteka, ujye unyigisha inzira y'amategeko wandikishije:Kugira ngo nyitondere kugeza ku mperuka.",
+      "start": 34.36,
+      "end": 37.42
+    },
+    "34": {
+      "text": "Umpe ubwenge, kugira ngo nitondere amategeko yawe;Nyitondereshe umutima wose.",
+      "start": 10.92,
+      "end": 37.98
+    },
+    "35": {
+      "text": "Uncishe mu nzira y'ibyo wategetse,Kuko ari byo nishimira.",
+      "start": 16.69,
+      "end": 22.17
+    },
+    "36": {
+      "text": "Uhindurire umutima wanjye ku byo wahamije,Ariko si ku ndamu mbi.",
+      "start": 33.08,
+      "end": 44.32
+    },
+    "37": {
+      "text": "Ukebukishe amaso yanjye ye kureba ibitagira umumaro,Unzurire mu nzira zawe.",
+      "start": 41.15,
+      "end": 43.74
+    },
+    "38": {
+      "text": "Ukomereze umugaragu wawe ijambo ryawe,Ryasezeranijwe abakubaha.",
+      "start": 22.12,
+      "end": 25.57
+    },
+    "39": {
+      "text": "Unkureho umugayo ntinya,Kuko amateka yawe ari meza.",
+      "start": 6.58,
+      "end": 16.73
+    },
+    "40": {
+      "text": "Dore njya nifuza amategeko wigishije,Unzure ku bwo gukiranuka kwawe.",
+      "start": 11.12,
+      "end": 37.79
+    },
+    "41": {
+      "text": "Uwiteka, imbabazi zawe zingereho,Ni zo gakiza kawe nk'uko ijambo ryawe ryasezeranije.",
+      "start": 8.88,
+      "end": 15.65
+    },
+    "42": {
+      "text": "Ni ho nzabona icyo mbwira untutse,Kuko niringira ijambo ryawe.",
+      "start": 16.4,
+      "end": 43.04
+    },
+    "43": {
+      "text": "Kandi ntukure rwose ijambo ry'ukuri mu kanwa kanjye,Kuko njya niringira kubona amateka yawe.",
+      "start": 28.32,
+      "end": 44.02
+    },
+    "44": {
+      "text": "Ni ho nzajya nitondera amategeko yawe,Ubudasiba iteka ryose.",
+      "start": 15.95,
+      "end": 24.18
+    },
+    "45": {
+      "text": "Kandi nzagendana umudendezo,Kuko njya ndondora amategeko wigishije.",
+      "start": 32.23,
+      "end": 35.46
+    },
+    "46": {
+      "text": "Nzavugira imbere y'abami ibyo wahamije,Ne gukorwa n'isoni.",
+      "start": 19.89,
+      "end": 24.31
+    },
+    "47": {
+      "text": "Kandi nzishimira ibyo wategetse,Ndabikunda.",
+      "start": 4.94,
+      "end": 35.64
+    },
+    "48": {
+      "text": "Kandi nzamanikira amaboko ibyo wategetse, ndabikunda,Kandi nzibwira amategeko wandikishije.",
+      "start": 44.94,
+      "end": 44.97
+    },
+    "49": {
+      "text": "Wibuke ijambo wasezeranije umugaragu wawe,Kuko wanyiringije.",
+      "start": 13.93,
+      "end": 17.93
+    },
+    "50": {
+      "text": "Iki ni cyo kimara umubabaro mu makuba yanjye no mu byago byanjye,Ni uko ijambo ryawe ryanzuye.",
+      "start": 42.38,
+      "end": 43.67
+    },
+    "51": {
+      "text": "Abibone bajya bankoba cyane,Ariko sinteshuke ngo mve mu mategeko yawe.",
+      "start": 27.15,
+      "end": 39.93
+    },
+    "52": {
+      "text": "Uwiteka, njya nibuka amateka yawe ya kera,Nkīmara umubabaro.",
+      "start": 36.91,
+      "end": 42.93
+    },
+    "53": {
+      "text": "Uburakari bwotsa buramfashe,Ntewe n'abanyabyaha bareka amategeko yawe.",
+      "start": 44.63,
+      "end": 44.99
+    },
+    "54": {
+      "text": "Amategeko wandikishije abereye indirimbo zanjye,Mu nzu y'ubusuhuke bwanjye.",
+      "start": 5.19,
+      "end": 35.43
+    },
+    "55": {
+      "text": "Uwiteka, njya nibuka izina ryawe nijoro,Nkitondera amategeko yawe.",
+      "start": 34.54,
+      "end": 42.0
+    },
+    "56": {
+      "text": "Iki ni cyo nahawe:Ni ukwitondera amategeko wigishije.",
+      "start": 14.55,
+      "end": 42.5
+    },
+    "57": {
+      "text": "Uwiteka ni we mugabane wanjye,Navuze yuko nzitondera amagambo yawe.",
+      "start": 32.11,
+      "end": 34.84
+    },
+    "58": {
+      "text": "Njya ngushakisha umutima wose kundebana urukundo,Umbabarire, nk'uko ijambo ryawe ryasezeranije.",
+      "start": 13.8,
+      "end": 22.66
+    },
+    "59": {
+      "text": "Njya ntekereza inzira zanjye,Ngahindurira ibirenge byanjye ku byo wahamije.",
+      "start": 18.09,
+      "end": 39.04
+    },
+    "60": {
+      "text": "Ngatebuka sintinde,Kwitondera ibyo wategetse.",
+      "start": 1.9,
+      "end": 42.63
+    },
+    "61": {
+      "text": "Ikigoyi cy'abanyabyaha kirambohaboshye,Ariko sinibagirwa amategeko yawe.",
+      "start": 11.94,
+      "end": 33.76
+    },
+    "62": {
+      "text": "Mu gicuku nzakanguka ngushimire,Amateka yawe yo gukiranuka.",
+      "start": 24.29,
+      "end": 28.81
+    },
+    "63": {
+      "text": "Mbana n'abakubaha bose,N'abitondera amategeko wigishije.",
+      "start": 2.81,
+      "end": 42.65
+    },
+    "64": {
+      "text": "Uwiteka, isi yuzuye imbabazi zawe,Ujye unyigisha amategeko wandikishije.",
+      "start": 34.02,
+      "end": 34.57
+    },
+    "65": {
+      "text": "Uwiteka, wagiriye neza umugaragu wawe,Nk'uko ijambo ryawe ryasezeranije.",
+      "start": 12.4,
+      "end": 24.13
+    },
+    "66": {
+      "text": "Ujye unyigisha guhitamo neza no kumenya ubwenge,Kuko nizera amategeko yawe.",
+      "start": 31.28,
+      "end": 39.7
+    },
+    "67": {
+      "text": "Ntarababazwa narayobaga,Ariko none nitondera ijambo ryawe.",
+      "start": 37.39,
+      "end": 40.03
+    },
+    "68": {
+      "text": "Uri mwiza kandi ugira neza,Ujye unyigisha amategeko wandikishije.",
+      "start": 33.67,
+      "end": 38.64
+    },
+    "69": {
+      "text": "Abibone bajya bandemera ibinyoma,Ariko jyeweho nzitonderesha amategeko yawe umutima wanjye wose.",
+      "start": 9.89,
+      "end": 11.84
+    },
+    "70": {
+      "text": "Imitima yabo ihonjotse nk'ibinure,Ariko jyeweho nishimira amategeko yawe.",
+      "start": 6.87,
+      "end": 10.43
+    },
+    "71": {
+      "text": "Kubabazwa kwangiriye umumaro,Kugira ngo nige amategeko wandikishije.",
+      "start": 34.29,
+      "end": 41.2
+    },
+    "72": {
+      "text": "Amategeko yo mu kanwa kawe ni ay'igiciro kuri jye,Kiruta icy'ibice ibihumbi by'ifeza n'izahabu.",
+      "start": 22.68,
+      "end": 39.14
+    },
+    "73": {
+      "text": "Intoki zawe ni zo zandemye, ni zo zambumbye,Umpe ubwenge kugira ngo nige ibyo wategetse.",
+      "start": 23.01,
+      "end": 27.59
+    },
+    "74": {
+      "text": "Abakūbaha bazandeba bishime,Kuko niringira ijambo ryawe.",
+      "start": 5.11,
+      "end": 27.79
+    },
+    "75": {
+      "text": "Uwiteka, nzi yuko amateka yawe ari ayo gukiranuka,Kandi yuko umurava ari wo waguteye kuncisha bugufi.",
+      "start": 5.75,
+      "end": 21.9
+    },
+    "76": {
+      "text": "Ndakwinginze, imbabazi zawe zimare umubabaro,Nk'uko ijambo ryawe riri wasezeranije umugaragu wawe.",
+      "start": 22.0,
+      "end": 39.95
+    },
+    "77": {
+      "text": "Ibambe ryawe ringereho kugira ngo mbeho,Kuko amategeko yawe ari yo munezero wanjye.",
+      "start": 44.96,
+      "end": 44.99
+    },
+    "78": {
+      "text": "Abībone bakorwe n'isoni,Kuko bandenganishije ibinyoma,Ariko jyeweho nzajya nibwira amategeko yawe.",
+      "start": 7.49,
+      "end": 22.2
+    },
+    "79": {
+      "text": "Abakūbaha bampindukirire,Kugira ngo bamenye ibyo wahamije.",
+      "start": 14.03,
+      "end": 23.89
+    },
+    "80": {
+      "text": "Umutima wanjye utungane mu mategeko wandikishije,Kugira ngo ne gukorwa n'isoni.",
+      "start": 6.41,
+      "end": 28.03
+    },
+    "81": {
+      "text": "Umutima wanjye ugushwa isari no kwifuza agakiza kawe,Ariko niringira ijambo ryawe.",
+      "start": 32.98,
+      "end": 44.42
+    },
+    "82": {
+      "text": "Amaso yanjye amarwa no kwifuza ijambo ryawe,Nkivuga nti “Uzamara umubabaro ryari?”",
+      "start": 36.68,
+      "end": 42.71
+    },
+    "83": {
+      "text": "Kuko mpindutse nk'imvumba y'uruhu iba ku mwotsi,Ariko sinibagirwe amategeko wandikishije.",
+      "start": 41.96,
+      "end": 42.98
+    },
+    "84": {
+      "text": "Iminsi y'ubugingo bw'umugaragu wawe ni ingahe?Uzasohoza ryari iteka ku bangenza?",
+      "start": 8.11,
+      "end": 16.27
+    },
+    "85": {
+      "text": "Abibone badakurikiza amategeko yawe,Bandimiye amashya.",
+      "start": 39.98,
+      "end": 40.24
+    },
+    "86": {
+      "text": "Ibyo wategetse byose ni umurava,Bangenjesha ibinyoma, ntabara.",
+      "start": 18.87,
+      "end": 42.53
+    },
+    "87": {
+      "text": "Bashigaje hato bakandimbura mu isi,Ariko sinareka amategeko wigishije.",
+      "start": 29.48,
+      "end": 33.1
+    },
+    "88": {
+      "text": "Unzure nk'uko imbabazi zawe ziri,Kugira ngo nitondere ibyo akanwa kawe kahamije.",
+      "start": 13.96,
+      "end": 23.53
+    },
+    "89": {
+      "text": "Uwiteka, iteka ryose,Ijambo ryawe rihora mu ijuru rihamye.",
+      "start": 40.74,
+      "end": 41.16
+    },
+    "90": {
+      "text": "Umurava wawe uhoraho ibihe byose,Wakomeje isi igumaho.",
+      "start": 8.55,
+      "end": 29.89
+    },
+    "91": {
+      "text": "Amategeko yawe ni yo atuma byose bibaho uyu munsi,Kuko byose bigukorera.",
+      "start": 1.07,
+      "end": 16.8
+    },
+    "92": {
+      "text": "Iyaba amategeko yawe atari yo munezero wanjye,Cya gihe mba nararimbuwe n'umubabaro wanjye.",
+      "start": 20.3,
+      "end": 34.57
+    },
+    "93": {
+      "text": "Ntabwo nzibagirwa amategeko wigishije,Kuko ari yo wanzurishije.",
+      "start": 38.43,
+      "end": 38.75
+    },
+    "94": {
+      "text": "Ndi uwawe nkiza,Kuko ndondora amategeko wigishije.",
+      "start": 37.99,
+      "end": 42.02
+    },
+    "95": {
+      "text": "Abanyabyaha bajya bantegerereza kundimbura,Ariko nzita ku byo wahamije.",
+      "start": 8.96,
+      "end": 20.78
+    },
+    "96": {
+      "text": "Narebye yuko ibitunganye rwose byose bifite aho bigarukira,Ariko amategeko yawe ni magari cyane.",
+      "start": 18.86,
+      "end": 37.08
+    },
+    "97": {
+      "text": "Amategeko yawe nyakunda ubu bugeni,Ni yo nibwira umunsi ukīra.",
+      "start": 19.72,
+      "end": 32.38
+    },
+    "98": {
+      "text": "Ibyo wategetse bituma ndusha abanzi banjye ubwenge,Kuko bihorana nanjye iteka.",
+      "start": 35.27,
+      "end": 37.64
+    },
+    "99": {
+      "text": "Mfite ubwenge buruta ubw'abigisha banjye bose,Kuko ibyo wahamije ari ibyo nibwira.",
+      "start": 9.96,
+      "end": 24.45
+    },
+    "100": {
+      "text": "Ndajijuka nkarusha abasaza,Kuko njya nitondera amategeko wigishije.",
+      "start": 21.19,
+      "end": 27.44
+    },
+    "101": {
+      "text": "Njya ndinda ibirenge byanjye inzira mbi zose,Kugira ngo nitondere ijambo ryawe.",
+      "start": 24.68,
+      "end": 32.97
+    },
+    "102": {
+      "text": "Simva mu mateka yawe,Kuko ari wowe wanyigishije.",
+      "start": 19.79,
+      "end": 21.57
+    },
+    "103": {
+      "text": "Amagambo yawe aryohereye ubu bugeni mu nkanka zanjye,Arusha ubuki kuryohera mu kanwa kanjye.",
+      "start": 35.72,
+      "end": 44.31
+    },
+    "104": {
+      "text": "Amategeko wigishije ampesha guhitamo,Ni cyo gituma nanga inzira z'ibinyoma zose.",
+      "start": 29.96,
+      "end": 41.42
+    },
+    "105": {
+      "text": "Ijambo ryawe ni itabaza ry'ibirenge byanjye,Ni umucyo umurikira inzira yanjye.",
+      "start": 15.1,
+      "end": 37.45
+    },
+    "106": {
+      "text": "Nararahiye ndabikomeza,Yuko nzitondera amateka yawe yo gukiranuka.",
+      "start": 34.07,
+      "end": 43.09
+    },
+    "107": {
+      "text": "Ndababazwa cyane,Uwiteka, unzure nk'uko ijambo ryawe ryasezeranije.",
+      "start": 36.96,
+      "end": 42.05
+    },
+    "108": {
+      "text": "Uwiteka ndakwinginze,Wemere amaturo y'akanwa kanjye ava mu rukundo,Kandi ujye unyigisha amateka yawe.",
+      "start": 41.21,
+      "end": 43.11
+    },
+    "109": {
+      "text": "Ubugingo bwanjye buri mu kaga iteka,Ariko sinibagirwa amategeko yawe.",
+      "start": 32.41,
+      "end": 35.0
+    },
+    "110": {
+      "text": "Abanyabyaha bajya bantega ikigoyi,Ariko sinyobe amategeko wigishije.",
+      "start": 29.09,
+      "end": 29.89
+    },
+    "111": {
+      "text": "Ibyo wahamije nabyendeye kuba umwandu wanjye iteka,Kuko ari byo byishimo by'umutima wanjye.",
+      "start": 24.71,
+      "end": 44.67
+    },
+    "112": {
+      "text": "Nshyize umutima wanjye ku gusohoza amategeko yawe,Iteka ryose kugeza ku mperuka.",
+      "start": 23.82,
+      "end": 25.34
+    },
+    "113": {
+      "text": "Nanga ab'imitima ibiri,Ariko amategeko yawe ndayakunda.",
+      "start": 0.62,
+      "end": 5.98
+    },
+    "114": {
+      "text": "Ni wowe bwihisho bwanjye n'ingabo inkingira,Niringira ijambo ryawe.",
+      "start": 2.39,
+      "end": 7.93
+    },
+    "115": {
+      "text": "Mwa nkozi z'ibibi mwe, nimuve aho ndi,Kugira ngo nitondere ibyo Imana yanjye yategetse.",
+      "start": 5.88,
+      "end": 44.69
+    },
+    "116": {
+      "text": "Umbere ubwishingikirizo nk'uko ijambo ryawe ryasezeranije,Kugira ngo mbeho ne kuzakozwa isoni n'ibyiringiro byanjye.",
+      "start": 30.73,
+      "end": 32.81
+    },
+    "117": {
+      "text": "Undamire nzaba mu mahoro,Njye nitondera amategeko wandikishije.",
+      "start": 40.89,
+      "end": 43.45
+    },
+    "118": {
+      "text": "Wasuzuguye abiyobagiza bose amategeko wandikishije,Kuko uburiganya bwabo ari ibinyoma.",
+      "start": 19.94,
+      "end": 26.73
+    },
+    "119": {
+      "text": "Ukuraho abanyabyaha bo mu isi bose nk'inkamba,Ni cyo gituma nkunda ibyo wahamije.",
+      "start": 33.11,
+      "end": 38.07
+    },
+    "120": {
+      "text": "Umubiri wanjye uhindishwa umushyitsi no kugutinya,Kandi ntinya amateka yawe.",
+      "start": 22.57,
+      "end": 25.38
+    },
+    "121": {
+      "text": "Njya nkora ibihūra n'amateka n'ibyo gukiranuka,Ntundekere abampata.",
+      "start": 25.56,
+      "end": 26.19
+    },
+    "122": {
+      "text": "Wigwatirize yuko uzagirira neza umugaragu wawe,Abībone be kumpata.",
+      "start": 17.61,
+      "end": 41.78
+    },
+    "123": {
+      "text": "Amaso yanjye amarwa no kwifuza agakiza kawe,N'ijambo ryawe ryo gukiranuka.",
+      "start": 28.69,
+      "end": 42.9
+    },
+    "124": {
+      "text": "Ujye ugirira umugaragu wawe ibihwanye n'imbabazi zawe,Kandi unyigishe amategeko wandikishije.",
+      "start": 10.11,
+      "end": 30.7
+    },
+    "125": {
+      "text": "Ndi umugaragu wawe umpe ubwenge,Kugira ngo menye ibyo wahamije.",
+      "start": 31.06,
+      "end": 40.36
+    },
+    "126": {
+      "text": "Igihe gikwiriye cyo gukora k'Uwiteka kirasohoye,Kuko bahinduye ubusa amategeko yawe.",
+      "start": 6.25,
+      "end": 19.61
+    },
+    "127": {
+      "text": "Ni cyo gituma nkunda ibyo wategetse,Nkabirutisha izahabu naho yaba izahabu nziza.",
+      "start": 11.87,
+      "end": 23.24
+    },
+    "128": {
+      "text": "Ni cyo gituma nibwira yuko amategeko wigishije yose atunganye,Kandi nanga inzira z'ibinyoma zose.",
+      "start": 39.9,
+      "end": 43.69
+    },
+    "129": {
+      "text": "Ibyo wahamije ni ibitangaza,Ni cyo gituma umutima wanjye ubyitondera.",
+      "start": 16.7,
+      "end": 39.67
+    },
+    "130": {
+      "text": "Guhishurirwa amagambo yawe kuzana umucyo,Guha abaswa ubwenge.",
+      "start": 39.59,
+      "end": 42.41
+    },
+    "131": {
+      "text": "Nasama akanwa nkahagira,Kuko nifuza amategeko yawe.",
+      "start": 38.51,
+      "end": 43.05
+    },
+    "132": {
+      "text": "Unkebuke umbabarire,Nk'uko umenyereye kubabarira abakunda izina ryawe.",
+      "start": 10.9,
+      "end": 27.67
+    },
+    "133": {
+      "text": "Ujye utunganya intambwe zanjye mu ijambo ryawe,Gukiranirwa kose kwe kuntegeka.",
+      "start": 16.01,
+      "end": 25.53
+    },
+    "134": {
+      "text": "Uncungure ne guhatwa n'abantu,Kugira ngo nitondere amategeko wigishije.",
+      "start": 17.18,
+      "end": 21.86
+    },
+    "135": {
+      "text": "Umurikishirize umugaragu wawe mu maso hawe,Unyigishe amategeko wandikishije.",
+      "start": 30.83,
+      "end": 36.62
+    },
+    "136": {
+      "text": "Amaso yanjye atembyemo imigezi y'amazi,Kuko batitondera amategeko yawe.",
+      "start": 10.78,
+      "end": 37.71
+    },
+    "137": {
+      "text": "Uwiteka, uri umukiranutsi,Amateka yawe aratunganye.",
+      "start": 13.3,
+      "end": 42.83
+    },
+    "138": {
+      "text": "Ibyo wahamije wabitegekesheje gukiranuka,N'umurava nyakuri.",
+      "start": 12.25,
+      "end": 32.33
+    },
+    "139": {
+      "text": "Ishyaka ryanjye rirandimbuye,Kuko abanzi banjye bibagiwe amagambo yawe.",
+      "start": 20.58,
+      "end": 42.32
+    },
+    "140": {
+      "text": "Ijambo ryawe ryaravugutiwe cyane,Ni cyo gituma umugaragu wawe ndikunda.",
+      "start": 32.78,
+      "end": 36.87
+    },
+    "141": {
+      "text": "Ndoroheje baransuzugura,Ariko sinibagirwa amategeko wigishije.",
+      "start": 27.7,
+      "end": 29.43
+    },
+    "142": {
+      "text": "Gukiranuka kwawe ni ugukiranuka kw'iteka ryose,Amategeko yawe ni ukuri.",
+      "start": 27.9,
+      "end": 39.08
+    },
+    "143": {
+      "text": "Agahinda n'umubabaro biranteye,Ariko, ibyo wategetse ni byo munezero wanjye.",
+      "start": 9.03,
+      "end": 25.44
+    },
+    "144": {
+      "text": "Ibyo wahamije ni ibyo gukiranuka iteka ryose,Umpe ubwenge kugira ngo mbeho.",
+      "start": 37.94,
+      "end": 44.11
+    },
+    "145": {
+      "text": "Ntakishije umutima wose, Uwiteka nsubiza,Nzitondera amategeko wandikishije.",
+      "start": 15.24,
+      "end": 23.23
+    },
+    "146": {
+      "text": "Ndagutakiye nkiza,Kugira ngo nitondere ibyo wahamije.",
+      "start": 23.76,
+      "end": 25.23
+    },
+    "147": {
+      "text": "Njya nzinduka umuseke utaratambika ngataka,Amagambo yawe ni yo niringira.",
+      "start": 42.21,
+      "end": 44.37
+    },
+    "148": {
+      "text": "Amaso yanjye abanziriza ibicuku,Kugira ngo nibwire ijambo ryawe.",
+      "start": 32.42,
+      "end": 44.04
+    },
+    "149": {
+      "text": "Umva ijwi ryanjye nk'uko imbabazi zawe ziri,Uwiteka, unzure nk'uko iteka ryawe riri.",
+      "start": 5.79,
+      "end": 20.65
+    },
+    "150": {
+      "text": "Abangenjesha igomwa baregereye,Bishyize kure y'amategeko yawe.",
+      "start": 15.03,
+      "end": 39.91
+    },
+    "151": {
+      "text": "Uwiteka, uri bugufi,Ibyo wategetse byose ni ukuri.",
+      "start": 32.39,
+      "end": 34.12
+    },
+    "152": {
+      "text": "Uhereye kera namenyeshejwe n'ibyo wahamije,Yuko wabikomeje iteka ryose.",
+      "start": 8.13,
+      "end": 37.95
+    },
+    "153": {
+      "text": "Ita ku mubabaro wanjye unkize,Kuko ntibagirwa amategeko yawe.",
+      "start": 36.37,
+      "end": 40.09
+    },
+    "154": {
+      "text": "Umburanire uncungure,Unzure nk'uko ijambo ryawe ryasezeranije.",
+      "start": 22.82,
+      "end": 27.91
+    },
+    "155": {
+      "text": "Agakiza kari kure y'abanyabyaha,Kuko batarondora amategeko wandikishije.",
+      "start": 35.35,
+      "end": 44.68
+    },
+    "156": {
+      "text": "Uwiteka, imbabazi zawe zirakomeye,Unzure nk'uko amateka yawe ari.",
+      "start": 14.91,
+      "end": 26.28
+    },
+    "157": {
+      "text": "Abangenza n'abanzi banjye ni benshi,Ariko sinteshuka ngo mve mu byo wahamije.",
+      "start": 15.91,
+      "end": 33.93
+    },
+    "158": {
+      "text": "Nabonye abava mu isezerano ndabīnuba,Kuko batitondera ijambo ryawe.",
+      "start": 13.51,
+      "end": 22.92
+    },
+    "159": {
+      "text": "Ita ku rukundo nkunda amategeko wigishije,Uwiteka, unzure nk'uko imbabazi zawe ziri.",
+      "start": 37.96,
+      "end": 40.55
+    },
+    "160": {
+      "text": "Indunduro y'ijambo ryawe ryose ni ukuri,Amateka yawe yo gukiranuka ahoraho iteka ryose hadasigaye na rimwe.",
+      "start": 17.83,
+      "end": 35.67
+    },
+    "161": {
+      "text": "Abakomeye bajya bangenzereza ubusa,Ariko amagambo yawe ni yo ahindisha umushyitsi umutima wanjye.",
+      "start": 18.19,
+      "end": 18.86
+    },
+    "162": {
+      "text": "Nishimira ijambo ryawe,Nk'ubonye iminyago myinshi.",
+      "start": 35.2,
+      "end": 37.2
+    },
+    "163": {
+      "text": "Nanga ibinyoma, mbyanga urunuka,Ariko amategeko yawe ndayakunda.",
+      "start": 36.54,
+      "end": 42.34
+    },
+    "164": {
+      "text": "Uko bukeye ngushimira karindwi,Amateka yawe yo gukiranuka.",
+      "start": 26.57,
+      "end": 30.76
+    },
+    "165": {
+      "text": "Abakunda amategeko yawe bagira amahoro menshi,Nta kigusha bafite.",
+      "start": 29.9,
+      "end": 31.17
+    },
+    "166": {
+      "text": "Uwiteka, njya niringira agakiza kawe,Kandi ngakora ibyo wategetse.",
+      "start": 10.87,
+      "end": 18.84
+    },
+    "167": {
+      "text": "Umutima wanjye ujya witondera ibyo wahamije,Kandi mbikunda rwose.",
+      "start": 41.38,
+      "end": 44.04
+    },
+    "168": {
+      "text": "Njya nitondera amategeko wigishije n'ibyo wahamije,Kuko inzira zawe zose ziri imbere yawe.",
+      "start": 13.18,
+      "end": 19.46
+    },
+    "169": {
+      "text": "Uwiteka, gutaka kwanjye kukwegere,Umpe ubwenge nk'uko ijambo ryawe ryasezeranije.",
+      "start": 37.81,
+      "end": 42.98
+    },
+    "170": {
+      "text": "Kwinginga kwanjye kujye imbere yawe,Unkize nk'uko ijambo ryawe ryasezeranije.",
+      "start": 11.39,
+      "end": 34.18
+    },
+    "171": {
+      "text": "Iminwa yanjye ivuge ishimwe,Kuko unyigisha amategeko wandikishije.",
+      "start": 2.55,
+      "end": 16.48
+    },
+    "172": {
+      "text": "Ururimi rwanjye ruririmbe ijambo ryawe,Kuko ibyo wategetse byose ari ibyo gukiranuka.",
+      "start": 3.2,
+      "end": 24.53
+    },
+    "173": {
+      "text": "Ukuboko kwawe kube kwiteguye kuntabara,Kuko nahisemo amategeko wigishije.",
+      "start": 39.32,
+      "end": 43.69
+    },
+    "174": {
+      "text": "Uwiteka, njya nifuza agakiza kawe,Kandi amategeko yawe ni yo munezero wanjye.",
+      "start": 30.98,
+      "end": 43.72
+    },
+    "175": {
+      "text": "Umutima wanjye ubeho kugira ngo ugushime,Amateka yawe antabare.",
+      "start": 32.84,
+      "end": 41.32
+    },
+    "176": {
+      "text": "Nayobye nk'intama izimiye,Shaka umugaragu wawe,Kuko ntibagirwa amategeko yawe.",
+      "start": 42.44,
+      "end": 43.43
+    }
+  }
+}

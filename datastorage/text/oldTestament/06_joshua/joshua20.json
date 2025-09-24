@@ -1,0 +1,53 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Yosuwa ati",
+      "start": 21.56,
+      "end": 22.67
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli uti ‘Mwitoranyirize imidugudu y'ubuhungiro, iyo nabategekesheje ururimi rwa Mose,",
+      "start": 12.46,
+      "end": 38.76
+    },
+    "3": {
+      "text": "kugira ngo gatozi wishe umuntu wese, atabyitumye cyangwa atabizi ayihungiremo, kandi izajye ibabera ubuhungiro bwo guhunga umuhōzi.’",
+      "start": 7.56,
+      "end": 44.55
+    },
+    "4": {
+      "text": "Gatozi uhungiye muri umwe muri iyo midugudu, azahagarare ku irembo ry'uwo mudugudu yisobanurire abatware bawo, na bo bazaherako bamwinjiza mu mudugudu bamuhe aho aba.",
+      "start": 6.34,
+      "end": 8.52
+    },
+    "5": {
+      "text": "Kandi umuhōzi namukurikirayo ntibazamuhe gatozi ngo amuhore, kuko yishe mugenzi we atabyitumye, adasanzwe ari umwanzi we.",
+      "start": 32.97,
+      "end": 43.39
+    },
+    "6": {
+      "text": "Nuko azagume muri uwo mudugudu kugeza ubwo azahagarara imbere y'iteraniro gucirwa urubanza na bo, ukageza n'igihe umutambyi mukuru yasanze mu butambyi azapfira, maze gatozi azaherako agaruke iwabo mu rugo rwe mu mudugudu yahunzemo.”",
+      "start": 14.69,
+      "end": 26.06
+    },
+    "7": {
+      "text": "Nuko bitoranyiriza i Kedeshi y'i Galilaya mu gihugu cy'imisozi y'i Bunafutali, n'i Shekemu mu gihugu cy'imisozi y'i Bwefurayimu, n'i Kiriyataruba (ari yo Heburoni) mu gihugu cy'imisozi y'i Buyuda.",
+      "start": 16.33,
+      "end": 30.81
+    },
+    "8": {
+      "text": "Kandi hakurya ya Yorodani iburasirazuba bw'i Yeriko, batoranyayo i Beseri mu butayu bwo mu bitwa h'umuryango w'Abarubeni, n'i Ramoti y'i Galeyadi h'umuryango w'Abagadi, n'i Golani y'i Bashani h'umuryango w'Abamanase.",
+      "start": 22.8,
+      "end": 26.39
+    },
+    "9": {
+      "text": "Iyo ni yo midugudu yakubitiwe Abisirayeli bose n'umunyamahanga wese ubasuhukiyemo, kugira ngo uwishe umuntu wese atabyitumye azahungireyo ye kwicwa n'umuhōzi, kugeza ubwo azahagarara imbere y'iteraniro.",
+      "start": 31.99,
+      "end": 36.96
+    }
+  }
+}

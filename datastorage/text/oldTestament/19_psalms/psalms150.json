@@ -1,0 +1,38 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 150,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Mushimire Imana ahera hayo,Muyishimire mu isanzure ry'imbaraga zayo.",
+      "start": 33.91,
+      "end": 36.78
+    },
+    "2": {
+      "text": "Muyishimire iby'imbaraga yakoze,Muyishime nk'uko bikwiriye gukomera kwayo kwinshi.",
+      "start": 36.73,
+      "end": 43.81
+    },
+    "3": {
+      "text": "Muyishimishe ijwi ry'impanda,Muyishimishe nebelu n'inanga.",
+      "start": 27.43,
+      "end": 27.89
+    },
+    "4": {
+      "text": "Muyishimishe ishako n'imbyino,Muyishimishe ibifite imirya n'imyironge.",
+      "start": 1.3,
+      "end": 4.92
+    },
+    "5": {
+      "text": "Muyishimishe ibyuma bivuza amajwi mato,Muyishimishe ibyuma birenga.",
+      "start": 3.71,
+      "end": 33.43
+    },
+    "6": {
+      "text": "Ibihumeka byose bishime Uwiteka.Haleluya.",
+      "start": 43.46,
+      "end": 43.54
+    }
+  }
+}

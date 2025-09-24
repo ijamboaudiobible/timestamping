@@ -1,0 +1,38 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 70,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi yahimbiwe kuba urwibutso.",
+      "start": 6.66,
+      "end": 17.31
+    },
+    "2": {
+      "text": "Mana, tebuka unkizeUwiteka, tebuka untabare.",
+      "start": 0.51,
+      "end": 17.67
+    },
+    "3": {
+      "text": "Abashaka ubugingo bwanjye bakorwe n'isoni bamware,Abishimira ibyago byanjye basubizwe inyuma,Bagire igisuzuguriro.",
+      "start": 38.74,
+      "end": 39.78
+    },
+    "4": {
+      "text": "Abambwira bati “Ahaa, ahaa!”Basubizwe inyuma ku bw'isoni zabo.",
+      "start": 26.3,
+      "end": 37.5
+    },
+    "5": {
+      "text": "Abagushaka bose bakwishimire bakunezererwe,Abakunda agakiza kawe bajye bavuga bati“Imana ihimbazwe.”",
+      "start": 6.29,
+      "end": 41.02
+    },
+    "6": {
+      "text": "Ariko jyeweho ndi umunyamubabaro n'umukene,Mana, tebuka uze aho ndi,Ni wowe mutabazi wanjye n'umukiza wanjye,Uwiteka, ntutinde.",
+      "start": 19.69,
+      "end": 44.33
+    }
+  }
+}

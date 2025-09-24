@@ -1,0 +1,148 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "Nk'uko urubura rwo mu cyi rudakwiriye,Haba n'imvura yo mu isarura,Ni ko kūbaha umupfapfa bidakwiriye.",
+      "start": 35.5,
+      "end": 43.82
+    },
+    "2": {
+      "text": "Nk'uko igishwi kijarajara,N'intashya uko iguruka,Ni ko n'umuvumo w'ubusa utagira uwo ufataho.",
+      "start": 18.56,
+      "end": 27.34
+    },
+    "3": {
+      "text": "Ikibōko gikwiriye ifarashi,Icyuma mu kanwa gikwiriye indogobe,N'inkoni na yo ikwiriye ibitugu by'abapfapfa.",
+      "start": 41.83,
+      "end": 42.44
+    },
+    "4": {
+      "text": "Ntusubize umupfapfa ibihwanye n'ubupfapfa bwe,Kugira ngo udasa na we.",
+      "start": 12.29,
+      "end": 37.41
+    },
+    "5": {
+      "text": "Subiza umupfapfa ibikwiriye ubupfapfa bwe,Ye kwirata ko ari umunyabwenge.",
+      "start": 42.08,
+      "end": 44.81
+    },
+    "6": {
+      "text": "Utuma umupfapfa,Aba yivunnye amaguru akaba yihaye gupfirwa.",
+      "start": 29.78,
+      "end": 39.76
+    },
+    "7": {
+      "text": "Nk'uko amaguru y'ikimuga agenda ajegajega,Ni ko umugani umera mu kanwa k'umupfapfa.",
+      "start": 25.03,
+      "end": 29.59
+    },
+    "8": {
+      "text": "Guha umupfapfa icyubahiro,Ni nko kujugunya isaho y'utubuyenge tw'igiciro kinini ku kirundo cy'amabuye.",
+      "start": 20.44,
+      "end": 21.74
+    },
+    "9": {
+      "text": "Nk'uko ihwa rihanda mu kiganza cy'umusinzi,Ni ko umugani uciwe n'abapfapfa uvugwa.",
+      "start": 26.78,
+      "end": 40.96
+    },
+    "10": {
+      "text": "Ugurira umupfapfa cyangwa umuhisi,Ameze nk'umurashi ukomeretsa abantu bose.",
+      "start": 18.06,
+      "end": 36.26
+    },
+    "11": {
+      "text": "Nk'uko imbwa isubira ku birutsi byayo,Ni ko umupfapfa asubira ku bupfapfa bwe.",
+      "start": 29.37,
+      "end": 41.08
+    },
+    "12": {
+      "text": "Mbese wabonye umuntu wiyogeza ko ari umunyabwenge?Wapfa kwemera umupfapfa kumurutisha uwo.",
+      "start": 15.11,
+      "end": 35.63
+    },
+    "13": {
+      "text": "Umunyabute arahwaganya ati“Mu nzira hari intare,Ni ukuri iri mu nzira nyabagendwa.”",
+      "start": 6.85,
+      "end": 34.72
+    },
+    "14": {
+      "text": "Nk'uko urugi ruhindukira ku mapata yarwo,Ni ko umunyabute agaragurika ku buriri bwe.",
+      "start": 23.01,
+      "end": 26.35
+    },
+    "15": {
+      "text": "Umunyabute akora ku mbehe,Akananirwa kwitamika.",
+      "start": 12.81,
+      "end": 34.33
+    },
+    "16": {
+      "text": "Umunyabute yibwira ko ari umunyabwenge,Kurusha abantu barindwi basubizanya impamvu.",
+      "start": 30.83,
+      "end": 39.13
+    },
+    "17": {
+      "text": "Umugenzi urakazwa n'intonganya zitamwerekeyeho,Ameze nk'ufashe imbwa amatwi.",
+      "start": 25.37,
+      "end": 25.42
+    },
+    "18": {
+      "text": "Nk'uko umusazi arasa imyambi iriho amafumba bikazana urupfu,",
+      "start": 27.17,
+      "end": 41.71
+    },
+    "19": {
+      "text": "Ni ko umuntu ameze ushukisha umuturanyi we amashyengo,Ati “Nagukinishaga.”",
+      "start": 18.3,
+      "end": 26.59
+    },
+    "20": {
+      "text": "Iyo inkwi zibuze umuriro urashira,Aho inzimuzi zitari intonganya zirashira.",
+      "start": 14.0,
+      "end": 28.76
+    },
+    "21": {
+      "text": "Nk'uko amakara acwekēra bakongeraho andi,Cyangwa inkwi zishyirwa ku muriro,Ni ko ukunda intonganya acana impaka.",
+      "start": 17.04,
+      "end": 30.59
+    },
+    "22": {
+      "text": "Amagambo y'inzimuzi yongorerana aryohera amatwi,Kandi akuzura umutima.",
+      "start": 9.13,
+      "end": 17.97
+    },
+    "23": {
+      "text": "Ururimi ruvuga urukundo ruvanze n'umutima mubi,Ni nk'ikibindi gihomeshejwe inkamba z'ifeza.",
+      "start": 42.37,
+      "end": 44.85
+    },
+    "24": {
+      "text": "Uwangana ahorana amagambo ashukana,Ariko mu mutima we abitsemo uburyarya.",
+      "start": 5.08,
+      "end": 10.83
+    },
+    "25": {
+      "text": "Nagira imvugo nziza ntukamwizere,Kuko mu mutima we harimo ibizira birindwi.",
+      "start": 10.04,
+      "end": 26.15
+    },
+    "26": {
+      "text": "Naho urwango rwe yaruhisha ku buryarya,Ububi bwe buzagaragarira imbere y'iteraniro.",
+      "start": 3.17,
+      "end": 43.89
+    },
+    "27": {
+      "text": "Ucukura urwobo azarugwamo,Kandi uhirika ibuye rizamubirindukana.",
+      "start": 10.53,
+      "end": 20.54
+    },
+    "28": {
+      "text": "Ururimi rubeshya rwanga abo rwakomerekeje,Kandi akanwa gashyeshya kararimbura.",
+      "start": 24.8,
+      "end": 43.24
+    }
+  }
+}

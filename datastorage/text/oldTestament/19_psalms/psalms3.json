@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi, yahimbye ubwo yahungaga Abusalomu umwana we.",
+      "start": 7.17,
+      "end": 11.96
+    },
+    "2": {
+      "text": "Uwiteka, erega abanzi banjye baragwiriye!Abangomeye ni benshi.",
+      "start": 24.03,
+      "end": 36.05
+    },
+    "3": {
+      "text": "Benshi baramvuga bati“Nta gakiza afite ku Mana.”Sela.",
+      "start": 4.37,
+      "end": 17.38
+    },
+    "4": {
+      "text": "Ariko wowe Uwiteka, uri ingabo inkingira,Uri icyubahiro cyanjye, ni wowe ushyira hejuru umutwe wanjye.",
+      "start": 27.08,
+      "end": 37.61
+    },
+    "5": {
+      "text": "Ijwi ryanjye ritakira Uwiteka,Na we akansubiza ari ku musozi we wera.Sela.",
+      "start": 19.89,
+      "end": 37.69
+    },
+    "6": {
+      "text": "Nararyamaga ngasinzira,Ngakanguka kuko Uwiteka ari we ujya andamira.",
+      "start": 36.8,
+      "end": 41.53
+    },
+    "7": {
+      "text": "Sinzatinya abantu inzovu nyinshi,Bangoteye impande zose kugira ngo bantere.",
+      "start": 30.46,
+      "end": 37.08
+    },
+    "8": {
+      "text": "Uwiteka haguruka, Mana yanjye nkiza,Kuko wakubise abanzi banjye bose ku gisendabageni,Waciye amenyo y'abanyabyaha.",
+      "start": 4.81,
+      "end": 5.51
+    },
+    "9": {
+      "text": "Agakiza kabonerwa mu Uwiteka,Umugisha utanga ube ku bantu bawe.Sela.",
+      "start": 37.52,
+      "end": 42.76
+    }
+  }
+}

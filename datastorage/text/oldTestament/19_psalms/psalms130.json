@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 130,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Uwiteka, njya ngutakira ndi imuhengeri.",
+      "start": 39.63,
+      "end": 41.83
+    },
+    "2": {
+      "text": "Mwami, umva ijwi ryanjye,Amatwi yawe atyarire kumva ijwi ryo kwinginga kwanjye.",
+      "start": 14.24,
+      "end": 18.69
+    },
+    "3": {
+      "text": "Uwiteka, wagumya kwibuka ibyo dukiranirwa?Mwami, ni nde wazahagarara adatsinzwe?",
+      "start": 38.78,
+      "end": 40.62
+    },
+    "4": {
+      "text": "Ahubwo kubabarirwa kubonerwa aho uri,Kugira ngo wubahwe.",
+      "start": 4.89,
+      "end": 41.08
+    },
+    "5": {
+      "text": "Ntegereza Uwiteka,Umutima wanjye urategereza,Kandi ijambo rye ni ryo niringira.",
+      "start": 5.64,
+      "end": 16.59
+    },
+    "6": {
+      "text": "Umutima wanjye ugirira Uwiteka amatsiko,Urusha uko abarinzi bayagirira igitondo,Ni koko urusha uko abarinzi bayagirira igitondo.",
+      "start": 39.97,
+      "end": 44.64
+    },
+    "7": {
+      "text": "Wa bwoko bw'Abisirayeli we, ujye wiringira Uwiteka,Kuko imbabazi zibonerwa aho Uwiteka ari,Kandi aho ari ni ho habonerwa gucungurwa kwinshi.",
+      "start": 0.19,
+      "end": 20.42
+    },
+    "8": {
+      "text": "Kandi ni we uzacungura ubwoko bw'Abisirayeli,Abukureho ibyo bwakiraniwe byose.",
+      "start": 28.84,
+      "end": 44.96
+    }
+  }
+}

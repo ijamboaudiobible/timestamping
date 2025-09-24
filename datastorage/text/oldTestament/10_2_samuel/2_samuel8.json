@@ -1,0 +1,98 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo Dawidi anesha Abafilisitiya arabacogoza, anyaga urufunguzo rw'umudugudu w'umurwa, arukura mu maboko y'Abafilisitiya.",
+      "start": 44.33,
+      "end": 44.73
+    },
+    "2": {
+      "text": "Bukeye anesha Abamowabu, maze abarambika hasi mu mirongo abageresha umugozi, inkubwe ebyiri zari iz'abo kwicwa, kandi iya gatatu yose yari iy'abo kurokorwa. Nuko Abamowabu bahinduka abagaragu ba Dawidi, bamuzanira amakoro.",
+      "start": 33.69,
+      "end": 39.64
+    },
+    "3": {
+      "text": "Bukeye Dawidi anesha Hadadezeri mwene Rehobu umwami w'i Soba, ubwo Hadadezeri yajyaga kugomorera ubwami bwe kuri rwa ruzi.",
+      "start": 17.33,
+      "end": 41.08
+    },
+    "4": {
+      "text": "Dawidi amutumuraho ingabo ze z'abagendera ku mafarashi igihumbi na magana arindwi, n'abagabo bigenza inzovu ebyiri. Maze Dawidi atemagura ibitsi by'amafarashi akurura amagare, ariko asigaza amafarashi yakwira amagare ijana.",
+      "start": 34.55,
+      "end": 39.19
+    },
+    "5": {
+      "text": "Bukeye Abasiriya b'i Damasiko baje batabaye Hadadezeri umwami w'i Soba, Dawidi abicamo abantu inzovu ebyiri n'ibihumbi bibiri.",
+      "start": 34.46,
+      "end": 42.62
+    },
+    "6": {
+      "text": "Maze Dawidi ashyiraho ibihome by'abarinzi b'igihugu cy'i Siriya gitwarwa n'i Damasiko, nuko Abasiriya bahinduka abagaragu ba Dawidi bamuzanira amakoro. Uwiteka yajyaga aneshesha Dawidi aho yajyaga hose.",
+      "start": 6.82,
+      "end": 7.31
+    },
+    "7": {
+      "text": "Kandi Dawidi yacujije abagaragu ba Hadadezeri ingabo z'izahabu, azijyana i Yerusalemu.",
+      "start": 26.64,
+      "end": 36.81
+    },
+    "8": {
+      "text": "Kandi Umwami Dawidi akura iminyago y'imiringa myinshi cyane mu midugudu ya Hadadezeri, i Beta n'i Berotayi.",
+      "start": 43.0,
+      "end": 44.94
+    },
+    "9": {
+      "text": "Bukeye Toyi umwami w'i Hamati yumvise ko Dawidi yatsinze ingabo za Hadadezeri zose,",
+      "start": 8.94,
+      "end": 35.82
+    },
+    "10": {
+      "text": "atuma umuhungu we Yoramu ku Mwami Dawidi kumuramutsa no kumushimira ko yarwanye na Hadadezeri akamunesha, kuko Hadadezeri yajyaga arwanya Toyi. Maze Yoramu azana ibintu by'ifeza n'iby'izahabu n'iby'imiringa.",
+      "start": 42.45,
+      "end": 43.44
+    },
+    "11": {
+      "text": "Na byo Umwami Dawidi abyereza Uwiteka hamwe n'ifeza n'izahabu yari yejeje, abikuye mu mahanga yose yanesheje:",
+      "start": 15.05,
+      "end": 31.83
+    },
+    "12": {
+      "text": "iby'i Siriya n'iby'i Mowabu, n'iby'Abamoni n'iby'Abafilisitiya, n'iby'Abamaleki n'ibyo ku munyago banyaze Hadadezeri mwene Rehobu umwami w'i Soba.",
+      "start": 35.21,
+      "end": 37.47
+    },
+    "13": {
+      "text": "Dawidi yibonera izina, ubwo yatabarukaga kuneshereza Abasiriya mu kibaya cy'umunyu. Yari yishe abantu inzovu imwe n'ibihumbi munani.",
+      "start": 23.83,
+      "end": 34.33
+    },
+    "14": {
+      "text": "Nuko ashyiraho ibihome by'abarinzi b'igihugu cya Edomu, abikwiza muri Edomu hose. Abanyedomu bose bahinduka abagaragu ba Dawidi, kandi Uwiteka yajyaga aneshesha Dawidi aho yajyaga hose.",
+      "start": 20.01,
+      "end": 30.45
+    },
+    "15": {
+      "text": "Nuko Dawidi ategeka Isirayeli yose, acira abantu bose imanza zitabera.",
+      "start": 10.79,
+      "end": 18.37
+    },
+    "16": {
+      "text": "Kandi Yowabu mwene Seruya ni we wari umugaba w'ingabo ze, na Yehoshafati mwene Ahiludi ni we wari umucurabwenge.",
+      "start": 12.5,
+      "end": 14.92
+    },
+    "17": {
+      "text": "Kandi Sadoki mwene Ahitubu na Ahimeleki mwene Abiyatari ni bo bari abatambyi, kandi Seraya ni we wari umwanditsi.",
+      "start": 21.79,
+      "end": 35.46
+    },
+    "18": {
+      "text": "Kandi Benaya mwene Yehoyada ni we watwaraga Abakereti n'Abapeleti, kandi bene Dawidi bari abatware b'intebe.",
+      "start": 18.41,
+      "end": 31.43
+    }
+  }
+}

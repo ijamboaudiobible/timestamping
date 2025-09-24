@@ -1,0 +1,188 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 68,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni indirimbo ya Dawidi yitwa Zaburi.",
+      "start": 35.35,
+      "end": 42.0
+    },
+    "2": {
+      "text": "Imana izahaguruka abanzi bayo batatane,Kandi abayanga bazahunga mu maso hayo.",
+      "start": 12.23,
+      "end": 43.14
+    },
+    "3": {
+      "text": "Nk'uko umwotsi utumuka ni ko uzabatumura,Nk'uko ibimamara biyagira imbere y'umuriro,Ni ko abanyamahanga bazarimbukira imbere y'Imana.",
+      "start": 0.02,
+      "end": 37.73
+    },
+    "4": {
+      "text": "Ariko abakiranutsi bazanezerwa,Bazishimira imbere y'Imana,Ni koko bazishima ibyishimo.",
+      "start": 14.0,
+      "end": 40.12
+    },
+    "5": {
+      "text": "Nimuririmbire Imana, muririmbire izina ryawe ishimweMuharurire Imana inzira inyura mu butayu, iri mu igare,Izina ryayo ni YA, mwishimire imbere yayo.",
+      "start": 28.19,
+      "end": 38.83
+    },
+    "6": {
+      "text": "Imana iri mu buturo bwayo bwera,Ni se w'impfubyi n'umucamanza urengera abapfakazi.",
+      "start": 7.94,
+      "end": 23.2
+    },
+    "7": {
+      "text": "Imana ibesha mu mazu abatagira shinge na rugero,Ibohora imbohe ikaziha kugubwa neza,Ariko abagome bakaba mu gihugu gikakaye.",
+      "start": 20.86,
+      "end": 27.19
+    },
+    "8": {
+      "text": "Mana, ubwo wajyaga imbere y'ubwoko bwawe,Ubwo wagendaga mu butayu,Sela.",
+      "start": 25.57,
+      "end": 32.81
+    },
+    "9": {
+      "text": "Isi yahinze igishyitsi,Ijuru riyengera imbere y'Imana,Sinayi iriya ihindira igishyitsi imbere y'Imana,Ni yo Mana y'Abisirayeli.",
+      "start": 20.23,
+      "end": 35.46
+    },
+    "10": {
+      "text": "Mana, wavubiye imvura y'ubuntu umwandu wawe,Wawushubijemo intege ubwo wari urushye.",
+      "start": 23.96,
+      "end": 28.02
+    },
+    "11": {
+      "text": "Ubwoko bwawe bwatuye muri wo,Mana witeguriye umunyamubabaro,Ku bwo kugira neza kwawe.",
+      "start": 29.8,
+      "end": 44.87
+    },
+    "12": {
+      "text": "Umwami Imana yatanze itegeko,Abagore bamamaza inkuru baba benshi.",
+      "start": 13.3,
+      "end": 24.55
+    },
+    "13": {
+      "text": "Abami bagaba ingabo barahunga, barahunga,Umugore usigaye mu rugo ni we ugabanya iminyago.",
+      "start": 7.77,
+      "end": 17.6
+    },
+    "14": {
+      "text": "Mukiryama mu ngo z'intama,Amababa y'inuma akengeranaho ifeza,N'amoya yayo akengeranaho izahabu y'amazi.",
+      "start": 38.24,
+      "end": 44.73
+    },
+    "15": {
+      "text": "Ubwo Ishoborabyose yatatanirizaga abami mu gihugu,Shelegi yagwaga kuri Salumoni.",
+      "start": 23.9,
+      "end": 29.7
+    },
+    "16": {
+      "text": "Umusozi w'i Bashani ni umusozi w'Imana,Umusozi w'i Bashani ni umusozi w'impinga nyinshi.",
+      "start": 31.12,
+      "end": 42.63
+    },
+    "17": {
+      "text": "Mwa misozi y'impinga nyinshi mwe,Ni iki gituma murebana ishyari,Umusozi Imana yashatse kubaho?Ni koko, Uwiteka azawubaho iteka ryose.",
+      "start": 5.57,
+      "end": 28.31
+    },
+    "18": {
+      "text": "Amagare y'Imana abarika inzovu ebyiri, inzovu ebyiri,Ni koko, ni ibihumbi n'ibihumbi,Umwami Imana iri hagati yayo,Sinayi iri ahera ho mu rusengero.",
+      "start": 41.1,
+      "end": 43.73
+    },
+    "19": {
+      "text": "Urazamutse ujya hejuru ujyanye iminyago,Uhērewe impano hagati y'abantu,Ni koko, uziherewe hagati y'abagome na bo,Kugira ngo Uwiteka Imana ibane na bo.",
+      "start": 12.61,
+      "end": 43.58
+    },
+    "20": {
+      "text": "Umwami ahimbazwe utwikorerera umutwaro uko bukeye,Ni we Mana itubera agakiza.Sela.",
+      "start": 31.26,
+      "end": 36.78
+    },
+    "21": {
+      "text": "Imana itubera Imana y'agakiza idukiza kenshi,Kandi Uwiteka Umwami ni we ubasha gukūra mu rupfu.",
+      "start": 34.8,
+      "end": 44.39
+    },
+    "22": {
+      "text": "Ariko Imana izamenagura imitwe y'abanzi bayo,N'igikoba kiriho umusatsi cy'umuntu wese ukomeza kwishyiraho urubanza.",
+      "start": 32.22,
+      "end": 43.63
+    },
+    "23": {
+      "text": "Umwami Imana yaravuze iti“Nzabagarura bave i Bashani,Nzabagarura bave imuhengeri w'inyanja,",
+      "start": 26.81,
+      "end": 43.68
+    },
+    "24": {
+      "text": "Kugira ngo winike ikirenge cyawe mu maraso,Indimi z'imbwa zawe zigabane abanzi bawe.”",
+      "start": 16.9,
+      "end": 39.55
+    },
+    "25": {
+      "text": "Mana, barebye amagenda yawe,Amagenda y'Imana yanjye,Ni yo Mwami wanjye yinjira ahera.",
+      "start": 21.52,
+      "end": 34.5
+    },
+    "26": {
+      "text": "Abaririmbyi bagiye imbere,Abacuranzi bakurikiyeho,Hagati y'abakobwa bavuza amashako.",
+      "start": 33.61,
+      "end": 39.56
+    },
+    "27": {
+      "text": "Muhimbarize Imana mu materaniro,Mwa bakomotse ku isōko ya Isirayeli mwe,Muhimbaze Umwami Imana.",
+      "start": 26.26,
+      "end": 43.66
+    },
+    "28": {
+      "text": "Nguriya umuryango wa Benyamini umuhererezi,Ni wo mutware wabo,Harimo n'abakomeye b'Abayuda n'umutwe wabo,N'abakomeye b'Abazebuluni,N'abakomeye b'Abanafutali.",
+      "start": 22.05,
+      "end": 35.21
+    },
+    "29": {
+      "text": "Imana yawe igutegekeye imbaraga,Mana, komeza ibyo wadukoreye,",
+      "start": 13.99,
+      "end": 42.88
+    },
+    "30": {
+      "text": "Uri mu rusengero rwawe,I Yerusalemu ni ho abami bazakuzanira amaturo.",
+      "start": 44.7,
+      "end": 44.98
+    },
+    "31": {
+      "text": "Hana ya nyamaswa yo mu rufunzo,N'amapfizi menshi n'inyana zo mu mahanga,Kugira ngo bakuramye bazanye ibice by'ifeza,Tatanya amahanga yishimira intambara.",
+      "start": 34.85,
+      "end": 37.18
+    },
+    "32": {
+      "text": "Abakomeye bazaza bavuye muri Egiputa,Etiyopiya hazihuta kuramburira Imana amaboko yaho.",
+      "start": 25.24,
+      "end": 37.55
+    },
+    "33": {
+      "text": "Mwa bihugu by'abami bo mu isi mwe,Muririmbire Imana,Muririmbire Umwami ishimwe.Sela.",
+      "start": 34.32,
+      "end": 35.34
+    },
+    "34": {
+      "text": "Ni we ugenda ku ijuru ryo hejuru y'amajuru yose,Ryahozeho na kera kose,Dore avuga ijwi, ijwi rikomeye.",
+      "start": 2.42,
+      "end": 31.22
+    },
+    "35": {
+      "text": "Mwāturire Imana ko ifite imbaraga,Ubwiza bwayo buri hejuru y'Abisirayeli,Imbaraga zayo ziri mu bicu.",
+      "start": 39.63,
+      "end": 42.32
+    },
+    "36": {
+      "text": "Mana, uteye ubwoba uri ahera hawe,Imana y'Abisirayeli ni yo iha abantu bayo imbaraga no gukomera.Imana ihimbazwe.",
+      "start": 38.97,
+      "end": 43.58
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "book": "Book 51",
+  "book_canonical": "colossians",
+  "book_number": 51,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Ndashaka ko mumenya uburyo mbarwanira intambara, mwebwe n'ab'i Lawodikiya ndetse n'abatarambona ku mubiri bose",
+      "start": 0.65,
+      "end": 13.21
+    },
+    "2": {
+      "text": "kugira ngo imitima yabo ihumurizwe, ubwo bafatanirije hamwe mu rukundo ngo bahabwe ubutunzi bwose bwo kumenya neza mu mitima yabo, bamenye ubwiru bw'Imana ari bwo Kristo.",
+      "start": 36.46,
+      "end": 43.86
+    },
+    "3": {
+      "text": "Muri we ni mo ubutunzi bwose bw'ubwenge no kumenya bwahishwe.",
+      "start": 2.48,
+      "end": 33.49
+    },
+    "4": {
+      "text": "Mvugiye ibyo kugira ngo hatagira ubashukisha amagambo yoshya,",
+      "start": 34.41,
+      "end": 38.58
+    },
+    "5": {
+      "text": "kuko nubwo ntari kumwe namwe ku mubiri ndi kumwe namwe mu mutima, nishima kandi mbona gahunda yanyu nziza n'uburyo mushikamye mu byo kwizera Kristo.",
+      "start": 27.74,
+      "end": 32.19
+    },
+    "6": {
+      "text": "Nuko rero nk'uko mwakiriye Kristo Yesu Umwami wacu abe ari ko mugendera muri we,",
+      "start": 40.74,
+      "end": 44.36
+    },
+    "7": {
+      "text": "mushōreye imizi muri we kandi mwubatswe muri we, mukomejwe no kwizera nk'uko mwigishijwe, mufite ishimwe ryinshi risesekaye.",
+      "start": 7.83,
+      "end": 9.47
+    },
+    "8": {
+      "text": "Mwirinde, hatagira umuntu ubanyagisha ubwenge bw'abantu n'ibihendo by'ubusa bikurikiza imihango y'abantu, iyo bahawe na ba sekuruza ho akarande, kandi bigakurikiza imigenzereze ya mbere y'iby'isi bidakurikiza Kristo.",
+      "start": 5.4,
+      "end": 38.76
+    },
+    "9": {
+      "text": "Nyamara muri we ni ho hari kūzura k'Ubumana kose mu buryo bw'umubiri.",
+      "start": 3.33,
+      "end": 8.34
+    },
+    "10": {
+      "text": "Kandi mwuzuriye muri we, ari we Mutwe w'ubutware bwose n'ubushobozi bwose.",
+      "start": 0.41,
+      "end": 24.64
+    },
+    "11": {
+      "text": "Muri we ni na mo mwakebewe gukebwa kutari ukw'intoki, ahubwo ni ugukebwa kuva kuri Kristo, ari ko kwiyambura umubiri w'ibyaha bya kamere.",
+      "start": 1.78,
+      "end": 35.92
+    },
+    "12": {
+      "text": "Kuko mwahambanywe na we mu mubatizo kandi ni mo mwazuranywe na we, ku bwo kwizera imbaraga z'Imana yamuzuye mu bapfuye.",
+      "start": 0.23,
+      "end": 8.03
+    },
+    "13": {
+      "text": "Kandi ubwo mwari mupfuye muzize ibicumuro byanyu no kudakebwa kw'imibiri yanyu, yabahinduranye bazima na we imaze kutubabarira ibicumuro byacu byose,",
+      "start": 26.63,
+      "end": 37.54
+    },
+    "14": {
+      "text": "igahanagura urwandiko rw'imihango rwaturegaga, ikarudukuzaho kurubamba ku musaraba.",
+      "start": 14.12,
+      "end": 24.2
+    },
+    "15": {
+      "text": "Kandi imaze kunyaga abatware n'abafite ubushobozi, ibahemura ku mugaragaro, ibīvuga hejuru ku bw'umusaraba.",
+      "start": 31.35,
+      "end": 40.99
+    },
+    "16": {
+      "text": "Nuko rero ntihakagire ubacira urubanza ku bw'ibyo murya cyangwa ibyo munywa, cyangwa ku bw'iminsi mikuru, cyangwa ku bwo kuziririza imboneko z'ukwezi, cyangwa amasabato",
+      "start": 7.91,
+      "end": 20.07
+    },
+    "17": {
+      "text": "kuko ibyo ari igicucu cy'ibizaba, naho umubiri wabyo ufitwe na Kristo.",
+      "start": 28.88,
+      "end": 29.57
+    },
+    "18": {
+      "text": "Ntihakagire umuntu ubavutsa ingororano zanyu, azibavukishije kwihindura nk'uwicisha bugufi no gusenga abamarayika, akiterera mu byo atazi atewe kwihimbariza ubusa n'ubwenge bwa kamere ye,",
+      "start": 33.32,
+      "end": 40.27
+    },
+    "19": {
+      "text": "ntiyifatanye na wa Mutwe, ari wo umubiri wose uvanaho gukura kwawo gutangwa n'Imana, ugatungwa n'ibyo ingingo n'imitsi bitanga, ugateranywa neza na byo.",
+      "start": 44.21,
+      "end": 44.75
+    },
+    "20": {
+      "text": "Nuko rero niba mwarapfanye na Kristo, mukaba mwarapfuye ku migenzereze ya mbere y'iby'isi, ni iki gituma mwemera kuyoboka amategeko y'imihango nk'aho mukiri ab'isi,",
+      "start": 43.85,
+      "end": 44.39
+    },
+    "21": {
+      "text": "(ngo “Ntugafateho, ntugasogongereho, ntugakoreho”,",
+      "start": 40.55,
+      "end": 40.75
+    },
+    "22": {
+      "text": "kandi ibyo byose biba biheze iyo biriwe), mugakurikiza amategeko n'inyigisho by'abantu?",
+      "start": 7.96,
+      "end": 37.67
+    },
+    "23": {
+      "text": "Ni koko ibyo bisa n'aho ari iby'ubwenge kugira ngo abantu bihimbire uburyo bwo gusenga, bigire nk'abicisha bugufi, bigomwe iby'umubiri. Nyamara nta mumaro bigira na hato wo kurwanya irari ry'umubiri.",
+      "start": 14.48,
+      "end": 40.03
+    }
+  }
+}

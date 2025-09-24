@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.Umupfapfa ajya yibwira ati“Nta Mana iriho.”Barononekaye, bakoze imirimo yo kwangwa urunuka,Nta wukora ibyiza.",
+      "start": 15.21,
+      "end": 40.27
+    },
+    "2": {
+      "text": "Uwiteka yarebye abantu ari mu ijuru,Kugira ngo amenye yuko harimo abanyabwenge,Bashaka Imana.",
+      "start": 9.85,
+      "end": 24.84
+    },
+    "3": {
+      "text": "Bose barayobye, bose bandurijwe hamwe,Nta wukora ibyiza n'umwe.",
+      "start": 4.47,
+      "end": 35.02
+    },
+    "4": {
+      "text": "Mbese inkozi z'ibibi zose nta bwenge zifite?Ko barya abantu banjye nk'uko barya umutsima,Kandi ntibambaze Uwiteka?",
+      "start": 38.99,
+      "end": 39.72
+    },
+    "5": {
+      "text": "Aho ngaho bahagiriye ubwoba bwinshi,Kuko Imana iri mu bwoko bw'abakiranutsi.",
+      "start": 42.28,
+      "end": 43.3
+    },
+    "6": {
+      "text": "Mukoza isoni inama z'umunyamubabaro,Ariko Uwiteka ni ubuhungiro bwe.",
+      "start": 17.28,
+      "end": 37.72
+    },
+    "7": {
+      "text": "Icyampa agakiza k'Abisirayeli kakaba kavuye i Siyoni,Uwiteka nasubizayo ubwoko bwe bwajyanywe ho iminyago.Ni bwo Abayakobo bazishima,Abisirayeli bazanezerwa.",
+      "start": 32.08,
+      "end": 39.67
+    }
+  }
+}

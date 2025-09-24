@@ -1,0 +1,118 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Mu gihugu cya Usi hari umuntu witwaga Yobu, kandi uwo muntu yari umukiranutsi utunganye, wubahaga Imana akirinda ibibi.",
+      "start": 13.51,
+      "end": 24.92
+    },
+    "2": {
+      "text": "Nuko abyara abahungu barindwi n'abakobwa batatu.",
+      "start": 37.08,
+      "end": 41.52
+    },
+    "3": {
+      "text": "Kandi yari atunze intama ibihumbi birindwi n'ingamiya ibihumbi bitatu, n'amapfizi igihumbi yo guhinga n'indogobe z'ingore magana atanu, n'abagaragu benshi cyane. Uwo muntu yari akomeye kuruta abantu bose b'iburasirazuba.",
+      "start": 12.68,
+      "end": 12.82
+    },
+    "4": {
+      "text": "Kandi abahungu be biremeraga ibirori mu mazu yabo umwe umwe mu munsi yitoranirije, bagatumira na bashiki babo batatu ngo baze gusangira na bo.",
+      "start": 26.32,
+      "end": 37.8
+    },
+    "5": {
+      "text": "Nuko iminsi y'ibirori byabo yarangira Yobu akabatumira ngo abeze, akabyuka kare mu gitondo agatamba ibitambo byoswa bihwanye n'umubare wabo, kuko Yobu yavugaga ati “Ahari abahungu banjye bakoze icyaha, bahemukira Imana mu mitima yabo.” Uko ni ko Yobu yajyaga agenza iteka ryose.",
+      "start": 38.35,
+      "end": 39.58
+    },
+    "6": {
+      "text": "Umunsi umwe abana b'Imana baje bashengereye Uwiteka, kandi na Satani yazanye na bo.",
+      "start": 33.41,
+      "end": 34.79
+    },
+    "7": {
+      "text": "Uwiteka abaza Satani ati “Uturutse he?”Nuko Satani asubiza Uwiteka ati “Mvuye gutambagira isi no kuyizereramo.”",
+      "start": 1.19,
+      "end": 19.34
+    },
+    "8": {
+      "text": "Uwiteka arongera abaza Satani ati “Mbese witegereje umugaragu wanjye Yobu yuko ari nta wuhwanye na we mu isi, ko ari umukiranutsi utunganye, wubaha Imana kandi akirinda ibibi?”",
+      "start": 1.83,
+      "end": 26.26
+    },
+    "9": {
+      "text": "Maze Satani asubiza Uwiteka ati “Ariko se ugira ngo Yobu yubahira Imana ubusa?",
+      "start": 5.24,
+      "end": 11.33
+    },
+    "10": {
+      "text": "Ntiwagiye umurinda we n'inzu ye n'ibyo atunze byose? Wahiriye umurimo w'amaboko ye, n'amatungo ye agwiriye mu gihugu.",
+      "start": 5.2,
+      "end": 32.0
+    },
+    "11": {
+      "text": "Ariko rambura ukuboko kwawe ukore ku byo atunze byose, na we azakwihakana ari imbere yawe.”",
+      "start": 0.13,
+      "end": 14.45
+    },
+    "12": {
+      "text": "Uwiteka asubiza Satani ati “Dore ibyo atunze byose biri mu maboko yawe, keretse we ubwe we kumuramburaho ukuboko kwawe.” Nuko Satani aherako ava imbere y'Uwiteka.",
+      "start": 12.32,
+      "end": 19.24
+    },
+    "13": {
+      "text": "Maze umunsi umwe, abahungu be n'abakobwa be barasangiraga banywera vino mu nzu ya mukuru wabo, nuko haza imbitsi kuri Yobu iti",
+      "start": 8.69,
+      "end": 10.28
+    },
+    "14": {
+      "text": "“Amapfizi yahingaga n'indogobe zarishaga iruhande rwayo,",
+      "start": 23.78,
+      "end": 24.7
+    },
+    "15": {
+      "text": "maze Abasheba babyisukamo barabinyaga ndetse bicishije abagaragu inkota. Ni jye warokotse jyenyine wo kubikubikira.”",
+      "start": 31.09,
+      "end": 35.68
+    },
+    "16": {
+      "text": "Akimara kubika ibyo haza undi ati “Umuriro w'Imana wavuye mu ijuru utwika intama n'abagaragu birakongoka. Ni jye warokotse jyenyine wo kubikubikira.”",
+      "start": 19.9,
+      "end": 36.19
+    },
+    "17": {
+      "text": "Akibivuga haza undi ati “Abakaludaya biremyemo ibitero bitatu bisuka mu ngamiya barazinyaga, ndetse bicishije abagaragu inkota. Ni jye warokotse jyenyine wo kubikubikira.”",
+      "start": 28.51,
+      "end": 43.82
+    },
+    "18": {
+      "text": "Akibivuga haza undi ati “Abahungu bawe n'abakobwa bawe basangiraga banywera vino mu nzu ya mukuru wabo,",
+      "start": 39.88,
+      "end": 44.58
+    },
+    "19": {
+      "text": "nuko haza inkubi y'umuyaga iturutse mu butayu, ihitana impfuruka enye z'inzu, maze inzu igwira abo basore barapfa. Ni jye warokotse jyenyine wo kubikubikira.”",
+      "start": 19.25,
+      "end": 36.32
+    },
+    "20": {
+      "text": "Maze Yobu aherako arahaguruka ashishimura umwitero we, arimoza yikubita hasi arasenga ati",
+      "start": 20.13,
+      "end": 30.64
+    },
+    "21": {
+      "text": "“Navuye mu nda ya mama nambaye ubusa, nzasubira mu nda y'isi nta cyo nambaye. Uwiteka ni we wabimpaye, kandi Uwiteka ni we ubintwaye. Izina ry'Uwiteka rishimwe.”",
+      "start": 15.34,
+      "end": 24.73
+    },
+    "22": {
+      "text": "Muri ibyo byose Yobu ntiyakoze icyaha, haba no kubiherereza ku Mana.",
+      "start": 29.0,
+      "end": 34.58
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "book": "Book 21",
+  "book_canonical": "ecclesiastes",
+  "book_number": 21,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Amagambo y'Umubwiriza mwene Dawidi, umwami utuye i Yerusalemu.",
+      "start": 3.9,
+      "end": 4.73
+    },
+    "2": {
+      "text": "Umubwiriza aravuga ati “Ubusa gusa! Nta kamaro! Byose ni ubusa!”",
+      "start": 43.59,
+      "end": 44.41
+    },
+    "3": {
+      "text": "Ibyo umuntu agokera byose akiri mu isi bimumarira iki?",
+      "start": 26.91,
+      "end": 39.52
+    },
+    "4": {
+      "text": "Abo ku ngoma imwe barashira hakaza abo ku yindi, ariko isi ihoraho iteka.",
+      "start": 5.81,
+      "end": 42.05
+    },
+    "5": {
+      "text": "Izuba na ryo rirarasa rikarenga, rikihutira gusubira aho rirasira.",
+      "start": 9.12,
+      "end": 32.92
+    },
+    "6": {
+      "text": "Umuyaga uhuha werekeye ikusi ugahindukirira ikasikazi uhora unyuranamo mu rugendo rwawo, kandi ugaruka kuzenguruka mu nzira zawo.",
+      "start": 36.85,
+      "end": 39.35
+    },
+    "7": {
+      "text": "Inzuzi zose zisuka mu nyanja, nyamara inyanja ntiyuzura. Aho inzuzi zinyura ni ho zisubira kunyura.",
+      "start": 34.84,
+      "end": 42.81
+    },
+    "8": {
+      "text": "Ibintu byose bifite umuruho mwinshi utavugwa: ijisho ntirihaga kurora, n'amatwi ntarambirwa kumva.",
+      "start": 13.29,
+      "end": 22.98
+    },
+    "9": {
+      "text": "Ibyahozeho ni byo bizongera kubaho, kandi ibyakozwe ni byo bizongera gukorwa, nta cyadutse munsi y'ijuru.",
+      "start": 18.89,
+      "end": 37.28
+    },
+    "10": {
+      "text": "Mbese hariho ikintu cyavugwa ngo “Dore iki ni inzaduka”? Na cyo cyahozeho kera mu bihe byariho mbere yacu.",
+      "start": 4.2,
+      "end": 23.37
+    },
+    "11": {
+      "text": "Ibya mbere ntibicyibukwa, n'ibizaza hanyuma na byo abazakurikiraho ntibazabyibuka.",
+      "start": 5.27,
+      "end": 31.47
+    },
+    "12": {
+      "text": "Jyewe Umubwiriza, nari umwami wa Isirayeli i Yerusalemu.",
+      "start": 3.82,
+      "end": 39.34
+    },
+    "13": {
+      "text": "Nakomeje umutima wanjye gushaka no kugenzurisha ubwenge, kugira ngo menye iby'ibintu byose bikorerwa munsi y'ijuru, n'umuruho mubi Imana yahaye abantu ngo bawuruhe.",
+      "start": 19.98,
+      "end": 35.25
+    },
+    "14": {
+      "text": "Nabonye imirimo yose ikorerwa munsi y'ijuru, kandi mbona byose ari ubusa, ni nko kwiruka inyuma y'umuyaga.",
+      "start": 11.35,
+      "end": 18.21
+    },
+    "15": {
+      "text": "Ibigoramye ntibigororwa, kandi ibyabuze ntibibarika.",
+      "start": 17.83,
+      "end": 31.28
+    },
+    "16": {
+      "text": "Nibwiye mu mutima wanjye ndavuga nti “Dore niyunguye ubwenge bwinshi kurusha abambanjirije i Yerusalemu bose. Ni ukuri umutima wanjye wabonye ubwenge bwinshi no kumenya.”",
+      "start": 24.84,
+      "end": 29.36
+    },
+    "17": {
+      "text": "Nakomeje umutima wanjye kumenya ubwenge no kumenya iby'ubusazi n'ubupfapfa, menya yuko na byo ari nko kwiruka inyuma y'umuyaga,",
+      "start": 4.23,
+      "end": 27.51
+    },
+    "18": {
+      "text": "kuko ubwenge bwinshi burimo agahinda kenshi, kandi uwunguka ubwenge yunguka n'umubabaro.",
+      "start": 17.65,
+      "end": 34.68
+    }
+  }
+}

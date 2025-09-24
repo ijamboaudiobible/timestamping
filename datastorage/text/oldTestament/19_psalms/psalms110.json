@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 110,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi. 15.25; Ef 1.20-22; Kolo 3.1; Heb 1.13; 8.1; 10.12-13Uwiteka yabwiye Umwami wanjye ati“Icara iburyo bwanjye,Ugeze aho nzashyirira abanzi bawe munsi y'ibirenge byawe.”",
+      "start": 21.41,
+      "end": 26.31
+    },
+    "2": {
+      "text": "Uwiteka ari i SiyoniAzasingiriza kure inkoni y'ubutware bwawe,Tegeka hagati y'abanzi bawe.",
+      "start": 28.25,
+      "end": 43.97
+    },
+    "3": {
+      "text": "Abantu bawe bitanga babikunze,Ku munsi ugaba ingabo zawe,Abasore bawe baza aho uri nk'ikime,Bambaye umurimbo wera, bavuye mu nda y'umuseso.",
+      "start": 9.97,
+      "end": 12.68
+    },
+    "4": {
+      "text": "Uwiteka ararahiye ntazivuguruza ati“Uri umutambyi iteka ryose,Mu buryo bwa Melikisedeki.”",
+      "start": 0.06,
+      "end": 44.1
+    },
+    "5": {
+      "text": "Umwami Imana ihagaze iburyo bwawe,Izamenagura abami ku munsi w'umujinya wayo.",
+      "start": 6.22,
+      "end": 9.37
+    },
+    "6": {
+      "text": "Izacira imanza mu mahanga,Izuzuza ahantu intumbi,Izamenagurira imitwe mu gihugu kinini cyose.",
+      "start": 30.27,
+      "end": 34.3
+    },
+    "7": {
+      "text": "Umwami azanywera ku mugezi wo mu nzira,Ni cyo gituma azashyira umutwe we hejuru.",
+      "start": 33.48,
+      "end": 37.68
+    }
+  }
+}

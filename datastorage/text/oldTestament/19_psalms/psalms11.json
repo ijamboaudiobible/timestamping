@@ -1,0 +1,43 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.Uwiteka ni we mpungiraho.Mubwirira iki umutima wanjye muti“Hungira ku musozi wanyu nk'inyoni?”",
+      "start": 29.91,
+      "end": 42.05
+    },
+    "2": {
+      "text": "Kuko abanyabyaha bafora umuheto,Batamikira umwambi mu ruge,Kugira ngo barasire mu mwijima abafite imitima itunganye.",
+      "start": 20.89,
+      "end": 25.02
+    },
+    "3": {
+      "text": "Niba imfatiro zishenywe,Umukiranutsi yakora iki?",
+      "start": 31.02,
+      "end": 40.44
+    },
+    "4": {
+      "text": "Uwiteka ari mu rusengero rwe rwera,Uwiteka intebe ye iri mu ijuru,Amaso ye areba abantu,imboni ze zirabagerageza.",
+      "start": 9.56,
+      "end": 44.82
+    },
+    "5": {
+      "text": "Uwiteka agerageza abakiranutsi,Ariko umunyabyaha n'ūkunda urugomo umutima we urabanga.",
+      "start": 27.51,
+      "end": 28.63
+    },
+    "6": {
+      "text": "Azavubira abanyabyaha ibigoyi,Umuriro n'amazuku n'umuyaga wotsa,Bizaba umugabane mu gikombe cyabo.",
+      "start": 30.56,
+      "end": 42.78
+    },
+    "7": {
+      "text": "Kuko Uwiteka ari umukiranutsi,Kandi akunda ibyo gukiranuka,Abatunganye bazareba mu maso he.",
+      "start": 27.75,
+      "end": 30.12
+    }
+  }
+}

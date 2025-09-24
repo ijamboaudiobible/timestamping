@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 95,
+  "verses": {
+    "1": {
+      "text": "Nimuze turirimbire Uwiteka,Tuvugirize impundu igitare cy'agakiza kacu.",
+      "start": 4.74,
+      "end": 25.65
+    },
+    "2": {
+      "text": "Tujye mu maso ye tumushima,Tumuvugirize impundu n'indirimbo.",
+      "start": 42.38,
+      "end": 43.31
+    },
+    "3": {
+      "text": "Kuko Uwiteka ari Imana ikomeye,Ni Umwami ukomeye usumba ibigirwamana byose.",
+      "start": 32.88,
+      "end": 36.5
+    },
+    "4": {
+      "text": "Ikuzimu hari mu kuboko kwe,Kandi impinga z'imisozi na zo ni ize.",
+      "start": 25.33,
+      "end": 40.23
+    },
+    "5": {
+      "text": "Inyanja ni iye, ni we wayiremye,Intoki ze ni zo zabumbye ubutaka.",
+      "start": 14.77,
+      "end": 35.46
+    },
+    "6": {
+      "text": "Nimuze tumuramye twunamye,Dupfukamire Uwiteka Umuremyi wacu.",
+      "start": 34.26,
+      "end": 36.88
+    },
+    "7": {
+      "text": "Kuko ari we Mana yacu, Natwe turi abantu b'icyanya cye,Turi intama zo mu kuboko kwe.Uyu munsi icyampa mukumva ijwi rye,",
+      "start": 34.98,
+      "end": 41.27
+    },
+    "8": {
+      "text": "Ntimwinangire imitima,Nk'uko mwayinangiriye i Meriba,No ku munsi w'i Masa mu butayu,",
+      "start": 13.77,
+      "end": 39.34
+    },
+    "9": {
+      "text": "Ubwo ba sekuruza wanyu bangeragezaga,Bakantata bakabona umurimo wanjye.",
+      "start": 24.96,
+      "end": 35.45
+    },
+    "10": {
+      "text": "Narakariye ab'icyo gihe imyaka mirongo ine,Ndavuga nti “Ubu ni ubwoko buhora buyoba mu mitima yabwo,Kandi ntibamenya inzira zanjye.”",
+      "start": 31.47,
+      "end": 40.9
+    },
+    "11": {
+      "text": "Ni cyo cyatumye ndahirana umujinya nti“Ntibazinjira mu buruhukiro bwanjye.”",
+      "start": 36.98,
+      "end": 41.06
+    }
+  }
+}

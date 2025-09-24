@@ -1,0 +1,123 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwirira Mose mu butayu bwa Sinayi, mu kwezi kwa mbere ko mu mwaka wa kabiri, uhereye aho baviriye mu gihugu cya Egiputa ati",
+      "start": 30.88,
+      "end": 33.77
+    },
+    "2": {
+      "text": "“Kandi Abisirayeli baziririze Pasika mu gihe cyayo cyategetswe.",
+      "start": 3.37,
+      "end": 35.65
+    },
+    "3": {
+      "text": "Ku munsi wa cumi n'ine w'uku kwezi nimugoroba, abe ari ho muzayiziririza nk'uko igihe cyayo cyategetswe. Muzayiziririze mukurikize amategeko yayo yose n'imigenzo yayo mwabwirijwe yose.”",
+      "start": 23.68,
+      "end": 36.11
+    },
+    "4": {
+      "text": "Mose abwira Abisirayeli ngo baziririze Pasika.",
+      "start": 34.6,
+      "end": 36.4
+    },
+    "5": {
+      "text": "Bayiziririza mu kwezi kwa mbere, ku munsi wako wa cumi n'ine nimugoroba, bari mu butayu bwa Sinayi. Uko Uwiteka yategetse Mose kose, aba ari ko Abisirayeli bagenza.",
+      "start": 5.01,
+      "end": 33.61
+    },
+    "6": {
+      "text": "Hariho abantu bahumanijwe n'intumbi y'umuntu, ntibabasha kuziririza Pasika kuri uwo munsi: baza imbere ya Mose na Aroni kuri uwo munsi,",
+      "start": 15.48,
+      "end": 20.26
+    },
+    "7": {
+      "text": "baramubwira bati “Twahumanijwe n'intumbi y'umuntu, ariko byatuburiza iki gutambira Uwiteka igitambo mu gihe cyacyo cyategetswe hamwe n'Abisirayeli bandi?”",
+      "start": 22.15,
+      "end": 35.1
+    },
+    "8": {
+      "text": "Mose arabasubiza ati “Nimube muretse mbaze numve icyo Uwiteka ari butegeke ibyanyu.”",
+      "start": 18.54,
+      "end": 24.2
+    },
+    "9": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 15.21,
+      "end": 37.08
+    },
+    "10": {
+      "text": "“Bwira Abisirayeli uti ‘Nihagira umuntu muri mwe cyangwa mu rubyaro rwanyu uhumanywa n'intumbi, cyangwa uri mu rugendo rwa kure, nubwo bimeze bityo, aziriririze Uwiteka Pasika.",
+      "start": 26.91,
+      "end": 32.75
+    },
+    "11": {
+      "text": "Mu kwezi kwa kabiri ku munsi wako wa cumi n'ine nimugoroba, abe ari ho bayiziriririza, bayirishe imitsima itasembuwe n'imboga zisharira,",
+      "start": 37.85,
+      "end": 41.15
+    },
+    "12": {
+      "text": "he kugira inyama zayo baraza ngo zigeze mu gitondo, kandi he kugira igufwa bavuna. Uko itegeko rya Pasika ryose riri abe ari ko bayiziririza.",
+      "start": 0.01,
+      "end": 31.74
+    },
+    "13": {
+      "text": "Ariko umuntu udahumanye kandi ntabe mu rugendo, akareka kuziririza Pasika azacibwe mu bwoko bwe. Kuko atatambiye Uwiteka icyo gitambo mu gihe cyacyo cyategetswe, uwo muntu azagibwaho n'icyaha cye.",
+      "start": 2.72,
+      "end": 31.25
+    },
+    "14": {
+      "text": "“ ‘Kandi umunyamahanga nasuhukira muri mwe agashaka kuziriririza Uwiteka Pasika, akurikize itegeko rya Pasika n'imigenzo yayo yabwirijwe: umunyamahanga na kavukire muzabasangize itegeko.’ ”",
+      "start": 16.42,
+      "end": 19.55
+    },
+    "15": {
+      "text": "Umunsi ubuturo bwera bwashinzwe, cya gicu gitwikira ubwo buturo, ari bwo Hema ry'Ibihamya, kandi nimugoroba kiba ku buturo gisa n'umuriro kigeza mu gitondo.",
+      "start": 33.2,
+      "end": 43.08
+    },
+    "16": {
+      "text": "Uko ni ko byabaga iminsi yose: cya gicu cyarabutwikiraga, nijoro kigasa n'umuriro.",
+      "start": 14.51,
+      "end": 28.94
+    },
+    "17": {
+      "text": "Kandi uko icyo gicu cyaterurwaga kuri iryo Hema, Abisirayeli babonaga kugenda, kandi aho cyahagararaga akaba ari ho Abisirayeli babamba amahema.",
+      "start": 24.9,
+      "end": 36.87
+    },
+    "18": {
+      "text": "Itegeko ry'Uwiteka ni ryo ryahagurutsaga Abisirayeli, kandi akaba ari ryo ribabambisha amahema. Igihe cyose icyo gicu cyamaraga ku buturo bwera, bakimaraga aho babambye amahema.",
+      "start": 37.26,
+      "end": 40.19
+    },
+    "19": {
+      "text": "Iyo icyo gicu cyamaraga iminsi myinshi ku buturo, Abisirayeli bitonderaga icyo Uwiteka yabihanangirije ntibagende.",
+      "start": 35.08,
+      "end": 40.35
+    },
+    "20": {
+      "text": "Ubundi icyo gicu cyamaraga iminsi mike ku buturo, maze itegeko ry'Uwiteka rikabagumisha aho babambye amahema akaba ari ryo ribahagurutsa.",
+      "start": 1.77,
+      "end": 4.29
+    },
+    "21": {
+      "text": "Ubundi cyabugumagaho gihereye nimugoroba kikageza mu gitondo, cyabuterurwaho mu gitondo bagahaguruka. Cyangwa cyabwirirwaho kikaburaraho, maze kikabuterurwaho bagahaguruka.",
+      "start": 18.22,
+      "end": 19.98
+    },
+    "22": {
+      "text": "Naho yaba iminsi ibiri cyangwa ukwezi cyangwa umwaka, iyo icyo gicu cyatindaga ku buturo bwera kikabugumaho, Abisirayeli bagumaga aho babambye amahema ntibagende, maze cyabuterurwaho bagahaguruka bakagenda.",
+      "start": 39.15,
+      "end": 40.26
+    },
+    "23": {
+      "text": "Itegeko ry'Uwiteka ni ryo ryababambishaga amahema, kandi akaba ari ryo ribahagurutsa. Bitonderaga ibyo Uwiteka yabihanangirije, uko Uwiteka yabategekeye mu kanwa ka Mose.",
+      "start": 22.66,
+      "end": 24.46
+    }
+  }
+}

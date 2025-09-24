@@ -1,0 +1,278 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "Bukeye Yakobo yumva amagambo y'abahungu ba Labani, ko bavuga bati “Ibyari ibya data Yakobo yabimwatse byose, kandi ku byari ibya data ni ho yakuye ubutunzi afite bwose.”",
+      "start": 5.39,
+      "end": 31.53
+    },
+    "2": {
+      "text": "Yakobo abona yuko Labani atakimureba nk'uko yamurebaga mbere.",
+      "start": 19.34,
+      "end": 22.69
+    },
+    "3": {
+      "text": "Uwiteka abwira Yakobo ati “Subira mu gihugu cya ba sogokuruza muri bene wanyu, nanjye nzabana nawe.”",
+      "start": 9.09,
+      "end": 11.03
+    },
+    "4": {
+      "text": "Yakobo atumira Rasheli na Leya ngo baze mu rwuri, aho umukumbi we uri,",
+      "start": 39.05,
+      "end": 44.55
+    },
+    "5": {
+      "text": "arababwira ati “Nabonye so atakindeba nk'uko yandebaga mbere, ariko Imana ya data ihorana nanjye.",
+      "start": 17.95,
+      "end": 28.58
+    },
+    "6": {
+      "text": "Namwe muzi yuko nakoreye so, uko nashoboye kose.",
+      "start": 31.75,
+      "end": 39.71
+    },
+    "7": {
+      "text": "Kandi so yagiye andiganya ahindura ibihembo byanjye incuro cumi, ariko Imana ntiyamukundiye kugira icyo antwara.",
+      "start": 7.27,
+      "end": 16.86
+    },
+    "8": {
+      "text": "Yambwira ati ‘Iz'ubugondo ni zo zizaba ibihembo byawe’, umukumbi wose ukabyara iz'ubugondo, yambwira ati ‘Iz'ibihuga ni zo zizaba ibihembo byawe’, umukumbi wose ukabyara ibihuga.",
+      "start": 28.06,
+      "end": 41.27
+    },
+    "9": {
+      "text": "Uko ni ko Imana yatse so amatungo ye, ikayampa.",
+      "start": 26.59,
+      "end": 44.37
+    },
+    "10": {
+      "text": "“Kandi ubwo umukumbi warindaga, nubuye amaso ndota, mbona amapfizi y'ihene yimije umukumbi yari ibihuga n'ubugondo n'ibitobo.",
+      "start": 36.79,
+      "end": 36.8
+    },
+    "11": {
+      "text": "Marayika w'Imana ampamagarira mu nzozi ati ‘Yakobo.’ Nditaba nti ‘Karame.’",
+      "start": 39.88,
+      "end": 41.13
+    },
+    "12": {
+      "text": "Arambwira ati ‘Ubura amaso urebe, amapfizi y'ihene yimije umukumbi yose, ni ibihuga n'ubugondo n'ibitobo, kuko nabonye ibyo Labani akugirira byose.",
+      "start": 32.88,
+      "end": 42.22
+    },
+    "13": {
+      "text": "Ndi Imana y'i Beteli, aho wasīgiye amavuta ku nkingi ukampiga umuhigo, haguruka uve muri iki gihugu usubire mu gihugu wavukiyemo.’ ”",
+      "start": 23.83,
+      "end": 41.13
+    },
+    "14": {
+      "text": "Rasheli na Leya baramubaza bati “Mu rugo rwa data, hari umugabane cyangwa ibyo tuzaragwa tugifiteyo?",
+      "start": 41.41,
+      "end": 43.09
+    },
+    "15": {
+      "text": "Ntaduhwanya n'ab'ahandi, ko yatuguze akarya ibiguzi byacu?",
+      "start": 24.95,
+      "end": 26.4
+    },
+    "16": {
+      "text": "Ubutunzi bwose Imana yatse data ni ubwacu n'abana bacu. Nuko icyo Imana ikubwiye cyose ugikore.”",
+      "start": 26.97,
+      "end": 27.31
+    },
+    "17": {
+      "text": "Yakobo arahaguruka, ashyira abana be n'abagore be ku ngamiya,",
+      "start": 28.16,
+      "end": 29.17
+    },
+    "18": {
+      "text": "ajyana n'amatungo ye yose n'ubutunzi bwose yaronse, amatungo yaronkeye i Padanaramu, kugira ngo ajye kwa se Isaka mu gihugu cy'i Kanāni.",
+      "start": 17.89,
+      "end": 27.88
+    },
+    "19": {
+      "text": "Labani yari agiye gukemuza intama ze, maze Rasheli yiba ibishushanyo by'ibigirwamana bya se.",
+      "start": 21.0,
+      "end": 34.33
+    },
+    "20": {
+      "text": "Yakobo yiyiba Labani Umwaramu, kuko atamubwiye yuko ahunga.",
+      "start": 38.47,
+      "end": 42.77
+    },
+    "21": {
+      "text": "Nuko ahungana ibyo afite byos, arahaguruka yambuka uruzi, agenda yerekeje ku musozi w'i Galeyadi.",
+      "start": 24.1,
+      "end": 40.48
+    },
+    "22": {
+      "text": "Ku munsi wa gatatu babwira Labani yuko Yakobo yahunze.",
+      "start": 35.76,
+      "end": 41.16
+    },
+    "23": {
+      "text": "Ajyana na bene wabo aramukurikira, amugereraho iminsi irindwi, asanga ari ku musozi w'i Galeyadi.",
+      "start": 31.98,
+      "end": 36.33
+    },
+    "24": {
+      "text": "Imana isanga Labani Umwaramu mu nzozi nijoro, iramubwira iti “Wirinde, ntugire icyo ubwira Yakobo ari icyiza, ari n'ikibi.”",
+      "start": 41.46,
+      "end": 41.56
+    },
+    "25": {
+      "text": "Labani afatīra Yakobo. Yakobo yari abambye ihema rye ku musozi, Labani na bene wabo na bo bayabamba ku musozi w'i Galeyadi.",
+      "start": 7.93,
+      "end": 21.74
+    },
+    "26": {
+      "text": "Labani abaza Yakobo ati “Icyo wakoze icyo ni iki kunyiyiba, ukajyana abakobwa banjye nk'abanyagano?",
+      "start": 8.39,
+      "end": 37.23
+    },
+    "27": {
+      "text": "Watewe n'iki guhunga rwihishwa, ukanyiyiba, ntumbwire ngo ngusezeresheho ibiganiro by'ibyishimo, n'indirimbo n'ishako n'inanga,",
+      "start": 17.66,
+      "end": 21.27
+    },
+    "28": {
+      "text": "ntunkundire gusoma abuzukuru banjye n'abakobwa banjye? Wakoze iby'ubupfu.",
+      "start": 0.4,
+      "end": 15.28
+    },
+    "29": {
+      "text": "Nabasha kugira icyo mbatwara, ariko Imana ya so yambwiye iri joro iti ‘Wirinde, ntugire icyo ubwira Yakobo ari icyiza, ari n'ikibi.’",
+      "start": 23.09,
+      "end": 37.26
+    },
+    "30": {
+      "text": "None ubwo ugiye rwose, kuko ukumbuye cyane inzu ya so, ni iki cyatumye wiba imana zanjye?”",
+      "start": 9.56,
+      "end": 39.96
+    },
+    "31": {
+      "text": "Yakobo asubiza Labani ati “Irya mbere ni uko natinye ko wanyaga abakobwa bawe.",
+      "start": 18.34,
+      "end": 28.21
+    },
+    "32": {
+      "text": "Irya kabiri, uwo uri bubonane imana zawe, ntazabeho. Imbere ya bene wacu saka icyawe kiri mu byanjye, ukijyane.” Kuko Yakobo yari atazi yuko Rasheli yazibye.",
+      "start": 17.84,
+      "end": 35.03
+    },
+    "33": {
+      "text": "Labani yinjira mu ihema rya Yakobo, no mu rya Leya, no mu ya za nshoreke zombi, arazibura. Ava mu ihema rya Leya, yinjira mu rya Rasheli.",
+      "start": 22.71,
+      "end": 36.4
+    },
+    "34": {
+      "text": "Rasheli yari yenze bya bigirwamana, abishyira mu matandiko y'ingamiya, ayicaraho. Labani asaka mu ihema hose, arabibura.",
+      "start": 1.14,
+      "end": 17.48
+    },
+    "35": {
+      "text": "Rasheli abwira se ati “Ntundakarire databuja yuko ntaguhagurukiye, ni uko ndi mu mihango y'abakobwa.” Arasaka, abura bya bigirwamana.",
+      "start": 25.71,
+      "end": 40.88
+    },
+    "36": {
+      "text": "Yakobo ararakara atonganya Labani aramubaza ati “Nagucumuyeho iki? Nakoze cyaha ki cyatumye unkurikira vuba vuba?",
+      "start": 30.67,
+      "end": 41.63
+    },
+    "37": {
+      "text": "None usatse mu bintu byanjye byose, ubonye iki cyo mu byo mu rugo rwawe? Kizane hano ugishyire imbere ya bene wacu na bene wanyu, badukiranure.",
+      "start": 34.62,
+      "end": 42.57
+    },
+    "38": {
+      "text": "Imyaka makumyabiri twabanye, intama zawe n'ihene zawe n'inyagazi ntizarambururaga, amapfizi y'intama yo mu mikumbi yawe sinayariye.",
+      "start": 5.23,
+      "end": 29.45
+    },
+    "39": {
+      "text": "Iyicwaga n'inyamaswa sinakuzaniraga ikirīra nayishyiraga ku mubare wanjye, wandihishaga izibwe naho haba ku manywa cyangwa nijoro.",
+      "start": 39.55,
+      "end": 40.5
+    },
+    "40": {
+      "text": "Nameraga ntya: ku manywa nicwaga n'umwuma, nijoro nkicwa n'imbeho, ibitotsi bikanguruka.",
+      "start": 20.67,
+      "end": 23.69
+    },
+    "41": {
+      "text": "Iyo myaka uko ari makumyabiri nabaga iwawe, nagutendeyeho abakobwa bawe bombi imyaka cumi n'ine, mara imyaka itandatu nkorera umukumbi, wahinduye ibihembo byanjye incuro cumi.",
+      "start": 19.34,
+      "end": 27.84
+    },
+    "42": {
+      "text": "Iyaba Imana ya data, Imana ya Aburahamu, iyo Isaka yubaha itābanye nanjye, ntuba warabuze kunsezerera nta cyo mfite. Imana yabonye kugirirwa nabi kwanjye n'umuruho w'amaboko yanjye, iri joro ryakeye iragukangāra.”",
+      "start": 10.87,
+      "end": 21.5
+    },
+    "43": {
+      "text": "Labani asubiza Yakobo ati “Abakobwa ni abakobwa banjye, n'abana ni abanjye, n'imikumbi ni iyanjye, ibyo ureba ibi byose ni ibyanjye. None nabasha nte kugira icyo ntwara abakobwa banjye cyangwa abana babyaye?",
+      "start": 38.91,
+      "end": 41.6
+    },
+    "44": {
+      "text": "None jye nawe dusezerane isezerano, ribe umuhamya hagati yacu.”",
+      "start": 24.8,
+      "end": 29.71
+    },
+    "45": {
+      "text": "Yakobo yenda ibuye, arishinga nk'inkingi.",
+      "start": 14.1,
+      "end": 43.83
+    },
+    "46": {
+      "text": "Yakobo abwira bene wabo ati “Nimuteranye amabuye.” Barayazana, barema igishyinga, basangirira kuri icyo gishyinga.",
+      "start": 41.01,
+      "end": 43.12
+    },
+    "47": {
+      "text": "Labani acyita Yegarisahaduta, Yakobo na we acyita Galēdi.",
+      "start": 38.49,
+      "end": 43.23
+    },
+    "48": {
+      "text": "Labani aravuga ati “Iki gishyinga ni umuhamya hagati yacu uyu munsi.” Ni cyo cyatumye cyitwa Galēdi.",
+      "start": 32.91,
+      "end": 37.02
+    },
+    "49": {
+      "text": "Kandi cyitwa na Misipa, kuko Labani yavuze ati “Uwiteka agenzure hagati yacu, nituba tutakibonana.",
+      "start": 36.24,
+      "end": 36.6
+    },
+    "50": {
+      "text": "Nugirira nabi abakobwa banjye cyangwa nubaharika, nta wundi uri kumwe natwe, dore Imana ni yo muhamya hagati yacu.”",
+      "start": 9.55,
+      "end": 34.71
+    },
+    "51": {
+      "text": "Kandi Labani abwira Yakobo ati “Dore iki gishyinga n'iyi nkingi nshinze hagati yacu.",
+      "start": 34.39,
+      "end": 41.95
+    },
+    "52": {
+      "text": "Iki gishyinga kibe umuhamya, n'inkingi na yo ibe umuhamya, yuko ntazarenga iki gishyinga ngo nze aho uri, nawe ko utazarenga iki gishyinga n'iyi nkingi ngo uze aho ndi, kugirirana nabi.",
+      "start": 0.64,
+      "end": 44.86
+    },
+    "53": {
+      "text": "Imana ya Aburahamu, Imana ya Nahori, Imana ya se wa bombi, idukiranure.” Yakobo arahira Iyo se Isaka yubaha.",
+      "start": 20.52,
+      "end": 23.24
+    },
+    "54": {
+      "text": "Yakobo atambira igitambo kuri wa musozi, ahamagara bene wabo, arabagaburira barasangira, barara kuri wa musozi buracya.",
+      "start": 29.42,
+      "end": 36.59
+    }
+  }
+}

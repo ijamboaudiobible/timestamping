@@ -1,0 +1,283 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Aba ni bo bahungu ba Isirayeli: Rubeni na Simiyoni na Lewi, na Yuda na Isakari na Zebuluni,",
+      "start": 16.39,
+      "end": 43.74
+    },
+    "2": {
+      "text": "na Dani na Yosefu na Benyamini, na Nafutali na Gadi na Asheri.",
+      "start": 42.31,
+      "end": 44.69
+    },
+    "3": {
+      "text": "Bene Yuda ni Eri na Onani na Shela, abo uko ari batatu yababyaranye na Batishuwa Umunyakanānikazi. Kandi Eri imfura ya Yuda, yari mubi mu maso y'Uwiteka, aramwica.",
+      "start": 0.6,
+      "end": 44.63
+    },
+    "4": {
+      "text": "Tamari umukazana we amubyaraho Perēsi na Zera. Abahungu ba Yuda bose bari batanu.",
+      "start": 28.03,
+      "end": 43.83
+    },
+    "5": {
+      "text": "Bene Perēsi ni Hesironi na Hamuli.",
+      "start": 34.23,
+      "end": 43.9
+    },
+    "6": {
+      "text": "Bene Zera ni Zimuri na Etani, na Hemani na Kalukoli na Dara, bose ni batanu.",
+      "start": 40.05,
+      "end": 44.86
+    },
+    "7": {
+      "text": "Bene Karumi ni Akani, wababazaga Isirayeli agacumura mu byashinganywe.",
+      "start": 21.23,
+      "end": 28.34
+    },
+    "8": {
+      "text": "Mwene Etani ni Azariya.",
+      "start": 0.38,
+      "end": 21.42
+    },
+    "9": {
+      "text": "Kandi bene Hesironi yabyaye ni Yeramēli na Ramu na Kelubayi.",
+      "start": 6.17,
+      "end": 45.0
+    },
+    "10": {
+      "text": "Ramu abyara Aminadabu, Aminadabu abyara Nahashoni umutware w'Abayuda.",
+      "start": 13.86,
+      "end": 24.17
+    },
+    "11": {
+      "text": "Nahashoni abyara Salumoni, Salumoni abyara Bowazi.",
+      "start": 3.72,
+      "end": 23.85
+    },
+    "12": {
+      "text": "Bowazi abyara Obedi, Obedi abyara Yesayi.",
+      "start": 7.01,
+      "end": 38.99
+    },
+    "13": {
+      "text": "Yesayi abyara imfura ye Eliyabu, uw'ubuheta ni Abinadabu, uwa gatatu ni Shimeya,",
+      "start": 39.83,
+      "end": 42.29
+    },
+    "14": {
+      "text": "uwa kane ni Netanēli, uwa gatanu ni Radayi,",
+      "start": 19.68,
+      "end": 42.96
+    },
+    "15": {
+      "text": "uwa gatandatu ni Osemu, uwa karindwi ni Dawidi.",
+      "start": 39.16,
+      "end": 39.6
+    },
+    "16": {
+      "text": "Kandi bashiki babo ni aba: Seruya na Abigayili. Bene Seruya ni Abishayi na Yowabu na Asaheli, uko ari batatu.",
+      "start": 16.7,
+      "end": 39.5
+    },
+    "17": {
+      "text": "Abigayili abyara Amasa, kandi se wa Amasa yari Yeteri w'Umwishimayeli.",
+      "start": 44.15,
+      "end": 44.52
+    },
+    "18": {
+      "text": "Kalebu mwene Hesironi abyarana abana n'umugore we Azuba no kuri Yeriyoti. Aba ni bo bahungu be: Yesheri na Shobabu na Aridoni.",
+      "start": 39.31,
+      "end": 44.12
+    },
+    "19": {
+      "text": "Azuba apfuye Kalebu ashyingirwa Efurata, amubyaraho Huri.",
+      "start": 14.97,
+      "end": 44.55
+    },
+    "20": {
+      "text": "Huri abyara Uri, Uri abyara Besaleli.",
+      "start": 37.09,
+      "end": 43.3
+    },
+    "21": {
+      "text": "Hanyuma Hesironi ataha ku mukobwa wa Makiri se wa Gileyadi, amurongora amaze imyaka mirongo itandatu avutse, amubyaraho Segubu.",
+      "start": 13.15,
+      "end": 22.83
+    },
+    "22": {
+      "text": "Segubu abyara Yayiri, ari we wari ufite imidugudu makumyabiri n'itatu mu gihugu cy'i Galeyadi.",
+      "start": 5.25,
+      "end": 9.84
+    },
+    "23": {
+      "text": "Geshuri na Aramu babanyaga imidugudu ya Yayiri hamwe n'i Kenati n'ibirorero byaho, yose ni imidugudu mirongo itandatu. Aba bose ni bene Makiri se wa Gileyadi.",
+      "start": 2.98,
+      "end": 22.11
+    },
+    "24": {
+      "text": "Bukeye Hesironi apfiriye i Kalebu ya Efurata, umugore we Abiya inda yamusigiye ayibyaramo Ashihuri se wa Tekowa.",
+      "start": 22.71,
+      "end": 36.25
+    },
+    "25": {
+      "text": "Bene Yeramēli imfura ya Hesironi ni aba: uw'imfura ni Ramu, agakurikirwa na Buna na Oreni na Osemu na Ahiya.",
+      "start": 44.75,
+      "end": 44.84
+    },
+    "26": {
+      "text": "Kandi Yeramēli yari afite undi mugore witwaga Atara, uwo ni we nyina wa Onamu.",
+      "start": 37.2,
+      "end": 43.11
+    },
+    "27": {
+      "text": "Bene Ramu imfura ya Yeramēli ni Māsi na Yamini na Ekeri.",
+      "start": 27.22,
+      "end": 34.69
+    },
+    "28": {
+      "text": "Na bene Onamu ni Shamayi na Yada, bene Shamayi ni Nadabu na Abishuri.",
+      "start": 15.41,
+      "end": 28.25
+    },
+    "29": {
+      "text": "Na muka Abishuri yitwaga Abihayili, amubyaraho Ahubani na Molidi.",
+      "start": 5.57,
+      "end": 11.66
+    },
+    "30": {
+      "text": "Bene Nadabu ni Seledi na Apayimu, ariko Seledi apfa ari incike.",
+      "start": 23.85,
+      "end": 42.7
+    },
+    "31": {
+      "text": "Mwene Apayimu ni Ishi, mwene Ishi ni Sheshani, mwene Sheshani ni Ahilayi.",
+      "start": 24.51,
+      "end": 41.44
+    },
+    "32": {
+      "text": "Bene Yada murumuna wa Shamayi ni Yeteri na Yonatani, Yeteri apfa ari incike.",
+      "start": 7.91,
+      "end": 8.72
+    },
+    "33": {
+      "text": "Bene Yonatani ni Peleti na Zaza. Abo ni bo bene Yeramēli.",
+      "start": 9.87,
+      "end": 43.2
+    },
+    "34": {
+      "text": "Kandi Sheshani nta bahungu yari afite keretse abakobwa. Ariko yari afite umugaragu w'Umunyegiputa witwaga Yaruha,",
+      "start": 15.34,
+      "end": 18.82
+    },
+    "35": {
+      "text": "ashyingira umukobwa we uwo mugaragu we Yaruha, amubyaraho Atayi.",
+      "start": 39.32,
+      "end": 40.18
+    },
+    "36": {
+      "text": "Atayi abyara Natani, Natani abyara Zabadi.",
+      "start": 15.15,
+      "end": 28.15
+    },
+    "37": {
+      "text": "Zabadi abyara Efulali, Efulali abyara Obedi.",
+      "start": 11.14,
+      "end": 42.43
+    },
+    "38": {
+      "text": "Obedi abyara Yehu, Yehu abyara Azariya.",
+      "start": 10.98,
+      "end": 11.03
+    },
+    "39": {
+      "text": "Azariya abyara Helesi, Helesi abyara Eleyasa.",
+      "start": 32.91,
+      "end": 36.97
+    },
+    "40": {
+      "text": "Eleyasa abyara Sisimayi, Sisimayi abyara Shalumu.",
+      "start": 2.39,
+      "end": 33.38
+    },
+    "41": {
+      "text": "Shalumu abyara Yekamiya, Yekamiya abyara Elishama.",
+      "start": 9.11,
+      "end": 25.94
+    },
+    "42": {
+      "text": "Bene Kalebu murumuna wa Yeramēli, imfura ye ni Mesha ari we se wa Zifu, na bene Mesha se wa Heburoni.",
+      "start": 40.96,
+      "end": 42.91
+    },
+    "43": {
+      "text": "Bene Heburoni ni Kōra na Tapuwa, na Rekemu na Shema.",
+      "start": 41.11,
+      "end": 41.68
+    },
+    "44": {
+      "text": "Shema abyara Rahamu se wa Yorikeyamu, Rememu abyara Shamayi.",
+      "start": 14.02,
+      "end": 23.6
+    },
+    "45": {
+      "text": "Mwene Shamayi ni Mawoni, kandi Mawoni yari se wa Betisuri.",
+      "start": 43.14,
+      "end": 43.2
+    },
+    "46": {
+      "text": "Kandi Efa inshoreke ya Kalebu abyara Harani na Mosa na Gazezi, Harani abyara Gazezi.",
+      "start": 23.88,
+      "end": 34.67
+    },
+    "47": {
+      "text": "Bene Yahidayi ni Regemu na Yotamu na Geshani, na Peleti na Efa na Shāfi.",
+      "start": 0.68,
+      "end": 22.29
+    },
+    "48": {
+      "text": "Kandi Māka inshoreke ya Kalebu, abyara Sheberi na Tiruhana.",
+      "start": 12.81,
+      "end": 28.19
+    },
+    "49": {
+      "text": "Kandi abyara Shāfi se wa Madumana, na Sheva se wa Makubena n'uwa Gibeya. Kandi umukobwa wa Kalebu yari Akisa.",
+      "start": 25.85,
+      "end": 30.86
+    },
+    "50": {
+      "text": "Aba ni bo bene Kalebu mwene Huri imfura ya Efurata: Shobali se wa Kiriyatiyeyarimu,",
+      "start": 11.74,
+      "end": 26.93
+    },
+    "51": {
+      "text": "na Salima se wa Betelehemu, na Harefu se wa Betigaderi.",
+      "start": 36.29,
+      "end": 39.21
+    },
+    "52": {
+      "text": "Kandi Shobali se wa Kiriyatiyeyarimu yari afite abahungu, Harowe na Hasihamanahati.",
+      "start": 21.46,
+      "end": 29.77
+    },
+    "53": {
+      "text": "Imbyaro za Kiriyatiyeyarimu ni Abayeteri n'Abaputi, n'Abashumati n'Abamishurayi, kuri abo ni ho Abasorati n'Abanyeshitawoli bakomotse.",
+      "start": 36.29,
+      "end": 41.58
+    },
+    "54": {
+      "text": "Bene Salima ni Betelehemu n'Abanyanetofa na Atarotibetiyowabu, n'igice cy'Abamanahati n'Abasori.",
+      "start": 11.07,
+      "end": 43.5
+    },
+    "55": {
+      "text": "Kandi imbyaro z'abanditsi babaga i Yabesi ni Abatirati n'Abashimeyati n'Abasukati. Abo ni bo Bakeni bakomotse kuri Hamati se w'umuryango wa Rekabu.",
+      "start": 4.47,
+      "end": 8.2
+    }
+  }
+}

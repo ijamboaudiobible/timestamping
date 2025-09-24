@@ -1,0 +1,123 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Bukeye Uwiteka abaza Samweli ati “Uzageza he kuririra Sawuli, kandi nanze ko aba umwami wa Isirayeli? Uzuza ihembe ryawe amavuta ngutume kuri Yesayi w'i Betelehemu, kuko niboneye umwami mu bahungu be.”",
+      "start": 26.19,
+      "end": 38.94
+    },
+    "2": {
+      "text": "Samweli arabaza ati “Nagenda nte ko Sawuli nabyumva azanyica?”Uwiteka aramusubiza ati “Jyana inyana y'ishashi, nugerayo uvuge uti ‘Nzanywe no gutambira Uwiteka igitambo.’",
+      "start": 30.44,
+      "end": 38.84
+    },
+    "3": {
+      "text": "Maze uhamagare Yesayi aze ku gitambo, nanjye nzakwereka uko uzagenza, uzansukira amavuta ku wo nzakubwira.”",
+      "start": 21.64,
+      "end": 32.4
+    },
+    "4": {
+      "text": "Nuko Samweli akora uko Uwiteka yavuze, ajya i Betelehemu. Agezeyo abatware b'umudugudu baza kumusanganira bahinda umushitsi. Baramubaza bati “Mbese uzanywe n'amahoro?”",
+      "start": 10.51,
+      "end": 34.83
+    },
+    "5": {
+      "text": "Ati “Ni amahoro. Nzanywe no gutambira Uwiteka igitambo, nimwiyeze muze tujyane ku gitambo.” Kandi yeza Yesayi n'abahungu be, abahamagara kuza ku gitambo.",
+      "start": 1.93,
+      "end": 2.47
+    },
+    "6": {
+      "text": "Nuko basohoye aho yitegereza Eliyabu aribwira ati “Ni ukuri, uwo Uwiteka yimikisha amavuta nguyu imbere ye.”",
+      "start": 12.51,
+      "end": 38.86
+    },
+    "7": {
+      "text": "Ariko Uwiteka abwira Samweli ati “Nturebe mu maso he cyangwa ikirere cye ko ari kirekire namugaye, kuko Uwiteka atareba nk'uko abantu bareba. Abantu bareba ubwiza bugaragara, ariko Uwiteka we areba mu mutima.”",
+      "start": 43.47,
+      "end": 43.86
+    },
+    "8": {
+      "text": "Yesayi aherako ahamagara Abinadabu, amumurikira Samweli. Samweli aravuga ati “Uyu na we si we Uwiteka yatoranije.”",
+      "start": 18.37,
+      "end": 29.12
+    },
+    "9": {
+      "text": "Yesayi ariyongeza amurika Shama, na bwo Samweli aravuga ati “Uyu na we si we Uwiteka yatoranije.”",
+      "start": 8.46,
+      "end": 18.15
+    },
+    "10": {
+      "text": "Nuko Yesayi amurikira Samweli abahungu be barindwi. Maze Samweli abwira Yesayi ati “Aba si bo Uwiteka yatoranije.”",
+      "start": 0.53,
+      "end": 8.23
+    },
+    "11": {
+      "text": "Samweli abaza Yesayi ati “Abana bawe bose ni aba?”Aramusubiza ati “Hasigaye umuhererezi, ariko aragiye intama.”Samweli abwira Yesayi ati “Mutumire bamuzane, kuko tutari bujye kurya ataraza.”",
+      "start": 12.09,
+      "end": 14.51
+    },
+    "12": {
+      "text": "Nuko aramutumira amujyana mu nzu. Yari umuhungu w'inzobe ufite uburanga kandi w'igikundiro. Uwiteka aravuga ati “Haguruka umusukeho amavuta, ni we uwo.”",
+      "start": 24.9,
+      "end": 35.79
+    },
+    "13": {
+      "text": "Samweli aherako yenda ihembe ry'amavuta ayamusukiraho imbere ya bakuru be, uhereye ubwo umwuka w'Uwiteka akajya aza kuri Dawidi cyane. Nuko Samweli arahaguruka asubira i Rama.",
+      "start": 25.17,
+      "end": 39.98
+    },
+    "14": {
+      "text": "Icyo gihe umwuka w'Uwiteka yari yavuye kuri Sawuli, kandi umwuka mubi uvuye ku Uwiteka yajyaga amuhagarika umutima",
+      "start": 15.3,
+      "end": 43.14
+    },
+    "15": {
+      "text": "Maze abagaragu ba Sawuli baramubwira bati “Dore umwuka mubi uva ku Mana ni wo uguhagarika umutima!",
+      "start": 5.14,
+      "end": 27.8
+    },
+    "16": {
+      "text": "Databuja, tegeka abagaragu bawe bakuri imbere bagushakire umucuranzi w'umuhanga, maze umwuka mubi uva ku Mana naguhangaho, ajye agucurangira ukire.”",
+      "start": 24.78,
+      "end": 42.29
+    },
+    "17": {
+      "text": "Nuko Sawuli abwira abagaragu be ati “Nimunshakire umuntu uzi gucuranga neza mumunzanire.”",
+      "start": 1.5,
+      "end": 34.95
+    },
+    "18": {
+      "text": "Umuhungu umwe aramusubiza ati “Nabonye umuhungu wa Yesayi w'i Betelehemu. Ni umucuranzi w'umuhanga, ni umugabo w'imbaraga n'intwari kandi ni umurwanyi, aritonda mu byo avuga, ni umuntu w'igikundiro kandi Uwiteka ari kumwe na we.”",
+      "start": 29.68,
+      "end": 36.11
+    },
+    "19": {
+      "text": "Ni cyo cyatumye Sawuli atuma intumwa kuri Yesayi aramubwira ati “Nyoherereza umuhungu wawe Dawidi uragira intama.”",
+      "start": 19.04,
+      "end": 41.34
+    },
+    "20": {
+      "text": "Maze Yesayi azana indogobe, ayihekesha amarobe y'imitsima n'imvumba ya vino n'umwagazi w'ihene, abyoherereza Sawuli bijyanywe n'umuhungu we Dawidi.",
+      "start": 10.63,
+      "end": 11.37
+    },
+    "21": {
+      "text": "Dawidi asohoye kwa Sawuli amuhagarara imbere. Sawuli aramukunda cyane amugira umutwaza intwaro.",
+      "start": 20.92,
+      "end": 38.05
+    },
+    "22": {
+      "text": "Maze Sawuli atuma kuri Yesayi ati “Ngusabye Dawidi ngo ajye ankorera kuko antonnyeho.”",
+      "start": 6.12,
+      "end": 40.42
+    },
+    "23": {
+      "text": "Hanyuma iyo umwuka mubi yavaga ku Mana agahanga kuri Sawuli, Dawidi yendaga inanga ye agacuranga, maze Sawuli akoroherwa agakira umwuka mubi akamuvaho.",
+      "start": 40.2,
+      "end": 44.9
+    }
+  }
+}

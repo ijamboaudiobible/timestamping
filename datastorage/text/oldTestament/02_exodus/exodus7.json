@@ -1,0 +1,153 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati “Dore nkugize nk'imana kuri Farawo, Aroni mwene so azaba umuhanuzi wawe.",
+      "start": 28.85,
+      "end": 44.1
+    },
+    "2": {
+      "text": "Uzajye uvuga icyo ngutegeka cyose, Aroni mwene so abibwire Farawo, kugira ngo areke Abisirayeli bave mu gihugu cye.",
+      "start": 10.04,
+      "end": 36.21
+    },
+    "3": {
+      "text": "Nanjye nzanangira umutima wa Farawo, ngwize ibimenyetso byanjye n'ibitangaza byanjye mu gihugu cya Egiputa.",
+      "start": 36.95,
+      "end": 40.83
+    },
+    "4": {
+      "text": "Ariko Farawo ntazabumvira, maze nzababarishe Egiputa ukuboko kwanjye, nkure ingabo zanjye, ubwoko bwanjye Abisirayeli muri icyo gihugu, mbakuzeyo ibihano bikomeye.",
+      "start": 6.12,
+      "end": 22.51
+    },
+    "5": {
+      "text": "Abanyegiputa bazamenya yuko ndi Uwiteka, ubwo nzarambura ukuboko ku gihugu cya Egiputa, ngakura Abisirayeli muri cyo.”",
+      "start": 5.02,
+      "end": 12.92
+    },
+    "6": {
+      "text": "Mose na Aroni bagenza batyo, uko Uwiteka yabategetse aba ari ko bakora.",
+      "start": 34.82,
+      "end": 40.2
+    },
+    "7": {
+      "text": "Mose yari amaze imyaka mirongo inani avutse, na Aroni yari amaze imyaka mirongo inani n'itatu, ubwo bavuganaga na Farawo.",
+      "start": 23.08,
+      "end": 24.37
+    },
+    "8": {
+      "text": "Uwiteka abwira Mose na Aroni ati",
+      "start": 21.88,
+      "end": 26.64
+    },
+    "9": {
+      "text": "“Farawo nababwira ati ‘Mukore igitangaza kibahamye’, ubwire Aroni uti ‘Enda inkoni witwaje uyijugunye hasi imbere ya Farawo, kugira ngo ihinduke inzoka.’ ”",
+      "start": 35.02,
+      "end": 43.06
+    },
+    "10": {
+      "text": "Mose na Aroni binjira kwa Farawo, bakora icyo Uwiteka yategetse. Aroni ajugunya inkoni ye hasi imbere ya Farawo n'abagaragu be, ihinduka inzoka.",
+      "start": 33.31,
+      "end": 33.69
+    },
+    "11": {
+      "text": "Farawo na we ahamagaza abahanga n'abarozi, ari bo bakonikoni ba Egiputa, na bo babigenza batyo babikoresheje uburozi bwabo.",
+      "start": 25.07,
+      "end": 29.95
+    },
+    "12": {
+      "text": "Umuntu wese muri bo ajugunya inkoni ye hasi ziba inzoka, maze inkoni ya Aroni imira izabo.",
+      "start": 7.79,
+      "end": 29.89
+    },
+    "13": {
+      "text": "Umutima wa Farawo uranangira ntiyabumvira, uko Uwiteka yari yaravuze.",
+      "start": 25.91,
+      "end": 40.93
+    },
+    "14": {
+      "text": "Uwiteka abwira Mose ati “Umutima wa Farawo uranangiye, yanga kureka ubwoko bwanjye ngo bugende.",
+      "start": 1.92,
+      "end": 12.84
+    },
+    "15": {
+      "text": "Mu gitondo uzajye kuri Farawo, dore azaba ajya ku ruzi. Nawe uzahagarare ku nkombe y'uruzi umutegereze, kandi uzitwaze ya nkoni yahindutse inzoka.",
+      "start": 43.7,
+      "end": 43.81
+    },
+    "16": {
+      "text": "Umubwire uti ‘Uwiteka, Imana y'Abaheburayo yakuntumyeho ngo reka ubwoko bwe bugende bumukorerere mu butayu, none ugejeje ubu utaramwumvira.",
+      "start": 6.98,
+      "end": 26.19
+    },
+    "17": {
+      "text": "Uwiteka aravuze ngo iki ni cyo kizakumenyesha ko ari Uwiteka: dore ngiye gukubitisha amazi y'uruzi inkoni nitwaje ahinduke amaraso,",
+      "start": 26.31,
+      "end": 38.18
+    },
+    "18": {
+      "text": "amafi yo mu ruzi apfe, uruzi runuke, Abanyegiputa babihirwe n'amazi yo mu ruzi.’ ”",
+      "start": 8.84,
+      "end": 15.84
+    },
+    "19": {
+      "text": "Uwiteka abwira Mose ati “Bwira Aroni uti ‘Jyana inkoni witwaje urambure ukuboko kwawe hejuru y'amazi yo muri Egiputa, ku nzuzi zabo no ku migende y'amazi yabo, no ku bidendezi byabo n'aho amazi arētse hose ahinduke amaraso’. Kandi mu gihugu cya Egiputa hose hari bube amaraso, mu mivure y'ibiti no mu bibindi by'amabuye.”",
+      "start": 4.11,
+      "end": 28.83
+    },
+    "20": {
+      "text": "Mose na Aroni babikora uko Uwiteka yabibategetse: amanika iyo nkoni akubitira amazi y'uruzi mu maso ya Farawo no mu maso y'abagaragu be, amazi y'uruzi yose ahinduka amaraso.",
+      "start": 31.58,
+      "end": 38.68
+    },
+    "21": {
+      "text": "Amafi yo mu ruzi arapfa, uruzi ruranuka, Abanyegiputa ntibabasha kunywa amazi yo mu ruzi, amaraso aba mu gihugu cya Egiputa cyose.",
+      "start": 1.13,
+      "end": 13.58
+    },
+    "22": {
+      "text": "N'abakonikoni b'Abanyegiputa babigenza batyo babikoresheje uburozi bwabo. Umutima wa Farawo uranangira ntiyumvira Mose na Aroni, uko Uwiteka yari yaravuze.",
+      "start": 42.78,
+      "end": 44.98
+    },
+    "23": {
+      "text": "Farawo asubirayo, ajya mu nzu ye n'ibyo ntiyabyitaho.",
+      "start": 3.43,
+      "end": 43.91
+    },
+    "24": {
+      "text": "Abanyegiputa bose bafukura bugufi bw'uruzi kugira ngo babone amazi yo kunywa, kuko batabashaga kunywa ku mazi yo mu ruzi.",
+      "start": 15.68,
+      "end": 29.63
+    },
+    "25": {
+      "text": "Uwiteka amaze konona uruzi bimara iminsi irindwi.",
+      "start": 17.67,
+      "end": 35.51
+    },
+    "26": {
+      "text": "Uwiteka abwira Mose ati “Injira kwa Farawo umubwire uti ‘Uwiteka aravuze ngo reka ubwoko bwe bugende, bumukorere.",
+      "start": 17.31,
+      "end": 29.5
+    },
+    "27": {
+      "text": "Kandi niwanga kubarekura aragabiza igihugu cyawe cyose ibikeri:",
+      "start": 6.29,
+      "end": 16.38
+    },
+    "28": {
+      "text": "uruzi ruruzura ibikeri, bizamuke bijye mu nzu yawe no haruguru, no ku buriri bwawe no mu nzu y'abagaragu bawe, no mu mazu y'abantu bawe no mu nkono zawe, no mu byibo muvugiramo imitsima.",
+      "start": 23.53,
+      "end": 31.79
+    },
+    "29": {
+      "text": "Ibikeri bizazamuka bijye kuri wowe no ku bantu bawe, no ku bagaragu bawe bose.’ ”",
+      "start": 41.97,
+      "end": 44.65
+    }
+  }
+}

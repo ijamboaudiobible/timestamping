@@ -1,0 +1,203 @@
+{
+  "book": "Book 40",
+  "book_canonical": "matthew",
+  "book_number": 40,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Nuko Abafarisayo n'abanditsi bavuye i Yerusalemu baza aho Yesu ari baramubaza bati",
+      "start": 37.41,
+      "end": 38.67
+    },
+    "2": {
+      "text": "“Ni iki gituma abigishwa bawe bataziririza imigenzo y'abakera, ntibajabike intoki mu mazi bagiye kurya?”",
+      "start": 14.37,
+      "end": 30.15
+    },
+    "3": {
+      "text": "Na we arababaza ati “Namwe ni iki gituma mucumurira itegeko ry'Imana imigenzo yanyu?",
+      "start": 31.17,
+      "end": 43.08
+    },
+    "4": {
+      "text": "Kuko Imana yavuze iti ‘Wubahe so na nyoko’, kandi iti ‘Ututse se cyangwa nyina bamwice.’",
+      "start": 4.83,
+      "end": 25.44
+    },
+    "5": {
+      "text": "Ariko mwebweho muravuga muti ‘Umuntu wese ubwira se cyangwa nyina ati: Icyo najyaga kugufashisha nagituye Imana,umeze atyo ntahatwa kubaha se cyangwa nyina.’",
+      "start": 13.79,
+      "end": 44.34
+    },
+    "6": {
+      "text": "Nuko ijambo ry'Imana mwarihinduye ubusa ngo mukomeze imigenzo yanyu.",
+      "start": 7.51,
+      "end": 42.21
+    },
+    "7": {
+      "text": "Mwa ndyarya mwe, Yesaya yahanuye ibyanyu neza ati",
+      "start": 40.37,
+      "end": 41.13
+    },
+    "8": {
+      "text": "‘Ubu bwoko bunshimisha iminwa,Ariko imitima yabo imba kure.",
+      "start": 32.39,
+      "end": 36.15
+    },
+    "9": {
+      "text": "Bansengera ubusa,Kuko inyigisho bigisha ari amategeko y'abantu.’ ”",
+      "start": 39.7,
+      "end": 40.74
+    },
+    "10": {
+      "text": "Ahamagara abantu arababwira ati “Nimwumve musobanukirwe.",
+      "start": 18.28,
+      "end": 34.55
+    },
+    "11": {
+      "text": "Ikijya mu kanwa si cyo gihumanya umuntu, ahubwo ikiva mu kanwa ni cyo kimuhumanya.”",
+      "start": 8.77,
+      "end": 42.38
+    },
+    "12": {
+      "text": "Maze abigishwa baramwegera baramubaza bati “Uzi yuko Abafarisayo barakajwe no kumva ayo magambo?”",
+      "start": 18.94,
+      "end": 34.57
+    },
+    "13": {
+      "text": "Arabasubiza ati “Igiti cyose Data wo mu ijuru adateye kizarandurwa.",
+      "start": 28.49,
+      "end": 31.51
+    },
+    "14": {
+      "text": "Nimubareke ni abarandata impumyi kandi na bo bahumye. Ariko impumyi iyo irandase indi zombi zigwa mu mwobo.”",
+      "start": 12.24,
+      "end": 30.75
+    },
+    "15": {
+      "text": "Petero aramusubiza ati “Dusobanurire uwo mugani.”",
+      "start": 30.65,
+      "end": 37.86
+    },
+    "16": {
+      "text": "Aramubaza ati “Mbese namwe ntimurajijuka?",
+      "start": 37.68,
+      "end": 42.88
+    },
+    "17": {
+      "text": "Ntimuzi yuko ikintu cyose kigiye mu kanwa kijya mu nda kikanyura mu nzira yacyo?",
+      "start": 21.19,
+      "end": 28.04
+    },
+    "18": {
+      "text": "Ariko ibiva mu kanwa biba bivuye mu mutima, ni byo bihumanya umuntu.",
+      "start": 34.57,
+      "end": 41.57
+    },
+    "19": {
+      "text": "Kuko mu mutima w'umuntu ari ho haturuka ibitekerezo bibi: kwica no gusambana no guheheta, kwiba no kubeshyera abandi n'ibitutsi.",
+      "start": 16.13,
+      "end": 24.3
+    },
+    "20": {
+      "text": "Ibyo ni byo bihumanya umuntu, ariko kurisha intoki zitajabitse mu mazi ntiguhumanya umuntu.”",
+      "start": 17.23,
+      "end": 21.91
+    },
+    "21": {
+      "text": "Yesu arahava ajya mu gihugu cy'i Tiro n'i Sidoni.",
+      "start": 36.36,
+      "end": 43.74
+    },
+    "22": {
+      "text": "Umunyakanānikazi aturuka muri icyo gihugu arataka cyane ati “Mwami mwene Dawidi, mbabarira, umukobwa wanjye atewe na dayimoni cyane.”",
+      "start": 0.15,
+      "end": 14.66
+    },
+    "23": {
+      "text": "Ntiyagira icyo amusubiza. Nuko abigishwa be baramwegera baramwinginga bati “Musezerere kuko adutakira inyuma.”",
+      "start": 14.35,
+      "end": 27.4
+    },
+    "24": {
+      "text": "Arabasubiza ati “Sinatumiwe abandi, keretse intama zazimiye zo mu muryango wa Isirayeli.”",
+      "start": 19.49,
+      "end": 35.28
+    },
+    "25": {
+      "text": "Na we araza aramupfukamira aramubwira ati “Mwami, ntabara.”",
+      "start": 25.44,
+      "end": 34.61
+    },
+    "26": {
+      "text": "Aramusubiza ati “Si byiza kwenda ibyokurya by'abana ngo mbijugunyire imbwa.”",
+      "start": 14.22,
+      "end": 19.26
+    },
+    "27": {
+      "text": "Na we ati “Ni koko Mwami, ariko imbwa na zo zirya ubuvungukira bugwa buvuye ku meza ya ba nyirazo.”",
+      "start": 9.85,
+      "end": 39.33
+    },
+    "28": {
+      "text": "Maze Yesu aramusubiza ati “Mugore, kwizera kwawe ni kwinshi, bikubere uko ushaka.” Umukobwa we aherako arakira.",
+      "start": 32.49,
+      "end": 44.85
+    },
+    "29": {
+      "text": "Yesu avayo ajya ku Nyanja y'i Galilaya, azamuka umusozi aricara.",
+      "start": 10.31,
+      "end": 16.5
+    },
+    "30": {
+      "text": "Abantu benshi baza aho ari, bazana abacumbagira n'ibirema, n'impumyi n'ibiragi n'abandi barwayi benshi, babarambika hasi imbere ye arabakiza,",
+      "start": 31.48,
+      "end": 39.0
+    },
+    "31": {
+      "text": "bituma abantu batangara babonye ibiragi bivuga, ibirema ari bizima, abacumbagira bagenda, n'impumyi zireba, bahimbaza Imana y'Abisirayeli.",
+      "start": 31.73,
+      "end": 36.07
+    },
+    "32": {
+      "text": "Yesu ahamagara abigishwa be arababwira ati “Mbabariye abo bantu kuko uyu munsi ari uwa gatatu turi kumwe, none ntibafite ibyokurya. Sinshaka kubasezerera batariye, isari itabatsinda ku nzira.”",
+      "start": 39.65,
+      "end": 40.19
+    },
+    "33": {
+      "text": "Abigishwa baramubaza bati “Muri ubu butayu twakura he imitsima ingana ityo yo guhaza abantu bangana batya?”",
+      "start": 42.67,
+      "end": 44.92
+    },
+    "34": {
+      "text": "Yesu na we arababaza ati “Mufite imitsima ingahe?”Baramusubiza bati “Ni irindwi n'udufi duke.”",
+      "start": 11.38,
+      "end": 38.73
+    },
+    "35": {
+      "text": "Ategeka abantu ko bicara hasi.",
+      "start": 17.0,
+      "end": 36.66
+    },
+    "36": {
+      "text": "Yenda iyo mitsima irindwi n'udufi, arabishimira, arabimanyagura, abiha abigishwa be, na bo babiha abantu.",
+      "start": 1.19,
+      "end": 34.74
+    },
+    "37": {
+      "text": "Bose bararya barahaga, bateranya ubuvungukira busigaye, bwuzura ibitebo birindwi.",
+      "start": 38.37,
+      "end": 39.44
+    },
+    "38": {
+      "text": "Abariye bari abagabo ibihumbi bine, abagore n'abana batabariwemo.",
+      "start": 43.1,
+      "end": 43.67
+    },
+    "39": {
+      "text": "Asezerera abantu, yikira mu bwato ajya mu gihugu cy'i Magadani.",
+      "start": 5.21,
+      "end": 40.19
+    }
+  }
+}

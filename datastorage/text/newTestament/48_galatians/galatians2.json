@@ -1,0 +1,113 @@
+{
+  "book": "Book 48",
+  "book_canonical": "galatians",
+  "book_number": 48,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Hashize imyaka cumi n'ine nsubira kuzamuka njya i Yerusalemu ndi kumwe na Barinaba, njyana na Tito",
+      "start": 15.03,
+      "end": 37.87
+    },
+    "2": {
+      "text": "njyanyweyo n'ibyo nahishuriwe. Nuko mbasobanurira ubutumwa bwiza mbwiriza mu banyamahanga, icyakora mbubasobanurira abakuru bashimwa twiherereye ngo ntirukira ubusa, cyangwa ngo mbe narirukiye ubusa.",
+      "start": 21.24,
+      "end": 40.01
+    },
+    "3": {
+      "text": "Nubwo Tito twari kumwe ari Umugiriki ntibamuhatiye gukebwa,",
+      "start": 32.76,
+      "end": 36.73
+    },
+    "4": {
+      "text": "ahubwo hanyuma byatewe na bene Data b'indyarya, binjijwe rwihereranwa no gutata umudendezo wacu dufite muri Kristo Yesu, kugira ngo badushyire mu bubata.",
+      "start": 41.79,
+      "end": 42.52
+    },
+    "5": {
+      "text": "Abo ntitwabumviye na hato ngo dutegekwe na bo, kugira ngo ukuri k'ubutumwa bwiza kugume muri mwe.",
+      "start": 41.91,
+      "end": 42.03
+    },
+    "6": {
+      "text": "Ariko abashimwa ko ari bakuru (uko bameraga kera simbyitayeho, kuko ku bwanjye byose bimpwaniye. Imana ntirobanura abantu ku butoni), abo bashimwa nta cyo banyongereyeho ku byo nigishaga.",
+      "start": 6.55,
+      "end": 33.55
+    },
+    "7": {
+      "text": "Ahubwo babona yuko nahawe ubutumwa bwo kwigisha abatakebwe, nk'uko Petero yahawe ubwo kwigisha abakebwe,",
+      "start": 16.49,
+      "end": 21.13
+    },
+    "8": {
+      "text": "kuko Uwahaye Petero ubutware ngo atumwe ku bakebwe, ari na we wabumpaye nanjye ngo ntumwe ku banyamahanga.",
+      "start": 31.34,
+      "end": 32.72
+    },
+    "9": {
+      "text": "Nuko bamaze kumenya ubuntu nahawe, (abo mvuga ni Yakobo na Kefa na Yohana abashimwa ko ari inkingi), badusezeranira jyewe na Barinaba ko bazafatanya natwe, babihamirishije gukorana mu ntoki ngo twebwe tujye mu banyamahanga, na bo bajye mu bakebwe.",
+      "start": 7.57,
+      "end": 29.44
+    },
+    "10": {
+      "text": "Ariko hariho kimwe banyongereyeho, ni uko twibuka abakene, kandi ibyo nari nsanzwe mfite umwete wo kubikora.",
+      "start": 1.77,
+      "end": 4.74
+    },
+    "11": {
+      "text": "Ariko ubwo Kefa yazaga muri Antiyokiya, namugishije impaka duhanganye kuko yari yarabonetsweho n'umugayo,",
+      "start": 7.47,
+      "end": 33.76
+    },
+    "12": {
+      "text": "kuko intumwa za Yakobo zitaragerayo yasangiraga n'abanyamahanga, ariko zigezeyo ariyufūra, arabanena kuko yatinyaga abakebwe.",
+      "start": 40.47,
+      "end": 41.05
+    },
+    "13": {
+      "text": "Nuko abandi Bayuda na bo bose baryaryana na we, ndetse ibyo bituma na Barinaba ayobywa n'uburyarya bwabo.",
+      "start": 28.53,
+      "end": 42.0
+    },
+    "14": {
+      "text": "Ariko mbonye ko batagenda mu nzira igororotse ihura n'ukuri k'ubutumwa bwiza, mbwirira Kefa imbere ya bose nti “Ubwo wowe uri Umuyuda ukifata nk'abanyamahanga, ntiwifate nk'Abayuda, ni iki gituma uhatira abanyamahanga kwifata nk'Abayuda?”",
+      "start": 24.52,
+      "end": 25.19
+    },
+    "15": {
+      "text": "Dore twebweho twavutse turi Abayuda ntituri abanyabyaha bo mu banyamahanga,",
+      "start": 40.01,
+      "end": 43.85
+    },
+    "16": {
+      "text": "nyamara tumenye yuko umuntu adatsindishirizwa n'imirimo itegetswe n'amategeko, ahubwo atsindishirizwa no kwizera Yesu Kristo. Dore ndetse natwe twizeye Kristo Yesu kugira ngo dutsindishirizwe no kumwizera, bitavuye ku mirimo itegetswe n'amategeko kuko ari nta muntu uzatsindishirizwa n'imirimo itegetswe n'amategeko.",
+      "start": 44.97,
+      "end": 45.0
+    },
+    "17": {
+      "text": "Ariko se nidushaka gutsindishirizwa na Kristo, tugasanga ko twebwe ubwacu turi abanyabyaha, ibyo byatuma Kristo avugwa ko ari umugabura w'ibyaha? Ntibikabeho!",
+      "start": 16.35,
+      "end": 25.98
+    },
+    "18": {
+      "text": "Kuko niba nongera kūbaka ibyo nashenye, mba nihinduye umunyabyaha.",
+      "start": 5.31,
+      "end": 12.34
+    },
+    "19": {
+      "text": "Amategeko yanteye gupfa ku mategeko ngo mbeho ku Mana.",
+      "start": 0.53,
+      "end": 1.96
+    },
+    "20": {
+      "text": "Nabambanywe na Kristo ariko ndiho, nyamara si jye uriho, ahubwo ni Kristo uriho muri jye. Ibyo nkora byose nkiriho mu mubiri, mbikoreshwa no kwizera Umwana w'Imana wankunze akanyitangira.",
+      "start": 27.28,
+      "end": 42.08
+    },
+    "21": {
+      "text": "Simpindura ubusa ubuntu bw'Imana, kuko niba gukiranuka kuzanwa n'amategeko Kristo aba yarapfiriye ubusa.",
+      "start": 18.84,
+      "end": 40.59
+    }
+  }
+}

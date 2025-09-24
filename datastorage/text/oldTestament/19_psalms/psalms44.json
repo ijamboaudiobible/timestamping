@@ -1,0 +1,143 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni indirimbo ya bene Kōra yahimbishijwe ubwenge.",
+      "start": 15.94,
+      "end": 19.76
+    },
+    "2": {
+      "text": "Mana, twariyumviye n'amatwi yacu,Ba sogokuruza batubwiye imirimo wakoze mu gihe cyabo,Mu gihe cya kera.",
+      "start": 44.53,
+      "end": 44.56
+    },
+    "3": {
+      "text": "Wimuje amahanga ukuboko kwawe ushingamo abo,Wateye amoko ibyago kandi abo urabatatanya mu bihugu,",
+      "start": 12.0,
+      "end": 34.07
+    },
+    "4": {
+      "text": "Kuko atari iyabo nkota yabahaye guhindūra igihugu,Kandi atari ukuboko kwabo kwabakijije.Ahubwo ni ikiganza cyawe cy'iburyo,N'ukuboko kwawe n'umucyo wo mu maso hawe,Kuko wabīshimiraga.",
+      "start": 6.63,
+      "end": 13.09
+    },
+    "5": {
+      "text": "Mana, ni wowe Mwami wanjye,Tegekera Abayakobo agakiza.",
+      "start": 6.32,
+      "end": 7.16
+    },
+    "6": {
+      "text": "Ni wowe uzaduha gutsinda ababisha bacu,Izina ryawe ni ryo rizaduha kuribata abaduhagurukiye.",
+      "start": 15.07,
+      "end": 19.27
+    },
+    "7": {
+      "text": "Kuko ntaziringira umuheto wanjye,Kandi inkota yanjye atari yo izankiza,",
+      "start": 4.11,
+      "end": 21.31
+    },
+    "8": {
+      "text": "Ahubwo ni wowe wadukijije ababisha bacu,Wakojeje isoni abatwanga.",
+      "start": 39.07,
+      "end": 44.32
+    },
+    "9": {
+      "text": "Imana ni yo twirata umunsi ukira,Kandi tuzashima izina ryawe iteka ryose.Sela.",
+      "start": 40.16,
+      "end": 43.91
+    },
+    "10": {
+      "text": "Ariko none wadutaye kure waduteje igisuzuguriro,Kandi ntutabarana n'ingabo zacu.",
+      "start": 12.83,
+      "end": 20.32
+    },
+    "11": {
+      "text": "Watumye ababisha bacu badukubita incuro,Abatwanga baratwinyagira.",
+      "start": 18.65,
+      "end": 35.3
+    },
+    "12": {
+      "text": "Wadutanze nk'intama zarobanuriwe kubagwa,Wadutatanirije mu mahanga.",
+      "start": 31.77,
+      "end": 31.99
+    },
+    "13": {
+      "text": "Utangira ubusa abantu bawe,Kandi igiciro cyabo ntucyongeresha ubutunzi bwawe.",
+      "start": 0.07,
+      "end": 26.91
+    },
+    "14": {
+      "text": "Utugira igitutsi cy'abaturanyi bacu,Ibitwenge no gukobwa by'abatugose.",
+      "start": 14.55,
+      "end": 23.5
+    },
+    "15": {
+      "text": "Watugize iciro ry'imigani mu mahanga,Abazungurizwa imitwe n'amoko.",
+      "start": 4.33,
+      "end": 29.34
+    },
+    "16": {
+      "text": "Igisuzuguriro cyanjye kiri imbere yanjye umunsi ukira,Isoni zo mu maso hanjye zirantwikiriye,",
+      "start": 14.05,
+      "end": 44.6
+    },
+    "17": {
+      "text": "Ku bw'ijwi ry'utongana agatukana,Ku bw'umwanzi n'uhōra inzigo.",
+      "start": 14.91,
+      "end": 36.13
+    },
+    "18": {
+      "text": "Ibyo byose byadusohoyeho ariko ntitwakwibagiwe,Kandi ntitwavuye mu isezerano ryawe.",
+      "start": 28.57,
+      "end": 40.21
+    },
+    "19": {
+      "text": "Umutima wacu ntiwasubiye inyuma,Intambwe zacu ntiziyobagije ngo zive mu nzira yawe,",
+      "start": 11.2,
+      "end": 15.38
+    },
+    "20": {
+      "text": "Bitume utuvunagurira ahantu h'ingunzu,Udutwikirize igicucu cy'urupfu.",
+      "start": 12.7,
+      "end": 37.18
+    },
+    "21": {
+      "text": "Niba twaribagiwe izina ry'Imana yacu,Niba twararamburiye amaboko indi mana,",
+      "start": 17.7,
+      "end": 33.15
+    },
+    "22": {
+      "text": "Imana ntizabirondōra,Kuko izi ibihishwe mu mutima?",
+      "start": 17.89,
+      "end": 41.4
+    },
+    "23": {
+      "text": "Ahubwo twiricwa umunsi ukira bakuduhōra,Twahwanijwe n'intama z'imbagwa.",
+      "start": 19.22,
+      "end": 42.76
+    },
+    "24": {
+      "text": "Mwami, ivurugute,Ni iki kigushinjirije?Kanguka ntudute kuri iteka ryose.",
+      "start": 8.63,
+      "end": 9.93
+    },
+    "25": {
+      "text": "Ni iki gituma utwikīra mu maso hawe,Ukibagirwa umubabaro wacu n'agahato baduhata?",
+      "start": 35.59,
+      "end": 40.76
+    },
+    "26": {
+      "text": "Kuko ubugingo bwacu bwunamishijwe bukagera mu mukungugu,Inda yacu yarumanye n'ubutaka.",
+      "start": 5.72,
+      "end": 21.77
+    },
+    "27": {
+      "text": "Haguruka udutabare,Uducungure ku bw'imbabazi zawe.",
+      "start": 44.92,
+      "end": 44.97
+    }
+  }
+}

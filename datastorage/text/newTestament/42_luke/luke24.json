@@ -1,0 +1,273 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 24,
+  "verses": {
+    "1": {
+      "text": "Ku wa mbere w'iminsi irindwi, kare mu museke bajya ku gituro bajyanye bya bihumura neza batunganije.",
+      "start": 36.76,
+      "end": 38.06
+    },
+    "2": {
+      "text": "Babona igitare kibirinduye kivuye ku gituro,",
+      "start": 4.65,
+      "end": 27.65
+    },
+    "3": {
+      "text": "binjiramo ntibasangamo intumbi y'Umwami Yesu.",
+      "start": 2.85,
+      "end": 34.36
+    },
+    "4": {
+      "text": "Bakiguye mu kantu, abagabo babiri bahagarara aho bari bambaye imyenda irabagirana.",
+      "start": 18.92,
+      "end": 22.54
+    },
+    "5": {
+      "text": "Abagore baratinya bubika amaso, nuko abo bagabo barababaza bati “Ni iki gitumye mushakira umuzima mu bapfuye?",
+      "start": 13.93,
+      "end": 20.85
+    },
+    "6": {
+      "text": "Ntari hano ahubwo yazutse. Mwibuke ibyo yavuganye namwe akiri i Galilaya ati",
+      "start": 11.43,
+      "end": 24.64
+    },
+    "7": {
+      "text": "‘Umwana w'umuntu akwiriye kugambanirwa ngo afatwe n'amaboko y'abanyabyaha, abambwe maze azazuke ku munsi wa gatatu.’ ”",
+      "start": 24.56,
+      "end": 44.21
+    },
+    "8": {
+      "text": "Bibuka amagambo ye.",
+      "start": 28.48,
+      "end": 39.13
+    },
+    "9": {
+      "text": "Bava ku gituro basubirayo, ibyo byose babibwira abigishwa cumi n'umwe n'abandi bose.",
+      "start": 26.37,
+      "end": 39.8
+    },
+    "10": {
+      "text": "Abo ni Mariya Magadalena na Yowana, na Mariya nyina wa Yakobo, n'abandi bagore bari hamwe na bo babwira intumwa ibyo babonye.",
+      "start": 42.13,
+      "end": 43.18
+    },
+    "11": {
+      "text": "Ariko ayo magambo ababera nk'impuha ntibayemera.",
+      "start": 32.16,
+      "end": 42.57
+    },
+    "12": {
+      "text": "Maze Petero arahaguruka yirukanka ajya ku gituro, arunama arungurukamo, abona imyenda y'ibitare iri yonyine. Asubira iwe atangazwa n'ibyabaye.",
+      "start": 27.49,
+      "end": 28.51
+    },
+    "13": {
+      "text": "Nuko uwo munsi babiri muri bo bajyaga mu kirorero cyitwa Emawusi. (Kuva i Yerusalemu kugerayo ni nka sitadiyo mirongo itandatu.)",
+      "start": 43.1,
+      "end": 44.54
+    },
+    "14": {
+      "text": "Nuko baganira ibyabaye byose.",
+      "start": 37.7,
+      "end": 39.25
+    },
+    "15": {
+      "text": "Bakiganira babazanya, Yesu arabegera ajyana na bo,",
+      "start": 44.71,
+      "end": 44.74
+    },
+    "16": {
+      "text": "Ariko amaso yabo arabuzwa ngo batamumenya.",
+      "start": 40.32,
+      "end": 44.12
+    },
+    "17": {
+      "text": "Arababaza ati “Muragenda mubazanya ibiki?”Bahagarara bagaragaje umubabaro.",
+      "start": 17.37,
+      "end": 23.34
+    },
+    "18": {
+      "text": "Umwe muri bo witwaga Kilewopa aramusubiza ati “Mbese ni wowe wenyine mu bashyitsi b'i Yerusalemu, utazi ibyahabaye muri iyi minsi?”",
+      "start": 17.7,
+      "end": 29.95
+    },
+    "19": {
+      "text": "Arababaza ati “Ni ibiki?”Bati “Ni ibya Yesu w'i Nazareti, wari umuhanuzi ukomeye mu byo yakoraga n'ibyo yavugaga imbere y'Imana n'imbere y'abantu bose,",
+      "start": 22.24,
+      "end": 34.63
+    },
+    "20": {
+      "text": "kandi twavuganaga uburyo abatambyi bakuru n'abatware bacu, bamutanze ngo acirwe urubanza rwo gupfa bakamubamba,",
+      "start": 29.97,
+      "end": 39.62
+    },
+    "21": {
+      "text": "kandi twiringiraga yuko ari we uzacungura Abisirayeli. Uretse ibyo, dore uyu munsi ni uwa gatatu uhereye aho ibyo byabereye.",
+      "start": 33.03,
+      "end": 40.06
+    },
+    "22": {
+      "text": "None abagore bo muri twe badutangaje, kuko bazindutse bajya ku gituro",
+      "start": 38.31,
+      "end": 40.12
+    },
+    "23": {
+      "text": "ntibasangamo intumbi ye. Nuko baraza batubwira ko babonekewe n'abamarayika, bakababwira ko ari muzima.",
+      "start": 26.47,
+      "end": 42.51
+    },
+    "24": {
+      "text": "Kandi bamwe mu bari bari kumwe na twe bagiye ku gituro basanga ari ko biri, uko abagore batubwiye, ariko we ntibamubona.”",
+      "start": 12.35,
+      "end": 30.98
+    },
+    "25": {
+      "text": "Arababwira ati “Mwa bapfu mwe, imitima yanyu itinze cyane kwizera ibyo abahanuzi bavuze byose.",
+      "start": 34.97,
+      "end": 37.7
+    },
+    "26": {
+      "text": "None se Kristo ntiyari akwiriye kubabazwa atyo, ngo abone kwinjira mu bwiza bwe?”",
+      "start": 3.22,
+      "end": 6.23
+    },
+    "27": {
+      "text": "Atangirira kuri Mose no ku bahanuzi bose, abasobanurira mu byanditswe byose ibyanditswe kuri we.",
+      "start": 4.67,
+      "end": 8.99
+    },
+    "28": {
+      "text": "Bageze bugufi bw'ikirorero bajyagamo, agira nk'ushaka kugicaho.",
+      "start": 43.99,
+      "end": 44.64
+    },
+    "29": {
+      "text": "Baramuhata bati “Se waretse tukagumana kuko bwije kandi umunsi ukaba ukuze?” Nuko arinjira ngo agumane na bo.",
+      "start": 12.14,
+      "end": 24.98
+    },
+    "30": {
+      "text": "Yicaye ngo asangire na bo, yenda umutsima arawushimira, arawumanyagura arawubaha.",
+      "start": 42.18,
+      "end": 42.75
+    },
+    "31": {
+      "text": "Amaso yabo arahumuka baramumenya, maze aburira imbere yabo ntibongera kumubona.",
+      "start": 4.74,
+      "end": 21.22
+    },
+    "32": {
+      "text": "Baravugana bati “Yewe, ntiwibuka ukuntu imitima yacu yari ikeye, ubwo yavuganaga natwe turi mu nzira adusobanurira ibyanditswe!”",
+      "start": 33.44,
+      "end": 42.02
+    },
+    "33": {
+      "text": "Uwo mwanya barahaguruka basubira i Yerusalemu, basanga abo cumi n'umwe bateranye hamwe n'abandi,",
+      "start": 43.69,
+      "end": 44.94
+    },
+    "34": {
+      "text": "bumva bavuga bati “Ni ukuri Umwami Yesu yazutse, ndetse yabonekeye Simoni.”",
+      "start": 41.98,
+      "end": 43.84
+    },
+    "35": {
+      "text": "Nuko ba bandi babiri na bo babatekerereza ibyabereye mu nzira, n'uburyo bamumenyeshejwe n'uko amanyaguye umutsima.",
+      "start": 15.52,
+      "end": 23.74
+    },
+    "36": {
+      "text": "Bakivuga ibyo, Yesu ahagarara hagati yabo arababwira ati “Amahoro abe muri mwe.”",
+      "start": 39.2,
+      "end": 41.91
+    },
+    "37": {
+      "text": "Maze barikanga, bagira ubwoba bwinshi bagira ngo ni umuzimu babonye.",
+      "start": 36.9,
+      "end": 41.16
+    },
+    "38": {
+      "text": "Arababwira ati “Ikibahagaritse imitima ni iki, kandi ni iki gitumye mwiburanya mu mitima yanyu?",
+      "start": 34.14,
+      "end": 37.68
+    },
+    "39": {
+      "text": "Nimurebe ibiganza byanjye n'ibirenge byanjye, mumenye ko ari jye ubwanjye. Ndetse nimunkoreho murebe, kuko umuzimu atagira umubiri n'amagufwa nk'ibyo mundebana.”",
+      "start": 6.4,
+      "end": 17.68
+    },
+    "40": {
+      "text": "Avuze ibyo abereka ibiganza bye n'ibirenge bye.",
+      "start": 20.91,
+      "end": 39.87
+    },
+    "41": {
+      "text": "Nuko ibinezaneza bikibabujije kubyemera, bagitangara arababaza ati “Hari icyo kurya mufite hano?”",
+      "start": 7.19,
+      "end": 19.2
+    },
+    "42": {
+      "text": "Bamuha igice cy'ifi yokeje,",
+      "start": 13.52,
+      "end": 33.7
+    },
+    "43": {
+      "text": "aracyākira akirīra imbere yabo.",
+      "start": 41.46,
+      "end": 44.78
+    },
+    "44": {
+      "text": "Maze arababwira ati “Aya ni amagambo nababwiraga nkiri kumwe namwe, yuko ibyanditswe kuri jye byose mu mategeko ya Mose, no mu byahanuwe no muri Zaburi bikwiriye gusohora.”",
+      "start": 13.45,
+      "end": 34.81
+    },
+    "45": {
+      "text": "Maze abungura ubwenge ngo basobanukirwe n'ibyanditswe,",
+      "start": 39.15,
+      "end": 42.39
+    },
+    "46": {
+      "text": "ati “Ni ko byanditswe ko Kristo akwiriye kubabazwa no kuzuka ku munsi wa gatatu,",
+      "start": 37.54,
+      "end": 37.97
+    },
+    "47": {
+      "text": "kandi ko kwihana no kubabarirwa ibyaha bikwiriye kubwirwa amahanga yose mu izina rye, bahereye kuri Yerusalemu.",
+      "start": 38.88,
+      "end": 40.41
+    },
+    "48": {
+      "text": "Ni mwe bagabo b'ibyo.",
+      "start": 1.99,
+      "end": 8.08
+    },
+    "49": {
+      "text": "Kandi dore ngiye kuboherereza ibyo Data yasezeranye, ariko mugume mu murwa kugeza ubwo muzambikwa imbaraga zivuye mu ijuru.”",
+      "start": 1.7,
+      "end": 8.19
+    },
+    "50": {
+      "text": "Abajyana hanze, abageza i Betaniya arambura amaboko hejuru, abaha umugisha.",
+      "start": 13.96,
+      "end": 28.31
+    },
+    "51": {
+      "text": "Akibaha umugisha atandukanywa na bo, ajyanwa mu ijuru.",
+      "start": 36.36,
+      "end": 39.26
+    },
+    "52": {
+      "text": "Na bo baramuramya, basubirana i Yerusalemu umunezero mwinshi,",
+      "start": 19.23,
+      "end": 20.09
+    },
+    "53": {
+      "text": "baguma mu rusengero iteka bashima Imana.",
+      "start": 16.75,
+      "end": 24.0
+    }
+  }
+}

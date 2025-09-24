@@ -1,0 +1,208 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Benyamini yabyaye imfura ye Bela, n'uw'ubuheta Ashibeli, n'uwa gatatu Ahara,",
+      "start": 11.2,
+      "end": 30.38
+    },
+    "2": {
+      "text": "n'uwa kane Noha, n'uwa gatanu Rafa.",
+      "start": 32.47,
+      "end": 33.42
+    },
+    "3": {
+      "text": "Na Bela yari afite abahungu: Adari na Gera na Abihudi,",
+      "start": 5.02,
+      "end": 16.36
+    },
+    "4": {
+      "text": "na Abishuwa na Nāmani na Ahowa,",
+      "start": 17.05,
+      "end": 43.24
+    },
+    "5": {
+      "text": "na Gera na Shefufani na Huramu.",
+      "start": 25.86,
+      "end": 36.53
+    },
+    "6": {
+      "text": "Aba ni bo bene Ehudi, bari abatware b'amazu ya ba sekuruza b'abaturage b'i Geba, bukeye babajyana ho iminyago i Manahati.",
+      "start": 42.53,
+      "end": 44.21
+    },
+    "7": {
+      "text": "Kandi Nāmani na Ahiya na Gera na bo abajyana ho iminyago, kandi abyara Uza na Ahihudi.",
+      "start": 12.98,
+      "end": 20.23
+    },
+    "8": {
+      "text": "Shaharayimu abyarira abana mu gihugu cy'i Mowabu, amaze kwirukana abagore be Hushimu na Bāra.",
+      "start": 42.01,
+      "end": 44.31
+    },
+    "9": {
+      "text": "Abyarana n'umugore we Hodeshi, Yobabu na Sibiya na Mesha na Malukamu,",
+      "start": 29.17,
+      "end": 39.89
+    },
+    "10": {
+      "text": "na Yewusi na Shakiya na Miruma. Abo ni bo bari abahungu be, abatware b'amazu ya ba sekuruza.",
+      "start": 6.73,
+      "end": 17.47
+    },
+    "11": {
+      "text": "Kandi abyarana na Hushimu, Abitubu na Elipāli.",
+      "start": 32.55,
+      "end": 32.92
+    },
+    "12": {
+      "text": "Bene Elipāli ni Eberi na Mishamu na Shemedi, ari we wubatse Ono na Lodi n'imidugudu yaho,",
+      "start": 11.34,
+      "end": 23.49
+    },
+    "13": {
+      "text": "na Beriya na Shema, ari bo bari abatware b'amazu ya ba sekuruza b'abaturage ba Ayaloni birukanye abaturage b'i Gati,",
+      "start": 25.18,
+      "end": 29.48
+    },
+    "14": {
+      "text": "na Ahiyo na Shashaki na Yeremoti,",
+      "start": 41.0,
+      "end": 41.62
+    },
+    "15": {
+      "text": "na Zebadiya na Aradi na Ederi,",
+      "start": 23.98,
+      "end": 39.07
+    },
+    "16": {
+      "text": "na Mikayeli na Ishipa na Yoha bene Beriya,",
+      "start": 35.11,
+      "end": 41.51
+    },
+    "17": {
+      "text": "na Zebadiya na Meshulamu, na Hizuki na Heberi,",
+      "start": 17.71,
+      "end": 27.74
+    },
+    "18": {
+      "text": "na Ishimerayi na Izuliya, na Yobabu bene Elipāli,",
+      "start": 34.78,
+      "end": 35.34
+    },
+    "19": {
+      "text": "na Yakimu na Zikiri na Zabudi,",
+      "start": 28.87,
+      "end": 29.31
+    },
+    "20": {
+      "text": "na Eliyenayi na Siletayi na Eliyeli,",
+      "start": 21.84,
+      "end": 24.44
+    },
+    "21": {
+      "text": "na Adaya na Beraya, na Shimurati bene Shimeyi,",
+      "start": 15.98,
+      "end": 26.56
+    },
+    "22": {
+      "text": "na Ishupani na Eberi na Eliyeli,",
+      "start": 28.7,
+      "end": 29.31
+    },
+    "23": {
+      "text": "na Abudoni na Zikiri na Hanāni,",
+      "start": 17.07,
+      "end": 18.46
+    },
+    "24": {
+      "text": "na Hananiya na Elamu na Anitotiya,",
+      "start": 27.84,
+      "end": 32.83
+    },
+    "25": {
+      "text": "na Ifudeya na Penuweli, bene Shashaki,",
+      "start": 2.8,
+      "end": 24.59
+    },
+    "26": {
+      "text": "na Shamusherayi na Shehariya na Ataliya,",
+      "start": 34.56,
+      "end": 44.84
+    },
+    "27": {
+      "text": "na Yāreshiya na Eliya na Zikiri bene Yerohamu.",
+      "start": 35.84,
+      "end": 44.96
+    },
+    "28": {
+      "text": "Abo ni bo bari abatware b'amazu ya ba sekuruza kurangiza ibihe byabo byose. Bari abagabo bakomeye kandi babaga i Yerusalemu.",
+      "start": 4.3,
+      "end": 25.07
+    },
+    "29": {
+      "text": "Kandi Yeyeli se wa Gibeyoni yaturaga i Gibeyoni. Umugore we yitwaga Māka.",
+      "start": 2.75,
+      "end": 25.95
+    },
+    "30": {
+      "text": "Umuhungu we w'imfura ni Abudoni, agakurikirwa na Suri na Kishi na Bāli na Nadabu,",
+      "start": 32.68,
+      "end": 41.24
+    },
+    "31": {
+      "text": "na Gedori na Ahiyo na Zekeri.",
+      "start": 27.15,
+      "end": 37.98
+    },
+    "32": {
+      "text": "Mikuloti abyara Shimeya. Abo na bo baturanaga na bene se i Yerusalemu, bateganye.",
+      "start": 6.91,
+      "end": 24.13
+    },
+    "33": {
+      "text": "Kandi Neri abyara Kishi, Kishi abyara Sawuli, Sawuli abyara Yonatani na Malikishuwa, na Abinadabu na Eshibāli.",
+      "start": 17.98,
+      "end": 27.7
+    },
+    "34": {
+      "text": "Umuhungu wa Yonatani ni Meribāli, Meribububāli abyara Mika.",
+      "start": 18.97,
+      "end": 22.32
+    },
+    "35": {
+      "text": "Bene Mika ni Pitoni na Meleki, na Tareya na Ahazi.",
+      "start": 2.4,
+      "end": 8.1
+    },
+    "36": {
+      "text": "Ahazi abyara Yehoyada, Yehoyada abyara Alemeti na Azimaveti na Zimuri, Zimuri abyara Mosa.",
+      "start": 37.08,
+      "end": 37.98
+    },
+    "37": {
+      "text": "Mosa abyara Bineya. Umuhungu we ni Rafa, mwene Rafa ni Eleyasa, mwene Eleyasa ni Aseli.",
+      "start": 32.87,
+      "end": 38.86
+    },
+    "38": {
+      "text": "Aseli yari afite abahungu batandatu amazina yabo ni aya: Azirikamu na Bokeru na Ishimayeli, na Sheyariya na Obadiya na Hanāni. Abo bose ni bene Aseli.",
+      "start": 1.58,
+      "end": 40.9
+    },
+    "39": {
+      "text": "Bene Esheki murumuna we ni Ulamu imfura ye, uw'ubuheta ni Yewushi, uwa gatatu ni Elifeleti.",
+      "start": 35.41,
+      "end": 39.87
+    },
+    "40": {
+      "text": "Bene Ulamu bari abagabo b'abanyambaraga b'intwari b'abarashi, bari bafite abahungu benshi n'abuzukuru, bari ijana na mirongo itanu. Abo bose bari ab'abahungu ba Benyamini.",
+      "start": 30.6,
+      "end": 37.03
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 129,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Bambabaje kenshi uhereye mu buto bwanjye,Abe ari ko ubwoko bw'Abisirayeli buvuga none.",
+      "start": 44.03,
+      "end": 44.57
+    },
+    "2": {
+      "text": "Bambabaje kenshi, uhereye mu buto bwanjye,Ariko ntibanesheje.",
+      "start": 44.75,
+      "end": 44.88
+    },
+    "3": {
+      "text": "Abahinzi bahinze ku mugongo wanjye,Bahaciye impavu ndende.",
+      "start": 31.79,
+      "end": 44.95
+    },
+    "4": {
+      "text": "Uwiteka ni umukiranutsi,Yaciye ingoyi abanyabyaha banshyizeho.",
+      "start": 30.72,
+      "end": 35.5
+    },
+    "5": {
+      "text": "Abanga i Siyoni bose,Bakorwe n'isoni basubizwe inyuma.",
+      "start": 43.04,
+      "end": 43.52
+    },
+    "6": {
+      "text": "Babe nk'ubwatsi n'imyaka bimeze ku mapfundo y'amazu,Byuma bitarakura.",
+      "start": 40.87,
+      "end": 43.78
+    },
+    "7": {
+      "text": "Ibyo umusaruzi atuzuza ikiganza cye,Cyangwa uhambira imiba atuzuza igikondorero cye.",
+      "start": 11.36,
+      "end": 19.57
+    },
+    "8": {
+      "text": "Abahisi ntibavuge bati“Umugisha w'Uwiteka ube kuri mwe,Tubasabiye umugisha mu izina ry'Uwiteka.”",
+      "start": 36.62,
+      "end": 38.82
+    }
+  }
+}

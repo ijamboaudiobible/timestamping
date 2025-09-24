@@ -1,0 +1,238 @@
+{
+  "book": "Book 11",
+  "book_canonical": "1_kings",
+  "book_number": 11,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Igihe cya Dawidi cyo gutanga cyenda gusohora, yihanangiriza umuhungu we Salomo aramubwira ati",
+      "start": 11.23,
+      "end": 36.25
+    },
+    "2": {
+      "text": "“Ubu ndagiye nk'uko ab'isi bose bagenda. Nuko komera ugaragaze ko uri umugabo.",
+      "start": 8.81,
+      "end": 37.74
+    },
+    "3": {
+      "text": "Ujye wumvira ibyo Uwiteka Imana yawe yakwihanangirije: ni ko kugendera mu nzira zayo, ukitondera amategeko yayo n'ibyo yategetse, n'amateka n'ibyo yahamije nk'uko byanditswe mu mategeko ya Mose, kugira ngo ubashishwe ibyo uzakora byose aho uzagana hose,",
+      "start": 17.28,
+      "end": 40.37
+    },
+    "4": {
+      "text": "kugira ngo Uwiteka azakomeze ijambo rye yamvuzeho ati ‘Abana bawe nibirindira mu ngeso zabo nziza, bakagendera imbere yanjye mu by'ukuri n'imitima yabo yose n'ubugingo bwabo bwose, ntuzabura uzungura ingoma ya Isirayeli.’ Uko ni ko Imana yavuze.",
+      "start": 10.85,
+      "end": 34.35
+    },
+    "5": {
+      "text": "“Kandi uzi ibyo Yowabu mwene Seruya yangiriye, n'ibyo yagiriye abagaba bombi b'ingabo za Isirayeli: Abuneri mwene Neri na Amasa mwene Yeteri, ko yabishe akavusha amaraso nk'ayo mu ntambara mu gihe cy'amahoro, akayasīga ku mukandara akenyeje no ku nkweto yari akwese.",
+      "start": 32.46,
+      "end": 38.67
+    },
+    "6": {
+      "text": "Nuko uzamugenze uko uzigira inama, ntuzemere ko imvi ze zimanuka amahoro zijya mu mva.",
+      "start": 22.7,
+      "end": 33.72
+    },
+    "7": {
+      "text": "“Ariko bene Barizilayi w'Umunyagaleyadi uzabagirire neza, bazajye basangira n'abarira ku meza yawe, kuko ari ko bangiriye igihe nari narahunze mwene so Abusalomu.",
+      "start": 21.78,
+      "end": 25.9
+    },
+    "8": {
+      "text": "“Kandi ufite Shimeyi mwene Gera w'Umubenyamini w'i Bahurimu, wamvumye umuvumo mubi umunsi najyaga i Mahanayimu, ariko hanyuma ansanganirira kuri Yorodani murahira Uwiteka nti ‘Sinzakwicisha inkota.’",
+      "start": 33.15,
+      "end": 41.51
+    },
+    "9": {
+      "text": "Ariko rero ntuzamubare nk'utariho urubanza, kuko uri umunyabwenge uzamenye uko ukwiriye kumugirira, kandi uzamanure imvi ze zijye mu mva ziriho amaraso wamuvushije.”",
+      "start": 0.29,
+      "end": 4.85
+    },
+    "10": {
+      "text": "Nuko Dawidi aratanga asanga ba sekuruza, bamuhamba mu mudugudu wa Dawidi.",
+      "start": 24.35,
+      "end": 43.5
+    },
+    "11": {
+      "text": "Kandi imyaka Dawidi yamaze ku ngoma ategeka Abisirayeli yari mirongo ine, kuko yamaze imyaka irindwi ategeka i Heburoni, akamara n'indi mirongo itatu n'itatu i Yerusalemu.",
+      "start": 44.02,
+      "end": 44.58
+    },
+    "12": {
+      "text": "Nuko Salomo asubira ku ngoma ya se Dawidi, ubwami bwe burakomezwa cyane.",
+      "start": 9.26,
+      "end": 30.94
+    },
+    "13": {
+      "text": "Bukeye Adoniya mwene Hagiti asanga Batisheba nyina wa Salomo. Batisheba aramubaza ati “Uzanywe n'amahoro?”Na we ati “Ni amahoro.”",
+      "start": 27.92,
+      "end": 35.32
+    },
+    "14": {
+      "text": "Kandi ati “Hari icyo nshaka kukubwira.”Umugabekazi ati “Mbwira.”",
+      "start": 15.3,
+      "end": 32.29
+    },
+    "15": {
+      "text": "Aramubwira ati “Uzi ko ubwami bwari ubwanjye, kuko Abisirayeli bose bari bampanze amaso ngo mbe umwami. Ariko hanyuma burahinduka buba ubwa mwene data, kuko yabuhawe n'Uwiteka.",
+      "start": 39.51,
+      "end": 39.58
+    },
+    "16": {
+      "text": "Ariko none hari icyo ngusaba ntukinyime.”Aramusubiza ati “Kivuge.”",
+      "start": 44.94,
+      "end": 44.99
+    },
+    "17": {
+      "text": "Aramubwira ati “Ndakwinginze nsabira Umwami Salomo (kuko atabasha kukwima), anshyingire Abisagi w'i Shunemu.”",
+      "start": 12.83,
+      "end": 42.75
+    },
+    "18": {
+      "text": "Batisheba aramubwira ati “Nuko ndakuvugira ku mwami.”",
+      "start": 10.66,
+      "end": 12.46
+    },
+    "19": {
+      "text": "Batisheba aherako asanga Umwami Salomo ngo avugire Adoniya ibye. Nuko umwami amubonye ahagurutswa no kumusanganira, aramwunamira asubira ku ntebe y'ubwami, ategeka ko bazana intebe y'umugabekazi. Nuko umugabekazi yicara iburyo bwa Salomo.",
+      "start": 16.24,
+      "end": 36.66
+    },
+    "20": {
+      "text": "Nuko aravuga ati “Hari icyo ngusaba gito ntukinyime.”Umwami aramusubiza ati “Nsaba Mubyeyi wanjye, sinakwima.”",
+      "start": 17.81,
+      "end": 27.36
+    },
+    "21": {
+      "text": "Aramubwira ati “Reka dushyingire mwene so Adoniya, Abisagi w'i Shunemu.”",
+      "start": 0.56,
+      "end": 8.18
+    },
+    "22": {
+      "text": "Nuko Umwami Salomo asubiza nyina ati “Ni iki gituma usabira Adoniya Abisagi w'i Shunemu? Erega wamusabira n'ubwami kuko ari mukuru wanjye, yego! Kandi ugasabira na Abiyatari umutambyi, na Yowabu mwene Seruya.”",
+      "start": 41.26,
+      "end": 43.56
+    },
+    "23": {
+      "text": "Umwami Salomo arahira Uwiteka ati “Niba ijambo Adoniya avuze atari iryo kumwicisha, Imana izabimpore ndetse bikabije.",
+      "start": 30.84,
+      "end": 35.64
+    },
+    "24": {
+      "text": "Nuko rero ndahiye Uwiteka uhoraho wankomeje, akanshyira ku ngoma ya data Dawidi, akampa inzu idakuka nk'uko yasezeranye, ni ukuri uyu munsi Adoniya baramwica.”",
+      "start": 29.19,
+      "end": 40.5
+    },
+    "25": {
+      "text": "Nuko Umwami Salomo yohereza Benaya mwene Yehoyada, aramusumira aramwica.",
+      "start": 24.3,
+      "end": 36.37
+    },
+    "26": {
+      "text": "Kandi umwami abwira Abiyatari umutambyi ati “Hoshi, igendere wigire Anatoti mu gikingi cyawe, kuko wari ukwiriye gupfa ariko sindi bukwice muri iki gihe, kuko wajyaga uheka isanduku y'Uwiteka Imana imbere y'umukambwe wanjye Dawidi, kandi kuko wababaranaga na we mu byamubabaje byose.”",
+      "start": 6.85,
+      "end": 37.17
+    },
+    "27": {
+      "text": "Uko ni ko Salomo yakuye Abiyatari mu butambyi bw'Uwiteka, kugira ngo asohoze ijambo Uwiteka yavugiye i Shilo ku nzu ya Eli.",
+      "start": 28.21,
+      "end": 43.54
+    },
+    "28": {
+      "text": "Nuko inkuru igera kuri Yowabu, kandi Yowabu yari yarakurikiye Adoniya nubwo atakurikiye Abusalomu. Yowabu abyumvise ahungira mu Ihema ry'Uwiteka, yisunga amahembe y'icyotero.",
+      "start": 6.74,
+      "end": 14.96
+    },
+    "29": {
+      "text": "Hanyuma babwira Umwami Salomo bati “Yowabu yahungiye mu Ihema ry'Uwiteka, ubu ari ku cyotero.” Nuko Salomo yohereza Benaya mwene Yehoyada aramubwira ati “Genda umwice.”",
+      "start": 41.78,
+      "end": 42.88
+    },
+    "30": {
+      "text": "Benaya aherako aragenda ajya mu Ihema ry'Uwiteka, aramubwira ati “Umwami aravuze ngo ‘Sohoka.’ ”Na we aramusubiza ati “Oya ahubwo ndagwa aha.”Benaya aragenda abwira umwami ati “Uku ni ko Yowabu ambwiye kandi ni ko anshubije.”",
+      "start": 23.39,
+      "end": 34.75
+    },
+    "31": {
+      "text": "Umwami aramubwira ati “Ubigenze uko yavuze, umwice umuhambe kugira ngo ukure kuri jye no ku nzu y'umukambwe wanjye, amaraso Yowabu yavushije nta mpamvu.",
+      "start": 7.66,
+      "end": 24.71
+    },
+    "32": {
+      "text": "Uwiteka araba amuvushije amuhoye ba bantu babiri yasumiye, akabicisha inkota umukambwe wanjye Dawidi atabizi, kandi bari abantu bamuruta ubwiza no gukiranuka: ni bo Abuneri mwene Neri umugaba w'ingabo za Isirayeli, na Amasa mwene Yeteri umugaba w'ingabo z'Abayuda.",
+      "start": 17.38,
+      "end": 42.34
+    },
+    "33": {
+      "text": "Uko ni ko amaraso yabo azahorerwa Yowabu n'urubyaro rwe iteka ryose, ariko Dawidi n'urubyaro rwe n'inzu ye n'ingoma ye bizagira amahoro avuye ku Uwiteka iminsi yose.”",
+      "start": 23.23,
+      "end": 32.67
+    },
+    "34": {
+      "text": "Nuko Benaya mwene Yehoyada asubirayo aramusumira amutsinda aho. Bamuhamba mu rugo rwe bwite aho yari atuye mu butayu.",
+      "start": 22.26,
+      "end": 28.84
+    },
+    "35": {
+      "text": "Hanyuma umwami ashyira Benaya mwene Yehoyada mu cyimbo cye, ngo abe umugaba w'ingabo. Kandi umwami ashyira Sadoki umutambyi mu cyimbo cya Abiyatari.",
+      "start": 20.15,
+      "end": 33.67
+    },
+    "36": {
+      "text": "Bukeye umwami atumira Shimeyi aramubwira ati “Wiyubakire inzu i Yerusalemu uyigumemo, ntuzayivemo ngo ugire ahandi ujya.",
+      "start": 6.7,
+      "end": 37.66
+    },
+    "37": {
+      "text": "Umunsi wavuyeyo ukambuka akagezi Kidironi, uzamenye neza ko utazabura gupfa. Amaraso yawe azabe ari wowe abaho.”",
+      "start": 5.77,
+      "end": 6.12
+    },
+    "38": {
+      "text": "Shimeyi asubiza umwami ati “Ibyo umbwiye ni byiza. Uko uvuze mwami nyagasani, ni ko umugaragu wawe nzabigenza.” Nuko Shimeyi aba i Yerusalemu ahamara iminsi myinshi.",
+      "start": 36.59,
+      "end": 38.36
+    },
+    "39": {
+      "text": "Hahise imyaka itatu, abagaragu babiri ba Shimeyi baracika bajya kwa Akishi mwene Māka umwami w'i Gati. Bukeye babwira Shimeyi bati “Abagaragu bawe bari i Gati.”",
+      "start": 4.7,
+      "end": 11.24
+    },
+    "40": {
+      "text": "Shimeyi arahaguruka ashyira amatandiko ku ndogobe ye, ajya i Gati kwa Akishi gushaka abagaragu be. Nuko Shimeyi aragenda abakura i Gati.",
+      "start": 36.29,
+      "end": 39.71
+    },
+    "41": {
+      "text": "Hanyuma Salomo abwirwa ko Shimeyi yavuye i Yerusalemu, akajya i Gati akagaruka.",
+      "start": 21.81,
+      "end": 39.9
+    },
+    "42": {
+      "text": "Umwami atumira Shimeyi aramubwira ati “Harya sinakurahije Uwiteka, nkakwihanangiriza rwose nti ‘Umenye neza ko umunsi wavuyeyo ukagira aho ugana hose, utazabura gupfa’? Ukansubiza uti ‘Ibyo uvuze ni byiza ndabyumvise’?",
+      "start": 37.64,
+      "end": 42.35
+    },
+    "43": {
+      "text": "None ni iki cyakubujije kwirinda indahiro y'Uwiteka n'itegeko nagutegetse?”",
+      "start": 29.22,
+      "end": 43.94
+    },
+    "44": {
+      "text": "Umwami arongera abwira Shimeyi ati “Mbese aho uribuka ubugome bwawe bwose umutima wawe wakwemeje, ubwo wagomeye umukambwe wanjye Dawidi? Ni cyo kiri butume Uwiteka aguhora ubugome bwawe.",
+      "start": 38.81,
+      "end": 42.3
+    },
+    "45": {
+      "text": "Ariko Umwami Salomo we azahabwa umugisha, kandi ingona ya Dawidi izakomezwa imbere y'Uwiteka iminsi yose.”",
+      "start": 26.01,
+      "end": 29.36
+    },
+    "46": {
+      "text": "Maze umwami ategeka Benaya mwene Yehoyada kumwica, na we arasohoka aramusumira, amutsinda aho. Nuko ubwami bukomezwa mu maboko ya Salomo.",
+      "start": 12.27,
+      "end": 21.05
+    }
+  }
+}

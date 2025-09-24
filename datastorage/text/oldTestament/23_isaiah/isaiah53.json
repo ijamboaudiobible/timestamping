@@ -1,0 +1,68 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 53,
+  "verses": {
+    "1": {
+      "text": "Ni nde wizeye ibyo twumvise, kandi ukuboko k'Uwiteka kwahishuriwe nde?",
+      "start": 43.34,
+      "end": 43.71
+    },
+    "2": {
+      "text": "Kuko yakuriye imbere ye nk'ikigejigeji, nk'igishyitsi cyumburira mu butaka bwumye, ntiyari afite ishusho nziza cyangwa igikundiro, kandi ubwo twamubonaga ntiyari afite ubwiza bwatuma tumwifuza.",
+      "start": 32.56,
+      "end": 43.36
+    },
+    "3": {
+      "text": "Yarasuzugurwaga akangwa n'abantu, yari umunyamibabaro wamenyereye intimba, yasuzugurwaga nk'umuntu abandi bima amaso natwe ntitumwubahe.",
+      "start": 32.31,
+      "end": 35.21
+    },
+    "4": {
+      "text": "Ni ukuri intimba zacu ni zo yishyizeho, imibabaro yacu ni yo yikoreye, ariko twebweho twamutekereje nk'uwakubiswe n'Imana agacumitwa na yo, agahetamishwa n'imibabaro.",
+      "start": 30.48,
+      "end": 40.16
+    },
+    "5": {
+      "text": "Nyamara ibicumuro byacu ni byo yacumitiwe, yashenjaguriwe gukiranirwa kwacu, igihano kiduhesha amahoro cyari kuri we, kandi imibyimba ye ni yo adukirisha.",
+      "start": 36.14,
+      "end": 38.87
+    },
+    "6": {
+      "text": "Twese twayobye nk'intama zizimiye, twese twabaye intatane, Uwiteka amushyiraho gukiranirwa kwacu twese.",
+      "start": 33.26,
+      "end": 37.75
+    },
+    "7": {
+      "text": "Yararenganye ariko yicisha bugufi, ntiyabumbura akanwa ke amera nk'umwana w'intama bajyana kubaga, cyangwa nk'uko intama icecekera imbere y'abayikemura, ni ko atabumbuye akanwa ke.",
+      "start": 21.76,
+      "end": 23.63
+    },
+    "8": {
+      "text": "Guhemurwa no gucirwa ho iteka ni byo byamukujeho. Mu b'igihe cye ni nde witayeho ko yakuwe mu isi y'abazima, akaba yarakubitiwe ibicumuro by'ubwoko bwe?",
+      "start": 44.56,
+      "end": 44.85
+    },
+    "9": {
+      "text": "Bategetse ko ahambanwa n'abanyabyaha, yari kumwe n'umutunzi mu rupfu rwe nubwo atagiraga urugomo, kandi ntagire uburyarya mu kanwa ke.",
+      "start": 2.0,
+      "end": 38.87
+    },
+    "10": {
+      "text": "Ariko Uwiteka yashimye kumushenjagura, yaramubabaje. Ubwo ubugingo bwe buzitamba ho igitambo cyo gukuraho ibyaha, azabona urubyaro, azarama, ibyo Uwiteka ashaka bizasohozwa neza n'ukuboko kwe.",
+      "start": 42.04,
+      "end": 42.93
+    },
+    "11": {
+      "text": "Azabona ibituruka mu bise by'ubugingo bwe bimwishimishe, bimuhaze. Umugaragu wanjye ukiranuka azatuma benshi baheshwa gukiranuka no kumenya, kandi azīshyiraho gukiranirwa kwabo.",
+      "start": 5.26,
+      "end": 31.88
+    },
+    "12": {
+      "text": "Ni cyo gituma nzamugabanya umugabane n'abakomeye, azagabana iminyago n'abanyamaboko, kuko yasutse ubugingo bwe akageza ku gupfa akabaranwa n'abagome, ariko ubwe yishyizeho ibyaha bya benshi kandi asabira abagome.",
+      "start": 20.55,
+      "end": 30.59
+    }
+  }
+}

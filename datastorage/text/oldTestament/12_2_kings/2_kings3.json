@@ -1,0 +1,143 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Mu mwaka wa cumi n'umunani wo ku ngoma ya Yehoshafati umwami w'Abayuda, Yehoramu mwene Ahabu yimye mu Bisirayeli i Samariya, amara imyaka cumi n'ibiri ari ku ngoma.",
+      "start": 18.65,
+      "end": 22.72
+    },
+    "2": {
+      "text": "Ariko akora ibyangwa n'Uwiteka, icyakora ntiyari ahwanye na se na nyina, kuko yashenye inkingi ya Bāli se yari yarubatse.",
+      "start": 23.28,
+      "end": 33.96
+    },
+    "3": {
+      "text": "Ariko yakomezaga ibyaha Yerobowamu mwene Nebati yoheje Abisirayeli ngo bacumure, ntabivemo.",
+      "start": 23.1,
+      "end": 28.91
+    },
+    "4": {
+      "text": "Kandi Mesha umwami w'i Mowabu yari atunze intama, akajya atura umwami w'Abisirayeli ubwoya bukemuwe ku ntama ze z'inyagazi agahumbi, n'iz'amapfizi agahumbi.",
+      "start": 39.94,
+      "end": 41.75
+    },
+    "5": {
+      "text": "Ariko Ahabu amaze gutanga, umwami w'i Mowabu agomera umwami w'Abisirayeli.",
+      "start": 32.86,
+      "end": 35.79
+    },
+    "6": {
+      "text": "Bukeye Yehoramu ava i Samariya, aragenda ahuruza Abisirayeli bose.",
+      "start": 25.8,
+      "end": 36.88
+    },
+    "7": {
+      "text": "Maze atuma kuri Yehoshafati umwami w'Abayuda ati “Umwami w'i Mowabu arangomeye. Mbese wakwemera ko dutabarana tugatera i Mowabu?”Undi ati “Yee, tuzatabarana nk'uwitabara, ingabo zanjye ari nk'ingabo zawe, n'amafarashi yanjye ari nk'ayawe.”",
+      "start": 26.65,
+      "end": 32.17
+    },
+    "8": {
+      "text": "Arongera aramubaza ati “Turazamukira mu yihe nzira?”Na we ati “Tuzanyura inzira yose y'ubutayu bwa Edomu.”",
+      "start": 23.99,
+      "end": 26.15
+    },
+    "9": {
+      "text": "Nuko umwami w'Abisirayeli atabarana n'umwami w'Abayuda n'umwami wa Edomu, bamara iminsi irindwi banyura mu nzira izigura, ingabo zibura amazi zibura n'ay'amatungo bari bafite.",
+      "start": 0.8,
+      "end": 20.69
+    },
+    "10": {
+      "text": "Umwami w'Abisirayeli aravuga ati “Iri ni ishyano! Uwiteka yahuruje aba bami uko ari batatu kubahāna mu maboko y'Abamowabu!”",
+      "start": 15.95,
+      "end": 19.19
+    },
+    "11": {
+      "text": "Yehoshafati aravuga ati “Mbese nta muhanuzi w'Uwiteka uri hano ngo tumugishirizemo Uwiteka inama?”Umwe mu bagaragu b'umwami w'Abisirayeli arababwira ati “Hariho Elisa mwene Shafati wajyaga akarabisha Eliya.”",
+      "start": 18.56,
+      "end": 19.11
+    },
+    "12": {
+      "text": "Yehoshafati aravuga ati “Ijambo ry'Uwiteka riri muri we.” Nuko umwami w'Abisirayeli na Yehoshafati n'umwami wa Edomu baramanuka baramusanga.",
+      "start": 4.05,
+      "end": 19.82
+    },
+    "13": {
+      "text": "Elisa abwira umwami w'Abisirayeli ati “Mpuriye he nawe? Sanga abahanuzi ba so n'abahanuzi ba nyoko.” Umwami w'Abisirayeli aramusubiza ati “Oya, kuko Uwiteka yahuruje aba bami batatu kubahāna mu maboko y'Abamowabu.”",
+      "start": 33.89,
+      "end": 40.49
+    },
+    "14": {
+      "text": "Elisa aravuga ati “Nkurahiye Uwiteka uhoraho uwo nkorera, ni ukuri iyaba ntagiriye Yehoshafati umwami w'Abayuda uri aha, simba nkuroye n'irihumye.",
+      "start": 34.65,
+      "end": 43.97
+    },
+    "15": {
+      "text": "Ariko noneho nzanira umucuranzi n'inanga.”Nuko baramumuzanira. Agicuranga, ukuboko k'Uwiteka kujya kuri Elisa.",
+      "start": 37.34,
+      "end": 37.84
+    },
+    "16": {
+      "text": "Arahanura ati “Uwiteka aravuze ngo nimukwize iki kibaya mo impavu,",
+      "start": 4.46,
+      "end": 33.22
+    },
+    "17": {
+      "text": "kuko Uwiteka agize ngo ntimuza kumva umuyaga, ntimuza kubona n'imvura, ariko iki kibaya kizuzura amazi, munywe mwuhire n'amashyo yanyu n'imikumbi yanyu.",
+      "start": 29.83,
+      "end": 43.61
+    },
+    "18": {
+      "text": "Icyakora byo biroroshye ku Uwiteka, ndetse azabagabiza n'Abamowabu.",
+      "start": 37.75,
+      "end": 44.74
+    },
+    "19": {
+      "text": "Muzatsinda imidugudu yaho yose igoswe n'inkike z'amabuye, n'imidugudu iruta iyindi ubwiza, igiti cyiza cyaho cyose muzagitema, musibe n'amasōko yaho yose, kandi n'imirima myiza yaho yose muzayisibishe amabuye.”",
+      "start": 7.52,
+      "end": 31.27
+    },
+    "20": {
+      "text": "Bukeye bwaho igihe cyo gutamba cyenda kugera, babona amazi aratemba aturuka mu nzira ya Edomu. Nuko igihugu cyuzura amazi.",
+      "start": 11.99,
+      "end": 26.55
+    },
+    "21": {
+      "text": "Abamowabu bose bumvise ko abo bami bazamutse kubatera, baherako baterana bose uko bangana, uhereye ku basore b'imigenda bashobora kwambara ibyo kurwanisha, baragenda bategera ku rugabano.",
+      "start": 38.86,
+      "end": 40.73
+    },
+    "22": {
+      "text": "Abamowabu bazinduka kare mu gitondo, babona izuba rirasiye ku mazi aberekeye atukura nk'amaraso,",
+      "start": 6.53,
+      "end": 14.34
+    },
+    "23": {
+      "text": "baravuga bati “Dore amaraso. Ni ukuri ba bami bararimbutse, ingabo zabo zisubiranyemo ubwazo. Noneho yemwe Bamowabu, nimuze tujye kwinyagira.”",
+      "start": 26.57,
+      "end": 38.48
+    },
+    "24": {
+      "text": "Maze bageze mu rugerero rwa Isirayeli, Abisirayeli barabahagurukana barabanesha, bituma Abamowabu bahunga. Abisirayeli basesekara mu gihugu cyabo, babakubita umugenda.",
+      "start": 16.28,
+      "end": 33.71
+    },
+    "25": {
+      "text": "Bagezeyo basenya imidugudu yabo, umurima mwiza wose babonye, umuntu wese ajugunyamo ibuye bakawuzuza. Basiba amasōko y'amazi yose, batema ibiti byiza byose, hasigara i Kiri Hareseti honyine ari ho hagifite inkike z'amabuye, ariko abanyamihumetso baraza barahagota na ho, bahatera amabuye.",
+      "start": 14.36,
+      "end": 14.43
+    },
+    "26": {
+      "text": "Maze umwami w'i Mowabu abonye ko urugamba rumugasiye, ajyana abagabo magana arindwi bitwaje inkota, kugira ngo babatwaze bagere ku mwami wa Edomu, ariko ntibabishobora.",
+      "start": 35.16,
+      "end": 43.32
+    },
+    "27": {
+      "text": "Bibananiye ni ko kwenda umwana we w'imfura w'umuragwa uzima ingoma ye, amutamba ho igitambo cyoswa hejuru y'inkike z'amabuye. Bituma Abamowabu barakarira Abisirayeli cyane, Abisirayeli baherako baramureka, basubira iwabo.",
+      "start": 11.37,
+      "end": 39.31
+    }
+  }
+}

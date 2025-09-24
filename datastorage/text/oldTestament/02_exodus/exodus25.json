@@ -1,0 +1,208 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 25,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 31.01,
+      "end": 40.94
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli banture amaturo, umuntu wese wemezwa n'umutima we azaba ari we mwakira ituro antura.",
+      "start": 3.95,
+      "end": 8.42
+    },
+    "3": {
+      "text": "Ibi abe ari byo mwakira ho amaturo: izahabu n'ifeza n'imiringa,",
+      "start": 8.1,
+      "end": 44.67
+    },
+    "4": {
+      "text": "n'ubudodo bw'umukara wa kabayonga n'ubw'umuhengeri, n'ubw'umuhemba n'ubw'ibitare byiza n'ubwoya bw'ihene,",
+      "start": 3.2,
+      "end": 11.33
+    },
+    "5": {
+      "text": "n'impu z'amasekurume y'intama zizigishijwe inzigo itukura, n'impu z'inyamaswa zitwa tahashi, n'imbaho z'ibiti byitwa imishita,",
+      "start": 39.02,
+      "end": 43.19
+    },
+    "6": {
+      "text": "n'amavuta y'amatabaza n'ibihumura neza byo kuvangwa n'amavuta ya elayo yo gusīga, n'ibyo kuvangwa bigahinduka umubavu mwiza wo kōsa,",
+      "start": 7.86,
+      "end": 41.3
+    },
+    "7": {
+      "text": "n'amabuye yitwa shohamu n'andi mabuye yo guhundwa, akaba ku mwambaro witwa efodi no ku mwambaro wo ku gituza.",
+      "start": 22.16,
+      "end": 31.64
+    },
+    "8": {
+      "text": "Kandi bandemere ubuturo bwera, nture hagati muri bo.",
+      "start": 39.48,
+      "end": 42.71
+    },
+    "9": {
+      "text": "Muzabureme buse n'ibyo ngiye kukwereka byose, icyitegererezo cy'ubuturo n'icy'ibintu byabwo byose.",
+      "start": 12.71,
+      "end": 25.16
+    },
+    "10": {
+      "text": "“Kandi bazabāze isanduku mu giti cyitwa umushita: uburebure bwayo bw'umurambararo bube mikono ibiri n'igice, ubugari bwayo bube mukono umwe n'igice, uburebure bw'igihagararo bube mukono umwe n'igice.",
+      "start": 19.31,
+      "end": 33.4
+    },
+    "11": {
+      "text": "Uzayiyagirizeho izahabu nziza imbere n'inyuma, uyigoteshe umuguno w'izahabu.",
+      "start": 12.41,
+      "end": 24.44
+    },
+    "12": {
+      "text": "Uyitekere izahabu zivemo ibifunga bine, ubishyire ku nkokora zayo zo hepfo uko ari enye. Ibifunga bibiri bibe mu rubavu rumwe, ibindi bibiri bibe mu rundi.",
+      "start": 1.94,
+      "end": 40.41
+    },
+    "13": {
+      "text": "Ubāze imijisho mu mushita, uyiyagirizeho izahabu.",
+      "start": 29.55,
+      "end": 32.47
+    },
+    "14": {
+      "text": "Ushyire iyo mijisho mu bifunga byo mu mbavu z'iyo sanduku, bajye bayiyiremereza.",
+      "start": 30.29,
+      "end": 44.49
+    },
+    "15": {
+      "text": "Iyo mijisho igume mu bifunga by'isanduku, ntikabivemo.",
+      "start": 13.09,
+      "end": 14.12
+    },
+    "16": {
+      "text": "Ushyire muri iyo sanduku Ibihamya nzaguha.",
+      "start": 30.08,
+      "end": 31.4
+    },
+    "17": {
+      "text": "“Kandi ucure intebe y'ihongerero mu izahabu nziza, uburebure bwayo bw'umurambararo bube mikono ibiri n'igice, ubugari bwayo bube mukono umwe n'igice.",
+      "start": 33.37,
+      "end": 38.87
+    },
+    "18": {
+      "text": "Kandi ureme abakerubi babiri mu izahabu, ubareme mu izahabu icuzwe, ubareme mu mitwe yombi y'iyo ntebe y'ihongerero.",
+      "start": 6.86,
+      "end": 32.36
+    },
+    "19": {
+      "text": "Ureme umukerubi umwe mu mutwe umwe, n'undi mu wundi, bacuranwe n'intebe y'ihongerero mu mitwe yayo yombi.",
+      "start": 31.45,
+      "end": 38.04
+    },
+    "20": {
+      "text": "Abo bakerubi batande amababa yabo hejuru ngo bayakingiririshe iyo ntebe y'ihongerero, berekerane, barebe iyo ntebe y'ihongerero.",
+      "start": 19.9,
+      "end": 41.18
+    },
+    "21": {
+      "text": "Ushyire iyo ntebe y'ihongerero kuri ya sanduku, uyishyiremo Ibihamya nzaguha.",
+      "start": 38.7,
+      "end": 41.93
+    },
+    "22": {
+      "text": "Aho ni ho nzajya mbonanira nawe hejuru y'intebe y'ihongerero, hagati y'abo bakerubi bari ku isanduku y'Ibihamya, ni ho nzajya nkubwirira amategeko yanjye yose ntegeka Abisirayeli.",
+      "start": 13.38,
+      "end": 17.04
+    },
+    "23": {
+      "text": "“Kandi uzabāze ameza amwe mu mushita, uburebure bwayo bw'umurambararo bube mikono ibiri, ubugari bwayo bube mukono umwe, uburebure bw'igihagararo bube mukono umwe n'igice.",
+      "start": 34.01,
+      "end": 42.61
+    },
+    "24": {
+      "text": "Uyayagirizeho izahabu nziza, uyagoteshe umuguno w'izahabu.",
+      "start": 38.28,
+      "end": 43.34
+    },
+    "25": {
+      "text": "Uyabārize igikomeza amaguru kiyagote, ubugari bwacyo bube intambwe imwe, ukigoteshe umuguno w'izahabu.",
+      "start": 11.66,
+      "end": 22.36
+    },
+    "26": {
+      "text": "Uyatekere izahabu zivemo ibifunga bine, ubishyire ku nkokora uko ari enye ziri ku maguru yayo uko ari ane.",
+      "start": 32.61,
+      "end": 36.33
+    },
+    "27": {
+      "text": "Ibyo bifunga bibe hafi y'igikomeza amaguru, bibe ibyo gushyirwamo imijisho yo kuremerezwa ameza.",
+      "start": 9.98,
+      "end": 37.1
+    },
+    "28": {
+      "text": "Ubāze imijisho mu mushita uyiyagirizeho izahabu, aba ari yo ijya iremerezwa ayo meza.",
+      "start": 14.72,
+      "end": 36.54
+    },
+    "29": {
+      "text": "Ucure amasahani n'udukombe byo kuri yo, ucure n'ibikombe n'imperezo byo kuri yo byo gusukisha amaturo y'ibyokunywa, ubicure mu izahabu nziza.",
+      "start": 13.53,
+      "end": 20.36
+    },
+    "30": {
+      "text": "Ujye utereka kuri ayo meza imitsima yo kumurikwa, ihore imbere yanjye iteka.",
+      "start": 32.53,
+      "end": 36.13
+    },
+    "31": {
+      "text": "“Kandi uzareme igitereko cy'amatabaza mu izahabu nziza, bakireme mu izahabu icuzwe: indiba yacyo n'umubyimba wacyo, ibikombe n'ibibumbabumbye n'uburabyo byo kuri cyo bicuranwe na cyo.",
+      "start": 29.55,
+      "end": 33.8
+    },
+    "32": {
+      "text": "Kandi gishamike amashami atandatu: amashami atatu y'icyo gitereko ashamike mu rubavu rumwe, n'ayandi atatu mu rundi.",
+      "start": 29.9,
+      "end": 42.01
+    },
+    "33": {
+      "text": "Ishami rimwe rigire ibikombe bitatu bisa n'uburabyo bw'indōzi, cyose gifatanye n'ikibumbabumbye n'ururabyo, n'iryo ku rundi rubavu rigire ibikombe bitatu bisa n'uburabyo bw'indōzi, cyose gifatanye n'ikibumbabumbye n'ururabyo. Amashami yose uko ari atandatu ashamitse kuri icyo gitereko, abe ari ko amera.",
+      "start": 43.61,
+      "end": 43.7
+    },
+    "34": {
+      "text": "Umubyimba wacyo ugire ibikombe bine bisa n'uburabyo bw'indōzi, n'ibibumbabumbye n'uburabyo bifatanye na byo.",
+      "start": 25.42,
+      "end": 31.43
+    },
+    "35": {
+      "text": "Ikibumbabumbye kibe munsi y'amashami abiri acuranywe na cyo, n'ikindi kibe munsi y'andi mashami abiri acuranywe na cyo, ikindi kibe munsi y'andi mashami abiri acuranywe na cyo, uko amashami ashamitse kuri icyo gitereko ari atandatu.",
+      "start": 9.28,
+      "end": 42.42
+    },
+    "36": {
+      "text": "Ibibumbabumbye byacyo n'amashami yacyo acuranwe na cyo, cyose gicurirwe hamwe mu izahabu nziza.",
+      "start": 7.82,
+      "end": 43.82
+    },
+    "37": {
+      "text": "Ucure amatabaza yacyo arindwi, bazajye bayagishyiraho uburyo butuma amurikira imbere yacyo.",
+      "start": 42.33,
+      "end": 44.95
+    },
+    "38": {
+      "text": "Icyuma cyacyo cyo gukuraho ibishirira n'udusahani two kubishyiraho, bicurwe mu izahabu nziza.",
+      "start": 42.86,
+      "end": 44.97
+    },
+    "39": {
+      "text": "Italanto y'izahabu nziza abe ari yo icyo gitereko n'ibyo bintu byacyo byose biremeshwa.",
+      "start": 23.47,
+      "end": 41.49
+    },
+    "40": {
+      "text": "Ugire umwete wo kubirema, ukurikize icyitegerezo cyabyo werekewe kuri uyu musozi.",
+      "start": 20.88,
+      "end": 35.85
+    }
+  }
+}

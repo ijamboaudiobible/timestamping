@@ -1,0 +1,118 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 60,
+  "verses": {
+    "1": {
+      "text": "Byuka urabagirane kuko umucyo wawe uje, kandi ubwiza bw'Uwiteka bukaba bukurasiye.",
+      "start": 14.44,
+      "end": 39.04
+    },
+    "2": {
+      "text": "Dore umwijima uzatwikira isi, umwijima w'icuraburindi uzatwikira amahanga, ariko Uwiteka azakurasira kandi ubwiza bwe buzakugaragaraho.",
+      "start": 28.78,
+      "end": 42.57
+    },
+    "3": {
+      "text": "Amahanga azagana umucyo wawe, n'abami bazagusanga ubyukanye kurabagirana.",
+      "start": 39.28,
+      "end": 43.1
+    },
+    "4": {
+      "text": "Ubura amaso yawe uraranganye urebe, bose baraterana baza bagusanga baje aho uri, abahungu bawe bazaza baturuka kure n'abakobwa bawe bazaza bahagatiwe.",
+      "start": 29.01,
+      "end": 41.65
+    },
+    "5": {
+      "text": "Ni ho uzareba ugacya, umutima wawe uzikanga hanyuma waguke, kuko ubwinshi bw'ibuturutse mu nyanja buzakwegurirwa, n'iby'ubutunzi bw'amahanga bizaza aho uri.",
+      "start": 4.27,
+      "end": 41.04
+    },
+    "6": {
+      "text": "Amashyo y'ingamiya azakudendezaho, ingamiya nto z'i Midiyani n'iza Efa. Zose zizaza zituruka i Sheba, zizaba zihetse izahabu n'imibavu zerekana ishimwe ry'Uwiteka.",
+      "start": 21.33,
+      "end": 30.87
+    },
+    "7": {
+      "text": "Imikumbi y'i Kedari yose izakoranirizwa aho uri, amapfizi y'intama y'i Nebawoti azagukorera, azurira igicaniro cyanjye ashimwe, kandi nzubahiriza inzu y'icyubahiro cyanjye.",
+      "start": 8.79,
+      "end": 37.77
+    },
+    "8": {
+      "text": "Aba ni bande baguruka nk'igicu, bakamera nk'inuma zisubira mu madirishya yazo?",
+      "start": 30.65,
+      "end": 34.1
+    },
+    "9": {
+      "text": "Ni ukuri ibirwa bizantegereza, n'inkuge z'i Tarushishi ni zo zizabanza kuzana abahungu bawe zibakura kure, bazanye ifeza n'izahabu byabo ku bw'izina ry'Uwiteka Imana yawe, Uwera wa Isirayeli kuko yakubahirije.",
+      "start": 41.06,
+      "end": 42.87
+    },
+    "10": {
+      "text": "“Abanyamahanga bazubaka inkike zawe, n'abami babo bazagukorera kuko narakaye nkagukubita, ariko none ngize imbabazi ndakubabarira.",
+      "start": 34.95,
+      "end": 44.38
+    },
+    "11": {
+      "text": "Amarembo yawe azahora yuguruwe iteka, ntazugarirwa ku manywa na nijoro, kugira ngo abantu bakuzanire ubutunzi bw'amahanga n'abami bayo ari imfate.",
+      "start": 38.37,
+      "end": 42.27
+    },
+    "12": {
+      "text": "Ishyanga n'ubwami bitazemera kugukorera bizashiraho, ni koko ayo mahanga azarimburwa rwose.",
+      "start": 17.32,
+      "end": 38.64
+    },
+    "13": {
+      "text": "“Ibiti by'icyubahiro by'i Lebanoni bizaza aho uri, imyerezi n'imiberoshi n'imiteyashuri bizazira hamwe, kugira ngo birimbishe ubuturo bwanjye bwera, kandi aho nshyira ibirenge byanjye nzahubahiriza.",
+      "start": 44.86,
+      "end": 44.91
+    },
+    "14": {
+      "text": "Abahungu b'abakurenganyaga bazaza bakwikubite imbere, n'abagusuzuguraga bazunama ku birenge byawe, bakwite Umurwa w'Uwiteka, Siyoni, ah'Uwera wa Isirayeli.",
+      "start": 36.73,
+      "end": 39.52
+    },
+    "15": {
+      "text": "“Nubwo waretswe ukangwa ntihabe hari ukikunyuramo, nzakurutisha ahandi nguhe ubwiza buhoraho n'ibyishimo by'ibihe byinshi.",
+      "start": 7.5,
+      "end": 24.26
+    },
+    "16": {
+      "text": "Kandi uzonka n'amashereka y'amahanga, uzonka amabere y'abami. Nuko uzamenya yuko jyewe Uwiteka ndi Umukiza wawe n'Umucunguzi wawe, umunyambaraga wa Yakobo.",
+      "start": 28.62,
+      "end": 33.79
+    },
+    "17": {
+      "text": "“Mu cyimbo cy'imiringa nzazana izahabu, no mu cyimbo cy'icyuma nzazana ifeza. Mu cyimbo cy'igiti nzazana imiringa, no mu cyimbo cy'amabuye nzazana ibyuma. Amahoro ni yo azagutwarira, kandi gukiranuka ni ko kuzagukoreshereza ikoro.",
+      "start": 14.08,
+      "end": 28.69
+    },
+    "18": {
+      "text": "Urugomo ntiruzongera kumvikana mu gihugu cyawe, ntihazaba gusenya no kurimbura aho ingabano zawe zigera hose, ahubwo inkike zawe uzazita Agakiza, n'amarembo yawe uzayita Ishimwe.",
+      "start": 28.35,
+      "end": 37.75
+    },
+    "19": {
+      "text": "“Ku manywa izuba si ryo rizakubera umucyo, kandi ukwezi si ko kuzakubera umwezi, ahubwo Uwiteka ni we uzakubera umucyo uhoraho, kandi Imana yawe ni yo izakubera icyubahiro.",
+      "start": 3.41,
+      "end": 24.2
+    },
+    "20": {
+      "text": "Izuba ryawe ntirizarenga ukundi, kandi ukwezi kwawe ntikuzijima, kuko Uwiteka ari we uzakubera umucyo uhoraho, n'iminsi yawe yo kuboroga izaba ishize.",
+      "start": 23.16,
+      "end": 42.15
+    },
+    "21": {
+      "text": "Kandi abantu bawe bose bazaba abakiranutsi, bazaragwa igihugu kugeza iteka ryose, bazaba ishami nitereye, umurimo w'intoki zanjye umpesha icyubahiro.",
+      "start": 10.36,
+      "end": 35.03
+    },
+    "22": {
+      "text": "Umuto azagwira abe mo igihumbi, uworoheje azaba ishyanga rikomeye. Jyewe Uwiteka nzabitebutsa igihe cyabyo nigisohora.”",
+      "start": 38.52,
+      "end": 43.69
+    }
+  }
+}

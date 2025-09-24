@@ -1,0 +1,143 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "Ucyahwa kenshi agashinga ijosi,Azavunagurika atunguwe nta kizamukiza.",
+      "start": 12.57,
+      "end": 44.65
+    },
+    "2": {
+      "text": "Iyo abakiranutsi bagwiriye abantu barishima,Ariko iyo hategeka umunyabyaha abantu bacura imiborogo.",
+      "start": 20.07,
+      "end": 44.86
+    },
+    "3": {
+      "text": "Ukunda ubwenge anezeza se,Ariko ubana n'abamaraya yiyaya ibintu bye.",
+      "start": 17.51,
+      "end": 29.49
+    },
+    "4": {
+      "text": "Umwami akomeresha igihugu imanza zitabera,Ariko uhongesha aragitsinda.",
+      "start": 44.98,
+      "end": 44.99
+    },
+    "5": {
+      "text": "Umuntu ushyeshya umuturanyi we,Aba asa nk'uteze amaguru ye ikigoyi.",
+      "start": 4.15,
+      "end": 22.92
+    },
+    "6": {
+      "text": "Mu gicumuro cy'umunyabyaha harimo umutego ategewemo,Ariko umukiranutsi arishima akavuza impundu.",
+      "start": 3.0,
+      "end": 22.16
+    },
+    "7": {
+      "text": "Umukiranutsi azi urubanza rw'abakene,Ariko umunyabyaha nta bwenge afite bwo kurumenya.",
+      "start": 15.81,
+      "end": 23.67
+    },
+    "8": {
+      "text": "Abakobanyi bakongeza umudugudu imivurungano,Ariko abanyabwenge bahosha uburakari.",
+      "start": 1.69,
+      "end": 25.68
+    },
+    "9": {
+      "text": "Umunyabwenge iyo agiye impaka n'umupfapfa,Naho yarakara cyangwa agaseka ntabwo zakoroha.",
+      "start": 23.29,
+      "end": 33.53
+    },
+    "10": {
+      "text": "Abakunda kwicana banga intungane,Kandi n'umukiranutsi bashaka uko bamwica.",
+      "start": 16.47,
+      "end": 22.02
+    },
+    "11": {
+      "text": "Umupfapfa agaragaza uburakari bwe bwose,Ariko umunyabwenge arifata akabucubya.",
+      "start": 41.22,
+      "end": 42.61
+    },
+    "12": {
+      "text": "Iyo umutware yumviye amazimwe,Abagaragu be bose baba abanyabyaha.",
+      "start": 41.64,
+      "end": 43.8
+    },
+    "13": {
+      "text": "Umukene n'urenganya amahuriro yabo ni amwe,Uwiteka ahwejesha amaso ya bombi.",
+      "start": 2.35,
+      "end": 42.79
+    },
+    "14": {
+      "text": "Umwami ucira abakene imanza zitabera,Ingoma ye izakomera iteka ryose.",
+      "start": 40.16,
+      "end": 44.96
+    },
+    "15": {
+      "text": "Umunyafu no gucyaha byigisha ubwenge,Ariko umwana bandaritse akoza nyina isoni.",
+      "start": 42.17,
+      "end": 44.69
+    },
+    "16": {
+      "text": "Iyo abanyabyaha bagwiriye,Ibicumuro na byo biragwira,Ariko abakiranutsi bazabitegereza bahenebera.",
+      "start": 5.48,
+      "end": 5.99
+    },
+    "17": {
+      "text": "Hana umwana wawe azakuruhura,Ndetse azanezeza umutima wawe.",
+      "start": 11.74,
+      "end": 17.11
+    },
+    "18": {
+      "text": "Aho guhishurirwa kutari abantu bigira ibyigenge,Ariko ukomeza amategeko aba ahirwa.",
+      "start": 23.13,
+      "end": 36.77
+    },
+    "19": {
+      "text": "Ikiretwa ntigihanishwa amagambo,N'iyo kiyumvise ntikiyitaho.",
+      "start": 41.1,
+      "end": 41.43
+    },
+    "20": {
+      "text": "Mbese wabonye umuntu uhuta amagambo?Bakwemera umupfapfa kumurutisha uwo.",
+      "start": 25.29,
+      "end": 39.18
+    },
+    "21": {
+      "text": "Umugaragu warezwe neza uhereye mu bwana bwe,Hanyuma azabera shebuja umwana.",
+      "start": 6.05,
+      "end": 42.04
+    },
+    "22": {
+      "text": "Umunyamujinya abyutsa intonganya,Kandi umuntu w'inkazi agwiza ibicumuro.",
+      "start": 42.5,
+      "end": 42.8
+    },
+    "23": {
+      "text": "Ubwibone bw'umuntu buzamucisha bugufi,Ariko uwicisha bugufi mu mutima azabona icyubahiro.",
+      "start": 35.88,
+      "end": 43.69
+    },
+    "24": {
+      "text": "Uwiyuzuza n'umujura aba yiyanga,Yumva uko arahizwa akanga kubivuga.",
+      "start": 40.63,
+      "end": 44.54
+    },
+    "25": {
+      "text": "Gutinya abantu kugusha mu mutego,Ariko uwiringira Uwiteka azaba amahoro.",
+      "start": 17.19,
+      "end": 41.52
+    },
+    "26": {
+      "text": "Benshi bashaka gutona ku mutware,Ariko Uwiteka ni we ucira abantu imanza.",
+      "start": 3.71,
+      "end": 5.05
+    },
+    "27": {
+      "text": "Ukiranirwa azirana n'abakiranutsi,Kandi ugenda ari intungane azirana n'abanyabyaha.",
+      "start": 12.29,
+      "end": 34.29
+    }
+  }
+}

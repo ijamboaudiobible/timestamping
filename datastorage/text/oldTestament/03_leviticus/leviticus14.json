@@ -1,0 +1,293 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 17.73,
+      "end": 19.33
+    },
+    "2": {
+      "text": "“Aya abe ari yo mategeko y'umubembe ku munsi wo guhumanurwa kwe, azashyirwe umutambyi.",
+      "start": 13.92,
+      "end": 22.71
+    },
+    "3": {
+      "text": "Na we ave mu ngando z'amahema asuzume uwo mubembe, nabona ko akiza uwo muze w'ibibembe,",
+      "start": 31.86,
+      "end": 41.01
+    },
+    "4": {
+      "text": "ategeke ko bashakira ugiye guhumanurwa inyoni ebyiri zitazira nzima, n'ingiga y'umwerezi, n'agatambaro k'umuhemba, n'agati kitwa ezobu.",
+      "start": 41.48,
+      "end": 44.32
+    },
+    "5": {
+      "text": "Umutambyi ategeke ko bakererera imwe muri zo mu rwabya hejuru y'amazi yatembaga,",
+      "start": 11.12,
+      "end": 13.35
+    },
+    "6": {
+      "text": "inzima ayende, yende n'iyo ngiga y'umwerezi n'ako gatambaro k'umuhemba na ezobu iyo, abyinikane n'iyo nyoni nzima mu maraso ya ya nyoni yakererewe hejuru y'amazi yatembaga.",
+      "start": 23.37,
+      "end": 39.07
+    },
+    "7": {
+      "text": "Amishe ayo maraso karindwi ku ugiye guhumanurwa ibibembe avuge ko ahumanutse, arekurire mu gasozi iyo nyoni nzima.",
+      "start": 39.58,
+      "end": 40.48
+    },
+    "8": {
+      "text": "Maze uhumanurwa amese imyenda ye, yiyogosheshe umubiri wose yiyuhagire abe ahumanuwe, abone kugaruka mu ngando zanyu ariko amare iminsi irindwi aba hanze y'ihema rye.",
+      "start": 42.45,
+      "end": 44.0
+    },
+    "9": {
+      "text": "Ku munsi wa karindwi aziyogosheshe umusatsi wose n'ubwanwa n'injwiri, yiyogosheshe n'ahandi hose, amese imyenda ye yiyuhagire, abe ahumanutse.",
+      "start": 36.66,
+      "end": 44.94
+    },
+    "10": {
+      "text": "“Ku munsi wa munani azende abana b'intama b'amasekurume babiri badafite inenge, n'umwana w'intama w'umwagazi udafite inenge utaramara umwaka, n'ibice bya cumi bitatu bya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu, n'urugero rwa logi rumwe rw'amavuta ya elayo.",
+      "start": 7.15,
+      "end": 35.87
+    },
+    "11": {
+      "text": "Umutambyi umuhumanura amurikane uhumanurwa n'ibyo, imbere y'Uwiteka ku muryango w'ihema ry'ibonaniro.",
+      "start": 17.59,
+      "end": 24.68
+    },
+    "12": {
+      "text": "Uwo mutambyi yende umwe muri abo bana b'intama b'amasekurume, awutambe ho igitambo cyo gukuraho urubanza, aturane na wo logi iyo y'amavuta ya elayo, abizungurize imbere y'Uwiteka, bibe ituro rijungujwe.",
+      "start": 24.67,
+      "end": 44.47
+    },
+    "13": {
+      "text": "Abīkīrire uwo mwana w'intama w'isekurume mu buturo bwera, aho babīkīrira igitambo gitambirwa ibyaha n'icyoswa. Uko igitambo gitambiwe ibyaha ari umwanya w'umutambyi, ni ko n'igitambiwe gukuraho urubanza kimeze, ni icyera cyane.",
+      "start": 24.74,
+      "end": 33.27
+    },
+    "14": {
+      "text": "Umutambyi yende ku maraso y'icyo gitambo gitambiwe gukuraho urubanza, ayakoze hejuru ku gutwi kw'iburyo k'uhumanurwa, no ku gikumwe cye cy'iburyo no ku ino rye ry'iburyo rinini.",
+      "start": 41.56,
+      "end": 42.1
+    },
+    "15": {
+      "text": "Kandi yende kuri logi iyo y'amavuta ya elayo ayisuke ku rushyi rw'ibumoso,",
+      "start": 37.28,
+      "end": 37.78
+    },
+    "16": {
+      "text": "akoze urutoki rwe rw'iburyo mu mavuta ari ku rushyi rwe rw'ibumoso, aruminjagirishe ayo mavuta karindwi imbere y'Uwiteka.",
+      "start": 15.1,
+      "end": 32.3
+    },
+    "17": {
+      "text": "Ayandi mavuta asigaye ku rushyi rwe, umutambyi ayakoze hejuru ku gutwi kw'iburyo k'uhumanurwa, no ku gikumwe cye cy'iburyo, no ku ino rye ry'iburyo rinini, kuri ya maraso y'igitambo cyatambiwe gukuraho urubanza.",
+      "start": 8.94,
+      "end": 19.1
+    },
+    "18": {
+      "text": "Ayandi mavuta asigaye ku rushyi rwe, umutambyi ayasīge mu mutwe w'uhumanurwa, nuko umutambyi amuhongererere imbere y'Uwiteka.",
+      "start": 30.03,
+      "end": 30.49
+    },
+    "19": {
+      "text": "“Maze umutambyi atambe igitambo cyo gutambirwa ibyaha, ahongerere uhumanurwa guhumana kwe, hanyuma abīkīre igitambo cyo koswa.",
+      "start": 17.56,
+      "end": 29.0
+    },
+    "20": {
+      "text": "Umutambyi atambire ku gicaniro icyo gitambo cyoswa na rya turo ry'ifu, nuko amuhongerere, abe ahumanutse.",
+      "start": 41.18,
+      "end": 42.68
+    },
+    "21": {
+      "text": "“Kandi niba ari umukene ntabashe kubona ibingana bityo, yende umwana w'intama w'isekurume ho igitambo gikuraho urubanza cyo kuzunguzwa kibe impongano ye, n'igice cya cumi cya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu, n'urugero rwa logi rumwe rw'amavuta ya elayo,",
+      "start": 32.69,
+      "end": 32.78
+    },
+    "22": {
+      "text": "n'intungura ebyiri cyangwa ibyana by'inuma bibiri, ibyo yabasha kubona, kimwe kibe igitambo cyo gutambirwa ibyaha, ikindi kibe igitambo cyo koswa.",
+      "start": 35.77,
+      "end": 38.04
+    },
+    "23": {
+      "text": "Ku munsi wa munani abishyīre umutambyi ku muryango w'ihema ry'ibonaniro imbere y'Uwiteka, ngo bimuhumanuze.",
+      "start": 33.7,
+      "end": 39.2
+    },
+    "24": {
+      "text": "Umutambyi yende uwo mwana w'intama w'igitambo cyo gukuraho urubanza, na ya logi y'amavuta ya elayo, abizungurize imbere y'Uwiteka, bibe ituro rijungujwe.",
+      "start": 37.69,
+      "end": 44.73
+    },
+    "25": {
+      "text": "Abīkīre uwo mwana w'intama w'igitambo cyo gukuraho urubanza, yende ku maraso yacyo, ayakoze hejuru ku gutwi kw'iburyo k'uhumanurwa, no ku gikumwe cye cy'iburyo, no ku ino rye ry'iburyo rinini.",
+      "start": 8.75,
+      "end": 32.31
+    },
+    "26": {
+      "text": "Umutambyi yende kuri ayo mavuta, ayisuke ku rushyi rw'ibumoso,",
+      "start": 31.27,
+      "end": 43.16
+    },
+    "27": {
+      "text": "ayaminjagirishe urutoki rwe rw'iburyo karindwi imbere y'Uwiteka,",
+      "start": 36.07,
+      "end": 38.76
+    },
+    "28": {
+      "text": "ayakoze hejuru ku gutwi kw'iburyo k'uhumanurwa, no ku gikumwe cye cy'iburyo, no ku ino rye ry'iburyo rinini, aho yakojeje ya maraso y'igitambo cyatambiwe gukuraho urubanza.",
+      "start": 34.78,
+      "end": 42.15
+    },
+    "29": {
+      "text": "Ayandi mavuta asigaye ku rushyi rw'umutambyi, ayasīge mu mutwe w'uhumanurwa, ngo amuhongererere imbere y'Uwiteka.",
+      "start": 2.88,
+      "end": 3.35
+    },
+    "30": {
+      "text": "Kandi atambe imwe muri za ntungura cyangwa kimwe muri bya byana by'inuma, ibyo yabashije kubona,",
+      "start": 44.88,
+      "end": 44.98
+    },
+    "31": {
+      "text": "atambe ibyo yabashije kubona kimwe ho igitambo gitambirwa ibyaha, ikindi ho igitambo cyoswa kitagabanije, agitambane na rya turo ry'ifu. Nuko umutambyi ahongererere uhumanurwa imbere y'Uwiteka.”",
+      "start": 21.57,
+      "end": 36.06
+    },
+    "32": {
+      "text": "Ayo ni yo mategeko y'uwafashwe n'ibibembe, ntabashe kubona ibyari bikwiriye kumuhumanuza.",
+      "start": 17.41,
+      "end": 33.07
+    },
+    "33": {
+      "text": "Uwiteka abwira Mose na Aroni ati",
+      "start": 14.26,
+      "end": 36.29
+    },
+    "34": {
+      "text": "“Nimumara kugera mu gihugu cy'i Kanāni nzabaha ho gakondo, ngatera ibibembe inzu yo mu gihugu cya gakondo yanyu,",
+      "start": 24.6,
+      "end": 35.23
+    },
+    "35": {
+      "text": "nyir'iyo nzu agende abwire umutambyi ati ‘Inzu yanjye iransusira nk'ifashwe n'umuze.’",
+      "start": 26.35,
+      "end": 28.62
+    },
+    "36": {
+      "text": "Uwo mutambyi ategeke ko bayikuramo ibintu byose atarayinjiramo gusuzuma uwo muze, kugira ngo ibyo muri iyo nzu byose bidahumanywa, maze uwo mutambyi yinjire muri iyo nzu, ayisuzume.",
+      "start": 40.66,
+      "end": 44.66
+    },
+    "37": {
+      "text": "Asuzume uwo muze nawubona ku nzu ipfumaguritsemo utuyira twikorogoshoye, twenda kwirabura nk'ibyatsi bibisi cyangwa tw'urususirane, kandi uwo muze ukaboneka nk'ucengeyemo imbere,",
+      "start": 38.4,
+      "end": 44.28
+    },
+    "38": {
+      "text": "umutambyi asohoke muri iyo nzu, kandi ageze ku rugi ayikinge imare iminsi irindwi.",
+      "start": 38.64,
+      "end": 39.2
+    },
+    "39": {
+      "text": "Ku wa karindwi uwo mutambyi azagaruke ayisuzume, nasanga uwo muze ukwiriye ku nzu",
+      "start": 25.08,
+      "end": 28.32
+    },
+    "40": {
+      "text": "ategeke ko basenyaho amabuye afashwe na wo, bakayajugunya ahantu hahumanijwe inyuma y'umudugudu.",
+      "start": 20.29,
+      "end": 31.96
+    },
+    "41": {
+      "text": "Kandi ategeke ko bahomora iyo nzu imbere impande zose, kandi basuke ingwa bahomoye ahantu hahumanijwe, inyuma y'uwo mudugudu.",
+      "start": 3.14,
+      "end": 11.77
+    },
+    "42": {
+      "text": "Bazane andi mabuye, bayasanishe aho basenye ya yandi, bazane indi ngwa, bayihome ku nzu.",
+      "start": 14.12,
+      "end": 21.85
+    },
+    "43": {
+      "text": "“Uwo muze nugaruka ugasesa ku nzu, amaze gusenyaho ayo mabuye no kuyihomora no kongera kuyihoma,",
+      "start": 24.56,
+      "end": 26.7
+    },
+    "44": {
+      "text": "uwo mutambyi ayinjiremo ayisuzume, nabona uwo muze ukwiriye ku nzu uzabe ari ibibembe biyirya, izaba ihumanye.",
+      "start": 12.35,
+      "end": 13.61
+    },
+    "45": {
+      "text": "Bazasenya iyo nzu, amabuye yayo n'ibiti byayo, n'ingwa n'ibyondo byayo byose, babijyane inyuma y'uwo mudugudu ahantu hahumanijwe.",
+      "start": 4.25,
+      "end": 34.27
+    },
+    "46": {
+      "text": "Kandi uzinjira muri iyo nzu igikinzwe, azaba ahumanye ageze nimugoroba.",
+      "start": 20.8,
+      "end": 27.01
+    },
+    "47": {
+      "text": "Kandi uzayiraramo azamese imyenda ye, n'uzayiriramo azamese imyenda ye.",
+      "start": 4.26,
+      "end": 27.69
+    },
+    "48": {
+      "text": "“Ariko umutambyi nayinjiramo akayisuzuma, akabona uwo muze utakwiriye ku nzu imaze guhomwa, uwo mutambyi azavuge ko ihumanutse, kuko uwo muze ukize.",
+      "start": 13.61,
+      "end": 33.71
+    },
+    "49": {
+      "text": "Yende ibyo guhumanuza iyo nzu: inyoni ebyiri n'ingiga y'umwerezi, n'agatambaro k'umuhemba, n'agati kitwa ezobu.",
+      "start": 22.11,
+      "end": 37.53
+    },
+    "50": {
+      "text": "Abīkīrire imwe muri izo nyoni mu rwabya hejuru y'amazi yatembaga,",
+      "start": 14.69,
+      "end": 42.81
+    },
+    "51": {
+      "text": "yende iyo ngiga y'umwerezi na ezobu iyo, n'ako gatambaro k'umuhemba n'inyoni nzima, abyinike mu maraso y'ikerewe no muri ayo mazi yatembaga abimishe kuri iyo nzu karindwi,",
+      "start": 15.93,
+      "end": 41.51
+    },
+    "52": {
+      "text": "ahumanuze iyo nzu amaraso y'iyo nyoni n'ayo mazi yatembaga, n'iyo nyoni nzima n'iyo ngiga y'umwerezi, n'ezobu iyo n'ako gatambaro k'umuhemba,",
+      "start": 34.93,
+      "end": 36.84
+    },
+    "53": {
+      "text": "maze arekurire iyo nyoni nzima mu gasozi, inyuma y'umudugudu. Uko abe ari ko ahongerera iyo nzu ibe ihumanutse.”",
+      "start": 2.05,
+      "end": 34.59
+    },
+    "54": {
+      "text": "Ayo ni yo mategeko y'uburyo bwose bw'umuze w'ibibembe n'uw'ibikoko,",
+      "start": 30.05,
+      "end": 31.69
+    },
+    "55": {
+      "text": "n'ay'ibibembe bifashe umwenda n'ay'ibifashe inzu,",
+      "start": 31.9,
+      "end": 38.51
+    },
+    "56": {
+      "text": "n'ay'ikibyimba n'igikoko n'ibara ry'amera n'urubara,",
+      "start": 35.96,
+      "end": 44.72
+    },
+    "57": {
+      "text": "yigisha ibigaragaza ko ikintu gihumanye cyangwa ko kidahumanye. Ayo ni yo mategeko y'ibibembe.",
+      "start": 35.16,
+      "end": 39.23
+    }
+  }
+}

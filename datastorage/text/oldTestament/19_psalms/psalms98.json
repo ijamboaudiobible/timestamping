@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 98,
+  "verses": {
+    "1": {
+      "text": "Zaburi.Muririmbire Uwiteka indirimbo nshya,Kuko yakoze ibitangaza.Ikiganza cye cy'iburyo n'ukuboko kwe kwera yabizanishije agakiza.",
+      "start": 24.66,
+      "end": 40.26
+    },
+    "2": {
+      "text": "Uwiteka yamenyekanishije agakiza ke,Gukiranuka kwe yakwerekanye ku mugaragaro mu maso y'amahanga.",
+      "start": 5.13,
+      "end": 7.38
+    },
+    "3": {
+      "text": "Yibutsa imbabazi ze n'umurava we,Kubigirira inzu y'Abisirayeli,Abo ku mpera y'isi hose barebye agakiza k'Imana yacu.",
+      "start": 39.84,
+      "end": 43.78
+    },
+    "4": {
+      "text": "Mwa bari mu isi mwese mwe,Muvugirize Uwiteka impundu,Musandure muririmbishwe n'ibyishimo,Muririmbe ishimwe.",
+      "start": 28.76,
+      "end": 30.04
+    },
+    "5": {
+      "text": "Muririmbire Uwiteka ishimwe mubwira inanga,Mubwire inanga, muririmbe indirimbo.",
+      "start": 2.37,
+      "end": 12.51
+    },
+    "6": {
+      "text": "Muvugirize impundu imbere y'Umwami Uwiteka,N'impanda n'ijwi ry'ihembe.",
+      "start": 35.08,
+      "end": 44.6
+    },
+    "7": {
+      "text": "Inyanja ihōrerane n'ibiyuzuye,N'isi n'abayibamo bose.",
+      "start": 6.0,
+      "end": 35.42
+    },
+    "8": {
+      "text": "Inzuzi zikome mu mashyi,Imisozi iririmbire hamwe,Iririmbishwe n'ibyishimo,",
+      "start": 33.83,
+      "end": 44.74
+    },
+    "9": {
+      "text": "Imbere y'Uwiteka kuko agiye kuza,Agacira abari mu isi imanza.Azacira abari mu isi imanza zitabera,Azacira amahanga imanza zitunganye.",
+      "start": 1.46,
+      "end": 16.18
+    }
+  }
+}

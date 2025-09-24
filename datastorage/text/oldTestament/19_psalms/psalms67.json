@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 67,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi babwira inanga. Ni indirimbo yitwa Zaburi.",
+      "start": 31.91,
+      "end": 32.71
+    },
+    "2": {
+      "text": "Imana itubabarire iduhe umugisha,Itumurikishirize mu maso hayo.Sela.",
+      "start": 2.7,
+      "end": 35.52
+    },
+    "3": {
+      "text": "Kugira ngo inzira yawe imenywe mu isi,Ubugingo bwawe bukiza bumenywe mu mahanga yose.",
+      "start": 23.2,
+      "end": 30.28
+    },
+    "4": {
+      "text": "Mana, amoko agushime,Amoko yose agushime.",
+      "start": 6.96,
+      "end": 35.57
+    },
+    "5": {
+      "text": "Amahanga yishime, aririmbishwe n'ibyishimo,Kuko uzacira amoko imanza z'ukuri,Kandi uzashorerera amahanga mu isi.Sela.",
+      "start": 9.64,
+      "end": 15.97
+    },
+    "6": {
+      "text": "Mana, amoko agushime,Amoko yose agushime.",
+      "start": 31.84,
+      "end": 38.25
+    },
+    "7": {
+      "text": "Ubutaka bweze umwero wabwo,Imana ni yo Mana yacu, izaduha umugisha.",
+      "start": 26.89,
+      "end": 44.71
+    },
+    "8": {
+      "text": "Imana izaduha umugisha,Kandi abo ku mpera y'isi hose bazayubaha.",
+      "start": 0.63,
+      "end": 39.91
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 89,
+  "verses": {
+    "1": {
+      "text": "Indirimbo yahimbishijwe ubwenge ya Etani Umunyezerahi.",
+      "start": 11.54,
+      "end": 11.75
+    },
+    "2": {
+      "text": "Nzaririmba iteka imbabazi z'Uwiteka,Ab'ibihe byose nzabamenyesha umurava wawe n'akanwa kanjye.",
+      "start": 40.57,
+      "end": 41.86
+    },
+    "3": {
+      "text": "Kuko navuze nti“Imbabazi zizakomezwa iteka,No mu ijuru ubwaho uzahashimangira umurava wawe.”",
+      "start": 7.11,
+      "end": 14.2
+    },
+    "4": {
+      "text": "“Nasezeranye isezerano n'uwo natoranije,Narahiye Dawidi umugaragu wanjye",
+      "start": 17.92,
+      "end": 29.76
+    },
+    "5": {
+      "text": "Nti ‘Nzashimangira urubyaro rwawe iteka,Intebe yawe y'ubwami nzayikomeza,Ukageza ibihe byose.’ ”Sela.",
+      "start": 25.01,
+      "end": 41.7
+    },
+    "6": {
+      "text": "Uwiteka, ijuru rizashima ibitangaza byawe,Umurava wawe uzashimirwa mu iteraniro ry'abera.",
+      "start": 29.54,
+      "end": 34.51
+    },
+    "7": {
+      "text": "Ni nde wo mu ijuru wagereranywa n'Uwiteka?Ni nde wo mu bana b'Imana uhwanye n'Uwiteka?",
+      "start": 0.1,
+      "end": 28.79
+    },
+    "8": {
+      "text": "Ni we Mana iteye ubwoba bwinshi mu rukiko rw'abera,Ni iyo gutinywa kurusha abayikikije bose.",
+      "start": 16.35,
+      "end": 24.78
+    },
+    "9": {
+      "text": "Uwiteka, Mana Nyiringabo,Ni nde munyambaraga uhwanye nawe, Uwiteka?Umurava wawe urakugose impande zose.",
+      "start": 34.34,
+      "end": 41.45
+    },
+    "10": {
+      "text": "Ni wowe utegeka kwihinduriza kw'inyanja,Iyo umuraba wayo uhagurutse urawutūrisha.",
+      "start": 39.07,
+      "end": 40.64
+    },
+    "11": {
+      "text": "Ni wowe wamenaguye Rahabu imeze nk'uwishwe,Watatanishije ababisha bawe ukoboko kw'imbaraga zawe.",
+      "start": 13.69,
+      "end": 24.67
+    },
+    "12": {
+      "text": "Ijuru ni iryawe, isi na yo ni iyawe,Isi n'ibiyuzuye ni wowe wabishimangiye.",
+      "start": 6.75,
+      "end": 40.96
+    },
+    "13": {
+      "text": "Ikasikazi n'ikusi ni wowe waharemye,I Taboru n'i Herumoni hishimira izina ryawe.",
+      "start": 8.29,
+      "end": 17.14
+    },
+    "14": {
+      "text": "Ufite ukuboko kw'imbaraga,Ukuboko kwawe kurakomeye,Ukuboko kwawe kw'iburyo gushyizwe hejuru.",
+      "start": 2.55,
+      "end": 14.96
+    },
+    "15": {
+      "text": "Gukiranuka no guca imanza zitabera ni imfatiro z'intebe yawe,Imbabazi n'umurava birakubanziriza.",
+      "start": 19.93,
+      "end": 23.61
+    },
+    "16": {
+      "text": "Hahirwa ishyanga rizi ijwi ry'impundu,Uwiteka, rigendera mu mucyo wo mu maso hawe.",
+      "start": 33.3,
+      "end": 44.29
+    },
+    "17": {
+      "text": "Bishimira izina ryawe umunsi ukīra,Kandi gukiranuka kwawe ni ko kubashyirisha hejuru.",
+      "start": 12.3,
+      "end": 21.48
+    },
+    "18": {
+      "text": "Kuko uri icyubahiro cy'imbaraga zabo,Imbabazi zawe ni zo zizashyirisha hejuru ihembe ryacu.",
+      "start": 24.88,
+      "end": 40.46
+    },
+    "19": {
+      "text": "Kuko ingabo idukingira ari Uwiteka,Umwami wacu ari Uwera wa Isirayeli.",
+      "start": 39.47,
+      "end": 42.14
+    },
+    "20": {
+      "text": "Cya gihe wabwiriye abakunzi bawe mu byo beretswe uti“Mpaye umunyambaraga gufasha kwanjye,Nshyize hejuru uwatoranijwe mu bantu.",
+      "start": 40.71,
+      "end": 44.82
+    },
+    "21": {
+      "text": "Mbonye Dawidi umugaragu wanjye,Musīze amavuta yanjye yera.",
+      "start": 28.57,
+      "end": 43.18
+    },
+    "22": {
+      "text": "Ikiganza cyanjye kizajya kibana na we,Ukuboko kwanjye kuzamukomeza.",
+      "start": 6.46,
+      "end": 6.54
+    },
+    "23": {
+      "text": "Umwanzi we ntazamutungura,Kandi umunyabyaha ntazamugirira nabi.",
+      "start": 25.58,
+      "end": 41.98
+    },
+    "24": {
+      "text": "Nanjye nzakubita ababisha be bagwe imbere ye,Nzakubita abamwanga.",
+      "start": 32.65,
+      "end": 38.17
+    },
+    "25": {
+      "text": "Ariko umurava wanjye n'imbabazi zanjye bizabana na we,Kandi izina ryanjye rizashyirisha hejuru ihembe rye.",
+      "start": 0.84,
+      "end": 11.55
+    },
+    "26": {
+      "text": "Nzashyira inyanja mu ntoki ze,N'inzūzi mu kuboko kwe kw'iburyo.",
+      "start": 34.83,
+      "end": 37.41
+    },
+    "27": {
+      "text": "Azantakira ati‘Ni wowe Data, Imana yanjye,Igitare cy'agakiza kanjye.’",
+      "start": 11.77,
+      "end": 17.0
+    },
+    "28": {
+      "text": "Kandi nzamuhindura impfura yanjye,Asumbe abandi bami bo mu isi.",
+      "start": 19.73,
+      "end": 23.74
+    },
+    "29": {
+      "text": "Nzamubikira imbabazi zanjye iteka ryose,Isezerano ryanjye rizakomera kuri we.",
+      "start": 17.43,
+      "end": 44.09
+    },
+    "30": {
+      "text": "Kandi nzaramisha urubyaro rwe iteka ryose,Nzaramisha intebe ye y'ubwami nk'iminsi y'ijuru.",
+      "start": 5.12,
+      "end": 31.19
+    },
+    "31": {
+      "text": "“Niba abana be bazareka amategeko yanjye,Ntibagendere mu byo nategetse,",
+      "start": 21.59,
+      "end": 37.13
+    },
+    "32": {
+      "text": "Niba bazaca ku mateka yanjye,Ntibitondere amategeko yanjye,",
+      "start": 14.25,
+      "end": 15.81
+    },
+    "33": {
+      "text": "Ni bwo nzahōrēsha ibicumuro byabo inkoni,No gukiranirwa kwabo nzaguhōrēsha kubakubita.",
+      "start": 22.63,
+      "end": 40.24
+    },
+    "34": {
+      "text": "Ariko sinzamukuraho rwose imbabazi zanjye,Sinzivuguruza umurava wanjye.",
+      "start": 19.67,
+      "end": 39.88
+    },
+    "35": {
+      "text": "Sinzica isezerano ryanjye,Sinzahindura ijambo ryavuye mu kanwa kanjye.",
+      "start": 29.81,
+      "end": 43.92
+    },
+    "36": {
+      "text": "“Igihe kimwe narahiye kwera kwanjye,Sinzabeshya Dawidi.",
+      "start": 30.25,
+      "end": 39.22
+    },
+    "37": {
+      "text": "Urubyaro rwe ruzarama iteka,Intebe ye y'ubwami izarama nk'izuba imbere yanjye.",
+      "start": 2.21,
+      "end": 18.66
+    },
+    "38": {
+      "text": "Izakomezwa iteka ryose nk'ukwezi,Mu ijuru hariho ubihamya wo kwizerwa.”Sela.",
+      "start": 22.89,
+      "end": 40.29
+    },
+    "39": {
+      "text": "Ariko ubwawe wataye kure uwo wasīze uramureka,Wamugiriye umujinya.",
+      "start": 7.35,
+      "end": 34.92
+    },
+    "40": {
+      "text": "Wanze urunuka isezerano ry'umugaragu wawe,Wahumanishije ikamba rye kurijugunya hasi.",
+      "start": 35.86,
+      "end": 42.14
+    },
+    "41": {
+      "text": "Wagushije inkike ze zose,Washenye ibihome bye.",
+      "start": 2.43,
+      "end": 28.13
+    },
+    "42": {
+      "text": "Abahisi bose baramunyaga,Abaye igitutsi ku baturanyi be.",
+      "start": 22.08,
+      "end": 44.17
+    },
+    "43": {
+      "text": "Washyize hejuru ukuboko kw'iburyo kw'ababisha be,Wishimishije abanzi be bose.",
+      "start": 14.51,
+      "end": 35.25
+    },
+    "44": {
+      "text": "Ni koko usubiza inyuma ubugi bw'inkota ye,Kandi ntiwamuhaye guhagarara ashikamye mu ntambara.",
+      "start": 21.84,
+      "end": 26.69
+    },
+    "45": {
+      "text": "Wamazeho ubwiza bwe,Wajugunye intebe ye y'ubwami hasi",
+      "start": 5.33,
+      "end": 35.96
+    },
+    "46": {
+      "text": "Wagabanije iminsi y'ubusore bwe,Wamwambitse isoni.Sela.",
+      "start": 43.72,
+      "end": 44.66
+    },
+    "47": {
+      "text": "Uwiteka, uzageza he kwihisha iteka?Umujinya wawe uzageza he kwaka nk'umuriro?",
+      "start": 19.05,
+      "end": 34.38
+    },
+    "48": {
+      "text": "Ibuka ko ndi uw'igihe gito,Erega abana b'abantu bose wabaremeye ubusa!",
+      "start": 1.66,
+      "end": 9.49
+    },
+    "49": {
+      "text": "Ni nde uzarama ntapfe,Agakiza ubugingo bwe ukuboko kw'ikuzimu?Sela.",
+      "start": 40.81,
+      "end": 42.29
+    },
+    "50": {
+      "text": "Mwami, imbabazi zawe za kera ziri he,Warahiye Dawidi ku bw'umurava wawe?",
+      "start": 34.21,
+      "end": 43.25
+    },
+    "51": {
+      "text": "Mwami, ibuka ibitutsi batuka abagaragu bawe,Uko niyumanganya mu mutima iby'amahanga yose uko ari menshi.",
+      "start": 27.65,
+      "end": 40.5
+    },
+    "52": {
+      "text": "Uwiteka, ibuka ibitutsi by'abanzi bawe,Batutse intambwe z'uwo wasīze.",
+      "start": 20.71,
+      "end": 34.05
+    },
+    "53": {
+      "text": "Uwiteka ahimbazwe iteka ryose.Amen kandi Amen.",
+      "start": 2.67,
+      "end": 18.73
+    }
+  }
+}

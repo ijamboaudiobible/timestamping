@@ -1,0 +1,108 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Ataliya nyina wa Ahaziya abonye ko umwana we apfuye, arahaguruka, arimbura urubyaro rw'umwami rwose.",
+      "start": 25.54,
+      "end": 41.81
+    },
+    "2": {
+      "text": "Ariko Yehosheba umukobwa w'Umwami Yoramu, mushiki wa Ahaziya, ajyana Yowasi mwene Ahaziya, aramwiba, amukura mu bana b'umwami bicwaga, amujyanana n'umurezi we abashyira mu cyumba kirarwamo, bamuhisha Ataliya ntiyicwa.",
+      "start": 13.2,
+      "end": 43.13
+    },
+    "3": {
+      "text": "Nuko abana na we imyaka itandatu ahishwe mu nzu y'Uwiteka. Ubwo Ataliya ni we wari ku ngoma muri icyo gihugu.",
+      "start": 22.59,
+      "end": 33.0
+    },
+    "4": {
+      "text": "Mu mwaka wa karindwi Yehoyada atumira abatware batwara amagana b'Abakariti n'abarinzi, baraza bamusanga mu nzu y'Uwiteka asezerana na bo isezerano, arabarahiza bari mu nzu y'Uwiteka, aherako abereka umwana w'umwami.",
+      "start": 6.02,
+      "end": 33.26
+    },
+    "5": {
+      "text": "Arabategeka ati “Nimwumve uko muzabigenza: abazaza ku isabato gufata igihe, umugabane wanyu wa gatatu uzarinda inzu y'umwami,",
+      "start": 4.25,
+      "end": 16.27
+    },
+    "6": {
+      "text": "undi mugabane wa gatatu uzarinda irembo ry'i Suri, n'undi mugabane wa gatatu uzaba ku irembo inyuma y'abarinzi. Uko ni ko uzarinda iyo nzu mukumiriye.",
+      "start": 33.78,
+      "end": 44.71
+    },
+    "7": {
+      "text": "Kandi imitwe yanyu ibiri y'abazakurwa ku isabato, muzarinda inzu y'Uwiteka mukikije umwami.",
+      "start": 43.4,
+      "end": 43.52
+    },
+    "8": {
+      "text": "Muzakikiza umwami, umuntu wese afite intwaro zo kurwanisha mu ntoki. Uzabatwaza wese muri mu murongo muzamwice. Mujye mushagara umwami uko asohotse n'uko yinjiye.”",
+      "start": 15.1,
+      "end": 18.03
+    },
+    "9": {
+      "text": "Nuko abatware b'amagana bagenza uko umutambyi Yehoyada yabitegetse byose. Baragenda umuntu wese ajyana abantu be bo gufata igihe ku isabato hamwe n'abagicyuye ku isabato, basanga umutambyi Yehoyada.",
+      "start": 38.47,
+      "end": 41.02
+    },
+    "10": {
+      "text": "Bahageze uwo mutambyi aha abatware batwara amagana amacumu n'ingabo byari iby'Umwami Dawidi, bikaba mu nzu y'Uwiteka.",
+      "start": 18.97,
+      "end": 36.89
+    },
+    "11": {
+      "text": "Nuko abarinzi, umuntu wese afite intwaro ze mu ntoki, bahagarara bakikije umwami uhereye mu ruhande rw'iburyo rw'inzu ukageza ku rw'ibumoso, bugufi bw'icyotero n'inzu.",
+      "start": 18.06,
+      "end": 23.09
+    },
+    "12": {
+      "text": "Maze Yehoyada asohora umwana w'umwami amwambika ikamba ry'ubwami, amuha n'umuhamya. Nuko bamwimikisha amavuta bamugira umwami, maze bakoma mu mashyi baravuga bati “Umwami aragahoraho.”",
+      "start": 33.19,
+      "end": 44.71
+    },
+    "13": {
+      "text": "Ataliya yumvise urusaku rw'abarinzi n'abantu, araza asanga abantu mu nzu y'Uwiteka.",
+      "start": 29.43,
+      "end": 33.76
+    },
+    "14": {
+      "text": "Yitegereje abona umwami ahagaze ku nkingi nk'uko umuhango wabo wari uri, n'abatware n'abavuza amakondera begereye umwami, n'abantu bose bo mu gihugu banezerewe bavuza amakondera. Nuko Ataliya ashishimura imyambaro ye, avuza induru ati “Ubugome! Ubugome!”",
+      "start": 26.55,
+      "end": 39.73
+    },
+    "15": {
+      "text": "Maze umutambyi Yehoyada ategeka abatware batwara magana bashyiriweho gutwara ingabo zose, arababwira ati “Nimumusohore mumucishe mu mirongo y'ingabo, kandi umukurikira wese mumwicishe inkota”, kuko umutambyi yari avuze ngo “Ntiyicirwe mu nzu y'Uwiteka.”",
+      "start": 25.17,
+      "end": 26.41
+    },
+    "16": {
+      "text": "Nuko baramubererekera anyura mu nzira y'amafarashi yatahanaga mu rugo rw'umwami, bamutsinda aho.",
+      "start": 19.64,
+      "end": 31.84
+    },
+    "17": {
+      "text": "Maze Yehoyada asezeranira umwami n'abantu isezerano ku Uwiteka ngo babe abantu b'Uwiteka, kandi asezeranya umwami n'abantu isezerano.",
+      "start": 32.15,
+      "end": 37.6
+    },
+    "18": {
+      "text": "Abantu bose bari mu gihugu baherako bajya ku ngoro ya Bāli barayisenya, ibyotero bye n'ibishushanyo bye barabimenagura rwose, kandi Matani umutambyi wa Bāli bamwicira imbere y'icyotero.Hanyuma umutambyi atoranya abatware bo gutegeka ibyo mu nzu y'Uwiteka.",
+      "start": 43.21,
+      "end": 44.31
+    },
+    "19": {
+      "text": "Ajyana abatware b'amagana n'Abakariti n'abarinzi, n'abantu bose bari mu gihugu, basohokana n'umwami mu nzu y'Uwiteka, baramanukana banyura mu nzira yo mu irembo ry'abarinzi bajya mu nzu y'umwami. Bagezeyo umwami yicara ku ntebe y'ubwami.",
+      "start": 10.04,
+      "end": 32.02
+    },
+    "20": {
+      "text": "Maze abantu bose bo mu gihugu baranezerwa, umurwa uratuza. Bari bamaze kwicira Ataliya ku nzu y'umwami.",
+      "start": 11.38,
+      "end": 20.49
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Book 21",
+  "book_canonical": "ecclesiastes",
+  "book_number": 21,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Nyanyagiza imbuto yawe ku mazi, kuko igihe nigisohora, uzayibona hashize iminsi myinshi.",
+      "start": 16.1,
+      "end": 18.09
+    },
+    "2": {
+      "text": "Ubigabanye barindwi ndetse n'umunani, kuko utazi ibyago bizatera ku isi ibyo ari byo.",
+      "start": 44.3,
+      "end": 44.3
+    },
+    "3": {
+      "text": "Iyo ibicu byuzuwemo n'imvura biyisandaza ku isi, kandi igiti iyo kiguye cyerekeye ikusi cyangwa ikasikazi, aho kiguye ni ho kiguma.",
+      "start": 19.0,
+      "end": 31.27
+    },
+    "4": {
+      "text": "Uhora yitegereza umuyaga ntabiba, kandi uhora areba ibicu ntasarura.",
+      "start": 21.0,
+      "end": 43.92
+    },
+    "5": {
+      "text": "Uko utazi inzira y'umuyaga iyo ari yo, cyangwa uko amagufwa akurira mu nda y'utwite, ni ko utazi imirimo y'Imana ikora byose.",
+      "start": 14.05,
+      "end": 24.56
+    },
+    "6": {
+      "text": "Mu gitondo ujye ubiba imbuto zawe, kandi nimugoroba ntukaruhure ukuboko kwawe, kuko utazi ikizera ari iki cyangwa kiriya, cyangwa yuko byombi bizahwanya kuba byiza.",
+      "start": 8.24,
+      "end": 15.9
+    },
+    "7": {
+      "text": "Ni ukuri umucyo uranezeza, kandi kureba izuba bishimisha amaso.",
+      "start": 20.55,
+      "end": 30.49
+    },
+    "8": {
+      "text": "Ni ukuri umuntu narama imyaka myinshi akwiriye kuyinezererwamo yose, ariko ntakibagirwe iminsi y'umwijima kuko izaba myinshi. Ibibaho byose ni ubusa.",
+      "start": 34.77,
+      "end": 38.46
+    },
+    "9": {
+      "text": "Wa musore we, ishimire ubusore bwawe n'umutima wawe ukunezeze mu minsi y'ubuto bwawe, kandi ujye ugenda mu nzira umutima wawe ushaka no mu mucyo wo mu maso yawe, ariko menya yuko ibyo byose bizatuma Imana igushyira mu rubanza.",
+      "start": 33.14,
+      "end": 42.81
+    },
+    "10": {
+      "text": "Nuko rero ikure umubabaro mu mutima wawe, kandi utandukanye umubiri wawe n'ibibi bikube kure, kuko ubuto n'ubusore ari ubusa.",
+      "start": 34.15,
+      "end": 42.12
+    }
+  }
+}

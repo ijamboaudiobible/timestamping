@@ -1,0 +1,148 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Ukunda guhugurwa aba akunda ubwenge,Ariko uwanga guhanwa aba asa n'inka.",
+      "start": 1.42,
+      "end": 18.68
+    },
+    "2": {
+      "text": "Umuntu mwiza azabona ihirwe ku Uwiteka,Ariko azatsinda ugambirira ibibi.",
+      "start": 15.53,
+      "end": 33.58
+    },
+    "3": {
+      "text": "Nta muntu ukomezwa no gukora ibibi,Kandi umuzi w'umukiranutsi ntuzarandurwa.",
+      "start": 16.77,
+      "end": 38.66
+    },
+    "4": {
+      "text": "Umugore w'ingeso nziza abera umugabo we ikamba,Ariko ukoza isoni ni nk'ikimungu kiri mu magufwa ye.",
+      "start": 26.32,
+      "end": 30.63
+    },
+    "5": {
+      "text": "Ibyo umukiranutsi atekereza biratunganye,Ariko inama z'umunyabyaha ni uburiganya.",
+      "start": 37.5,
+      "end": 39.8
+    },
+    "6": {
+      "text": "Amagambo umunyabyaha avuga ni ayo kubikīra kuvusha abantu amaraso,Ariko akanwa k'utunganye kazabarokora.",
+      "start": 14.27,
+      "end": 16.6
+    },
+    "7": {
+      "text": "Abanyabyaha bazubikwa ntibazaba bakiriho,Ariko urugo rw'umukiranutsi ruzakomera.",
+      "start": 1.7,
+      "end": 16.56
+    },
+    "8": {
+      "text": "Umuntu azashimirwa uko ubwenge bwe buri,Ariko ufite umutima ugoramye azagawa.",
+      "start": 19.06,
+      "end": 43.22
+    },
+    "9": {
+      "text": "Umuntu woroheje ariko afite akagaragu,Aruta umwirasi utagira ikimutunga.",
+      "start": 13.99,
+      "end": 23.57
+    },
+    "10": {
+      "text": "Umukiranutsi yita ku matungo ye,Ariko imbabazi z'umunyabyaha ni umwaga.",
+      "start": 28.82,
+      "end": 42.24
+    },
+    "11": {
+      "text": "Uhinga umurima we asanzuye azabona ibyokurya bimuhagije,Ariko ukurikirana ibitagira umumaro ntabwo agira umutima.",
+      "start": 17.75,
+      "end": 24.6
+    },
+    "12": {
+      "text": "Umunyabyaha yifuza gutungwa n'iminyago y'ababi,Ariko imizi y'umukiranutsi ituma yera imbuto.",
+      "start": 4.98,
+      "end": 14.95
+    },
+    "13": {
+      "text": "Ururimi rucumura rubera umuntu mubi umutego,Ariko umukiranutsi azakira amakuba.",
+      "start": 14.62,
+      "end": 15.09
+    },
+    "14": {
+      "text": "Imbuto z'ibituruka mu kanwa k'umuntu ni zo zimuhesha ibyiza,Kandi umuntu ahabwa ibihwanye n'imirimo y'amaboko ye.",
+      "start": 31.12,
+      "end": 39.04
+    },
+    "15": {
+      "text": "Imirimo y'umupfu ihora imutunganira,Ariko umunyabwenge yemera kugirwa inama.",
+      "start": 6.25,
+      "end": 27.46
+    },
+    "16": {
+      "text": "Uburakari bw'umupfapfa bugaragara vuba,Ariko umunyamakenga yirengagiza ibitutsi.",
+      "start": 0.03,
+      "end": 14.68
+    },
+    "17": {
+      "text": "Uvuga iby'ukuri yerekana gukiranuka,Ariko umugabo w'indarikwa avuga ibinyoma.",
+      "start": 14.15,
+      "end": 17.63
+    },
+    "18": {
+      "text": "Habaho uwihutira kuvuga amagambo yicana nk'inkota,Ariko ururimi rw'umunyabwenge rurakiza.",
+      "start": 23.61,
+      "end": 29.33
+    },
+    "19": {
+      "text": "Ikivuzwe cy'ukuri kiraramba,Ariko iby'ururimi rubeshya bishira vuba.",
+      "start": 22.5,
+      "end": 36.02
+    },
+    "20": {
+      "text": "Uburiganya buba mu mitima y'abajya inama y'ibibi,Ariko abajya inama y'amahoro ibyabo ni umunezero.",
+      "start": 41.8,
+      "end": 43.31
+    },
+    "21": {
+      "text": "Nta cyago kizaba ku mukiranutsi,Ariko abanyabyaha bazuzurwamo n'ibibi.",
+      "start": 26.99,
+      "end": 35.27
+    },
+    "22": {
+      "text": "Ururimi rubeshya ni ikizira ku Uwiteka,ahubwo anezezwa n'abakora iby'ukuri.",
+      "start": 41.4,
+      "end": 43.24
+    },
+    "23": {
+      "text": "Umunyamakenga abumbatira ubwenge bwe,Ariko umutima w'abapfapfa wamamaza ubupfu bwabo.",
+      "start": 28.05,
+      "end": 28.78
+    },
+    "24": {
+      "text": "Ukuboko k'umunyamwete kuzatwara,Ariko ukuboko k'umunyabute kuzakoreshwa uburetwa.",
+      "start": 33.39,
+      "end": 33.71
+    },
+    "25": {
+      "text": "Amaganya yo mu mutima atera umuntu akiyumviro,Ariko ijambo ryiza risusurutsa uwo umutima.",
+      "start": 39.35,
+      "end": 41.45
+    },
+    "26": {
+      "text": "Umukiranutsi ayobora umuturanyi we,Ariko inzira y'abanyabyaha irabayobya.",
+      "start": 8.78,
+      "end": 20.94
+    },
+    "27": {
+      "text": "Umunyabute ntahigura umuhigo we,Ariko umwete w'umuntu umugirira akamaro kanini.",
+      "start": 25.88,
+      "end": 44.85
+    },
+    "28": {
+      "text": "Mu nzira yo gukiranuka hari ubugingo,No mu mayira yako nta rupfu rubamo.",
+      "start": 39.84,
+      "end": 44.64
+    }
+  }
+}

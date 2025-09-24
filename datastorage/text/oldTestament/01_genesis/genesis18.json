@@ -1,0 +1,173 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abonekera Aburahamu kuri bya biti byitwa imyeloni bya Mamure. Yari yicaye mu muryango w'ihema rye ku manywa y'ihangu,",
+      "start": 30.15,
+      "end": 35.38
+    },
+    "2": {
+      "text": "yubura amaso abona abagabo batatu bahagaze imbere ye, ababonye ava mu muryango w'ihema arirukanka arabasanganira, yikubita hasi",
+      "start": 13.4,
+      "end": 31.52
+    },
+    "3": {
+      "text": "aravuga ati “Databuja, niba nkugiriyeho umugisha, ndakwinginze we kunyura ku mugaragu wawe,",
+      "start": 19.86,
+      "end": 33.11
+    },
+    "4": {
+      "text": "ahubwo bazane utuzi mwoge ibirenge muruhukire munsi y'igiti,",
+      "start": 14.19,
+      "end": 21.67
+    },
+    "5": {
+      "text": "kandi nanjye mbazanire utwo kurya mwice isari, mubone kugenda ubwo muje ku mugaragu wanyu.”Baramusubiza bati “Ubigenze uko uvuze.”",
+      "start": 40.13,
+      "end": 44.21
+    },
+    "6": {
+      "text": "Aburahamu arihuta yinjira mu ihema, asanga Sara aramubwira ati “Tunganya vuba indengo n'umucagate by'amafu meza, uvugemo imitsima.”",
+      "start": 3.62,
+      "end": 19.86
+    },
+    "7": {
+      "text": "Aburahamu arirukanka ajya mu bushyo, azana ikimasa cyoroshye cyiza agiha umusongozi we, arihuta aragiteka.",
+      "start": 32.75,
+      "end": 35.13
+    },
+    "8": {
+      "text": "Yenda amavuta n'amata n'inyama z'icyo kimasa yatetse abishyira imbere yabo, abahagarara iruhande munsi ya cya giti bararya.",
+      "start": 38.36,
+      "end": 44.67
+    },
+    "9": {
+      "text": "Baramubaza bati “Sara umugore wawe ari he?”Arabasubiza ati “Ari mu ihema.”",
+      "start": 37.11,
+      "end": 40.74
+    },
+    "10": {
+      "text": "Undi aramubwira ati “Iki gihe cy'umwaka nikigaruka, sinzabura kugaruka aho uri, Sara umugore wawe abyare umuhungu.”Sara abyumva ari mu muryango w'ihema uri inyuma ye.",
+      "start": 16.56,
+      "end": 30.04
+    },
+    "11": {
+      "text": "Aburahamu na Sara bari bashaje, bageze mu za bukuru, kandi Sara ntiyari akijya mu mihango y'abakobwa.",
+      "start": 28.03,
+      "end": 40.82
+    },
+    "12": {
+      "text": "Sara asekera mu mutima ati “Ko maze gukecura, nzanezerwa ntyo kandi umutware wanjye akaba ashaje?”",
+      "start": 0.46,
+      "end": 26.67
+    },
+    "13": {
+      "text": "Uwiteka abaza Aburahamu ati “Ni iki gishekeje Sara, akibaza ati ‘Ni ukuri koko nzabyara, nkecuye?’",
+      "start": 7.3,
+      "end": 28.97
+    },
+    "14": {
+      "text": "Hari ikinanira Uwiteka se? Mu gihe cyashyizweho, iki gihe cy'umwaka nikigaruka nzakugarukaho, Sara abyare umuhungu.”",
+      "start": 13.65,
+      "end": 43.82
+    },
+    "15": {
+      "text": "Maze Sara arahakana ati “Sinsetse”, kuko yatinyaga.Aramusubiza ati “Oya, urasetse.”",
+      "start": 34.58,
+      "end": 37.31
+    },
+    "16": {
+      "text": "Abo bagabo barahaguruka baragenda, berekeza amaso i Sodomu, Aburahamu arabaherekeza.",
+      "start": 18.35,
+      "end": 18.5
+    },
+    "17": {
+      "text": "Uwiteka aribaza ati “Aburahamu namuhisha icyo ngiye gukora?",
+      "start": 43.26,
+      "end": 43.93
+    },
+    "18": {
+      "text": "Kuko Aburahamu atazabura guhinduka ubwoko bukomeye bw'ubunyamaboko, kandi amahanga yose yo mu isi azaherwa umugisha muri we.",
+      "start": 39.39,
+      "end": 44.45
+    },
+    "19": {
+      "text": "Kuko icyatumye mumenya, ari ukugira ngo ategeke abana be n'abo mu rugo rwe bazakurikiraho, gukomeza mu nzira y'Uwiteka, bakora ibyo gukiranuka baca imanza zitabera, kugira ngo Uwiteka azanire Aburahamu ibyo yamuvuzeho.”",
+      "start": 44.98,
+      "end": 44.99
+    },
+    "20": {
+      "text": "Uwiteka aravuga ati “Ubwo gutaka kw'abarega i Sodomu n'i Gomora ari kwinshi, ibyaha byaho bigakabya cyane,",
+      "start": 41.84,
+      "end": 43.13
+    },
+    "21": {
+      "text": "ndamanuka ndebe ko bakora ibihwanye rwose no gutaka kw'abaharega kwangezeho, kandi niba atari ko bimeze, ndabimenya.”",
+      "start": 14.33,
+      "end": 18.32
+    },
+    "22": {
+      "text": "Abo bagabo barahindukira, bava aho bagenda berekeje i Sodomu, Aburahamu agihagaze imbere y'Uwiteka.",
+      "start": 38.84,
+      "end": 39.12
+    },
+    "23": {
+      "text": "Aburahamu aramwegera aramubaza ati “Warimburana abakiranutsi n'abanyabyaha?",
+      "start": 5.49,
+      "end": 10.55
+    },
+    "24": {
+      "text": "Ahari muri uwo mudugudu harimo abakiranutsi mirongo itanu. Waharimbura se ukanga kuhareka ku bw'abakiranutsi mirongo itanu bahari?",
+      "start": 20.74,
+      "end": 32.58
+    },
+    "25": {
+      "text": "Ntibikaguturukeho kugira utyo, kurimburana abakiranutsi n'abanyabyaha, abakiranutsi bagahwana n'abanyabyaha kirakazira! Umucamanza w'abari mu isi bose ntiyakora ibyo kutabera.”",
+      "start": 9.17,
+      "end": 10.92
+    },
+    "26": {
+      "text": "Uwiteka aramusubiza ati “Nimbona i Sodomu abakiranutsi mirongo itanu bari muri uwo mudugudu, nzahababarira hose ku bwabo.”",
+      "start": 36.2,
+      "end": 41.77
+    },
+    "27": {
+      "text": "Aburahamu arongera aramubwira ati “Mpangaye kuvugana n'umwami wanjye, nubwo ndi umukungugu n'ivu gusa.",
+      "start": 15.72,
+      "end": 44.31
+    },
+    "28": {
+      "text": "Ahari ku bakiranutsi mirongo itanu hazaburaho batanu, uzarimbura umudugudu wose, kuko habuzeho batanu?”Aramusubiza ati “Sinzawurimbura nimbonayo mirongo ine na batanu.”",
+      "start": 37.15,
+      "end": 37.15
+    },
+    "29": {
+      "text": "Arongera aramubwira ati “Ahari hazabonekamo mirongo ine.”Aramusubiza ati “Sinzawurimbura ku bw'abo mirongo ine.”",
+      "start": 21.28,
+      "end": 39.07
+    },
+    "30": {
+      "text": "Aramubwira ati “Umwami ye kurakara, nanjye ndavuga. Ahari hazabonekamo mirongo itatu.”Aramusubiza ati “Sinzawurimbura nimbonayo mirongo itatu.”",
+      "start": 2.42,
+      "end": 34.12
+    },
+    "31": {
+      "text": "Aramubwira ati “Dore mpangaye kuvugana n'umwami wanjye. Ahari hazabonekamo makumyabiri.”Aramusubiza ati “Sinzawurimbura ku bw'abo makumyabiri.”",
+      "start": 18.07,
+      "end": 21.34
+    },
+    "32": {
+      "text": "Aramubwira ati “Umwami ye kurakara, reka mvuge rimwe gusa. Ahari hazabonekamo icumi.”Aramusubiza ati “Sinzawurimbura ku bw'abo cumi.”",
+      "start": 32.74,
+      "end": 38.24
+    },
+    "33": {
+      "text": "Uwiteka arigendera, amaze kuvugana na Aburahamu, Aburahamu asubira iwe.",
+      "start": 12.71,
+      "end": 28.58
+    }
+  }
+}

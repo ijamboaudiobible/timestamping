@@ -1,0 +1,58 @@
+{
+  "book": "Book 28",
+  "book_canonical": "hosea",
+  "book_number": 28,
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "“I Samariya hazagerekwaho igihano cyaho, kuko hagomeye Imana yaho: bazicishwa inkota; abana babo bato bazavungagurwa, kandi abagore babo batwite bazabafomoza.”",
+      "start": 1.02,
+      "end": 3.73
+    },
+    "2": {
+      "text": "Isirayeli we, garukira Uwiteka Imana yawe, kuko wagushijwe n'igicumuro cyawe.",
+      "start": 34.49,
+      "end": 43.6
+    },
+    "3": {
+      "text": "Mujyane amagambo mugarukire Uwiteka mumubwire muti “Udukureho gukiranirwa kose, utwakirane ineza maze tuzagutambire ishimwe ry'iminwa yacu.",
+      "start": 12.67,
+      "end": 40.97
+    },
+    "4": {
+      "text": "Abashuri ntibazadukiza, ntituzagendera ku mafarashi kandi ntabwo tuzongera kubwira ubukorikori bwakozwe n'amaboko yacu tuti ‘Muri imana zacu’, kuko impfubyi ari wowe zibonaho kugirirwa imbabazi.",
+      "start": 15.03,
+      "end": 31.19
+    },
+    "5": {
+      "text": "“Nzakiza gusubira inyuma kwabo, nzabakunda urukundo rutagabanije, kuko uburakari nabumukuyeho.",
+      "start": 26.98,
+      "end": 41.93
+    },
+    "6": {
+      "text": "Nzamerera Isirayeli nk'ikime; azarabya nk'uburabyo, azashora imizi nk'i Lebanoni.",
+      "start": 32.2,
+      "end": 40.94
+    },
+    "7": {
+      "text": "Amashami ye azagaba, kandi ubwiza bwe buzasa n'ubw'igiti cy'umwelayo, n'impumuro ye nk'i Lebanoni.",
+      "start": 5.55,
+      "end": 23.53
+    },
+    "8": {
+      "text": "Ababa mu gicucu cye bazagaruka, bazashibuka nk'ingano batohe nk'umuzabibu, impumuro yabo izaba imeze nka vino y'i Lebanoni.",
+      "start": 36.21,
+      "end": 38.07
+    },
+    "9": {
+      "text": "Efurayimu azavuga ati ‘Ndacyahuriye he n'ibigirwamana kandi?’ Narayumviye kandi nzayitaho, meze nk'umuberoshi utoshye, imbuto zawe ni jye ziturukaho.”",
+      "start": 19.38,
+      "end": 42.58
+    },
+    "10": {
+      "text": "Uzi ubwenge wese ni we uzitegereza ibyo, uUwitonda wese ni we uzabimenya, kuko inzira z'Uwiteka zitunganye, kandi abakiranutsi bazazigenderamo, ariko abacumura bazazigwamo.",
+      "start": 2.22,
+      "end": 14.92
+    }
+  }
+}

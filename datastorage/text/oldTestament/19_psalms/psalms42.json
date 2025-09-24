@@ -1,0 +1,68 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 42,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni indirimbo ya bene Kōra yahimbishijwe ubwenge.",
+      "start": 6.51,
+      "end": 14.87
+    },
+    "2": {
+      "text": "Nk'uko imparakazi yahagizwa no kwifuza imigezi,Ni ko umutima wanjye wahagizwa no kukwifuza Mana.",
+      "start": 31.67,
+      "end": 43.65
+    },
+    "3": {
+      "text": "Umutima wanjye ugirira Imana inyota, Imana ihoraho,Nzaza ryari ngo ngaragare mu maso y'Imana?",
+      "start": 4.35,
+      "end": 39.74
+    },
+    "4": {
+      "text": "Amarira yanjye ni yo yambereye nk'ibyokurya ku manywa na nijoro,Kandi bahora bambaza umunsi ukira bati“Imana yawe iri hehe?”",
+      "start": 6.73,
+      "end": 18.59
+    },
+    "5": {
+      "text": "Ibi ndabyibuka ngahinduka umutima,Ubwo najyanaga n'abantu benshi,Nkabajyana mu nzu y'Imana,Tugendana ijwi ry'ibyishimo n'ishimwe,Turi iteraniro riziririza umunsi mukuru.",
+      "start": 27.49,
+      "end": 39.57
+    },
+    "6": {
+      "text": "Mutima wanjye ni iki gitumye wiheba?Ni iki gitumye umpagararamo?Ujye utegereza Imana,Kuko nzongera kuyishimira agakiza kayo.",
+      "start": 32.84,
+      "end": 40.71
+    },
+    "7": {
+      "text": "Mana yanjye, umutima wanjye urihebye,Ni cyo gituma nkwibukira mu gihugu cya Yorodani,No ku misozi ya Herumoni, no ku musozi wa Mizari.",
+      "start": 10.43,
+      "end": 17.45
+    },
+    "8": {
+      "text": "Imyuzure ihamagaranisha guhorera kw'insumo zawe,Ibigogo byawe n'umuraba wawe byose birandengeye.",
+      "start": 7.18,
+      "end": 19.36
+    },
+    "9": {
+      "text": "Uwiteka yantegekeraga imbabazi ze ku manywa,Nijoro indirimbo ye yari mu kanwa kanjye,Ni yo nasengeshaga Imana y'ubugingo bwanjye.",
+      "start": 23.89,
+      "end": 35.67
+    },
+    "10": {
+      "text": "Nzabaza Imana igitare cyanjye nti“Ni iki gitumye unyibagirwa?Ni iki gituma nambikwa ibyo kwirabura n'agahato k'abanzi banjye?”",
+      "start": 13.59,
+      "end": 19.21
+    },
+    "11": {
+      "text": "Abanzi banjye bameze nk'inkota iri mu magufwa yanjye,Iyo banshinyagurira bakiriza umunsi bambaza bati“Imana yawe iri hehe?”",
+      "start": 14.07,
+      "end": 40.76
+    },
+    "12": {
+      "text": "Mutima wanjye ni iki gitumye wiheba?Ni iki gitumye umpagararamo?Ujye utegereza Imana kuko nzongera kuyishima,Ni yo gakiza kanjye n'Imana yanjye.",
+      "start": 38.5,
+      "end": 41.72
+    }
+  }
+}

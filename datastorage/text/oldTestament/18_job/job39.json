@@ -1,0 +1,158 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "text": "“Mbese uzi igihe amasha yo mu bitare abyarira?Cyangwa wabasha kugaragaza igihe imparakazi ziramukwa?",
+      "start": 35.3,
+      "end": 44.63
+    },
+    "2": {
+      "text": "Washobora kumenya amezi zimara zihaka?Cyangwa se uzi igihe zibyarira?",
+      "start": 19.84,
+      "end": 24.84
+    },
+    "3": {
+      "text": "Zirahēra zikabyara abana bazo,Kwerera kwazo kugashira.",
+      "start": 14.92,
+      "end": 23.94
+    },
+    "4": {
+      "text": "Abana bazo barakomera bagakurira mu gasozi,Bagacuka bakigendera ntibazigarukeho.",
+      "start": 20.29,
+      "end": 35.37
+    },
+    "5": {
+      "text": "“Ni nde washumuye imparage?Ni nde wazizituye,",
+      "start": 11.55,
+      "end": 43.28
+    },
+    "6": {
+      "text": "Izo nahaye ubutayu ngo zibubemo,N'igihugu cy'ubukuna nkaziha ho ubuturo bwazo?",
+      "start": 44.51,
+      "end": 44.84
+    },
+    "7": {
+      "text": "Zanga urusaku rwo mu mudugudu,Kandi ntabwo zumva urwamu rw'uziyoboye.",
+      "start": 23.07,
+      "end": 25.88
+    },
+    "8": {
+      "text": "Zizerera mu misozi aho zirisha,Zikahuka zikajya gushaka intohera z'ubwatsi.",
+      "start": 36.97,
+      "end": 42.63
+    },
+    "9": {
+      "text": "“Mbese imbogo yakwemera kugukorera?Cyangwa yaguma mu kiraro cyawe?",
+      "start": 14.4,
+      "end": 15.21
+    },
+    "10": {
+      "text": "Wabasha kuyizirikisha umugozi ngo uyihingishe?Cyangwa yasanza mu bikombe igukurikiye?",
+      "start": 29.35,
+      "end": 32.34
+    },
+    "11": {
+      "text": "Wayiringira kuko imbaraga zayo ari nyinshi?Cyangwa wayiharira umurimo wawe?",
+      "start": 30.15,
+      "end": 37.97
+    },
+    "12": {
+      "text": "Wakwiringira yuko yasarura imyaka yawe,Ikayirunda ku mbuga yawe?",
+      "start": 21.73,
+      "end": 27.96
+    },
+    "13": {
+      "text": "“Amababa y'imbuni iyakungutana ubwibone,Ariko se amababa yayo n'amoya yayo si ubwiza gusa?",
+      "start": 39.13,
+      "end": 44.56
+    },
+    "14": {
+      "text": "Kuko amagi yayo iyatera ku butaka,Agashyuhira mu mukungugu,",
+      "start": 13.35,
+      "end": 16.9
+    },
+    "15": {
+      "text": "Ikibagirwa yuko ikirenge cyabasha kuyahwata,Cyangwa yuko inyamaswa yabasha kuyakandagira.",
+      "start": 34.7,
+      "end": 35.81
+    },
+    "16": {
+      "text": "Igirira ibyana byayo nabi nk'ibitari ibyayo,Nubwo imirimo yayo ari ubusa,Ntibiyitera ubwoba,",
+      "start": 29.01,
+      "end": 31.15
+    },
+    "17": {
+      "text": "Kuko Imana yayimye ubwenge,Kandi ntiyihe kujijuka.",
+      "start": 43.9,
+      "end": 44.18
+    },
+    "18": {
+      "text": "Iyo igurutse,Isuzugura ifarashi n'uyigenderaho.",
+      "start": 42.26,
+      "end": 42.69
+    },
+    "19": {
+      "text": "“Mbese ni wowe wahaye ifarashi imbaraga?Cyangwa ni wowe wayiteye umugāra uhungabana ku ijosi ryayo?",
+      "start": 33.08,
+      "end": 33.47
+    },
+    "20": {
+      "text": "Ni wowe wayihaye gusimbuka nk'inzige?Ubwiza bwo kwivuga kwayo butera ubwoba,",
+      "start": 11.26,
+      "end": 27.71
+    },
+    "21": {
+      "text": "Ikaraha mu gikombe ikishimira imbaraga zayo,Ikajya gusanganira ingabo.",
+      "start": 19.39,
+      "end": 34.5
+    },
+    "22": {
+      "text": "Isuzugura ubwoba nta cyo itinya,Ndetse ntabwo ihindukira ngo ihunge inkota.",
+      "start": 18.58,
+      "end": 27.4
+    },
+    "23": {
+      "text": "Ikirimba kijegerera hejuru yayo,Umuheto n'icumu rirabagirana, n'agacumu.",
+      "start": 29.31,
+      "end": 34.38
+    },
+    "24": {
+      "text": "Uburakari bwayo bukaze butuma iyogoza isi,Kandi iyo yumvise ijwi ry'impanda ntirituma ihagarara.",
+      "start": 34.8,
+      "end": 37.42
+    },
+    "25": {
+      "text": "Iyo yumvise impanda hose irivuga,Kandi ikarehera intambara ikiri kure,Guhinda kw'abagaba n'urusaku.",
+      "start": 40.72,
+      "end": 41.89
+    },
+    "26": {
+      "text": "“Mbese agaca kagurukishwa n'ubwenge bwawe,Iyo karamburiye amababa yako aherekeye ikusi?",
+      "start": 41.45,
+      "end": 42.63
+    },
+    "27": {
+      "text": "Igisiga gitumbagira ku itegeko ryawe,Rikaba ari ryo rituma cyarika hejuru?",
+      "start": 38.96,
+      "end": 39.49
+    },
+    "28": {
+      "text": "Kiba mu bitare kikarikaho,No mu bihanamanga mu masenga yabyo.",
+      "start": 26.86,
+      "end": 41.97
+    },
+    "29": {
+      "text": "Gihigisha ijisho ryacyo rishaka icyo gifata,Amaso yacyo akabibona biri kure.",
+      "start": 24.99,
+      "end": 25.75
+    },
+    "30": {
+      "text": "N'ibyana byacyo binyunyuza amaraso,Kandi aho intumbi ziri ni ho kijya.”",
+      "start": 23.57,
+      "end": 39.15
+    }
+  }
+}

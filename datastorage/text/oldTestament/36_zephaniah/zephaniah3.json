@@ -1,0 +1,108 @@
+{
+  "book": "Book 36",
+  "book_canonical": "zephaniah",
+  "book_number": 36,
+  "chapter": 3,
+  "verses": {
+    "1": {
+      "text": "Umurwa w'ubugome wanduye, kandi urenganya uzabona ishyano.",
+      "start": 2.51,
+      "end": 32.52
+    },
+    "2": {
+      "text": "Ntiwumviye kubwirizwa, ntiwemeye guhanwa, ntiwiringiye Uwiteka, ntiwegereye Imana yawo.",
+      "start": 10.54,
+      "end": 14.46
+    },
+    "3": {
+      "text": "Ibikomangoma byo muri wo ni nk'intare zitontoma, abacamanza bawo ni amasega agejeje nimugoroba, ntabwo bagira icyo baraza.",
+      "start": 7.2,
+      "end": 9.28
+    },
+    "4": {
+      "text": "Abahanuzi bawo ni incacanya n'abariganya, abatambyi bawo baziruye ubuturo bwera, kandi bagomeye amategeko.",
+      "start": 32.01,
+      "end": 41.66
+    },
+    "5": {
+      "text": "Uwiteka uri muri wo arakiranuka ntazakora ibibi, uko bukeye agaragaza gukiranuka kwe mu mucyo ntabwo asiba, ariko ibigoryi nta soni bigira.",
+      "start": 26.41,
+      "end": 39.94
+    },
+    "6": {
+      "text": "Narimbuye amoko, iminara yabo ni imisaka, inzira zabo narazisibye kugira ngo hatagira uhita, imidugudu yabo yarasenyutse bituma hatagira uyibamo, nta n'ukihatuye.",
+      "start": 5.1,
+      "end": 34.13
+    },
+    "7": {
+      "text": "Nibwira ko uzanyubaha, ukemera guhanwa kugira ngo ubuturo bwaho budasenyuka nk'uko nari nabibategekeye byose, ariko bazindukaga kare barushaho gukora ibizira.",
+      "start": 6.73,
+      "end": 26.25
+    },
+    "8": {
+      "text": "Ni cyo gituma Uwiteka avuga ati “Nimuntegereze mugeze ku munsi nzahagurutswa no kubanyaga, kuko nagambiriye guteraniriza amahanga hamwe, ibihugu byose binteranireho, mbasukeho uburakari bwanjye n'umujinya wanjye ukaze, kuko isi yose izatsembwaho n'umuriro wo gufuha kwanjye.",
+      "start": 36.46,
+      "end": 43.46
+    },
+    "9": {
+      "text": "“Ubwo ni bwo nzaha amoko ururimi rutunganye, kugira ngo bose babone kwambaza mu izina ry'Uwiteka, no kumukorera bahuje inama.",
+      "start": 10.53,
+      "end": 26.88
+    },
+    "10": {
+      "text": "Abazanshashazaho, ari bo bana banjye batataniye hakurya y'imigezi yo muri Etiyopiya, bazanzanira ituro ryanjye.",
+      "start": 1.82,
+      "end": 2.06
+    },
+    "11": {
+      "text": "Uwo munsi Isirayeli we, imirimo yawe yose wankoreye ukancumuraho ntizagukoza isoni, kuko ubwo nzaba nkuvanyemo abibone bīrātaga, kandi ntuzongera kwishyira hejuru ku musozi wanjye wera.",
+      "start": 13.2,
+      "end": 44.92
+    },
+    "12": {
+      "text": "Ahubwo nzagusigamo ubwoko bw'indogore n'abakene, kandi baziringira izina ry'Uwiteka.",
+      "start": 32.52,
+      "end": 36.14
+    },
+    "13": {
+      "text": "Abarokotse bo muri Isirayeli ntibazakora ibibi habe no kuvuga ibinyoma, n'ururimi ruriganya ntiruzababonekaho mu kanwa kabo, kuko bazagaburirwa, bakaryama ari nta wubakanga.",
+      "start": 12.4,
+      "end": 23.39
+    },
+    "14": {
+      "text": "“Iririmbire wa mukobwa w'i Siyoni we, rangurura Isirayeli we. Nezerwa kandi wishimane n'umutima wawe wose, wa mukobwa w'i Yerusalemu we.",
+      "start": 3.7,
+      "end": 21.33
+    },
+    "15": {
+      "text": "Uwiteka yagukuyeho imanza yari yaguciriye, abanzi bawe yabajugunye hanze. Umwami wa Isirayeli, ari we Uwiteka ari muri wowe imbere, ntabwo uzongera gutinya ibibi ukundi.",
+      "start": 20.66,
+      "end": 23.46
+    },
+    "16": {
+      "text": "Uwo munsi i Yerusalemu hazabwirwa ngo ‘Witinya Siyoni we, amaboko yawe ye gutentebuka.",
+      "start": 4.5,
+      "end": 36.11
+    },
+    "17": {
+      "text": "Uwiteka Imana yawe iri muri wowe imbere, ni intwari kandi irakiza. Izakwishimana inezerewe. izaruhukira mu rukundo rwayo, izakunezererwa iririmba.’",
+      "start": 44.0,
+      "end": 44.93
+    },
+    "18": {
+      "text": "“Nzateranyiriza hamwe abakumbuye guterana kwera, bahoze ari abawe bavunwa n'ibibakoza isoni.",
+      "start": 1.08,
+      "end": 31.42
+    },
+    "19": {
+      "text": "Dore icyo gihe nzagenza abakurenganya bose kandi nzakiza abacumbagira, kandi nzateranyiriza hamwe abari birukanywe. Abakozwaga isoni mu bihugu byose nzabatera icyubahiro, mbahe n'izina ryogeye.",
+      "start": 12.91,
+      "end": 21.05
+    },
+    "20": {
+      "text": "Icyo gihe ni bwo nzabacyura, kandi icyo gihe ni bwo nzabateraniriza hamwe, kuko nzabubahiriza nkabaha izina ryogeye mu moko yose yo mu isi, ubwo nzagarura abanyu bajyanywe ari imbohe mureba.” Ni ko Uwiteka avuga.",
+      "start": 36.96,
+      "end": 41.7
+    }
+  }
+}

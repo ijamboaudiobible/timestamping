@@ -1,0 +1,233 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 105,
+  "verses": {
+    "1": {
+      "text": "Nimushime Uwiteka mwambaze izina rye,Mwamamaze imirimo yakoze mu mahanga.",
+      "start": 19.0,
+      "end": 30.14
+    },
+    "2": {
+      "text": "Mumuririmbire, mumuririmbire ishimwe,Muvuge imirimo itangaza yakoze yose.",
+      "start": 2.83,
+      "end": 18.19
+    },
+    "3": {
+      "text": "Mwirate izina rye ryera,Imitima y'abashaka Uwiteka yishime.",
+      "start": 13.7,
+      "end": 18.28
+    },
+    "4": {
+      "text": "Mushake Uwiteka n'imbaraga ze,Mushake mu maso he iteka ryose.",
+      "start": 43.22,
+      "end": 44.94
+    },
+    "5": {
+      "text": "Mwibuke imirimo itangaza yakoze,Ibitangaza bye n'amateka yo mu kanwa ke,",
+      "start": 36.27,
+      "end": 44.06
+    },
+    "6": {
+      "text": "Mwa rubyaro rwa Aburahamu umugaragu we mwe,Mwa bana ba Yakobo mwe, abo yatoranije.",
+      "start": 43.07,
+      "end": 43.61
+    },
+    "7": {
+      "text": "Uwiteka ni we Mana yacu,Amateka ye ari mu isi yose.",
+      "start": 20.42,
+      "end": 22.3
+    },
+    "8": {
+      "text": "Yibuka isezerano rye iminsi yose,Ijambo yategetse aryibuka ibihe ibihumbi.",
+      "start": 31.37,
+      "end": 33.21
+    },
+    "9": {
+      "text": "Ni ryo sezerano yasezeranye na Aburahamu,Indahiro yarahiye Isaka,",
+      "start": 5.11,
+      "end": 10.96
+    },
+    "10": {
+      "text": "Akayikomereza Yakobo kuba itegeko,Ayikomereza Isirayeli kuba isezerano ridashira.",
+      "start": 31.41,
+      "end": 32.69
+    },
+    "11": {
+      "text": "Ati “Ni wowe nzaha igihugu cya Kanāni,Kuba umwandu ukugenewe.”",
+      "start": 23.57,
+      "end": 32.3
+    },
+    "12": {
+      "text": "Umubare wabo ukiri muke,Muke cyane na bo ari abashyitsi muri icyo gihugu,",
+      "start": 3.75,
+      "end": 36.0
+    },
+    "13": {
+      "text": "Bazerera mu mahanga atari amwe,Bava mu bwami bajya mu bundi.",
+      "start": 30.93,
+      "end": 32.4
+    },
+    "14": {
+      "text": "Ntiyakundira umuntu ko abarenganya,Yahaniye abami ko babagiriye nabi.",
+      "start": 4.52,
+      "end": 41.54
+    },
+    "15": {
+      "text": "Ati “Ntimukore ku bo nasīze,Ntimugire icyo mutwara abahanuzi banjye.”",
+      "start": 27.97,
+      "end": 32.7
+    },
+    "16": {
+      "text": "Ahamagara inzara ngo itere mu gihugu,Avuna inkoni yose bishingikirije,Ni yo mutsima wabo.",
+      "start": 10.69,
+      "end": 14.54
+    },
+    "17": {
+      "text": "Atuma umugabo wo kubabanziriza,Ni Yosefu waguriwe kuba imbata.",
+      "start": 37.53,
+      "end": 40.06
+    },
+    "18": {
+      "text": "Bababarisha ibirenge bye iminyururu,Bamushyiraho ibyuma,",
+      "start": 44.85,
+      "end": 44.93
+    },
+    "19": {
+      "text": "Kugeza aho ijambo ry'Uwiteka ryasohoreye,Isezerano rye ryaramugeragezaga.",
+      "start": 20.75,
+      "end": 33.2
+    },
+    "20": {
+      "text": "Umwami yaratumye baramubohora,Umutegeka w'amahanga yaramurekuye.",
+      "start": 32.93,
+      "end": 33.28
+    },
+    "21": {
+      "text": "Amugira umutware w'urugo rwe,Amubitsa ibintu bye byose,",
+      "start": 4.83,
+      "end": 9.21
+    },
+    "22": {
+      "text": "Ngo abohe abakomeye be uko ashaka,Yigishe abakuru be ubwenge.",
+      "start": 6.01,
+      "end": 36.5
+    },
+    "23": {
+      "text": "Kandi Isirayeli ajya muri Egiputa,Yakobo atura mu gihugu cya Hamu.",
+      "start": 15.19,
+      "end": 34.95
+    },
+    "24": {
+      "text": "Kandi Uwiteka agwiza ubwoko bwe cyane,Abaha gukomera kuruta abanzi babo.",
+      "start": 44.59,
+      "end": 44.72
+    },
+    "25": {
+      "text": "Ahindura imitima y'abo ngabo ngo bange ubwoko bwe,Bagira ubwenge bwo kurimbura abagaragu be.",
+      "start": 12.47,
+      "end": 30.44
+    },
+    "26": {
+      "text": "Atuma Mose umugaragu we,Na Aroni yatoranije.",
+      "start": 37.32,
+      "end": 44.58
+    },
+    "27": {
+      "text": "Bashyira hagati yabo ibimenyetso bye,Bakorera ibitangaza mu gihugu cya Hamu.",
+      "start": 33.85,
+      "end": 44.25
+    },
+    "28": {
+      "text": "Yohereza umwijima atuma riba ijoro,Na bo ntibagomera amagambo ye.",
+      "start": 5.72,
+      "end": 32.09
+    },
+    "29": {
+      "text": "Ahindura amazi yabo amaraso,Yica amafi yabo.",
+      "start": 30.31,
+      "end": 30.66
+    },
+    "30": {
+      "text": "Igihugu cyabo cyuzura ibikeri,Mu mazu y'abami babo.",
+      "start": 7.48,
+      "end": 16.28
+    },
+    "31": {
+      "text": "Arategeka amarumbo y'isazi araza,N'inda mu gihugu cyabo cyose.",
+      "start": 40.39,
+      "end": 40.52
+    },
+    "32": {
+      "text": "Abaha urubura mu cyimbo cy'imvura,N'umuriro waka mu gihugu cyabo.",
+      "start": 18.87,
+      "end": 19.13
+    },
+    "33": {
+      "text": "Akubita imizabibu yabo n'imitini yabo,Avuna ibiti byo mu gihugu cyabo.",
+      "start": 9.46,
+      "end": 30.8
+    },
+    "34": {
+      "text": "Arategeka inzige ziraza,N'uburima bitabarika.",
+      "start": 17.98,
+      "end": 36.92
+    },
+    "35": {
+      "text": "Birya n'imboga zose zo mu gihigu cyabo,Birya imbuto z'ubutaka bwabo.",
+      "start": 31.89,
+      "end": 37.85
+    },
+    "36": {
+      "text": "Kandi akubita abana b'imfura bose,Bo mu gihugu cyabo arabica,Gukomera kwabo kose ni bo kwari kwatangiriyeho.",
+      "start": 1.5,
+      "end": 35.18
+    },
+    "37": {
+      "text": "Akuramo ba bandi,Bafite ifeza n'izahabu,Nta munyantege nke n'umwe,Wari uri mu miryango ye yose.",
+      "start": 15.34,
+      "end": 36.09
+    },
+    "38": {
+      "text": "Abanyegiputa bishimira kugenda kwabo,Kuko gutera ubwoba kwabo kwari kubafashe.",
+      "start": 13.33,
+      "end": 21.39
+    },
+    "39": {
+      "text": "Asanzura igicu cyo kubatwikīra,N'umuriro wo kubamurikira nijoro.",
+      "start": 4.2,
+      "end": 37.48
+    },
+    "40": {
+      "text": "Barasaba azana inkware,Abahaza umutsima wo mu ijuru.",
+      "start": 28.16,
+      "end": 36.4
+    },
+    "41": {
+      "text": "Atobora igitare amazi aradudubiza,Atemba ahantu humye haba umugezi.",
+      "start": 25.79,
+      "end": 37.14
+    },
+    "42": {
+      "text": "Kuko yibutse ijambo rye ryera,Na Aburahamu umugaragu we.",
+      "start": 26.82,
+      "end": 27.61
+    },
+    "43": {
+      "text": "Akurayo ubwoko bwe bwishimye,Intore ze azikurayo ziririmba.",
+      "start": 44.6,
+      "end": 44.62
+    },
+    "44": {
+      "text": "Abaha ubutaka bw'abanyamahanga,Batwara ibyo abanyamahanga baruhiye.",
+      "start": 21.79,
+      "end": 22.87
+    },
+    "45": {
+      "text": "Bibera bityo kugira ngo bitondere amategeko ye,Bakurikize ibyo yategetse.Haleluya.",
+      "start": 16.6,
+      "end": 39.25
+    }
+  }
+}

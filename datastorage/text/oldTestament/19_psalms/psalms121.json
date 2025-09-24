@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 121,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Nduburira amaso yanjye ku misozi,Gutabarwa kwanjye kuzava he?",
+      "start": 44.8,
+      "end": 44.97
+    },
+    "2": {
+      "text": "Gutabarwa kwanjye kuva ku Uwiteka,Waremye ijuru n'isi.",
+      "start": 22.19,
+      "end": 37.51
+    },
+    "3": {
+      "text": "Ntazakundira ibirenge byawe ko biteguza,Ukurinda ntazahunikira.",
+      "start": 5.01,
+      "end": 23.98
+    },
+    "4": {
+      "text": "Dore ūrinda Abisirayeli,Ntazahunikira kandi ntazasinzira.",
+      "start": 23.43,
+      "end": 41.42
+    },
+    "5": {
+      "text": "Uwiteka ni we murinzi wawe,Uwiteka ni igicucu cyawe iburyo bwawe.",
+      "start": 10.52,
+      "end": 31.35
+    },
+    "6": {
+      "text": "Izuba ntirizakwica ku manywa,Cyangwa ukwezi nijoro.",
+      "start": 44.63,
+      "end": 44.98
+    },
+    "7": {
+      "text": "Uwiteka azakurinda ikibi cyose,Ni we uzarinda ubugingo bwawe.",
+      "start": 5.89,
+      "end": 29.74
+    },
+    "8": {
+      "text": "Uwiteka azakurinda amajya n'amaza,Uhereye none ukageza iteka ryose.",
+      "start": 13.9,
+      "end": 19.53
+    }
+  }
+}

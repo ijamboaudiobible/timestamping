@@ -1,0 +1,53 @@
+{
+  "book": "Book 38",
+  "book_canonical": "zechariah",
+  "book_number": 38,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "“Uwo munsi ab'inzu ya Dawidi n'abaturage b'i Yerusalemu bazaziburirwa isōko yo kuboza ibyaha n'imyanda.”",
+      "start": 28.25,
+      "end": 43.53
+    },
+    "2": {
+      "text": "Uwiteka Nyiringabo aravuga ati “Uwo munsi nzatsemba amazina y'ibigirwamana mu gihugu bye kuzibukwa ukundi, kandi nzirukana abahanuzi n'umwuka wanduye mu gihugu.",
+      "start": 3.22,
+      "end": 39.51
+    },
+    "3": {
+      "text": "Maze niharamuka habonetse uhanura, se na nyina bamwibyariye bazamubwira bati ‘Ntuzabaho kuko uhanura ibinyoma mu izina ry'Uwiteka’, nuko nahanura, se na nyina bamwibyariye bazamusogota.",
+      "start": 41.62,
+      "end": 43.57
+    },
+    "4": {
+      "text": "Nuko uwo munsi abahanuzi bose nibahanura, bazakorwa n'isoni zo kuvuga ibyo beretswe, kandi ntibazongera kwambara imyambaro y'ubwoya yo kubeshya.",
+      "start": 8.29,
+      "end": 25.16
+    },
+    "5": {
+      "text": "Ahubwo azahakana ati ‘Sindi umuhanuzi, ndi umuhinzi w'ubutaka kuko banguze nkiri muto.’",
+      "start": 25.28,
+      "end": 43.34
+    },
+    "6": {
+      "text": "Kandi bazambaza bati ‘Izo nguma zo mu biganza byawe wazikomerekejwe n'iki?’ Na we azabasubiza ati ‘Izi nguma nazikomerekeye mu nzu y'incuti zanjye.’",
+      "start": 29.33,
+      "end": 37.18
+    },
+    "7": {
+      "text": "“Byuka wa nkota we, urwane n'umushumba wanjye, urwane n'umuntu mugenzi wanjye, ni ko Uwiteka Nyiringabo avuga, kubita umwungeri intama zisandare, kandi n'abato nzabashyiraho ukuboko kwanjye.”",
+      "start": 12.57,
+      "end": 36.27
+    },
+    "8": {
+      "text": "Uwiteka aravuga ati “Muri icyo gihugu cyose, ibice bibiri byacyo bizarimbuka bipfe, ariko icya gatatu kizasigara.",
+      "start": 24.1,
+      "end": 24.89
+    },
+    "9": {
+      "text": "Kandi icyo gice cya gatatu nzakinyuza mu muriro, mbatunganye nk'uko batunganya ifeza. Nzabagerageza nk'uko bagerageza izahabu, bazambaza izina ryanjye, nanjye nzabumvira. Nzabita abantu banjye, na bo bazavuga bati ‘Uwiteka ni we Mana yanjye.’ ”",
+      "start": 32.64,
+      "end": 34.6
+    }
+  }
+}

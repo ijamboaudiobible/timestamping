@@ -1,0 +1,153 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 15.2,
+      "end": 29.16
+    },
+    "2": {
+      "text": "“Tegeka Abisirayeli uti ‘Nimugera mu gihugu cy'i Kanāni, icyo ni cyo gihugu muzahabwa ho gakondo nk'uko ingabano zacyo ziri.",
+      "start": 39.15,
+      "end": 41.3
+    },
+    "3": {
+      "text": "Igice cy'ikusi cy'igihugu cyanyu kizagarukire ku butayu bwa Zini, gitegane na Edomu. Urugabano rwanyu rw'ikusi ruhere ku iherezo ry'Inyanja y'Umunyu, mu ruhande rwayo rw'iburasirazuba.",
+      "start": 38.93,
+      "end": 39.49
+    },
+    "4": {
+      "text": "Maze ruzenguruke ruce iruhande rw'ikusi rw'ahaterera hajya muri Akurabimu, rujye i Zini rugarukire iruhande rw'ikusi rw'i Kadeshi Baruneya, maze rujye i Hasaradari rugende rugere muri Asimoni",
+      "start": 44.16,
+      "end": 44.41
+    },
+    "5": {
+      "text": "ruvuye muri Asimoni, ruzenguruke rugere ku kagezi ka Egiputa, rugarukire ku Nyanja Nini.",
+      "start": 22.15,
+      "end": 34.32
+    },
+    "6": {
+      "text": "“ ‘Urugabano rw'iburengerazuba ruzababere Inyanja Nini n'ikibaya cyayo, abe ari yo iba urugabano rwanyu rw'iburengerazuba.",
+      "start": 13.01,
+      "end": 35.47
+    },
+    "7": {
+      "text": "“ ‘Uru abe ari rwo ruba urugabano rwanyu rw'ikasikazi, muhereye ku Nyanja Nini mushinge urugabano rugere ku musozi Hori.",
+      "start": 0.26,
+      "end": 2.36
+    },
+    "8": {
+      "text": "Muhereye kuri uwo musozi, murushinge rugere ku rugabano rw'i Hamati rugarukire i Sedadi,",
+      "start": 22.55,
+      "end": 43.87
+    },
+    "9": {
+      "text": "maze rujye i Zifuroni rugarukire i Hasarenani. Urwo abe ari rwo ruba urugabano rwanyu rw'ikasikazi.",
+      "start": 22.84,
+      "end": 43.96
+    },
+    "10": {
+      "text": "“ ‘Kandi muzashinge urugabano rwanyu rw'iburasirazuba, muhereye i Hasarenani rugere i Shefamu.",
+      "start": 43.39,
+      "end": 43.97
+    },
+    "11": {
+      "text": "Ruvuye i Shefamu rumanuke rugere i Ribula, iri iruhande rw'iburasirazuba rwa Ayini, rumanuke rugere ku ruhande rw'iburasirazuba rw'inyanja y'i Kinereti,",
+      "start": 30.62,
+      "end": 39.57
+    },
+    "12": {
+      "text": "rumanuke rugere kuri Yorodani rugarukire ku Nyanja y'Umunyu.“ ‘Icyo abe ari cyo kiba igihugu cyanyu n'ingabano zacyo z'impande zose.’ ”",
+      "start": 28.34,
+      "end": 35.76
+    },
+    "13": {
+      "text": "Mose ategeka Abisirayeli ati “Icyo ni cyo gihugu muzaheshwa ho gakondo n'ubufindo, icyo Uwiteka yategetse ko gihabwa imiryango cyenda, n'igice kingana n'igisigaye,",
+      "start": 15.6,
+      "end": 16.19
+    },
+    "14": {
+      "text": "kuko umuryango w'Abarubeni nk'uko amazu ya ba sekuru ari, n'uw'Abagadi nk'uko amazu ya ba sekuru ari, n'igice gisigaye cy'umuryango wa Manase, bamaze guhabwa gakondo zabo.",
+      "start": 36.79,
+      "end": 37.0
+    },
+    "15": {
+      "text": "Iyo miryango uko ari ibiri n'igice, yamaze guhabwa gakondo zayo hakuno ya Yorodani, mu ruhande rwayo rw'iburasirazuba.”",
+      "start": 34.17,
+      "end": 43.37
+    },
+    "16": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 0.56,
+      "end": 23.27
+    },
+    "17": {
+      "text": "“Aya mazina ni yo y'abantu bazabagabanya igihugu ho gakondo: ni Eleyazari umutambyi na Yosuwa mwene Nuni.",
+      "start": 17.26,
+      "end": 28.72
+    },
+    "18": {
+      "text": "Kandi muzatoranye umutware umwe umwe mu miryango yose, bagabanye igihugu ho gakondo.",
+      "start": 6.24,
+      "end": 42.88
+    },
+    "19": {
+      "text": "Aya ni yo mazina y'abo bantu:Mu muryango wa Yuda mutoranye Kalebu mwene Yefune.",
+      "start": 17.88,
+      "end": 19.13
+    },
+    "20": {
+      "text": "Mu muryango w'Abasimeyoni, Shemweli mwene Amihudi.",
+      "start": 43.72,
+      "end": 43.8
+    },
+    "21": {
+      "text": "Mu muryango wa Benyamini, Eludadi mwene Kisiloni.",
+      "start": 43.19,
+      "end": 44.37
+    },
+    "22": {
+      "text": "Mu muryango w'Abadani mutoranye umutware Buki mwene Yogili.",
+      "start": 28.89,
+      "end": 40.66
+    },
+    "23": {
+      "text": "Mu Bayosefu mutoranye aba:Mu muryango w'Abamanase mutoranye umutware Haniyeli mwene Efodi.",
+      "start": 29.4,
+      "end": 42.7
+    },
+    "24": {
+      "text": "Mu muryango w'Abefurayimu mutoranye umutware Kemuweli mwene Shifutani.",
+      "start": 6.21,
+      "end": 36.27
+    },
+    "25": {
+      "text": "Mu muryango w'Abazebuluni mutoranye umutware Elisafani mwene Parunaki.",
+      "start": 44.37,
+      "end": 44.94
+    },
+    "26": {
+      "text": "Mu muryango w'Abisakari mutoranye umutware Palutiyeli mwene Azani.",
+      "start": 40.26,
+      "end": 42.16
+    },
+    "27": {
+      "text": "Mu muryango w'Abashēri mutoranye umutware Ahihudi mwene Shelomi.",
+      "start": 39.85,
+      "end": 43.66
+    },
+    "28": {
+      "text": "Mu muryango w'Abanafutali mutoranye umutware, Pedaheli mwene Amihudi.”",
+      "start": 25.75,
+      "end": 42.66
+    },
+    "29": {
+      "text": "Abo ni bo Uwiteka yategetse kugabanya Abisirayeli gakondo zabo zo mu gihugu cy'i Kanāni.",
+      "start": 7.95,
+      "end": 21.23
+    }
+  }
+}

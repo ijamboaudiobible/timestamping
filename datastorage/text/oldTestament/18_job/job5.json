@@ -1,0 +1,143 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "“Hamagara noneho, hari uwagusubiza?Uwo mu bera watabaza ni uwuhe?",
+      "start": 26.0,
+      "end": 27.06
+    },
+    "2": {
+      "text": "Kuko umujinya wica umupfapfa,Kandi ishyari ryica ubuze ubwenge.",
+      "start": 33.28,
+      "end": 41.05
+    },
+    "3": {
+      "text": "Nabonye umupfapfa ashora imizi,Ariko muri ako kanya mvuma ubuturo bwe.",
+      "start": 35.61,
+      "end": 40.55
+    },
+    "4": {
+      "text": "Abana be bari kure y'ubuhungiro,Bahondagurirwa mu irembo,Kandi ntibafite uwo kubarokora.",
+      "start": 37.85,
+      "end": 39.68
+    },
+    "5": {
+      "text": "Imyaka ye imarwa n'abashonji,Ndetse bajyana n'ibiri ma mahwa,Igisambo kimira bunguri ubutunzi bwabo.",
+      "start": 44.24,
+      "end": 44.62
+    },
+    "6": {
+      "text": "Umubabaro ntuva mu mukungugu,Kandi amakuba ntamera mu butaka.",
+      "start": 41.34,
+      "end": 43.67
+    },
+    "7": {
+      "text": "Nyamara umuntu avukira umuruho,Nk'uko ibishashi bitumukira mu kirere.",
+      "start": 12.74,
+      "end": 22.42
+    },
+    "8": {
+      "text": "“Ariko ari jye ubu mba nshatse Imana,Kandi Imana nkaba ari yo negurira ibyanjye.",
+      "start": 5.55,
+      "end": 33.82
+    },
+    "9": {
+      "text": "Ni yo ikora ibikomeye bitarondoreka,N'ibitangaza bitabarika.",
+      "start": 32.33,
+      "end": 43.76
+    },
+    "10": {
+      "text": "Ni yo ivubira isi imvura,Igasandaza amazi mu mirima.",
+      "start": 9.2,
+      "end": 30.32
+    },
+    "11": {
+      "text": "Ni yo ishyira hejuru aboroheje,N'ababoroga ibashyira mu mahoro.",
+      "start": 44.53,
+      "end": 44.65
+    },
+    "12": {
+      "text": "Yica imigambi y'incakura,Kugira ngo amaboko yazo adasohoza imirimo yazo.",
+      "start": 21.5,
+      "end": 23.22
+    },
+    "13": {
+      "text": "Kandi Imana itegera abanyabwenge mu buriganya bwabo,N'inama z'ab'incakura ikazubika.",
+      "start": 38.79,
+      "end": 44.29
+    },
+    "14": {
+      "text": "Bahura n'umwijima ari ku manywa,Barindagira ku manywa y'ihangu nka nijoro.",
+      "start": 35.08,
+      "end": 35.74
+    },
+    "15": {
+      "text": "Ariko umukene imukiza inkota zo mu kanwa kabo,Ndetse n'umutindi imukiza amaboko y'abakomeye.",
+      "start": 36.85,
+      "end": 44.85
+    },
+    "16": {
+      "text": "Ni cyo gituma umukene agira ibyiringiro,Kandi akanwa k'abakiranirwa kazahozwa.",
+      "start": 17.86,
+      "end": 22.3
+    },
+    "17": {
+      "text": "“Hahirwa umuntu Imana ihana,Nuko rero ntugasuzugure igihano Ishoborabyose iguhana.",
+      "start": 12.41,
+      "end": 21.64
+    },
+    "18": {
+      "text": "Kuko ari yo irema uruguma,kandi akaba ari yo yomora,Irakomeretsa,Kandi amaboko yayo ni yo akiza.",
+      "start": 37.27,
+      "end": 43.1
+    },
+    "19": {
+      "text": "Izakurokora ibyago bitandatu ndetse birindwi,Kandi nta kibi kizakuzaho.",
+      "start": 16.93,
+      "end": 27.17
+    },
+    "20": {
+      "text": "Mu gihe cy'inzara izagukiza urupfu,No mu ntambara izagukiza imbaraga y'inkota.",
+      "start": 10.47,
+      "end": 28.39
+    },
+    "21": {
+      "text": "Uzahishwa intonganya z'ururimi,Kandi ntuzatinya kurimbuka kuje.",
+      "start": 10.3,
+      "end": 25.71
+    },
+    "22": {
+      "text": "Kurimbuka n'inzara uzabiseka,Kandi ntuzatinya inyamaswa zo mu isi.",
+      "start": 7.75,
+      "end": 19.12
+    },
+    "23": {
+      "text": "Kuko uzasezerana n'amabuye yo mu gasozi,Kandi inyamaswa zo mu gasozi zizuzura nawe.",
+      "start": 14.22,
+      "end": 15.61
+    },
+    "24": {
+      "text": "Uzamenya yuko amahoro ari mu rugo rwawe,Uzasura ibiraro by'amatungo yawe,We kugira icyo ubiburamo.",
+      "start": 33.49,
+      "end": 44.3
+    },
+    "25": {
+      "text": "Ni ho uzamenya ko urubyaro rwawe ruzagwira,N'abagukomokaho bakaba nk'ibyatsi byo ku isi.",
+      "start": 31.12,
+      "end": 43.02
+    },
+    "26": {
+      "text": "Uzinjizwa mu mva yawe ushaje neza,Nk'umuba w'ingano uhunikwa mu gihe cyawo.",
+      "start": 43.07,
+      "end": 44.88
+    },
+    "27": {
+      "text": "Dore ibyo ni byo twagenzuye dusanga ari ko biri,Byumve ubyigireho akamaro.”",
+      "start": 34.76,
+      "end": 38.1
+    }
+  }
+}

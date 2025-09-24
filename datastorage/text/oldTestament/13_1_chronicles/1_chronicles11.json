@@ -1,0 +1,243 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Bukeye Abisirayeli bose bateranira aho Dawidi yari ari i Heburoni baravuga bati “Umva turi amaraso yawe, turi ubura bwawe.",
+      "start": 1.29,
+      "end": 12.7
+    },
+    "2": {
+      "text": "Mu bihe bya kera ubwo Sawuli yari umwami, ni wowe watabazaga Abisirayeli ukabataburura, kandi Uwiteka Imana yawe yarakubwiye iti ‘Ni wowe uzaragira ubwoko bwanjye bwa Isirayeli’. Kandi iti ‘Uzaba umugaba w'ubwoko bwanjye bwa Isirayeli.’ ”",
+      "start": 29.91,
+      "end": 37.6
+    },
+    "3": {
+      "text": "Nuko abakuru ba Isirayeli bose basanga umwami i Heburoni, ahasezeranira na bo imbere y'Uwiteka isezerano, bimikisha Dawidi amavuta ngo abe umwami wa Isirayeli, nk'uko Uwiteka yavugiye muri Samweli.",
+      "start": 22.03,
+      "end": 42.07
+    },
+    "4": {
+      "text": "Hanyuma Dawidi n'Abisirayeli bose bajya i Yerusalemu (ahitwa i Yebusi), kandi Abayebusi ni bo bari abaturage bo muri icyo gihugu bari basanzwemo.",
+      "start": 44.2,
+      "end": 44.96
+    },
+    "5": {
+      "text": "Ab'i Yebusi babwira Dawidi bati “Hano ntabwo uzahamenera.” Ariko Dawidi ahindūra igihome gikomeye cya Siyoni, ari ho habaye ururembo rwa Dawidi.",
+      "start": 9.63,
+      "end": 33.27
+    },
+    "6": {
+      "text": "Ubwo Dawidi yaravuze ati “Uri bubanze kunesha Abayebusi, ni we uzaba umutware n'umugaba”. Maze Yowabu mwene Seruya aba ari we ubanza kuhamenera, aba umugaba w'ingabo.",
+      "start": 16.54,
+      "end": 44.84
+    },
+    "7": {
+      "text": "Dawidi atura muri icyo gihome gikomeye, ari cyo cyatumye bacyita ururembo rwa Dawidi.",
+      "start": 39.28,
+      "end": 41.69
+    },
+    "8": {
+      "text": "Yubaka umudugudu impande zarwo zose, uhereye i Milo n'impande zose. Yowabu na we asana ibindi bice by'umudugudu bisigaye.",
+      "start": 36.1,
+      "end": 41.08
+    },
+    "9": {
+      "text": "Maze Dawidi akajya arushaho gukomera, kuko Uwiteka Nyiringabo yari kumwe na we.",
+      "start": 36.59,
+      "end": 40.99
+    },
+    "10": {
+      "text": "Aba ni bo bari bakomeye mu ntwari Dawidi yari afite, ni bo bafatanije na we kwerekana imbaraga zabo mu bwami bwe, bagafatanya n'Abisirayeli bose kumwimika nk'uko Uwiteka yavuze ku Bisirayeli.",
+      "start": 23.21,
+      "end": 29.28
+    },
+    "11": {
+      "text": "Ngaba abagabo b'intwari Dawidi yari afite, uko umubare wabo wari uri: Yashobeyamu umwana w'Umuhakimoni, umutware w'ab'intore mirongo itatu. Yabanguye icumu rye kurwanya abantu magana atatu, abicira icyarimwe.",
+      "start": 4.91,
+      "end": 19.62
+    },
+    "12": {
+      "text": "Akurikirwa na Eleyazari mwene Dodo w'Umwahohi, yari uwo muri abo bagabo b'intwari batatu.",
+      "start": 26.7,
+      "end": 42.97
+    },
+    "13": {
+      "text": "Uwo yari kumwe na Dawidi i Pasidamimu, ubwo Abafilisitiya bari bateraniyeyo ngo barwane, maze abantu bahunga Abafilisitiya. Aho hari umurima warimo sayiri nyinshi.",
+      "start": 31.18,
+      "end": 41.69
+    },
+    "14": {
+      "text": "Ariko bo bahagarara hagati muri uwo murima, barawurinda bica abo Bafilisitiya, Uwiteka abakirisha kunesha gukomeye.",
+      "start": 44.13,
+      "end": 44.91
+    },
+    "15": {
+      "text": "Abatatu kuri ba bandi mirongo itatu baramanuka basanga Dawidi ku rutare mu buvumo bwa Adulamu. Ingabo z'Abafilisitiya zari zigerereje mu kibaya cy'Abarafa.",
+      "start": 0.07,
+      "end": 23.6
+    },
+    "16": {
+      "text": "Ubwo Dawidi yari mu gihome, kandi abanyagihome cy'Abafilisitiya bari i Betelehemu.",
+      "start": 44.58,
+      "end": 44.74
+    },
+    "17": {
+      "text": "Dawidi akumbuye aravuga ati “Icyampa nkabona unsomya ku mazi y'iriba ryo ku irembo ry'i Betelehemu.”",
+      "start": 3.8,
+      "end": 27.28
+    },
+    "18": {
+      "text": "Maze abo batatu batwaranira mu ngabo z'Abafilisitiya, bavoma amazi mu iriba ryo ku irembo ry'i Betelehemu, barayajyana bayashyira Dawidi. Ariko Dawidi yanga kuyanywaho, ahubwo ayabyarira imbere y'Uwiteka.",
+      "start": 17.11,
+      "end": 18.75
+    },
+    "19": {
+      "text": "Aravuga ati “Imana yanjye indinde kuba nakora ntyo! Ndebe nywe amaraso y'aba bagabo bahaze amagara yabo!” Kuko bayazanye bihaze, ni cyo cyatumye yanga kuyanywa. Ibyo ni byo byakozwe n'abo bagabo b'intwari uko ari batatu.",
+      "start": 39.63,
+      "end": 41.23
+    },
+    "20": {
+      "text": "Abishayi murumuna wa Yowabu ni we wari umutware w'abatatu, kuko yabanguye icumu rye kurwana n'abantu magana atatu akabica, akamamara muri abo batatu.",
+      "start": 36.22,
+      "end": 44.49
+    },
+    "21": {
+      "text": "Muri abo batatu ni we wari ufite icyubahiro kurusha abandi babiri, ahinduka umutware wabo. Ariko ntiyahwanye n'abatatu ba mbere.",
+      "start": 24.7,
+      "end": 41.16
+    },
+    "22": {
+      "text": "Benaya mwene Yehoyada umwana w'umugabo w'intwari w'i Kabusēli, yari yarakoze ibikomeye. Ni we wishe bene Ariyeli w'i Mowabu bombi, kandi aramanuka yicira intare mu isenga mu gihe cya shelegi.",
+      "start": 12.09,
+      "end": 29.42
+    },
+    "23": {
+      "text": "Yishe n'umugabo w'Umunyegiputa muremure cyane, uburebure bwe bwari mikono itanu. Uwo Munyegiputa yari yitwaje injunga y'icumu, ariko we amanuka yitwaje inkoni, aramusanga amushikuza icumu mu kuboko kwe ararimwicisha.",
+      "start": 36.53,
+      "end": 41.61
+    },
+    "24": {
+      "text": "Ibyo ni byo Benaya mwene Yehoyada yakoze, yamamara muri abo bagabo batatu b'intwari.",
+      "start": 6.55,
+      "end": 8.32
+    },
+    "25": {
+      "text": "Yari afite icyubahiro kuruta ba bandi mirongo itatu, ariko ntiyari ahwanye na batatu ba mbere. Dawidi amugira umutware w'abarinzi be.",
+      "start": 43.04,
+      "end": 43.88
+    },
+    "26": {
+      "text": "Kandi abagabo b'abanyambaraga bo mu ngabo ze ni Asaheli murumuna wa Yowabu, na Eluhanani mwene Dodo w'i Betelehemu,",
+      "start": 13.03,
+      "end": 25.79
+    },
+    "27": {
+      "text": "na Shamoti w'Umuharari na Helesi w'Umupeloni,",
+      "start": 4.72,
+      "end": 27.01
+    },
+    "28": {
+      "text": "na Ira mwene Ikeshi w'Umunyatekowa, na Abiyezeri w'Umunyanatoti,",
+      "start": 4.49,
+      "end": 38.37
+    },
+    "29": {
+      "text": "na Sibekayi w'Umuhusha na Ilayi w'Umwahohi,",
+      "start": 11.63,
+      "end": 31.18
+    },
+    "30": {
+      "text": "na Maharayi w'Umunyanetofa, na Heledu mwene Bāna Umunyanetofa,",
+      "start": 31.74,
+      "end": 38.4
+    },
+    "31": {
+      "text": "na Itayi mwene Ribayi w'i Gibeya y'Ababenyamini, na Benaya w'Umunyapiratoni,",
+      "start": 8.82,
+      "end": 29.48
+    },
+    "32": {
+      "text": "na Hurayi wo ku tugezi tw'i Gāshi na Abiyeli w'Umunyaruba,",
+      "start": 1.43,
+      "end": 13.27
+    },
+    "33": {
+      "text": "na Azimaveti w'Umunyabahurimu, na Eliyahaba w'i Shālabini.",
+      "start": 2.3,
+      "end": 4.49
+    },
+    "34": {
+      "text": "Bene Hashemu w'Umugizoni ni Yonatani mwene Shage w'Umuharari,",
+      "start": 31.06,
+      "end": 41.42
+    },
+    "35": {
+      "text": "na Ahiyamu mwene Sakari w'Umuharari na Elifali mwene Uri,",
+      "start": 21.36,
+      "end": 29.97
+    },
+    "36": {
+      "text": "na Heferi w'Umumekerati na Ahiya w'Umupeloni,",
+      "start": 25.92,
+      "end": 28.45
+    },
+    "37": {
+      "text": "na Hesero w'Umunyakarumeli na Nārayi mwene Ezubayi,",
+      "start": 37.98,
+      "end": 41.3
+    },
+    "38": {
+      "text": "na Yoweli murumuna wa Natani, na Mibuhari mwene Hagiri,",
+      "start": 7.61,
+      "end": 17.36
+    },
+    "39": {
+      "text": "na Seleki w'Umwamoni, na Naharayi w'i Bēroti utwara intwaro za Yowabu mwene Seruya,",
+      "start": 2.58,
+      "end": 9.14
+    },
+    "40": {
+      "text": "na Ira w'Umuyeteri na Garebu w'Umuyeteri,",
+      "start": 5.51,
+      "end": 13.36
+    },
+    "41": {
+      "text": "na Uriya w'Umuheti na Zabadi mwene Ahilayi,",
+      "start": 32.69,
+      "end": 39.04
+    },
+    "42": {
+      "text": "na Adina mwene Shiza w'Umurubeni, umutware w'Abarubeni n'abantu mirongo itatu hamwe na we,",
+      "start": 15.07,
+      "end": 25.8
+    },
+    "43": {
+      "text": "na Hanāni mwene Māka na Yoshafati w'Umumituni,",
+      "start": 6.95,
+      "end": 9.91
+    },
+    "44": {
+      "text": "na Uziya w'Umwashitaroti, na Shama na Yeyeli bene Hotamu w'Umunyaroweri,",
+      "start": 43.47,
+      "end": 43.57
+    },
+    "45": {
+      "text": "na Yediyayeli mwene Shimuri na murumuna we Yoha w'Umutisi,",
+      "start": 13.42,
+      "end": 41.31
+    },
+    "46": {
+      "text": "na Eliyeli w'Umumahavi, na Yeribayi na Yoshaviya bene Elunāmu na Ituma w'Umumowabu,",
+      "start": 17.57,
+      "end": 24.02
+    },
+    "47": {
+      "text": "na Eliyeli na Obedi na Yāsiyeli w'Umumesoba.",
+      "start": 30.97,
+      "end": 39.99
+    }
+  }
+}

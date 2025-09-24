@@ -1,0 +1,158 @@
+{
+  "book": "Book 40",
+  "book_canonical": "matthew",
+  "book_number": 40,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Yesu amaze gutegeka abigishwa be cumi na babiri, avayo ajya kwigisha no kubwiriza abantu mu midugudu y'aho.",
+      "start": 28.71,
+      "end": 37.53
+    },
+    "2": {
+      "text": "Ariko Yohana yumviye mu nzu y'imbohe ibyo Yesu akora, atuma abigishwa be ko bamubaza bati",
+      "start": 14.33,
+      "end": 44.64
+    },
+    "3": {
+      "text": "“Mbese ni wowe wa wundi ukwiriye kuza, cyangwa dutegereze undi?”",
+      "start": 12.39,
+      "end": 15.95
+    },
+    "4": {
+      "text": "Yesu arabasubiza ati “Nimugende mubwire Yohana ibyo mwumvise n'ibyo mubonye.",
+      "start": 28.26,
+      "end": 29.85
+    },
+    "5": {
+      "text": "Impumyi zirahumuka, ibirema biragenda, ababembe barakira, ibipfamatwi birumva, abapfuye barazurwa, abakene barabwirwa ubutumwa bwiza.",
+      "start": 17.3,
+      "end": 19.34
+    },
+    "6": {
+      "text": "Kandi hahirwa uwo ibyanjye bitazagusha.”",
+      "start": 32.69,
+      "end": 33.24
+    },
+    "7": {
+      "text": "Abo bakigenda, Yesu atangira kuvugana n'abantu ibya Yohana ati “Mwagiye mu butayu kureba iki? Urubingo ruhungabanywa n'umuyaga?",
+      "start": 40.76,
+      "end": 41.51
+    },
+    "8": {
+      "text": "Ariko mwagiye kureba iki? Umuntu wambaye imyenda yorohereye? Erega abambara iyorohereye baba mu ngo z'abami!",
+      "start": 36.26,
+      "end": 43.08
+    },
+    "9": {
+      "text": "Ariko mwajyanywe n'iki? Kureba umuhanuzi? Ni koko, kandi ndababwira yuko aruta umuhanuzi cyane.",
+      "start": 40.44,
+      "end": 41.51
+    },
+    "10": {
+      "text": "Uwo ni we wandikiwe ngo‘Dore ndenda gutuma integuza yanjye mbere yawe,Izakubanziriza igutunganirize inzira.’",
+      "start": 25.49,
+      "end": 36.45
+    },
+    "11": {
+      "text": "“Ndababwira ukuri, yuko mu babyawe n'abagore hatigeze kubaho umuntu uruta Yohana Umubatiza, ariko umuto mu bwami bwo mu ijuru aramuruta.",
+      "start": 8.57,
+      "end": 38.62
+    },
+    "12": {
+      "text": "Uhereye ku gihe cya Yohana Umubatiza ukageza none, ubwami bwo mu ijuru buratwaranirwa, intwarane zibugishamo imbaraga.",
+      "start": 7.9,
+      "end": 22.18
+    },
+    "13": {
+      "text": "Kuko abahanuzi bose n'amategeko byahanuye kugeza igihe cya Yohana,",
+      "start": 8.2,
+      "end": 40.35
+    },
+    "14": {
+      "text": "kandi niba mushaka kubyemera, ni we Eliya wahanuwe ko azaza.",
+      "start": 12.84,
+      "end": 37.97
+    },
+    "15": {
+      "text": "Ufite amatwi yumva niyumve.",
+      "start": 44.01,
+      "end": 44.46
+    },
+    "16": {
+      "text": "“Ariko ab'iki gihe ndabagereranya n'iki? Bameze nk'abana bato bicaye mu maguriro bahamagara bagenzi babo bati",
+      "start": 0.0,
+      "end": 6.82
+    },
+    "17": {
+      "text": "‘Twabavugirije imyironge ntimwabyina, twaboroze ntimwarira.’",
+      "start": 34.77,
+      "end": 36.38
+    },
+    "18": {
+      "text": "Kuko Yohana yaje atarya atanywa, bagira bati ‘Afite dayimoni.’",
+      "start": 20.6,
+      "end": 42.08
+    },
+    "19": {
+      "text": "Umwana w'umuntu aje arya anywa, bagira bati ‘Dore iki kirura cy'umunywi w'inzoga, incuti y'abakoresha b'ikoro n'abanyabyaha.’ Ariko ubwenge bwerekanwa n'imirimo yabwo.”",
+      "start": 25.19,
+      "end": 44.08
+    },
+    "20": {
+      "text": "Maze atangiriraho gucyaha imidugudu, iyo yakoreyemo ibitangaza byinshi, kuko batihannye.",
+      "start": 18.08,
+      "end": 26.5
+    },
+    "21": {
+      "text": "Ati “Korazini, uzabona ishyano! Betsayida, uzabona ishyano! Kuko ibitangaza byakorewe muri mwe, iyaba byarakorewe muri Tiro n'i Sidoni baba barihannye kera, bakambara ibigunira, bakisīga ivu.",
+      "start": 21.52,
+      "end": 42.58
+    },
+    "22": {
+      "text": "Ariko ndababwira yuko ku munsi w'amateka, i Tiro n'i Sidoni hazahanwa igihano cyakwihanganirwa kuruta icyanyu.",
+      "start": 43.48,
+      "end": 43.7
+    },
+    "23": {
+      "text": "Nawe Kaperinawumu, ushyizwe hejuru ndetse ugeze ku ijuru. Ariko uzamanuka ikuzimu, kuko ibitangaza byakorewe muri wowe iyaba byarakorewe muri Sodomu, iba ikiriho na none.",
+      "start": 23.43,
+      "end": 41.57
+    },
+    "24": {
+      "text": "Ariko ndababwira yuko ku munsi w'amateka, igihugu cy'i Sodomu kizahanwa igihano cyakwihanganirwa kuruta icyanyu.”",
+      "start": 21.71,
+      "end": 43.18
+    },
+    "25": {
+      "text": "Muri iyo minsi Yesu aravuga ati “Ndagushima Data, Mwami w'ijuru n'isi, kuko wahishe ibyo abanyabwenge n'abahanga, ukabimenyesha abana bato.",
+      "start": 19.5,
+      "end": 23.5
+    },
+    "26": {
+      "text": "Ni koko Data, kuko ari ko wabishatse.",
+      "start": 9.44,
+      "end": 13.82
+    },
+    "27": {
+      "text": "“Byose nabihawe na Data, kandi nta wuzi Umwana w'Imana keretse Se, kandi nta wuzi Se keretse Umwana w'Imana, n'umuntu wese uwo Mwana ashatse kuyimenyesha.",
+      "start": 18.59,
+      "end": 25.02
+    },
+    "28": {
+      "text": "“Mwese abarushye n'abaremerewe, nimuze munsange ndabaruhura.",
+      "start": 12.69,
+      "end": 14.28
+    },
+    "29": {
+      "text": "Mwemere kuba abagaragu banjye munyigireho, kuko ndi umugwaneza kandi noroheje mu mutima, namwe muzabona uburuhukiro mu mitima yanyu,",
+      "start": 19.78,
+      "end": 37.19
+    },
+    "30": {
+      "text": "kuko kunkorera kutaruhije, n'umutwaro wanjye utaremereye.”",
+      "start": 19.96,
+      "end": 30.65
+    }
+  }
+}

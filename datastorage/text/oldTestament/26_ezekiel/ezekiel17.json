@@ -1,0 +1,128 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Maze ijambo ry'Uwiteka rinzaho riti",
+      "start": 42.88,
+      "end": 44.14
+    },
+    "2": {
+      "text": "“Mwana w'umuntu, sākuza kandi ucire inzu ya Isirayeli umugani uti",
+      "start": 8.06,
+      "end": 22.11
+    },
+    "3": {
+      "text": "‘Uku ni ko Umwami Uwiteka avuga ngo: Igisiga kinini gifite amababa manini kandi maremare, n'amoya menshi n'amabara atari amwe, cyaje i Lebanoni kijyana ishami ryo mu bushorishori ry'umwerezi,",
+      "start": 9.9,
+      "end": 18.48
+    },
+    "4": {
+      "text": "kiwukokoraho ihage ryo mu bushorishori bwawo kirijyana mu gihugu cy'ubucuruzi, maze kirishyira mu mudugudu w'abagenza.",
+      "start": 34.78,
+      "end": 36.97
+    },
+    "5": {
+      "text": "Kijyana no ku mbuto zo mu gihugu kiyitera mu butaka burumbuka, hafi y'amazi menshi kiba ari ho kiyishyira, kiyitera nk'umukinga.",
+      "start": 33.2,
+      "end": 37.05
+    },
+    "6": {
+      "text": "Maze iramera iba umuzabibu mugufi ugaba amashami, amashami yawo yerekera icyo gisiga, na yo imizi yawo ishora munsi yacyo. Nuko iba umuzabibu, umeraho amashami kandi ushibukaho amahage.",
+      "start": 10.59,
+      "end": 19.92
+    },
+    "7": {
+      "text": "“ ‘Hari n'ikindi gisiga kinini gifite amababa manini n'amoya menshi, nuko uwo muzabibu ukirandiraho imizi yawo kandi ucyerekeza amashami yawo, uri mu mayogi y'aho watewe kugira ngo kiwuvomerere.",
+      "start": 18.31,
+      "end": 24.61
+    },
+    "8": {
+      "text": "Watewe mu butaka bwiza hafi y'amazi menshi, kugira ngo umere amashami kandi were imbuto, ube n'umuzabibu mwiza.’",
+      "start": 22.11,
+      "end": 26.0
+    },
+    "9": {
+      "text": "“Uvuge uti ‘Uku ni ko Umwami Uwiteka avuga ngo: Mbese uzatoha? Ntikizarandura imizi yawo se, kikawushikuzaho imbuto kugira ngo wume, ibibabi bitoshye byose birabe? Ndetse kuwurandurana n'imizi yawo, ntibyagomba ukuboko gukomeye cyangwa abantu benshi.",
+      "start": 29.26,
+      "end": 44.62
+    },
+    "10": {
+      "text": "Mbese ko watewe, uzatoha? Ntuzuma rwose se, umuyaga w'iburasirazuba nuwugeraho? Uzumira mu mayogi aho wakuriye.’ ”",
+      "start": 35.88,
+      "end": 39.23
+    },
+    "11": {
+      "text": "Ijambo ry'Uwiteka ryongera kunzaho riti",
+      "start": 3.49,
+      "end": 32.51
+    },
+    "12": {
+      "text": "“Nuko ubwire iyo nzu y'abagome uti ‘Mbese ntimuzi uko uwo mugani usobanurwa?’ Ubabwire uti ‘Dore umwami w'i Babuloni yaje i Yerusalemu, ajyana umwami waho n'ibikomangoma byaho, abajyana iwe i Babuloni.",
+      "start": 2.47,
+      "end": 12.52
+    },
+    "13": {
+      "text": "Ajyana n'uw'urubyaro rw'umwami, asezerana na we kandi aramurahiza, ajyana intwari zo mu gihugu",
+      "start": 8.17,
+      "end": 28.88
+    },
+    "14": {
+      "text": "kugira ngo ubwami bugwe hasi bwe kwibyutsa, ahubwo buhagarikwe no gukomeza isezerano rye.",
+      "start": 10.07,
+      "end": 28.13
+    },
+    "15": {
+      "text": "Ariko aramugomera atuma intumwa ze muri Egiputa, kugira ngo bamuhe amafarashi n'abantu benshi. Mbese azahirwa? Ukora nk'ibyo azarokoka? Azica isezerano kandi arokoke?",
+      "start": 1.35,
+      "end": 38.63
+    },
+    "16": {
+      "text": "“ ‘Umwami Uwiteka aravuga ati: Ndirahiye, ni ukuri aho umwami wamwimitse atuye, uwo yasuzuguye indahiro ye akica n'isezerano rye, ni ho azapfira koko ari kumwe na we i Babuloni.",
+      "start": 13.82,
+      "end": 40.53
+    },
+    "17": {
+      "text": "Farawo na we, n'ingabo ze zikomeye n'ibitero bye byinshi, nta cyo azamumarira mu ntambara igihe bazarunda ibyo kuririraho, bakubaka ibihome kugira ngo barimbure abantu benshi.",
+      "start": 13.63,
+      "end": 25.05
+    },
+    "18": {
+      "text": "Yasuzuguye indahiro yica n'isezerano, ndetse yari yamanitse ukuboko kwe arahira ariko arengaho arabikora byose, ntabwo azarokoka.",
+      "start": 16.5,
+      "end": 29.55
+    },
+    "19": {
+      "text": "“ ‘Ni cyo gituma Umwami Uwiteka avuga ati: Ndirahiye, ni ukuri indahiro yanjye yasuzuguye n'isezerano ryanjye yishe, nzabigereka ku mutwe we.",
+      "start": 13.98,
+      "end": 34.4
+    },
+    "20": {
+      "text": "Kandi nzamuramburiraho urushundura rwanjye afatwe mu mutego wanjye, nanjye nzamujyana i Babuloni abe ari ho mwibukiriza igicumuro cye yancumuyeho.",
+      "start": 6.2,
+      "end": 12.86
+    },
+    "21": {
+      "text": "Kandi impunzi ze zose zo mu ngabo ze zose zizagushwa n'inkota, na bo abasigaye bazatatanirizwa mu birere byose, namwe muzamenya yuko jye Uwiteka ari jye wabivuze.",
+      "start": 32.94,
+      "end": 37.29
+    },
+    "22": {
+      "text": "“ ‘Uku ni ko Umwami Uwiteka avuga ati: Nanjye nzajyana icyo mu bushorishori bw'umwerezi maze ngitere, nzakokora ihage ryoroshye ryo mu mahage yo mu bushorishori bwawo maze nditere ahitegeye mu mpinga y'umusozi muremure,",
+      "start": 21.91,
+      "end": 40.94
+    },
+    "23": {
+      "text": "ku musozi muremure wa Isirayeli ni ho nzaritera, na ryo rizagaba amashami yera imbuto ribe umwerezi mwiza, kandi ibiguruka by'amoko yose bizībera munsi yawo, mu gicucu cy'amashami yawo ni ho bizaba.",
+      "start": 7.68,
+      "end": 38.39
+    },
+    "24": {
+      "text": "Maze ibiti byose byo mu ishyamba bizamenya yuko jye Uwiteka ari jye wacishije igiti kirekire bugufi, ngashyira hejuru igiti kigufi; numishije igiti gitoshye ntuma igiti cyumye gitoha. Jye Uwiteka narabivuze ndabisohoza.’ ”",
+      "start": 6.08,
+      "end": 14.4
+    }
+  }
+}

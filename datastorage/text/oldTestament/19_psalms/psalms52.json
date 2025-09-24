@@ -1,0 +1,63 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 52,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni indirimbo ya Dawidi yahimbishijwe ubwenge.",
+      "start": 33.08,
+      "end": 41.83
+    },
+    "2": {
+      "text": "Yayihimbye ubwo Dowegi Umwedomu yagendaga akabwira Sawuli ati “Dawidi yaje kwa Ahimeleki.”",
+      "start": 32.08,
+      "end": 36.81
+    },
+    "3": {
+      "text": "Wa ntwari we, ni iki gitumye wirata igomwa?Imbabazi z'Imana zihoraho iteka.",
+      "start": 2.86,
+      "end": 19.96
+    },
+    "4": {
+      "text": "Ururimi rwawe ruhimba ibyo kurimbura,Ruhwanye n'icyuma cyogosha gityaye,Wa nkozi y'uburiganya we,",
+      "start": 40.63,
+      "end": 42.17
+    },
+    "5": {
+      "text": "Ukunda ibibi ukabirutisha ibyiza,No kubeshya ukakurutisha kuvuga ibitunganye.Sela.",
+      "start": 32.17,
+      "end": 38.78
+    },
+    "6": {
+      "text": "Wa rurimi ruriganya we,Ukunda amagambo yose arimbura.",
+      "start": 10.03,
+      "end": 28.01
+    },
+    "7": {
+      "text": "Nawe Imana izagutsemba iteka,Izakujahura ikuvane mu ihema ryawe,Ikurandure igukure mu isi y'ababaho.Sela.",
+      "start": 21.53,
+      "end": 22.74
+    },
+    "8": {
+      "text": "Abakiranutsi bazabireba batinye,Bamuseke bati",
+      "start": 35.19,
+      "end": 41.07
+    },
+    "9": {
+      "text": "“Dore uyu ni we utagiraga Imana igihome kimukingira,Ahubwo yiringiraga ubutunzi bwe bwinshi,Akikomereza gukora ibyaha.”",
+      "start": 31.06,
+      "end": 32.4
+    },
+    "10": {
+      "text": "Ariko jyeweho meze nka elayo mbisi yo mu rugo rw'Imana,Niringira imbabazi z'Imana iteka ryose.",
+      "start": 7.23,
+      "end": 21.19
+    },
+    "11": {
+      "text": "Nzagushima iteka kuko ari wowe wabikoze,Nzategerereza izina ryawe imbere y'abakunzi bawe,Kuko ari ryiza.",
+      "start": 42.16,
+      "end": 44.2
+    }
+  }
+}

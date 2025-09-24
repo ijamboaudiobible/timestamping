@@ -1,0 +1,173 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Bukeye abana b'abahanuzi babwira Elisa bati “Dore aho tuba imbere yawe hatubera hato.",
+      "start": 36.28,
+      "end": 43.58
+    },
+    "2": {
+      "text": "Noneho turakwinginze reka tujye kuri Yorodani umuntu wese akureyo igiti, twiyubakire aho kuba.”Arabemerera ati “Nimugende.”",
+      "start": 21.63,
+      "end": 41.57
+    },
+    "3": {
+      "text": "Umwe muri bo aravuga ati “Ndakwinginze emera kujyana n'abagaragu bawe.” Aramusubiza ati “Yee, ndaje.”",
+      "start": 14.57,
+      "end": 24.73
+    },
+    "4": {
+      "text": "Nuko barajyana. Bageze kuri Yorodani batema ibiti.",
+      "start": 26.06,
+      "end": 41.86
+    },
+    "5": {
+      "text": "Umwe muri bo agitema igiti, intorezo irakuka igwa mu mazi, arataka ati “Mbonye ishyano databuja, kuko yari intirano.”",
+      "start": 31.99,
+      "end": 37.55
+    },
+    "6": {
+      "text": "Uwo muntu w'Imana aramubaza ati “Iguye he?” Arahamwereka.Aherako atema igiti agitera mu mazi, intorezo irareremba.",
+      "start": 19.12,
+      "end": 23.33
+    },
+    "7": {
+      "text": "Aramubwira ati “Yisingire.” Arambura ukuboko arayisingira.",
+      "start": 36.95,
+      "end": 38.88
+    },
+    "8": {
+      "text": "Muri iyo minsi umwami w'i Siriya yarwanaga n'Abisirayeli, maze ajya inama n'abagaragu be aravuga ati “Ibunaka ni ho hazaba urugerero rwanjye.”",
+      "start": 41.92,
+      "end": 44.23
+    },
+    "9": {
+      "text": "Ariko uwo muntu w'Imana agatuma ku mwami w'Abisirayeli ati “Wirinde guca ibunaka, kuko ari ho Abasiriya bamanukana kugutera.”",
+      "start": 32.39,
+      "end": 37.27
+    },
+    "10": {
+      "text": "Umwami w'Abisirayeli na we agatuma umuntu aho ngaho umuntu w'Imana yabaga avuze amuburira. Nuko akajya akira muri ubwo buryo, si rimwe si kabiri.",
+      "start": 1.62,
+      "end": 14.06
+    },
+    "11": {
+      "text": "Ibyo bituma umwami w'i Siriya ahagarika umutima cyane, ahamagaza abagaragu be arababaza ati “Mbese ntimwambwira umuntu wacu wifatanije n'umwami w'Abisirayeli?”",
+      "start": 36.74,
+      "end": 43.65
+    },
+    "12": {
+      "text": "Umwe mu bagaragu be aramubwira ati “Oya nyagasani mwami, ahubwo Elisa umuhanuzi wo muri Isirayeli ni we ubwira umwami w'Abisirayeli amagambo uvugira mu murere.”",
+      "start": 33.85,
+      "end": 35.71
+    },
+    "13": {
+      "text": "Arababwira ati “Nimugende murebe aho ari, ntume abo kumufata.”Baramubwira bati “Ari i Dotani.”",
+      "start": 25.93,
+      "end": 32.75
+    },
+    "14": {
+      "text": "Aherako yoherezayo amafarashi n'amagare n'ingabo nyinshi, bagenda ijoro ryose bagota uwo mudugudu.",
+      "start": 16.91,
+      "end": 31.84
+    },
+    "15": {
+      "text": "Maze umugaragu w'uwo muntu w'Imana azindutse kare mu gitondo, arasohoka abona ingabo n'amafarashi n'amagare bigose uwo mudugudu. Umugaragu abwira shebuja ati “Biracitse databuja, turagira dute?”",
+      "start": 39.79,
+      "end": 41.12
+    },
+    "16": {
+      "text": "Aramusubiza ati “Witinya, kuko abo turi kumwe ari benshi kuruta abari kumwe na bo.”",
+      "start": 32.3,
+      "end": 35.75
+    },
+    "17": {
+      "text": "Nuko Elisa arasenga ati “Uwiteka ndakwinginze, muhumure amaso arebe.” Nuko Uwiteka ahumura amaso y'uwo musore arareba, abona umusozi wuzuye amafarashi n'amagare by'umuriro bigose Elisa.",
+      "start": 1.57,
+      "end": 13.38
+    },
+    "18": {
+      "text": "Za ngabo zigezeyo Elisa yinginga Uwiteka ati “Ndakwinginze huma amaso y'izi ngabo.” Uwiteka aherako azihuma amaso nk'uko Elisa yasabye.",
+      "start": 22.34,
+      "end": 42.93
+    },
+    "19": {
+      "text": "Elisa arazibwira ati “Iyi si yo nzira, kandi uyu si wo mudugudu. Nimunkurikire ndabageza ku muntu mushaka.” Nuko azijyana i Samariya.",
+      "start": 38.32,
+      "end": 40.96
+    },
+    "20": {
+      "text": "Bageze i Samariya Elisa arasenga ati “Uwiteka, humura amaso y'izi ngabo zirebe.” Nuko Uwiteka azihumura amaso zirareba, zigiye kubona zibona ziri i Samariya hagati.",
+      "start": 32.1,
+      "end": 42.81
+    },
+    "21": {
+      "text": "Umwami w'Abisirayeli abonye izo ngabo abaza Elisa ati “Data, mbatsinde aha? Mbatsinde aha?”",
+      "start": 42.91,
+      "end": 43.62
+    },
+    "22": {
+      "text": "Aramusubiza ati “Wibatsinda aha. Mbese abo waneshesheje inkota n'umuheto ukabafata mpiri, wabica? Ahubwo babazanire ibyokurya n'amazi babibashyire imbere, barye banywe babone gusubira kwa shebuja.”",
+      "start": 23.69,
+      "end": 42.24
+    },
+    "23": {
+      "text": "Nuko abatekeshereza ibyokurya, bamaze kurya no kunywa arabasezerera, basubira kwa shebuja. Uhereye icyo gihe imitwe y'ingabo z'Abasiriya ntiyongera gutera igihugu cy'Abisirayeli.",
+      "start": 11.82,
+      "end": 13.67
+    },
+    "24": {
+      "text": "Hanyuma y'ibyo Benihadadi umwami w'i Siriya ateranya ingabo ze zose, arazamuka atera i Samariya arahagota.",
+      "start": 35.79,
+      "end": 40.41
+    },
+    "25": {
+      "text": "Maze i Samariya hatera inzara mbi cyane, barahagota ndetse kugeza aho baguriye igihanga cy'indogobe ibice by'ifeza mirongo inani, n'igice cya kane cy'agakondwe kamwe k'amahurunguru y'inuma ibice by'ifeza bitanu.",
+      "start": 20.57,
+      "end": 44.98
+    },
+    "26": {
+      "text": "Bukeye umwami w'Abisirayeli anyuze hejuru y'inkike z'amabuye, umugore aramutakambira ati “Ndengera, nyagasani mwami.”",
+      "start": 15.3,
+      "end": 31.57
+    },
+    "27": {
+      "text": "Aramusubiza ati “Uwiteka natakurengera ibyo kukurengera ndabikura he? Ndabikura ku mbuga cyangwa mu rwengero?”",
+      "start": 41.79,
+      "end": 44.9
+    },
+    "28": {
+      "text": "Umwami aramubaza ati “Ubaye ute?”Aramusubiza ati “Uyu mugore yarambwiye ati ‘Zana umwana wawe w'umuhungu tumurye none, ejo tuzarya uwanjye.’",
+      "start": 42.63,
+      "end": 43.0
+    },
+    "29": {
+      "text": "Nuko duteka umwana wanjye turamurya, bukeye bwaho ndamubwira nti ‘Zana umwana wawe tumurye’, none yamuhishe.”",
+      "start": 13.96,
+      "end": 34.83
+    },
+    "30": {
+      "text": "Umwami yumvise amagambo y'uwo mugore, ashishimura imyambaro ye (kandi yagendaga hejuru y'inkike z'amabuye). Abantu bamurebye banyuza mu myambaro icitse, babona yambaye ibigunira ku mubiri.",
+      "start": 0.41,
+      "end": 30.87
+    },
+    "31": {
+      "text": "Nuko aravuga ati “Elisa mwene Shafati narenza uyu munsi agifite umutwe we, Imana ibimpore ndetse bikabije.”",
+      "start": 42.93,
+      "end": 43.31
+    },
+    "32": {
+      "text": "Kandi Elisa yari yicaye mu nzu ye, yicaranye n'abatware. Nuko umwami amutumaho intumwa yo mu bahagaze imbere ye, ariko intumwa itaramugeraho Elisa abwira abo batware ati “Ntimureba ko uwo mwana w'umwicanyi atumye uwo kunca igihanga? Nuko intumwa niza, muyikingirane mukomeze urugi. Mbese ntimwumva ibirenge bya shebuja ko aje amukurikiye?”",
+      "start": 9.86,
+      "end": 23.45
+    },
+    "33": {
+      "text": "Nuko akivugana na bo, intumwa iraza imugeraho iramubwira iti “Umwami arantumye ngo ko ibi byago byaturutse ku Uwiteka, aracyamwiringirira iki kandi?”",
+      "start": 39.23,
+      "end": 39.57
+    }
+  }
+}

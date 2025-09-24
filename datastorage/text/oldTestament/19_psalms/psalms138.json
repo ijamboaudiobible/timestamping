@@ -1,0 +1,48 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 138,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi.Ndagushimisha umutima wose,Imbere y'ibigirwamana ndakuririmbira ishimwe.",
+      "start": 19.16,
+      "end": 31.19
+    },
+    "2": {
+      "text": "Ndasenga nerekeye urusengero rwawe rwera,Nshimira izina ryawe imbabazi zawe n'umurava wawe,Kuko washyirishije hejuru ijambo ryawe kurisohoza,Ngo rirute ibyo izina ryawe ryose ryatwiringije.",
+      "start": 38.24,
+      "end": 38.92
+    },
+    "3": {
+      "text": "Umunsi nagutakiyeho waransubije,Umpumurisha guha umutima wanjye imbaraga.",
+      "start": 7.84,
+      "end": 8.09
+    },
+    "4": {
+      "text": "Uwiteka, abami bo mu isi bose bazagushima,Kuko bumvise amagambo yo mu kanwa kawe.",
+      "start": 43.39,
+      "end": 43.66
+    },
+    "5": {
+      "text": "Ni koko bazaririmba inzira z'Uwiteka,Kuko icyubahiro cy'Uwiteka ari cyinshi.",
+      "start": 42.52,
+      "end": 44.79
+    },
+    "6": {
+      "text": "Kuko nubwo Uwiteka akomeye,Yita ku bicisha bugufi n'aboroheje,Ariko abibone abamenyera kure.",
+      "start": 30.87,
+      "end": 32.21
+    },
+    "7": {
+      "text": "Nubwo ngendera hagati y'amakuba n'ibyago uzanzura,Uzaramburira ukuboko kwawe kurwanya umujinya w'abanzi banjye,Ukuboko kwawe kw'iburyo kuzankiza.",
+      "start": 9.25,
+      "end": 33.46
+    },
+    "8": {
+      "text": "Uwiteka azatunganya ibyanjye rwose,Uwiteka, imbabazi zawe zihoraho iteka ryose,Ntureke imirimo y'intoki zawe.",
+      "start": 43.97,
+      "end": 44.5
+    }
+  }
+}

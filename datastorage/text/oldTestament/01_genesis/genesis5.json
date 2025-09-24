@@ -1,0 +1,168 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Iki ni igitabo cy'urubyaro rwa Adamu. Ku munsi Imana yaremeyemo umuntu, afite ishusho y'Imana ni ko yamuremye,",
+      "start": 13.6,
+      "end": 16.99
+    },
+    "2": {
+      "text": "umugabo n'umugore ni ko yabaremye, ibaha umugisha ibita Umuntu, ku munsi baremeweho.",
+      "start": 44.74,
+      "end": 44.78
+    },
+    "3": {
+      "text": "Kandi Adamu yamaze imyaka ijana na mirongo itatu avutse, abyara umuhungu ufite ishusho ye, usa na we, amwita Seti.",
+      "start": 42.05,
+      "end": 44.37
+    },
+    "4": {
+      "text": "Amaze kubyara Seti, Adamu arongera amara imyaka magana inani, ayibyaramo abahungu n'abakobwa.",
+      "start": 9.22,
+      "end": 16.83
+    },
+    "5": {
+      "text": "Iminsi yose Adamu yaramye ni imyaka magana urwenda na mirongo itatu, arapfa.",
+      "start": 34.17,
+      "end": 43.71
+    },
+    "6": {
+      "text": "Seti yamaze imyaka ijana n'itanu avutse abyara Enoshi.",
+      "start": 31.21,
+      "end": 39.39
+    },
+    "7": {
+      "text": "Amaze kubyara Enoshi, Seti arongera amara imyaka magana inani n'irindwi, ayibyaramo abahungu n'abakobwa.",
+      "start": 0.74,
+      "end": 6.47
+    },
+    "8": {
+      "text": "Iminsi yose Seti yaramye ni imyaka magana urwenda na cumi n'ibiri, arapfa.",
+      "start": 1.29,
+      "end": 40.02
+    },
+    "9": {
+      "text": "Enoshi yamaze imyaka mirongo urwenda avutse abyara Kenani,",
+      "start": 41.87,
+      "end": 44.92
+    },
+    "10": {
+      "text": "amaze kubyara Kenani, Enoshi arongera amara imyaka magana inani na cumi n'itanu, ayibyaramo abahungu n'abakobwa.",
+      "start": 2.27,
+      "end": 2.64
+    },
+    "11": {
+      "text": "Iminsi yose Enoshi yaramye ni imyaka magana urwenda n'itanu, arapfa.",
+      "start": 29.01,
+      "end": 44.71
+    },
+    "12": {
+      "text": "Kenani yamaze imyaka mirongo irindwi avutse abyara Mahalalēli.",
+      "start": 38.6,
+      "end": 40.98
+    },
+    "13": {
+      "text": "Amaze kubyara Mahalalēli, Kenani arongera amara imyaka magana inani na mirongo ine, ayibyaramo abahungu n'abakobwa.",
+      "start": 9.53,
+      "end": 21.06
+    },
+    "14": {
+      "text": "Iminsi yose Kenani yaramye ni imyaka magana urwenda na cumi, arapfa.",
+      "start": 22.51,
+      "end": 34.45
+    },
+    "15": {
+      "text": "Mahalalēli yamaze imyaka mirongo itandatu n'itanu avutse abyara Yeredi.",
+      "start": 4.99,
+      "end": 16.27
+    },
+    "16": {
+      "text": "Amaze kubyara Yeredi, Mahalalēli arongera amara imyaka magana inani na mirongo itatu, ayibyaramo abahungu n'abakobwa.",
+      "start": 5.06,
+      "end": 37.92
+    },
+    "17": {
+      "text": "Iminsi yose Mahalalēli yaramye ni imyaka magana inani na mirongo urwenda n'itanu, arapfa.",
+      "start": 13.0,
+      "end": 35.39
+    },
+    "18": {
+      "text": "Yeredi yamaze imyaka ijana na mirongo itandatu n'ibiri avutse abyara Henoki.",
+      "start": 3.31,
+      "end": 21.18
+    },
+    "19": {
+      "text": "Amaze kubyara Henoki, Yeredi arongera amara imyaka magana inani, ayibyaramo abahungu n'abakobwa.",
+      "start": 4.72,
+      "end": 20.6
+    },
+    "20": {
+      "text": "Iminsi yose Yeredi yaramye ni imyaka magana urwenda na mirongo itandatu n'ibiri, arapfa.",
+      "start": 26.61,
+      "end": 40.45
+    },
+    "21": {
+      "text": "Henoki yamaze imyaka mirongo itandatu n'itanu avutse abyara Metusela.",
+      "start": 38.72,
+      "end": 40.44
+    },
+    "22": {
+      "text": "Amaze kubyara Metusela, Henoki agendana n'Imana imyaka magana atatu, ayibyaramo abahungu n'abakobwa.",
+      "start": 14.28,
+      "end": 37.67
+    },
+    "23": {
+      "text": "Iminsi yose Henoki yaramye ni imyaka magana atatu na mirongo itandatu n'itanu.",
+      "start": 8.45,
+      "end": 37.01
+    },
+    "24": {
+      "text": "Kandi Henoki yagendanaga n'Imana, ntiyaboneka, kuko Imana yamwimuye.",
+      "start": 9.87,
+      "end": 28.8
+    },
+    "25": {
+      "text": "Metusela yamaze imyaka ijana na mirongo inani n'irindwi avutse abyara Lameki.",
+      "start": 12.12,
+      "end": 20.9
+    },
+    "26": {
+      "text": "Amaze kubyara Lameki, Metusela arongera amara imyaka magana arindwi na mirongo inani n'ibiri, ayibyaramo abahungu n'abakobwa.",
+      "start": 27.47,
+      "end": 39.94
+    },
+    "27": {
+      "text": "Iminsi yose Metusela yaramye ni imyaka magana urwenda na mirongo itandatu n'icyenda, arapfa.",
+      "start": 20.04,
+      "end": 32.49
+    },
+    "28": {
+      "text": "Lameki yamaze imyaka ijana na mirongo inani n'ibiri avutse, abyara umuhungu.",
+      "start": 43.23,
+      "end": 44.03
+    },
+    "29": {
+      "text": "Amwita Nowa ati “Uyu azatumara umubabaro w'umurimo wacu n'uw'umuruho w'amaboko yacu, uva mu butaka Uwiteka yavumye.”",
+      "start": 26.25,
+      "end": 44.57
+    },
+    "30": {
+      "text": "Amaze kubyara Nowa, Lameki arongera amara imyaka magana atanu na mirongo urwenda n'itanu, ayibyaramo abahungu n'abakobwa.",
+      "start": 32.83,
+      "end": 41.92
+    },
+    "31": {
+      "text": "Iminsi yose Lameki yaramye ni imyaka magana arindwi na mirongo irindwi n'irindwi, arapfa.",
+      "start": 5.29,
+      "end": 19.11
+    },
+    "32": {
+      "text": "Nowa yamaze imyaka magana atanu avutse, abyara Shemu na Hamu na Yafeti.",
+      "start": 9.6,
+      "end": 37.1
+    }
+  }
+}

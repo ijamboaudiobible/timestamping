@@ -1,0 +1,68 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 63,
+  "verses": {
+    "1": {
+      "text": "Zaburi ya Dawidi yahimbye ubwo yari ari mu butayu bw'i Buyuda.",
+      "start": 26.53,
+      "end": 39.14
+    },
+    "2": {
+      "text": "Mana, ni wowe Mana yanjye ndazindukira kugushaka,Umutima wanjye ukugirira inyota,Umubiri wanjye ugukumburira mu gihugu cyumye,Kiruhijwe n'amapfa kitagira amazi.",
+      "start": 17.29,
+      "end": 19.48
+    },
+    "3": {
+      "text": "Uko ni ko nagutumbiririye ahera hawe,Kugira ngo ndebe imbaraga zawe n'ubwiza bwawe.",
+      "start": 28.8,
+      "end": 35.82
+    },
+    "4": {
+      "text": "Kuko imbabazi zawe ari izo gukundwa kuruta ubugingo,Iminwa yanjye izagushima.",
+      "start": 22.52,
+      "end": 36.95
+    },
+    "5": {
+      "text": "Uko ni ko nzaguhimbaza nkiriho,Izina ryawe ni ryo nzamanikira amaboko.",
+      "start": 30.86,
+      "end": 31.9
+    },
+    "6": {
+      "text": "Umutima wanjye uzahazwa nk'uriye umusokoro n'umubyibuho,Akanwa kanjye kazagushimisha iminwa yishima,",
+      "start": 4.96,
+      "end": 16.52
+    },
+    "7": {
+      "text": "Uko nzakwibukira ku buriri bwanjye,Nkagutekereza mu bicuku by'ijoro.",
+      "start": 25.01,
+      "end": 42.44
+    },
+    "8": {
+      "text": "Kuko wambereye umufasha,Kandi nzavugiriza impundu mu gicucu cy'amababa yawe.",
+      "start": 7.45,
+      "end": 33.09
+    },
+    "9": {
+      "text": "Umutima wanjye ukōmaho,Ukuboko kwawe kw'iburyo kurandamira.",
+      "start": 17.26,
+      "end": 40.48
+    },
+    "10": {
+      "text": "Ariko abashakira ubugingo bwanjye kubutsemba,Bazajya ikuzimu.",
+      "start": 1.18,
+      "end": 14.48
+    },
+    "11": {
+      "text": "Bazahabwa gutwarwa n'inkota,Bazaba umugabane w'ingunzu.",
+      "start": 14.21,
+      "end": 29.5
+    },
+    "12": {
+      "text": "Ariko umwami azishimira Imana,Uyirahira wese azirata,Kuko akanwa k'ababeshya kazazibywa.",
+      "start": 35.83,
+      "end": 37.72
+    }
+  }
+}

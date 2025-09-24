@@ -1,0 +1,148 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "“Dore ijisho ryanjye ryabonye ibyo byoseUgutwi kwanjye kwarabyumvise ndabimenya.",
+      "start": 31.88,
+      "end": 35.88
+    },
+    "2": {
+      "text": "Ibyo muzi nanjye ndabizi,Ntimundusha.",
+      "start": 25.48,
+      "end": 29.07
+    },
+    "3": {
+      "text": "Ni ukuri ndashaka kuvugana n'Ishoborabyose,Kandi ndifuza kwiburanira ku Mana.",
+      "start": 7.73,
+      "end": 16.92
+    },
+    "4": {
+      "text": "Ariko muri abahimbyi b'ibinyoma,Mwese muri abavūzi badafite akamaro.",
+      "start": 17.49,
+      "end": 23.69
+    },
+    "5": {
+      "text": "Icyampa mugahora rwose,Mwaba mugize ubwenge.",
+      "start": 12.5,
+      "end": 19.37
+    },
+    "6": {
+      "text": "“Noneho nimwumve urubanza rwanjye,Kandi mutegere amatwi kuburana kw'iminwa yanjye.",
+      "start": 26.66,
+      "end": 28.1
+    },
+    "7": {
+      "text": "Mbese murashaka kuburanira Imana?Muvuga ibyo gukiranirwa mukariganya?",
+      "start": 11.16,
+      "end": 12.55
+    },
+    "8": {
+      "text": "Murayicira urwa kibera?Murashaka kuvugira Imana?",
+      "start": 42.9,
+      "end": 43.85
+    },
+    "9": {
+      "text": "Mbese ibagenzuye aho byababera byiza?Murashaka kuyiriganya nk'uko umuntu ariganya undi?",
+      "start": 41.66,
+      "end": 42.63
+    },
+    "10": {
+      "text": "Ni ukuri izabahana,Niba muca urwa kibera rwihishwa.",
+      "start": 27.74,
+      "end": 30.8
+    },
+    "11": {
+      "text": "Mbese gukomera kwayo ntikuzabatera ubwoba,Igitinyiro cyayo kikabagwira?",
+      "start": 8.08,
+      "end": 17.25
+    },
+    "12": {
+      "text": "Amagambo yanyu akomeye ni imigani imeze nk'ivu,Ibihome byanyu ni ibihome by'icyondo.",
+      "start": 44.91,
+      "end": 44.99
+    },
+    "13": {
+      "text": "Nimuceceke mundeke mvuge,Bingirire uko bishaka.",
+      "start": 26.98,
+      "end": 40.52
+    },
+    "14": {
+      "text": "Ni iki gituma nirya nkimara,Ngahara amagara yanjye?",
+      "start": 35.98,
+      "end": 40.62
+    },
+    "15": {
+      "text": "Naho yanyica napfa nyiringira,Nubwo bimeze bityo,inzira zanjye nzazikomeza imbere yayo.",
+      "start": 33.48,
+      "end": 37.65
+    },
+    "16": {
+      "text": "Ibyo na byo bizambera agakiza,Kuko ari nta muntu uhakana Imana uzaza imbere yayo.",
+      "start": 31.75,
+      "end": 34.82
+    },
+    "17": {
+      "text": "Nimuhugukire amagambo yanjye,N'ibyo mpamya bigere mu matwi yanyu.",
+      "start": 17.75,
+      "end": 38.78
+    },
+    "18": {
+      "text": "Dore maze gutunganya urubanza rwanjye,Nzi yuko ndi umukiranutsi.",
+      "start": 40.82,
+      "end": 43.73
+    },
+    "19": {
+      "text": "“Uwo tuzaburana ni nde?Kuko naceceka umwuka wahera.",
+      "start": 5.42,
+      "end": 7.82
+    },
+    "20": {
+      "text": "Ariko we kungirira ibi uko ari bibiri,Ni bwo ntazihisha mu maso hawe.",
+      "start": 29.09,
+      "end": 43.31
+    },
+    "21": {
+      "text": "Gerura ukuboko kwawe kundeke,Kandi ntuntereshe igitinyiro cyawe ubwoba.",
+      "start": 33.18,
+      "end": 34.55
+    },
+    "22": {
+      "text": "“Maze umpamagare ndakwitaba,Cyangwa ureke mvuge nawe unsubize.",
+      "start": 13.99,
+      "end": 30.27
+    },
+    "23": {
+      "text": "Ibicumuro byanjye n'ibyaha byanjye ni bingahe?Umenyeshe igicumuro cyanjye n'icyaha cyanjye.",
+      "start": 22.09,
+      "end": 23.11
+    },
+    "24": {
+      "text": "“Ni iki gituma unyima amaso ukangira umwanzi wawe?",
+      "start": 40.64,
+      "end": 40.65
+    },
+    "25": {
+      "text": "Mbese warushya ikibabi gitumurwa n'umuyaga,Ugakurikirana umurama wumye?",
+      "start": 24.03,
+      "end": 43.35
+    },
+    "26": {
+      "text": "“Kuko unyandikaho ibintu binsharirira,Kandi ugatuma ndimūra ibyaha byo mu busore bwanjye.",
+      "start": 27.54,
+      "end": 43.86
+    },
+    "27": {
+      "text": "Ibirenge byanjye na byo ubishyize mu ngoyi,Kandi witegereze imigendere yanjye yose,Ibirenge byanjye ubishyizeho urukubo,",
+      "start": 20.46,
+      "end": 24.2
+    },
+    "28": {
+      "text": "Nubwo meze nk'ikintu kiboze cyononekaye,Cyangwa nk'umwambaro wariwe n'inyenzi.",
+      "start": 4.64,
+      "end": 43.53
+    }
+  }
+}

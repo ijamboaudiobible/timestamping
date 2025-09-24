@@ -1,0 +1,193 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 26,
+  "verses": {
+    "1": {
+      "text": "“Kandi uzareme ubwo buturo, ubusakaze imyenda cumi, uyiboheshe ubudodo bw'ibitare bwiza buboheranije, n'ubw'umukara wa kabayonga n'ubw'umuhengeri n'ubw'umuhemba, bayibohemo ibishushanyo by'abakerubi, abahanga b'ibyo abe ari bo babiboha.",
+      "start": 3.26,
+      "end": 27.24
+    },
+    "2": {
+      "text": "Uburebure bw'umwenda wose bube mikono makumyabiri n'umunani, ubugari bwawo bube mikono ine, imyenda yose ibe urugero rumwe.",
+      "start": 8.33,
+      "end": 28.97
+    },
+    "3": {
+      "text": "Imyenda itanu ikombatwe ukwayo, n'iyindi itanu ikombatwe ukwayo.",
+      "start": 17.33,
+      "end": 33.6
+    },
+    "4": {
+      "text": "Kandi udode imikondo y'udutambaro tw'imikara ya kabayonga ku musozo w'umwenda uhera igikombate kimwe, udode yindi nka yo ku musozo w'umwenda uhera ikindi gikombate.",
+      "start": 10.69,
+      "end": 42.84
+    },
+    "5": {
+      "text": "Udode imikondo mirongo itanu ku mwenda umwe, n'indi mirongo itanu uyidode ku musozo w'umwenda uhera ikindi gikombate, iyo mikondo yerekerane.",
+      "start": 5.19,
+      "end": 19.11
+    },
+    "6": {
+      "text": "Ucure ibikwasi by'izahabu mirongo itanu ubifatanishe ibyo bikombate, ubwo buturo bube bumwe.",
+      "start": 37.0,
+      "end": 39.23
+    },
+    "7": {
+      "text": "“Kandi uzabohe imyenda yo gusakara y'ubwoya bw'ihene, ibe ihema risakara ubwo buturo, ubohe imyenda cumi n'umwe.",
+      "start": 6.31,
+      "end": 44.68
+    },
+    "8": {
+      "text": "Uburebure bw'umwenda wose bube mikono mirongo itatu, ubugari bwawo bube mikono ine, iyo myenda uko ari cumi n'umwe ibe urugero rumwe.",
+      "start": 2.52,
+      "end": 44.2
+    },
+    "9": {
+      "text": "Ukombate imyenda itanu ukwayo, n'iyindi itandatu uyikombate ukwayo, uwa gatandatu uwubindūre imbere y'ihema.",
+      "start": 3.58,
+      "end": 34.7
+    },
+    "10": {
+      "text": "Udode imikondo mirongo itanu ku musozo w'umwenda uhera igikombate kimwe, n'indi mirongo itanu uyidode ku musozo w'umwenda uhera ikindi gikombate.",
+      "start": 5.07,
+      "end": 19.93
+    },
+    "11": {
+      "text": "Ucure ibikwasi by'imiringa mirongo itanu ubishyire muri iyo mikondo, ufatanye iryo hema ribe rimwe.",
+      "start": 39.74,
+      "end": 42.74
+    },
+    "12": {
+      "text": "Igice cy'imyenda y'ihema gisagaho kikarērēta, ni cyo gice gisagaho cy'umwenda umwe kingana n'ikindi, kirērētere inyuma y'ubwo buturo.",
+      "start": 33.73,
+      "end": 42.37
+    },
+    "13": {
+      "text": "Ubwo ibikombate by'ihema bisagaho mukono umwe mu burebure bw'uruhande rumwe, n'indi ibiri mu rundi, irērētere mu mbavu z'ubuturo zombi, iritwikīre.",
+      "start": 20.65,
+      "end": 23.32
+    },
+    "14": {
+      "text": "“Kandi uzaciranye igisakara iryo hema mu mpu z'amasekurume y'intama zizigishijwe inzigo itukura, ukirenzeho igicirane cy'impu z'inyamaswa zitwa tahashi.",
+      "start": 4.75,
+      "end": 40.67
+    },
+    "15": {
+      "text": "“Kandi uzabāze imbaho z'imiganda y'ubwo buturo mu mushita, uzishinge.",
+      "start": 42.14,
+      "end": 44.45
+    },
+    "16": {
+      "text": "Uburebure bw'urubaho rwose bube mikono cumi, ubugari bwarwo bube mukono umwe n'igice.",
+      "start": 4.43,
+      "end": 40.7
+    },
+    "17": {
+      "text": "Kandi ku rubaho rwose habe inkarwe ebyiri zifatanye, abe ari ko uzibāza ku mbaho z'ubwo buturo zose.",
+      "start": 14.63,
+      "end": 25.57
+    },
+    "18": {
+      "text": "Ubāze imbaho z'imiganda yabwo, iz'uruhande rw'iburyo zibe makumyabiri.",
+      "start": 7.9,
+      "end": 24.34
+    },
+    "19": {
+      "text": "Kandi uzacure imyobo mirongo ine mu ifeza, ibe hasi y'izo mbaho uko ari makumyabiri. Imyobo ibiri ibe hasi y'urubaho rumwe, ishingwemo inkarwe zarwo zombi, bityo bityo.",
+      "start": 7.82,
+      "end": 28.16
+    },
+    "20": {
+      "text": "Kandi uzabāze imbaho makumyabiri z'urundi ruhande rw'ubwo buturo rw'ibumoso,",
+      "start": 35.46,
+      "end": 42.87
+    },
+    "21": {
+      "text": "uzicurire imyobo mirongo ine mu ifeza, imyobo ibiri ibe hasi y'urubaho rumwe, bityo bityo.",
+      "start": 22.02,
+      "end": 38.95
+    },
+    "22": {
+      "text": "Kandi uzabāze imbaho esheshatu zo mu mwinjiro w'ubwo buturo, iburengerazuba.",
+      "start": 5.39,
+      "end": 44.51
+    },
+    "23": {
+      "text": "Ubāze imbaho ebyiri z'impfuruka zabwo zo mu mwinjiro.",
+      "start": 36.54,
+      "end": 43.38
+    },
+    "24": {
+      "text": "Hasi zibe izivuyemo nk'ebyiri, kandi zibe imyishyikire zigere ku mpeta ya mbere, abe ari ko biba kuri zombi zibe izo ku mpfuruka zo mu mwinjiro.",
+      "start": 39.33,
+      "end": 42.89
+    },
+    "25": {
+      "text": "Nuko izo mbaho zizabe umunani, imyobo y'ifeza yo kuzishingamo izabe cumi n'itandatu, imyobo ibiri ibe hasi y'urubaho rumwe, bityo bityo.",
+      "start": 23.36,
+      "end": 28.55
+    },
+    "26": {
+      "text": "“Kandi uzabāze imbumbe mu mushita, imbumbe eshanu zo ku mbaho z'imiganda y'uruhande rumwe rw'ubwo buturo,",
+      "start": 33.88,
+      "end": 42.94
+    },
+    "27": {
+      "text": "na zindi eshanu zo ku mbaho z'imiganda y'urundi ruhande rwabwo, n'izindi eshanu zo mu mwinjiro wabwo, iburengerazuba.",
+      "start": 35.16,
+      "end": 36.5
+    },
+    "28": {
+      "text": "Imbumbe yo hagati y'izindi iringanije imbaho, ibe umwishyikire.",
+      "start": 6.15,
+      "end": 37.62
+    },
+    "29": {
+      "text": "Kandi izo mbaho uzaziyagirizeho izahabu, ucure impeta mu izahabu zo kuzishyiraho, zisesekwemo izo mbumbe, imbumbe na zo uziyagirizeho izahabu.",
+      "start": 43.82,
+      "end": 44.36
+    },
+    "30": {
+      "text": "Uzashinge ubwo buturo buhwanye n'icyitegererezo cyabwo werekewe kuri uyu musozi.",
+      "start": 42.1,
+      "end": 44.56
+    },
+    "31": {
+      "text": "“Kandi umwenda ukingiriza uzawuboheshe ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije, bawubohemo ibishushanyo by'abakerubi, abahanga b'ibyo abe ari bo babiboha.",
+      "start": 12.95,
+      "end": 23.21
+    },
+    "32": {
+      "text": "Uwumanike ku nkingi enye zibajwe mu mushita ziyagirijweho izahabu, inkonzo zo kuri zo zicurwe mu izahabu, zishingwe mu myobo ine y'ifeza.",
+      "start": 10.3,
+      "end": 31.74
+    },
+    "33": {
+      "text": "Umanike uwo mwenda munsi ya bya bikwasi, ushyire hirya yawo ya sanduku y'Ibihamya, uwo mwenda ubabere urugabano rw'Ahera n'Ahera cyane.",
+      "start": 3.66,
+      "end": 20.09
+    },
+    "34": {
+      "text": "Kandi uzashyire ya ntebe y'ihongerero kuri iyo sanduku y'Ibihamya, iri Ahera cyane.",
+      "start": 19.9,
+      "end": 26.33
+    },
+    "35": {
+      "text": "Kandi ya meza uyashyire hino y'uwo mwenda, na cya gitereko cy'amatabaza ugishyire mu ruhande rw'iburyo rw'ubwo buturo, kibangikane n'ayo meza, ameza uyashyire mu ruhande rw'ibumoso.",
+      "start": 31.81,
+      "end": 44.3
+    },
+    "36": {
+      "text": "“Kandi umwenda wo gukinga umuryango w'iryo Hema, uzawuremeshe ubudodo bw'umukara wa kabayonga, n'ubw'umuhengeri n'ubw'umuhemba, n'ubw'ibitare byiza buboheranije, abahanga b'ibyo abe ari bo bawudodaho amabara.",
+      "start": 3.95,
+      "end": 8.25
+    },
+    "37": {
+      "text": "Kandi uzawubārize inkingi eshanu mu mushita uziyagirizeho izahabu, inkonzo zo kuri zo zicurwe mu izahabu, kandi utekere izo nkingi imiringa, ivemo imyobo itanu yo kuzishingamo.",
+      "start": 34.3,
+      "end": 41.32
+    }
+  }
+}

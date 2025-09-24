@@ -1,0 +1,138 @@
+{
+  "book": "Book 5",
+  "book_canonical": "deuteronomy",
+  "book_number": 5,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Ntihakagire ucyura muka se, ntakorosore umwenda wa se ngo amwambike ubusa.",
+      "start": 12.62,
+      "end": 28.58
+    },
+    "2": {
+      "text": "Umenetse ibinyita bito cyangwa ushahuwe, ntakajye mu iteraniro ry'Uwiteka.",
+      "start": 11.98,
+      "end": 27.74
+    },
+    "3": {
+      "text": "Ikibyarwa n'ikinyandaro ntibikajye mu iteraniro ry'Uwiteka, ntihakagire uwo mu rubyaro rwabo ujya mu iteraniro ry'Uwiteka, kugeza ku buzukuruza babo b'ibihe cumi.",
+      "start": 36.53,
+      "end": 43.65
+    },
+    "4": {
+      "text": "Umwamoni cyangwa Umumowabu ntakajye mu iteraniro ry'Uwiteka, iteka ntihakagire uwo mu rubyaro rwabo ujya mu iteraniro ry'Uwiteka, kugeza ku buzukuruza babo b'ibihe cumi,",
+      "start": 40.51,
+      "end": 42.54
+    },
+    "5": {
+      "text": "kuko batabasanganije ibyokurya n'amazi ubwo mwavaga muri Egiputa, kandi kuko baguriye Balāmu mwene Bewori w'i Petori yo muri Mezopotamiya ngo akuvume.",
+      "start": 42.33,
+      "end": 43.27
+    },
+    "6": {
+      "text": "Ariko Uwiteka Imana yawe yanga kumvira Balāmu, ahubwo Uwiteka Imana yawe iguhindurira umuvumo kuba umugisha, kuko Uwiteka Imana yawe yagukundaga.",
+      "start": 32.71,
+      "end": 39.26
+    },
+    "7": {
+      "text": "Ntuzabashakire amahoro cyangwa ibyiza iminsi yose ukiriho.",
+      "start": 28.48,
+      "end": 32.37
+    },
+    "8": {
+      "text": "Ntukange urunuka Umwedomu kuko ari mwene wanyu, ntukange urunuka Umunyegiputa kuko wari umusuhuke mu gihugu cyabo.",
+      "start": 11.24,
+      "end": 22.61
+    },
+    "9": {
+      "text": "Abuzukuru babo bazajye mu iteraniro ry'Uwiteka.",
+      "start": 34.0,
+      "end": 40.82
+    },
+    "10": {
+      "text": "Nutabara kurwanya ababisha bawe ukagerereza, uzirinde ikibi cyose.",
+      "start": 17.27,
+      "end": 25.43
+    },
+    "11": {
+      "text": "Muri mwe nihaba umugabo wahumanijwe n'ibyamubayeho nijoro, azave mu rugerero ye kuhagaruka",
+      "start": 21.56,
+      "end": 25.84
+    },
+    "12": {
+      "text": "ariko nibujya kwira yiyuhagire, izuba ryamara kurenga akagaruka mu rugerero.",
+      "start": 0.38,
+      "end": 36.22
+    },
+    "13": {
+      "text": "Kandi uzagire ahantu h'inyuma y'urugerero aho muca kwihagarika,",
+      "start": 0.95,
+      "end": 9.3
+    },
+    "14": {
+      "text": "kandi mu bintu byawe uzajyanemo igihōsho, nusohoka ukicara ugicukuze, uhindukire utwikīre aho uhagurutse.",
+      "start": 6.31,
+      "end": 19.24
+    },
+    "15": {
+      "text": "Kuko Uwiteka Imana yawe igendera hagati aho muganditse kugira ngo igukize, ikugabize ababisha bawe bari imbere yawe. Ni cyo gituma aho muganditse hakwiriye kuba ahera itababonamo ikintu cyose giteye isoni, igahindukira ikabavamo.",
+      "start": 33.47,
+      "end": 42.31
+    },
+    "16": {
+      "text": "Imbata icitse shebuja ikaguhungiraho ntuzayimusubize.",
+      "start": 1.35,
+      "end": 7.91
+    },
+    "17": {
+      "text": "Ibane namwe hagati muri mwe, aho izatoranya muri umwe mu midugudu yanyu, aho ikunze kuba ntuzayigirire nabi.",
+      "start": 1.8,
+      "end": 39.67
+    },
+    "18": {
+      "text": "Ntihazagire maraya mu Bisirayelikazi, ntihazagire utinga abagabo mu Bisirayeli.",
+      "start": 12.92,
+      "end": 18.32
+    },
+    "19": {
+      "text": "Ntuzajyane igisasūro cya maraya cyangwa ibihembo by'utingwa mu nzu y'Uwiteka Imana yawe ngo uhiguze umuhigo wose, kuko ibyo byombi ari ibizira Uwiteka Imana yawe yanga urunuka.",
+      "start": 36.83,
+      "end": 40.07
+    },
+    "20": {
+      "text": "Ntuzaguririze mwene wanyu ku mwaka inyungu, naho yaba iy'ifeza cyangwa iy'ibyokurya, cyangwa iy'ikindi kintu cyose kiguririzwa kubona inyungu.",
+      "start": 3.05,
+      "end": 5.27
+    },
+    "21": {
+      "text": "Umunyamahanga wemererwa kumuguririza ku mwaka inyungu, ariko mwene wanyu ntuzamwake inyungu, Uwiteka Imana yawe ibone kuguhera umugisha ibyo ugerageza gukorera byose mu gihugu ujyanwamo no guhindūra.",
+      "start": 18.2,
+      "end": 29.27
+    },
+    "22": {
+      "text": "Nuhiga Uwiteka Imana yawe umuhigo ntuzatinde kuwuhigura, kuko Uwiteka Imana yawe itazabura kuwukubaza bikakubera icyaha,",
+      "start": 35.26,
+      "end": 41.84
+    },
+    "23": {
+      "text": "ariko niwirinda guhiga ntibizakubera icyaha.",
+      "start": 40.84,
+      "end": 41.83
+    },
+    "24": {
+      "text": "Ijambo riva mu kanwa kawe ujye uryitondera urisohoze, numara guhiga Uwiteka Imana yawe umuhigo wahigishijwe n'umutima ukunze, ukawusezeranisha akanwa kawe.",
+      "start": 8.03,
+      "end": 9.3
+    },
+    "25": {
+      "text": "Nujya mu ruzabibu rwa mwene wanyu, wemererwa kurya inzabibu ugahaga uko ushaka, ariko ntuzagire izo usoromera mu kintu ufite.",
+      "start": 23.99,
+      "end": 43.06
+    },
+    "26": {
+      "text": "Nujya mu masaka ya mugenzi wawe agihagaze wemererwa guca amahundo, ariko ntuzatemesha umuhoro imyaka ye.",
+      "start": 16.1,
+      "end": 37.92
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 146,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Mutima wanjye, shima Uwiteka.",
+      "start": 13.11,
+      "end": 33.63
+    },
+    "2": {
+      "text": "Nzajya nshima Uwiteka nkiriho,Nzajya ndirimbira Imana yanjye ngifite ubugingo.",
+      "start": 13.89,
+      "end": 28.82
+    },
+    "3": {
+      "text": "Ntimukiringire abakomeye,Cyangwa umwana w'umuntu wese,Utabonerwamo agakiza.",
+      "start": 32.67,
+      "end": 35.64
+    },
+    "4": {
+      "text": "Umwuka we umuvamo agasubira mu butaka bwe,Uwo munsi imigambi ye igashira.",
+      "start": 14.56,
+      "end": 17.44
+    },
+    "5": {
+      "text": "Hahirwa ufite Imana ya Yakobo ho umutabazi we,Akiringira Uwiteka Imana ye.",
+      "start": 32.79,
+      "end": 36.41
+    },
+    "6": {
+      "text": "Ni we waremye ijuru n'isi,N'inyanja n'ibibirimo byose,Akomeza umurava iteka ryose.",
+      "start": 44.8,
+      "end": 44.87
+    },
+    "7": {
+      "text": "Aca imanza zitabera zirenganura abarenganwa,Agaburira abashonji ibyokurya,Uwiteka ni we ubohora imbohe.",
+      "start": 32.53,
+      "end": 37.29
+    },
+    "8": {
+      "text": "Uwiteka ni we uhumura impumyi,Uwiteka ni we wemesha abahetamye,Uwiteka ni we ukunda abakiranutsi.",
+      "start": 26.91,
+      "end": 28.7
+    },
+    "9": {
+      "text": "Uwiteka ni we urinda abasuhuke,Aramira impfubyi n'umupfakazi,Ariko inzira y'abanyabyaha arayigoreka.",
+      "start": 44.27,
+      "end": 44.41
+    },
+    "10": {
+      "text": "Uwiteka azahora ku ngoma iteka ryose,Imana yawe, Siyoni izayihoraho ibihe byose.Haleluya.",
+      "start": 22.89,
+      "end": 42.05
+    }
+  }
+}

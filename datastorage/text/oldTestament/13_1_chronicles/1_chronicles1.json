@@ -1,0 +1,278 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Adamu na Seti na Enoshi,",
+      "start": 17.16,
+      "end": 38.35
+    },
+    "2": {
+      "text": "Kenani na Mahalalēli na Yeredi,",
+      "start": 10.14,
+      "end": 22.41
+    },
+    "3": {
+      "text": "Henoki na Metusela na Lameki,",
+      "start": 12.24,
+      "end": 14.97
+    },
+    "4": {
+      "text": "Nowa na Shemu na Hamu na Yafeti.",
+      "start": 30.59,
+      "end": 36.91
+    },
+    "5": {
+      "text": "Bene Yafeti ni Gomeri na Magogi, na Madayi na Yavani, na Tubali na Mesheki na Tirasi.",
+      "start": 0.9,
+      "end": 38.55
+    },
+    "6": {
+      "text": "Bene Gomeri ni Ashikenazi na Rifati na Togaruma.",
+      "start": 42.35,
+      "end": 44.64
+    },
+    "7": {
+      "text": "Bene Yavani ni Elisha na Tarushishi, na Kitimu na Rodanimu.",
+      "start": 15.81,
+      "end": 39.98
+    },
+    "8": {
+      "text": "Bene Hamu ni Kushi na Misirayimu, na Puti na Kanāni.",
+      "start": 17.73,
+      "end": 22.68
+    },
+    "9": {
+      "text": "Bene Kushi ni Seba na Havila, na Sabuta na Rāma na Sabuteka. Bene Rāma ni Sheba na Dedani.",
+      "start": 38.54,
+      "end": 40.39
+    },
+    "10": {
+      "text": "Kushi yabyaye Nimurodi, ari we wabanje kuba umunyambaraga mu isi.",
+      "start": 6.17,
+      "end": 9.23
+    },
+    "11": {
+      "text": "Misirayimu abyara Abaludi n'Abanami, n'Abalehabi n'Abanafutuhi,",
+      "start": 28.9,
+      "end": 43.45
+    },
+    "12": {
+      "text": "n'Abapatirusi n'Abakasiluhi (ari bo Abafilisitiya bakomotseho), n'Abakafutori.",
+      "start": 28.98,
+      "end": 30.07
+    },
+    "13": {
+      "text": "Kanāni abyara imfura ye Sidoni na Heti,",
+      "start": 40.9,
+      "end": 42.44
+    },
+    "14": {
+      "text": "n'Umuyebusi n'Umwamori n'Umugirugashi,",
+      "start": 23.49,
+      "end": 36.61
+    },
+    "15": {
+      "text": "n'Umuhivi n'Umwaruki n'Umusini,",
+      "start": 5.55,
+      "end": 7.1
+    },
+    "16": {
+      "text": "n'Umunyaruvadi n'Umusemari n'Umuhamati.",
+      "start": 28.97,
+      "end": 42.19
+    },
+    "17": {
+      "text": "Bene Shemu ni Elamu na Ashuri na Arupakisadi, na Ludi na Aramu na Usi, na Huli na Geteri na Mesheki.",
+      "start": 23.01,
+      "end": 34.06
+    },
+    "18": {
+      "text": "Arupakisadi abyara Shela, Shela abyara Eberi.",
+      "start": 36.59,
+      "end": 41.73
+    },
+    "19": {
+      "text": "Eberi abyara abahungu babiri, umwe yitwaga Pelegi kuko mu minsi ye arimo isi yagabanijwe, kandi izina rya murumuna we ni Yokitani.",
+      "start": 36.63,
+      "end": 43.84
+    },
+    "20": {
+      "text": "Yokitani abyara Alimodadi na Shelefu, na Hasarumaveti na Yera,",
+      "start": 16.64,
+      "end": 25.36
+    },
+    "21": {
+      "text": "na Hadoramu na Uzali na Dikila,",
+      "start": 19.38,
+      "end": 44.73
+    },
+    "22": {
+      "text": "na Ebali na Abimayeli na Sheba,",
+      "start": 23.93,
+      "end": 36.57
+    },
+    "23": {
+      "text": "na Ofiri na Havila na Yobabu. Abo bose bari abahungu ba Yokitani.",
+      "start": 19.68,
+      "end": 35.51
+    },
+    "24": {
+      "text": "Shemu yabyaye Arupakisadi, Arupakisadi abyara Shela.",
+      "start": 25.37,
+      "end": 35.73
+    },
+    "25": {
+      "text": "Shela yabyaye Eberi, Eberi abyara Pelegi, Pelegi abyara Rewu.",
+      "start": 35.21,
+      "end": 44.87
+    },
+    "26": {
+      "text": "Rewu yabyaye Serugi, Serugu abyara Nahori, Nahori abyara Tera.",
+      "start": 23.36,
+      "end": 33.53
+    },
+    "27": {
+      "text": "Tera yabyaye Aburamu (ari we Aburahamu).",
+      "start": 12.87,
+      "end": 14.31
+    },
+    "28": {
+      "text": "Bene Aburahamu ni Isaka na Ishimayeli.",
+      "start": 28.11,
+      "end": 37.36
+    },
+    "29": {
+      "text": "Izi ni zo mbyaro zabo. Imfura ya Ishimayeli ni Nebayoti, agakurikirwa na Kedari na Adibēli na Mibusamu,",
+      "start": 16.56,
+      "end": 35.43
+    },
+    "30": {
+      "text": "na Mishuma na Duma na Masa na Hadadi na Tema,",
+      "start": 18.14,
+      "end": 27.43
+    },
+    "31": {
+      "text": "na Yeturi na Nafishi na Kedema. Abo ni bo bana ba Ishimayeli.",
+      "start": 14.9,
+      "end": 16.6
+    },
+    "32": {
+      "text": "Kandi abana ba Ketura inshoreke ya Aburahamu yabyaye Zimurani na Yokishani, na Medani na Midiyani, na Yishibaki na Shuwa. Kandi abahungu ba Yokishani ni Sheba na Dedani.",
+      "start": 19.87,
+      "end": 23.31
+    },
+    "33": {
+      "text": "Abahungu ba Midiyani ni Efa na Eferi, na Hanoki na Abida na Eluda. Abo bose bari abahungu ba Ketura.",
+      "start": 2.96,
+      "end": 18.61
+    },
+    "34": {
+      "text": "Aburahamu abyara Isaka. Bene Isaka ni Esawu na Isirayeli.",
+      "start": 30.39,
+      "end": 39.14
+    },
+    "35": {
+      "text": "Bene Esawu ni Elifazi na Reweli na Yewushi, na Yalamu na Kōra.",
+      "start": 21.25,
+      "end": 41.08
+    },
+    "36": {
+      "text": "Bene Elifazi ni Temani na Omari na Sefi, na Gatamu na Kenazi, na Timuna na Amaleki.",
+      "start": 43.24,
+      "end": 44.34
+    },
+    "37": {
+      "text": "Bene Reweli ni Nahati na Zera, na Shama na Miza.",
+      "start": 20.5,
+      "end": 28.99
+    },
+    "38": {
+      "text": "Bene Seyiri ni Lotani na Shobali, na Sibeyoni na Ana, na Dishoni na Eseri na Dishani.",
+      "start": 7.01,
+      "end": 8.39
+    },
+    "39": {
+      "text": "Bene Lotani ni Hori na Homami, kandi Timuna yari mushiki wa Lotani.",
+      "start": 31.26,
+      "end": 36.71
+    },
+    "40": {
+      "text": "Bene Shobali ni Aliyani na Manahati, na Ebali na Shefi na Onamu. Bene Sibeyoni ni Ayiya na Ana.",
+      "start": 1.05,
+      "end": 43.38
+    },
+    "41": {
+      "text": "Mwene Ana ni Dishoni, na bene Dishoni ni Hamurani na Eshibani na Yitirani na Kerani.",
+      "start": 11.12,
+      "end": 25.17
+    },
+    "42": {
+      "text": "Bene Eseri ni Biluhani na Zāvani na Yakani. Bene Dishani ni Usi na Arani.",
+      "start": 35.78,
+      "end": 40.25
+    },
+    "43": {
+      "text": "Aba ni bo bami bategekaga igihugu cya Edomu, ari nta mwami wari wategeka Abisirayeli. Bela mwene Bewori, izina ry'umurwa we witwaga Dinihaba.",
+      "start": 26.36,
+      "end": 26.39
+    },
+    "44": {
+      "text": "Bela aratanga, Yobabu mwene Zera w'i Bosira yima mu cyimbo cye.",
+      "start": 40.14,
+      "end": 42.63
+    },
+    "45": {
+      "text": "Yobabu aratanga, Hushamu wo mu gihugu cy'Abatemani yima mu cyimbo cye.",
+      "start": 23.39,
+      "end": 27.37
+    },
+    "46": {
+      "text": "Hushamu aratanga, Hadadi mwene Bedadi wanesheje Abamidiyani mu gihugu cy'i Mowabu, yima mu cyimbo cye, n'izina ry'umurwa we witwaga Aviti.",
+      "start": 24.31,
+      "end": 39.01
+    },
+    "47": {
+      "text": "Hadadi aratanga, Samula w'i Masireka yima mu cyimbo cye.",
+      "start": 10.36,
+      "end": 32.21
+    },
+    "48": {
+      "text": "Samula aratanga, Shawuli w'i Rehoboti yo ku ruzi yima mu cyimbo cye.",
+      "start": 21.73,
+      "end": 31.51
+    },
+    "49": {
+      "text": "Shawuli aratanga, Bālihanani mwene Akibori yima mu cyimbo cye.",
+      "start": 15.95,
+      "end": 22.12
+    },
+    "50": {
+      "text": "Bālihanani atanze Hadadi yima mu cyimbo cye, umurwa we witwaga Payi, (umugore we yitwaga Mehetabēli umukobwa wa Matiredi, umukobwa wa Mezahabu.)",
+      "start": 15.76,
+      "end": 28.99
+    },
+    "51": {
+      "text": "Hadadi na we aratanga. Aba ni bo batware ba Edomu: umutware Timuna n'umutware Aliya n'umutware Yeteti,",
+      "start": 23.76,
+      "end": 40.37
+    },
+    "52": {
+      "text": "n'umutware Oholibama n'umutware Ela, n'umutware Pinoni",
+      "start": 7.69,
+      "end": 43.32
+    },
+    "53": {
+      "text": "n'umutware Kenazi, n'umutware Temani, n'umutware Mibusari,",
+      "start": 31.79,
+      "end": 34.5
+    },
+    "54": {
+      "text": "n'umutware Magidiyeli n'umutware Iramu. Abo ni bo batware ba Edomu.",
+      "start": 6.91,
+      "end": 19.96
+    }
+  }
+}

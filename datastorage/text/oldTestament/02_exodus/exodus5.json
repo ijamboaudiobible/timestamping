@@ -1,0 +1,123 @@
+{
+  "book": "Book 2",
+  "book_canonical": "exodus",
+  "book_number": 2,
+  "chapter": 5,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo, Mose na Aroni baragenda babwira Farawo bati “Uwiteka Imana y'Abisirayeli, aravuze ngo ‘Rekura ubwoko bwe bugende, bumuziriririze umunsi mukuru mu butayu.’ ”",
+      "start": 43.71,
+      "end": 44.05
+    },
+    "2": {
+      "text": "Farawo arababwira ati “Uwiteka ni nde, ngo numvire ndeke Abisirayeli? Sinzi Uwiteka, kandi ntabwo narekura Abisirayeli.”",
+      "start": 34.08,
+      "end": 34.84
+    },
+    "3": {
+      "text": "Baramubwira bati “Imana y'Abaheburayo yaratubonekeye, none turakwinginze reka tujye mu butayu, tugendemo urugendo rw'iminsi itatu, dutambirireyo Uwiteka Imana yacu ibitambo, itadutera ikatwicisha mugiga cyangwa inkota.”",
+      "start": 16.98,
+      "end": 22.16
+    },
+    "4": {
+      "text": "Umwami wa Egiputa arababwira ati “Mose na Aroni, ni iki gitumye murekesha abo bantu imirimo yabo? Nimusubire mu buretwa bwanyu.”",
+      "start": 33.83,
+      "end": 40.52
+    },
+    "5": {
+      "text": "Kandi Farawo ati “Dore abantu bo mu gihugu baragwiriye, none mubaruhuye uburetwa bwabo.”",
+      "start": 32.36,
+      "end": 39.87
+    },
+    "6": {
+      "text": "Kuri uwo munsi Farawo ategeka abakoresha ubwo bwoko uburetwa, n'abatware bo muri bo ati",
+      "start": 12.47,
+      "end": 31.35
+    },
+    "7": {
+      "text": "“Ntimwongere guha abantu inganagano zo kubumbisha amatafari nka mbere, nibagende bishakire inganagano.",
+      "start": 33.68,
+      "end": 43.38
+    },
+    "8": {
+      "text": "Kandi umubare w'amatafari basanzwe babumba bawugumeho, mwe kuwubagabanirizaho na make kuko ari abanebwe. Ni cyo kibatakisha bati ‘Tugende dutambire Imana yacu ibitambo.’",
+      "start": 14.53,
+      "end": 31.65
+    },
+    "9": {
+      "text": "Abo bagabo bategekwe imirimo irushaho kurushya, bayikore be kwita ku magambo y'ibinyoma.”",
+      "start": 40.08,
+      "end": 41.09
+    },
+    "10": {
+      "text": "Abakoresha ubwo bwoko uburetwa basohokana n'abatware bo muri bo, babwira abantu bati “Farawo aravuze ngo ‘Ntabaha inganagano.",
+      "start": 40.45,
+      "end": 41.4
+    },
+    "11": {
+      "text": "Nimugende mwishakire inganagano aho mwazibona, kuko mutari bugerurirwe umubare mwaciwe na hato.’ ”",
+      "start": 21.37,
+      "end": 22.05
+    },
+    "12": {
+      "text": "Nuko abantu bakwizwa mu gihugu cya Egiputa cyose no kwishakira ibitsinsi by'inganagano mu cyimbo cy'inganagano.",
+      "start": 15.94,
+      "end": 38.3
+    },
+    "13": {
+      "text": "Kandi ababakoresha uburetwa babatera umwete bati “Mumare umubare mwaciwe w'uburetwa bw'iminsi yose, nk'uko musanzwe mukora.”",
+      "start": 23.44,
+      "end": 32.91
+    },
+    "14": {
+      "text": "Abatware bo mu Bisirayeli, abo abakoresha uburetwa ba Farawo bahaye gutwara barakubitwa, barababaza bati “Ni iki cyatuye mudasohoza umubare mwaciwe ejo na none, ntimwuzuze amatafari nka mbere?”",
+      "start": 15.43,
+      "end": 31.25
+    },
+    "15": {
+      "text": "Maze abatware bo mu Bisirayeli baragenda batakira Farawo bati “Ni iki gitumye utugirira utya abagaragu bawe?",
+      "start": 35.77,
+      "end": 42.03
+    },
+    "16": {
+      "text": "Abagaragu bawe nta nganagano duhabwa, maze bakatubwira ngo tubumbe amatafari kandi dore abagaragu bawe turakubitwa, ariko abantu bawe ni bo urubanza ruriho.”",
+      "start": 9.67,
+      "end": 17.5
+    },
+    "17": {
+      "text": "Arababwira ati “Muri abanebwe, muri abanebwe, ni cyo kibavugisha muti ‘Tugende dutambire Uwiteka ibitambo.’",
+      "start": 23.28,
+      "end": 33.85
+    },
+    "18": {
+      "text": "Nuko none nimugende mukore, kuko ari nta nganagano muzahabwa, ariko muzajye mwuzuza umubare w'amatafari.”",
+      "start": 18.45,
+      "end": 22.47
+    },
+    "19": {
+      "text": "Abatware bo mu Bisirayeli bamenya ko babonye ishyano, kuko babwiwe ko batazica umubare w'amatafari babumba ho na muke w'uburetwa bwabo bw'iminsi yose.",
+      "start": 24.04,
+      "end": 31.86
+    },
+    "20": {
+      "text": "Bavuye kwa Farawo bahura na Mose na Aroni, bahagaze mu nzira,",
+      "start": 7.68,
+      "end": 24.44
+    },
+    "21": {
+      "text": "barababwira bati “Uwiteka abarebe abacire urubanza kuko mutumye Farawo n'abagaragu be batwanga urunuka, mukabaha inkota yo kutwica.”",
+      "start": 22.15,
+      "end": 37.09
+    },
+    "22": {
+      "text": "Mose asubira ku Uwiteka aramubaza ati “Mwami, ni iki gitumye ugirira nabi ubwo bwoko? Ni iki cyaguteye kuntuma?",
+      "start": 14.24,
+      "end": 19.58
+    },
+    "23": {
+      "text": "Kuko uhereye aho nagiriye kwa Farawo, nkavugana na we mu izina ryawe, agirira nabi ubwo bwoko, nawe nta cyo wabakijije na gito.”",
+      "start": 42.32,
+      "end": 43.79
+    }
+  }
+}

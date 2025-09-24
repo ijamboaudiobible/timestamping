@@ -1,0 +1,163 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 23.23,
+      "end": 38.78
+    },
+    "2": {
+      "text": "“Tegeka Abisirayeli uti ‘Ibitambo byanjye, ibyokurya byanjye by'ibitambo n'amaturo bikongorwa n'umuriro by'umubabwe umpumurira neza, mujye mwitondera kubintambira mu bihe byabyo byategetswe.’",
+      "start": 40.53,
+      "end": 43.0
+    },
+    "3": {
+      "text": "“Ubabwire uti ‘Ibi ni byo bitambo n'amaturo bikongorwa n'umuriro mukwiriye kujya mutambira Uwiteka: uko bukeye mujye mutamba abana b'intama b'amasekurume babiri bataramara umwaka, badafite inenge ho ibitambo byo koswa bitambwe ubudasiba.",
+      "start": 3.76,
+      "end": 43.12
+    },
+    "4": {
+      "text": "Ujye utamba umwe mu gitondo, undi ujye uwutamba nimugoroba.",
+      "start": 3.18,
+      "end": 3.94
+    },
+    "5": {
+      "text": "Ujye uturana na bo igice cya cumi cya efa y'ifu y'ingezi, yavuganywe n'igice cya kane cya hini y'amavuta ya elayo zasekuwe ho ituro ry'ifu.",
+      "start": 28.93,
+      "end": 37.71
+    },
+    "6": {
+      "text": "Ibyo ni ibitambo byoswa bitambwa ubudasiba byategekewe ku musozi wa Sinayi, ngo bibe umubabwe w'ibitambo bitambirwa Uwiteka bigakongorwa n'umuriro.",
+      "start": 13.84,
+      "end": 37.79
+    },
+    "7": {
+      "text": "Ituro ry'ibyokunywa uturana n'umwana w'intama umwe, rijye riba igice cya kane cya hini. Ahantu hera abe ari ho ubyarira ituro ry'ibisindisha utura Uwiteka.",
+      "start": 28.33,
+      "end": 36.15
+    },
+    "8": {
+      "text": "Umwana w'intama wundi ujye uwutamba nimugoroba, uturane na wo ituro ry'ifu n'iry'ibyokunywa nk'aturwa mu gitondo, bibe igitambo gikongorwa n'umuriro cy'umubabwe uhumurira Uwiteka neza.",
+      "start": 43.95,
+      "end": 44.97
+    },
+    "9": {
+      "text": "“ ‘Ku isabato mujye mutamba abana b'intama babiri b'amasekurume bataramara umwaka badafite inenge, muture ibice bya cumi bibiri bya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu, muture n'ituro ry'ibyokunywa ryo kuri byo.",
+      "start": 39.46,
+      "end": 42.54
+    },
+    "10": {
+      "text": "Ibyo ni ibitambo byo koswa ku masabato yose, byongerwe ku bitambo bitambwa ubudasiba no ku maturo y'ibyokunywa aturanwa na byo.",
+      "start": 20.3,
+      "end": 24.33
+    },
+    "11": {
+      "text": "“ ‘Kandi mu mboneko z'amezi yanyu, mujye mutambira Uwiteka ibitambo byo koswa by'ibimasa by'imisore bibiri n'isekurume y'intama imwe, n'abana b'intama b'amasekurume barindwi bataramara umwaka badafite inenge.",
+      "start": 25.47,
+      "end": 33.84
+    },
+    "12": {
+      "text": "Mujye muturana n'ikimasa cyose, ibice bya cumi bitatu bya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu, muturane na ya sekurume y'intama ibice bya cumi bibiri bya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu.",
+      "start": 36.18,
+      "end": 40.55
+    },
+    "13": {
+      "text": "Muturane n'umwana w'intama wose, igice cya cumi cya efa y'ifu y'ingezi yavuganywe n'amavuta ya elayo ho ituro ry'ifu: bibe ibitambo by'umubabwe, ibitambo bitambirwa Uwiteka bigakongorwa n'umuriro.",
+      "start": 1.34,
+      "end": 6.68
+    },
+    "14": {
+      "text": "Aya abe ari yo aba amaturo y'ibyokunywa aturanwa na byo: igice cya kabiri cya hini ya vino gituranwe n'ikimasa cyose, igice cya gatatu cya hini gituranwe na ya sekurume y'intama, igice cya kane cya hini gituranwe n'umwana w'intama wose. Ibyo abe ari byo biba ibitambo byo koswa mu mboneko z'amezi, uko ukwezi gutashye mu mwaka wose.",
+      "start": 39.6,
+      "end": 41.81
+    },
+    "15": {
+      "text": "Kandi mujye mutambira Uwiteka n'isekurume y'ihene ho igitambo gitambirwa ibyaha, cyongerwe ku bitambo byoswa bitambwa ubudasiba no ku maturo y'ibyokunywa aturanwa na byo.",
+      "start": 7.71,
+      "end": 44.0
+    },
+    "16": {
+      "text": "“ ‘Mu kwezi kwa mbere ku munsi wako wa cumi n'ine, hajye habaho Pasika y'Uwiteka.",
+      "start": 24.87,
+      "end": 32.01
+    },
+    "17": {
+      "text": "Ku munsi w'uko kwezi wa cumi n'itanu hatangirireho iminsi mikuru, bajye bamara iminsi irindwi barya imitsima itasembuwe.",
+      "start": 4.14,
+      "end": 30.15
+    },
+    "18": {
+      "text": "Ku munsi uyitangira mujye muteranira kuba iteraniro ryera, ntimukagire umurimo w'ubugaragu muwukoraho.",
+      "start": 36.37,
+      "end": 41.66
+    },
+    "19": {
+      "text": "Ariko mujye mutamba ibitambo bikongorwa n'umuriro byoserezwa Uwiteka, by'ibimasa by'imisore bibiri n'isekurume y'intama imwe, n'abana b'intama b'amasekurume barindwi bataramara umwaka, mujye mubitamba bidafite inenge.",
+      "start": 24.76,
+      "end": 24.79
+    },
+    "20": {
+      "text": "Muturane na byo amaturo y'ifu y'ingezi yavuganywe n'amavuta ya elayo, muturane n'ikimasa cyose ibice bya cumi bitatu bya efa, muturane na ya sekurume y'intama ibice bya cumi bibiri bya efa.",
+      "start": 4.15,
+      "end": 37.22
+    },
+    "21": {
+      "text": "Muturane n'umwana w'intama wose wo muri abo uko ari barindwi, igice cya cumi cya efa.",
+      "start": 11.1,
+      "end": 38.1
+    },
+    "22": {
+      "text": "Kandi mujye mutamba isekurume y'ihene ho igitambo gitambirwa ibyaha, cyo kubahongerera.",
+      "start": 36.51,
+      "end": 41.03
+    },
+    "23": {
+      "text": "Ibyo bitambo mubyongere ku gitambo cya mu gitondo. Ni cyo gitambo gitambwa ubudasiba.",
+      "start": 1.2,
+      "end": 35.51
+    },
+    "24": {
+      "text": "Uko abe ari ko mujya mutamba mu minsi irindwi ubudasiba ibyokurya by'Imana, ibitambo bikongorwa n'umuriro by'umubabwe uhumurira Uwiteka neza. Byongerwe ku bitambo byoswa bitambwa ubudasiba no ku maturo y'ibyokunywa aturanwa na byo.",
+      "start": 12.14,
+      "end": 35.11
+    },
+    "25": {
+      "text": "Kandi ku munsi wa karindwi mujye muteranira kuba iteraniro ryera, ntimukagire umurimo w'ubugaragu muwukoraho.",
+      "start": 40.25,
+      "end": 44.45
+    },
+    "26": {
+      "text": "“ ‘Kandi ku munsi w'umuganura, nimuganurira Uwiteka ituro ry'umuganura ku munsi mukuru ukurikira amasabato arindwi, mujye muteranira kuba iteraniro ryera, ntimukagire umurimo w'ubugaragu muwukoraho.",
+      "start": 13.15,
+      "end": 17.4
+    },
+    "27": {
+      "text": "Ariko mujye mutamba ibitambo byoswa by'umubabwe uhumurira Uwiteka neza, by'ibimasa by'imisore bibiri n'isekurume y'intama imwe, n'abana b'intama b'amasekurume barindwi bataramara umwaka.",
+      "start": 14.07,
+      "end": 25.75
+    },
+    "28": {
+      "text": "Muturane na byo amaturo y'ifu yo kuri byo y'ifu y'ingezi yavuganywe n'amavuta ya elayo, muturane n'ikimasa cyose ibice bya cumi bitatu bya efa, muturane na ya sekurume y'intama ibice bya cumi bibiri bya efa.",
+      "start": 42.58,
+      "end": 44.56
+    },
+    "29": {
+      "text": "Muturane n'umwana w'intama wose wo muri abo uko ari barindwi igice cya cumi cya efa,",
+      "start": 23.03,
+      "end": 35.52
+    },
+    "30": {
+      "text": "kandi mujye mutamba isekurume y'ihene yo kubahongerera.",
+      "start": 22.49,
+      "end": 35.97
+    },
+    "31": {
+      "text": "Mujye mutamba ibyo bitambo bidafite inenge, muturane na byo amaturo y'ibyokunywa yo kuri byo, mubyongere ku bitambo byoswa bitambwa ubudasiba no ku maturo y'ifu aturanwa na byo.",
+      "start": 44.49,
+      "end": 44.5
+    }
+  }
+}

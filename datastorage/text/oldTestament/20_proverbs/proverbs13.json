@@ -1,0 +1,133 @@
+{
+  "book": "Book 20",
+  "book_canonical": "proverbs",
+  "book_number": 20,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Umwana ufite ubwenge yemera icyo se amwigishaAriko umukobanyi ntiyemera guhanwa.",
+      "start": 13.09,
+      "end": 35.73
+    },
+    "2": {
+      "text": "Umuntu azahazwa ibyiza n'imbuto zituruka mu kanwa ke,Ariko ubugingo bw'abagambana buzahazwa urugomo.",
+      "start": 28.91,
+      "end": 43.98
+    },
+    "3": {
+      "text": "Ufashe ururimi rwe aba arinze ubugingo bwe,Ariko ubumbura akanwa ke azarimbuka.",
+      "start": 10.61,
+      "end": 34.92
+    },
+    "4": {
+      "text": "Umutima w'umunyabute urifuza kandi nta cyo ari bubone,Ariko umutima w'umunyamwete uzahazwa.",
+      "start": 4.62,
+      "end": 33.25
+    },
+    "5": {
+      "text": "Umukiranutsi yanga ibinyoma,Ariko umunyabyaha arigayisha kandi akikoza isoni.",
+      "start": 25.08,
+      "end": 43.46
+    },
+    "6": {
+      "text": "Gukiranuka birinda ugenda atunganye mu nzira ze,Ariko gukiranirwa bigusha umunyabyaha.",
+      "start": 4.72,
+      "end": 24.42
+    },
+    "7": {
+      "text": "Hariho uwigira umukire kandi nta cyo afite,Hariho uwigira umukene kandi ari umukire cyane.",
+      "start": 42.34,
+      "end": 44.0
+    },
+    "8": {
+      "text": "Incungu y'ubugingo bw'umuntu ni ubutunzi bwe,Ariko umukene nta cyo akangishwa.",
+      "start": 0.69,
+      "end": 22.96
+    },
+    "9": {
+      "text": "Umucyo w'umukiranutsi uranezeza,Ariko urumuri rw'umunyabyaha ruzazima.",
+      "start": 34.64,
+      "end": 44.74
+    },
+    "10": {
+      "text": "Ubwibone butera intonganya gusa,Ariko ubwenge bufitwe n'abagirwa inama nziza.",
+      "start": 34.31,
+      "end": 44.2
+    },
+    "11": {
+      "text": "Ubutunzi bw'amahugu buzagabanuka,Ariko urundarunda ibintu avunika azunguka.",
+      "start": 3.47,
+      "end": 20.83
+    },
+    "12": {
+      "text": "Ubwiringiro burerezwe butera umutima kurwara,Ariko iyo icyifujwe kibonetse kiba igiti cy'ubugingo.",
+      "start": 15.13,
+      "end": 25.69
+    },
+    "13": {
+      "text": "Uhinyura ijambo aba yizanira kurimbuka,Ariko uwumvira itegeko azagororerwa.",
+      "start": 35.31,
+      "end": 40.19
+    },
+    "14": {
+      "text": "Kwigisha kw'abanyabwenge ni isōko y'ubugingo,Gutuma umuntu ava mu mitego y'urupfu.",
+      "start": 13.48,
+      "end": 27.74
+    },
+    "15": {
+      "text": "Kumenya gutunganye gutera igikundiro,Ariko inzira z'abagambanyi zirarushya.",
+      "start": 25.31,
+      "end": 38.54
+    },
+    "16": {
+      "text": "Umunyamakenga wese akorana ubwenge,Ariko umupfapfa agaragaza ubupfu bwe.",
+      "start": 34.51,
+      "end": 37.1
+    },
+    "17": {
+      "text": "Intumwa mbi igwa mu kaga,Ariko intumwa idatenguha itera kugubwa neza.",
+      "start": 44.83,
+      "end": 44.89
+    },
+    "18": {
+      "text": "Uwanga guhanwa bimutera ubukene kandi bikamukoza isoni,Ariko uwemera gucyahwa azakuzwa.",
+      "start": 2.14,
+      "end": 25.55
+    },
+    "19": {
+      "text": "Ibyifuzwa iyo bibonetse binezeza umutima,Ariko abapfu bo ni ikizira kuri bo kureka ibibi.",
+      "start": 4.1,
+      "end": 13.85
+    },
+    "20": {
+      "text": "Ugendana n'abanyabwenge azaba umunyabwenge na we,Ariko mugenzi w'abapfu azabihanirwa.",
+      "start": 28.16,
+      "end": 38.12
+    },
+    "21": {
+      "text": "Ibyago bikurikirana abanyabyaha,Ariko abakiranutsi bazagororerwa ibyiza.",
+      "start": 9.54,
+      "end": 34.84
+    },
+    "22": {
+      "text": "Umuntu mwiza asiga umwandu uzagera ku buzukuru be,Kandi ubutunzi bw'abanyabyaha bubikiwe abakiranutsi.",
+      "start": 5.19,
+      "end": 21.79
+    },
+    "23": {
+      "text": "Imyaka myinshi iva mu mirima y'abakene,Ariko hari ikeneshejwe n'akarengane.",
+      "start": 10.5,
+      "end": 34.01
+    },
+    "24": {
+      "text": "Urinda umwana inkoni aba amwanze,Ariko ukunda umwana we amuhana hakiri kare.",
+      "start": 32.36,
+      "end": 34.7
+    },
+    "25": {
+      "text": "Umukiranutsi ararya agahaga,Ariko inda y'umunyabyaha izasonza.",
+      "start": 36.54,
+      "end": 41.87
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 22,
+  "verses": {
+    "1": {
+      "text": "Nyuma Yosuwa ahamagaza Abarubeni n'Abagadi, n'ab'igice cy'umuryango wa Manase",
+      "start": 40.1,
+      "end": 44.3
+    },
+    "2": {
+      "text": "arababwira ati “Mwashohoje ibyo Mose umugaragu w'Uwiteka yabategetse byose, no mu byanjye nabategetse byose na byo mwaranyumviye.",
+      "start": 33.62,
+      "end": 41.33
+    },
+    "3": {
+      "text": "Kandi icyo gihe cyose kugeza ubu ntabwo mwahemukiye bene wanyu, n'amategeko y'Uwiteka Imana yanyu na yo mwarayitondeye.",
+      "start": 14.07,
+      "end": 28.83
+    },
+    "4": {
+      "text": "Uwiteka Imana yanyu yaruhuye bene wanyu nk'uko yabasezeranyije, noneho mwebwe nimujye mu mahema yanyu muzasubire mu gihugu mwahawe, icyo Mose umugaragu w'Uwiteka yabahaye hakurya ya Yorodani.",
+      "start": 11.26,
+      "end": 13.38
+    },
+    "5": {
+      "text": "Icyakora mujye mugira umwete wo kwitondera amategeko, n'ibyo Mose umugaragu w'Uwiteka yabategetse ati ‘Nimukunde Uwiteka Imana yanyu, mugende mu nzira ibayoboye zose, mwitondere amategeko mwomatane na we, mukoreshereze Uwiteka Imana yanyu imitima yanyu yose n'ubugingo bwanyu bwose.’ ”",
+      "start": 13.77,
+      "end": 35.7
+    },
+    "6": {
+      "text": "Maze Yosuwa abaha umugisha, arabasezerera basubira mu mahema yabo.",
+      "start": 30.53,
+      "end": 32.78
+    },
+    "7": {
+      "text": "Nuko igice kimwe cy'umuryango wa Manase, Mose yabahaye gakondo yabo i Bashani, ariko ikindi gice Yosuwa ni we wabahaye gakondo muri bene wabo hakuno ya Yorodani, iburengerazuba. Ariko Yosuwa akibasezerera ngo basubire mu mahema yabo, abaha umugisha na bo.",
+      "start": 43.36,
+      "end": 44.6
+    },
+    "8": {
+      "text": "Maze arababwira ati “Nimusubire iwanyu mu mahema yanyu mujyanye ubutunzi bwinshi, murongōye amatungo menshi cyane, mujyanye ifeza n'izahabu n'imiringa, n'ibyuma n'imyenda myinshi cyane, nuko nimugabane na bene wanyu iminyago y'ababisha banyu.”",
+      "start": 0.27,
+      "end": 42.05
+    },
+    "9": {
+      "text": "Nuko Abarubeni n'Abagadi n'ab'igice cy'umuryango wa Manase, basubirayo bava mu Bisirayeli i Shilo yo mu gihugu cy'i Kanāni, bajya mu gihugu cy'i Galeyadi icyo bahindūye, aho bahawe gakondo nk'uko Uwiteka yategekesheje ururimi rwa Mose.",
+      "start": 17.87,
+      "end": 26.61
+    },
+    "10": {
+      "text": "Bagera mu gihugu gihereranye na Yorodani mu gihugu cy'i Kanāni, bahiyubakira igicaniro cy'amabuye kuri Yorodani cy'ikimenywabose.",
+      "start": 40.91,
+      "end": 41.59
+    },
+    "11": {
+      "text": "Bukeye Abisirayeli bumva ko Abarubeni n'Abagadi n'ab'igice cy'umuryango wa Manase bubatse igicaniro mu irasukiro ry'i Kanāni, mu gihugu gihereranye na Yorodani mu bw'Abisirayeli.",
+      "start": 34.07,
+      "end": 34.78
+    },
+    "12": {
+      "text": "Nuko rero Abisirayeli babimenye, iteraniro ryabo ryose riteranira i Shilo kugira ngo bajye kubarwanya.",
+      "start": 24.05,
+      "end": 39.88
+    },
+    "13": {
+      "text": "Abisirayeli baherako batuma Finehasi mwene Eleyazari umutambyi, ku Barubeni n'Abagadi n'ab'igice cy'umuryango wa Manase mu gihugu cy'i Galeyadi,",
+      "start": 14.86,
+      "end": 36.8
+    },
+    "14": {
+      "text": "bamutumana n'abatware cumi. Umuryango wose w'Abisirayeli utoranywamo umutware umwe w'inzu ya sekuruza, umuntu wese muri bo yatoranyijwe mu bihumbi by'Abisirayeli ari umukuru w'inzu ya sekuruza.",
+      "start": 3.72,
+      "end": 5.81
+    },
+    "15": {
+      "text": "Nuko bageze ku Barubeni n'Abagadi n'ab'igice cy'umuryango wa Manase mu gihugu cy'i Galeyadi, barababwira bati",
+      "start": 30.09,
+      "end": 31.84
+    },
+    "16": {
+      "text": "“Iteraniro ryose ry'Uwiteka ryadutumye ngo ‘Iki gicumuro mwacumuye ku Mana y'Abisirayeli mwagicumuriye iki, ko muretse kuyoborwa n'Uwiteka mukiyubakira igicaniro, mukamugomera?",
+      "start": 22.72,
+      "end": 38.73
+    },
+    "17": {
+      "text": "Mbese igicumuro cya Pewori kiratworoheye, icyo tutarakiranuka na cyo na bugingo n'ubu? Nubwo mugiga yateye mu iteraniro ry'Uwiteka,",
+      "start": 29.49,
+      "end": 37.45
+    },
+    "18": {
+      "text": "byatuma muteshuka mukareka kuyoborwa n'Uwiteka? Kandi uyu munsi nimugomera Uwiteka, ejo azarakarira iteraniro ryose ry'Abisirayeli.",
+      "start": 6.45,
+      "end": 13.76
+    },
+    "19": {
+      "text": "Niba igihugu cyanyu ari igihugu cyanduye, nimwambuke muze mu gihugu cy'ubuturo bw'Uwiteka, aho ihema ry'Uwiteka riri muturane natwe, ariko mwe kugomera Uwiteka, natwe mwe kutugomera, ngo mwiyubakire igicaniro kidatunganiye Uwiteka Imana yacu.",
+      "start": 23.67,
+      "end": 24.21
+    },
+    "20": {
+      "text": "Mbese wa mugabo Akani mwene Zera ntiyacumuye akenda ku byashinganywe, umujinya w'Uwiteka ugaherako ukamanukira mu iteraniro ry'Abisirayeli? Kandi ubwo uwo mugabo yacumuraga, si we warimbutse wenyine.’ ”",
+      "start": 8.02,
+      "end": 33.44
+    },
+    "21": {
+      "text": "Nuko Abarubeni n'Abagadi n'ab'igice cy'umuryango wa Manase barabasubiza, babwira abo batware b'ibihumbi by'Abisirayeli bati",
+      "start": 19.93,
+      "end": 24.65
+    },
+    "22": {
+      "text": "“Uwiteka Imana nyamana, Uwiteka Imana nyamana ni yo ibizi, kandi Abisirayeli na bo bazabimenya. Niba twarabikoreye ubugome cyangwa gucumura ku Uwiteka, uyu munsi ntimureke dukira.",
+      "start": 44.79,
+      "end": 44.96
+    },
+    "23": {
+      "text": "Niba twariyubakiye igicaniro kugira ngo duteshuke tureke kuyoborwa n'Uwiteka, cyangwa kugira ngo dutambireho ibitambo byoswa cyangwa iby'ishimwe yuko turi amahoro, cyangwa ngo duturireho amaturo y'amafu y'impeke, Uwiteka ubwe abiduhore.",
+      "start": 44.63,
+      "end": 44.9
+    },
+    "24": {
+      "text": "Ahubwo twabigize dufite impamvu, kugira ngo mu gihe kizaza abana banyu batazabaza abacu bati ‘Muhuriye he n'Uwiteka Imana y'Abisirayeli?",
+      "start": 22.57,
+      "end": 32.23
+    },
+    "25": {
+      "text": "Ko Uwiteka yagize Yorodani urugabano hagati yacu namwe, mwa Barubeni n'Abagadi mwe? Nta mugabane mufite ku Uwiteka.’ Ni ko abana banyu bazabuza abacu kūbaha Uwiteka.",
+      "start": 36.13,
+      "end": 40.14
+    },
+    "26": {
+      "text": "Ni cyo cyatumye twigira inama tuti ‘Henga twiyubakire igicaniro kitari icy'ibitambo byoswa cyangwa ibindi bitambo’,",
+      "start": 21.49,
+      "end": 30.57
+    },
+    "27": {
+      "text": "ahubwo kizabe umuhamya hagati yacu namwe, no hagati y'abuzukuruza bacu bazadukurikira, kugira ngo dukoreshereze Uwiteka ibitambo byacu byoswa, n'ibindi bitambo n'ibitambo by'ishimwe yuko turi amahoro, abana banyu be kuzabwira abacu mu gihe kizaza bati ‘Nta mugabane mufite ku Uwiteka.’",
+      "start": 40.64,
+      "end": 43.35
+    },
+    "28": {
+      "text": "Ni cyo gituma tuvuga tuti ‘Nibatubwira batyo, cyangwa abuzukuruza bacu bo mu gihe kizaza, tuzaherako tubasubize tuti: Dore imyubakire y'igicaniro cy'Uwiteka ba data bubatse, kitari icy'ibitambo byoswa cyangwa ibindi bitambo, ahubwo ni umuhamya hagati yacu namwe.’ ”",
+      "start": 21.12,
+      "end": 30.52
+    },
+    "29": {
+      "text": "Barongera baravuga bati “Biragatsindwa ko twagomera Uwiteka uyu munsi, tugateshuka tukareka kuyoborwa na we, tukiyubakira igicaniro cy'ibitambo byoswa, cyangwa icyo guturiraho amaturo y'amafu y'impeke cyangwa n'ibindi bitambo, kitari igicaniro cy'Uwiteka Imana yacu kiri imbere y'ihema ryayo.”",
+      "start": 10.27,
+      "end": 43.68
+    },
+    "30": {
+      "text": "Maze Finehasi umutambyi n'abatware b'iteraniro, ari bo batware b'ibihumbi by'Abisirayeli bari kumwe na we, bumvise uko Abarubeni n'Abagadi n'Abamanase babashubije, birabanezeza cyane.",
+      "start": 14.19,
+      "end": 22.31
+    },
+    "31": {
+      "text": "Nuko Finehasi mwene Eleyazari umutambyi, abwira Abarubeni n'Abagadi n'Abamanase ati “Noneho uyu munsi tumenye yuko Uwiteka ari hagati muri twe, kuko mutacumuye ku Uwiteka mutyo. None mukikije Abisirayeli amaboko y'Uwiteka.”",
+      "start": 44.06,
+      "end": 44.82
+    },
+    "32": {
+      "text": "Finehasi mwene Eleyazari umutambyi na ba batware, bava mu gihugu cy'i Galeyadi cy'Abarubeni n'Abagadi, basubira i Kanāni mu Bisirayeli bababwira uko babashubije.",
+      "start": 32.54,
+      "end": 38.74
+    },
+    "33": {
+      "text": "Ibyo binezeza Abisirayeli bahimbaza Imana, ntibasubira kuvuga ko bazabarwanya bakarimbura igihugu Abarubeni n'Abagadi batuyemo.",
+      "start": 44.08,
+      "end": 44.46
+    },
+    "34": {
+      "text": "Nuko Abarubeni n'Abagadi bahimba icyo gicaniro Edi, risobanurwa ngo ni umuhamya wo muri twe, yuko Uwiteka ari yo Mana.",
+      "start": 26.32,
+      "end": 43.88
+    }
+  }
+}

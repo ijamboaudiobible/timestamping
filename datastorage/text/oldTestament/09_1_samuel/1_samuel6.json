@@ -1,0 +1,113 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Isanduku y'Imana yamaze amezi arindwi mu gihugu cy'Abafilisitiya.",
+      "start": 20.86,
+      "end": 24.8
+    },
+    "2": {
+      "text": "Bukeye Abafilisitiya bahamagara abatambyi n'abapfumu barabaza bati “Iyi sanduku y'Uwiteka tuyigire dute? Mudusobanurire uburyo twayisubiza ahantu hayo.”",
+      "start": 13.61,
+      "end": 27.64
+    },
+    "3": {
+      "text": "Barabasubiza bati “Nimwohereze isanduku y'Imana ya Isirayeli ntimuyohereze yonyine, ahubwo muyisubizanyeyo n'amaturo y'impongano mubone gukira, kandi muzamenye icyatumye ukuboko k'Uwiteka kutaretse kubagwa nabi.”",
+      "start": 8.77,
+      "end": 15.82
+    },
+    "4": {
+      "text": "Barababaza bati “Mbese twamutura turo ki ry'impongano?”Barabasubiza bati “Muture ibibyimba byacuzwe mu izahabu bitanu, n'imbeba zacuzwe mu izahabu eshanu nk'uko umubare w'abatware b'Abafilisitiya ungana, kuko mwebwe mwese n'abatware banyu mwasangiye icyo cyago.",
+      "start": 31.36,
+      "end": 37.15
+    },
+    "5": {
+      "text": "Nuko muzicurishirize ibishushanyo by'ibyo bibyimba byanyu, n'ibishushanyo by'imbeba zanyu zanduje igihugu kandi muzubahe Imana y'Abisirayeli, ahari yabakuraho ukuboko kwayo no ku mana zanyu n'igihugu cyanyu.",
+      "start": 42.42,
+      "end": 44.41
+    },
+    "6": {
+      "text": "None se ni iki gituma mwinangira imitima nk'Abanyegiputa na Farawo ubwo bayinangiraga, imaze gukorera muri bo ibitangaza? Mbese ntibarekuye abo bantu bakigendera?",
+      "start": 2.72,
+      "end": 13.19
+    },
+    "7": {
+      "text": "Nuko nimwende igare rishya, muryitegurane n'inka ebyiri z'imbyeyi zitigeze gukurura, muzihambireho igare, muzikureho izazo muzisubize mu rugo.",
+      "start": 12.42,
+      "end": 22.18
+    },
+    "8": {
+      "text": "Maze mwende isanduku y'Uwiteka muyigereke ku igare, kandi ibintu by'izahabu by'umurimbo by'amaturo y'impongano mwohereje, mubishyire mu gasanduku iruhande rwayo maze mubyohereze bigende.",
+      "start": 6.81,
+      "end": 17.49
+    },
+    "9": {
+      "text": "Nuko murebe aho iri bunyure, nisubiza mu rugabano rwayo ikajya i Betishemeshi, tuzamenya ko ari Imana yaduteje iki cyago kingana gitya. Ariko nibitaba bityo, tuzamenya ko atari ukuboko kwayo kwatwishe nabi, tumenye ko ari ibyago byatugwiririye gusa.”",
+      "start": 0.81,
+      "end": 4.54
+    },
+    "10": {
+      "text": "Nuko babigenza batyo. Batoranya inka ebyiri z'imbyeyi, bazihambiraho igare, izazo bazizirika mu rugo.",
+      "start": 26.25,
+      "end": 42.87
+    },
+    "11": {
+      "text": "Baherako bashyira isanduku y'Uwiteka ku igare, bashyiraho n'agasanduku karimo imbeba zicuzwe mu izahabu, n'ibishushanyo by'ibibyimba byabo.",
+      "start": 6.67,
+      "end": 10.12
+    },
+    "12": {
+      "text": "Nuko izo nka ziboneza inzira y'ubusamo yose ijya i Betishemeshi, zigenda zabira inzira yose ntizakebakeba iburyo cyangwa ibumoso. Abatware b'Abafilisitiya baraziherekeza bazigeza mu rugabano rw'i Betishemeshi.",
+      "start": 1.76,
+      "end": 30.9
+    },
+    "13": {
+      "text": "Uwo munsi ab'i Betishemeshi basaruraga ingano mu kibaya, bubuye amaso babona isanduku iradutse bishimira kuyibona.",
+      "start": 38.67,
+      "end": 42.61
+    },
+    "14": {
+      "text": "Nuko igare riza rityo no mu murima wa Yosuwa w'i Betishemeshi, rihagarara aho igitare kinini cyari kiri. Baherako bāsa imbaho z'igare, batambiraho izo nka ziba igitambo cyoswa cy'Uwiteka.",
+      "start": 17.25,
+      "end": 25.02
+    },
+    "15": {
+      "text": "Abalewi bakuraho isanduku y'Uwiteka, n'agasanduku kari hamwe na yo karimo ibintu by'izahabu by'umurimbo, babitereka hejuru y'icyo gitare kinini. Nuko uwo munsi ab'i Betishemeshi bahatambirira Uwiteka ibitambo byoswa n'ibindi bitambo.",
+      "start": 15.37,
+      "end": 22.22
+    },
+    "16": {
+      "text": "Maze ba batware batanu b'Abafilisitiya bamaze kubireba, basubira kuri Ekuroni bwigabe.",
+      "start": 35.5,
+      "end": 43.13
+    },
+    "17": {
+      "text": "Kandi ibi ni byo bibyimba by'izahabu Abafilisitiya batuye Uwiteka by'amaturo y'impongano: kimwe cyari icya Ashidodi, ikindi cyari icy'i Gaza, ikindi cya Ashikeloni, ikindi cy'i Gati n'ikindi cya Ekuroni.",
+      "start": 41.45,
+      "end": 44.31
+    },
+    "18": {
+      "text": "Kandi n'imbeba zacuzwe mu izahabu nk'uko umubare w'indembo zose z'abatware b'Abafilisitiya ungana, indembo zigoswe n'inkike n'ibirorero byo ku misozi, kandi umuhamya wabyo ni igitare kinini bateretseho isanduku y'Uwiteka, kikiriho n'ubu mu kwa Yosuwa w'i Betishemeshi.",
+      "start": 26.71,
+      "end": 29.09
+    },
+    "19": {
+      "text": "Hanyuma Uwiteka yica abantu b'i Betishemeshi mirongo irindwi, kuko barungurutse mu isanduku y'Uwiteka, maze abantu barizwa cyane n'uko Uwiteka yabiciye abantu benshi.",
+      "start": 12.81,
+      "end": 22.29
+    },
+    "20": {
+      "text": "Ab'i Betishemeshi baravuga bati “Ni nde ushobora guhagarara imbere y'Uwiteka, iyi Mana yera? Mbese yava muri twe ikajya he?”",
+      "start": 38.17,
+      "end": 38.78
+    },
+    "21": {
+      "text": "Nuko batuma intumwa ku baturage b'i Kiriyatiyeyarimu bati “Abafilisitiya bagaruye isanduku y'Uwiteka. Nimumanuke muyizamure ijye iwanyu.”",
+      "start": 41.72,
+      "end": 42.13
+    }
+  }
+}

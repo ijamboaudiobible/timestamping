@@ -1,0 +1,23 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 134,
+  "verses": {
+    "1": {
+      "text": "Indirimbo y'Amazamuka.Nimuhimbaze Uwiteka, mwa bagaragu b'Uwiteka mwese mwe,Bahagarara nijoro mu nzu y'Uwiteka.",
+      "start": 20.69,
+      "end": 31.63
+    },
+    "2": {
+      "text": "Mumanike amaboko yanyu muyatunze ahera,Muhimbaze Uwiteka.",
+      "start": 1.8,
+      "end": 27.29
+    },
+    "3": {
+      "text": "Uwiteka aguhe umugisha uva i Siyoni,Ni we waremye ijuru n'isi.",
+      "start": 22.77,
+      "end": 27.94
+    }
+  }
+}

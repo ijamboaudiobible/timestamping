@@ -1,0 +1,173 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 10.24,
+      "end": 16.24
+    },
+    "2": {
+      "text": "“Tuma abantu batate igihugu cy'i Kanāni, icyo mpa Abisirayeli. Ukure umuntu mu muryango wa ba sekuruza wose, umuntu wese ari umutware wabo.”",
+      "start": 1.75,
+      "end": 17.01
+    },
+    "3": {
+      "text": "Mose abatuma ari mu butayu bwa Parani, uko Uwiteka yategetse. Abo yatumye bose bari abatware b'Abisirayeli.",
+      "start": 27.57,
+      "end": 38.25
+    },
+    "4": {
+      "text": "Aya ni yo mazina yabo:Mu muryango wa Rubeni hatumwa Shamuwa mwene Zakuri.",
+      "start": 42.6,
+      "end": 43.33
+    },
+    "5": {
+      "text": "Mu muryango wa Simiyoni hatumwa Shafati mwene Hori.",
+      "start": 13.62,
+      "end": 18.4
+    },
+    "6": {
+      "text": "Mu muryango wa Yuda hatumwa Kalebu mwene Yefune.",
+      "start": 24.53,
+      "end": 39.53
+    },
+    "7": {
+      "text": "Mu muryango wa Isakari hatumwa Igalu mwene Yosefu.",
+      "start": 38.61,
+      "end": 40.8
+    },
+    "8": {
+      "text": "Mu muryango wa Efurayimu hatumwa Hoseya mwene Nuni.",
+      "start": 34.64,
+      "end": 38.8
+    },
+    "9": {
+      "text": "Mu muryango wa Benyamini hatumwa Paluti mwene Rafu.",
+      "start": 40.4,
+      "end": 41.59
+    },
+    "10": {
+      "text": "Mu muryango wa Zebuluni hatumwa Gadiyeli mwene Sodi.",
+      "start": 42.64,
+      "end": 44.58
+    },
+    "11": {
+      "text": "Mu muryango wa Yosefu, ni wo muryango wa Manase, hatumwa Gadi mwene Susi.",
+      "start": 22.47,
+      "end": 44.23
+    },
+    "12": {
+      "text": "Mu muryango wa Dani hatumwa Amiyeli mwene Gemali.",
+      "start": 13.74,
+      "end": 33.81
+    },
+    "13": {
+      "text": "Mu muryango wa Asheri hatumwa Seturi mwene Mikayeli.",
+      "start": 13.25,
+      "end": 24.16
+    },
+    "14": {
+      "text": "Mu muryango wa Nafutali hatumwa Nakibi mwene Vofusi.",
+      "start": 32.73,
+      "end": 34.14
+    },
+    "15": {
+      "text": "Mu muryango wa Gadi hatumwa Geweli mwene Maki.",
+      "start": 9.75,
+      "end": 10.45
+    },
+    "16": {
+      "text": "Ayo ni yo mazina y'abantu Mose yatumye gutata icyo igihugu. Mose yita Hoseya mwene Nuni, Yosuwa.",
+      "start": 2.79,
+      "end": 16.19
+    },
+    "17": {
+      "text": "Mose abatuma gutata igihugu cy'i Kanāni, arababwira ati “Muzamukire muri iyi nzira ica i Negebu, muzamuke mu gihugu cy'imisozi miremire.",
+      "start": 6.05,
+      "end": 39.13
+    },
+    "18": {
+      "text": "Mutate igihugu mumenye uko kimeze, n'abantu bagituyemo mumenye yuko ari abanyamaboko cyangwa ari abanyamaboko make, kandi yuko ari bake cyangwa ari benshi,",
+      "start": 18.38,
+      "end": 40.97
+    },
+    "19": {
+      "text": "n'igihugu batuyemo yuko ari cyiza cyangwa ari kibi, n'imidugudu batuyemo uko imeze, yuko itagoteshejwe inkike z'amabuye cyangwa izigoteshejwe,",
+      "start": 6.67,
+      "end": 25.33
+    },
+    "20": {
+      "text": "n'ubutaka bw'icyo gihugu uko bumeze, yuko bwera cyangwa burumba, kandi yuko igihugu kirimo ibiti cyangwa bitarimo. Mushire ubwoba muzane ku mbuto z'icyo gihugu.” Icyo gihe cyari igihe inzabibu za mbere zihishiriza.",
+      "start": 24.94,
+      "end": 29.63
+    },
+    "21": {
+      "text": "Nuko barazamuka batata icyo gihugu bahereye mu butayu bwa Zini, bageza i Rehobu ihereranye n'urugabano rw'i Hamati.",
+      "start": 16.94,
+      "end": 38.08
+    },
+    "22": {
+      "text": "Barazamuka banyura Negebu, bagera i Heburoni, Abānaki na Ahimani na Sheshayi na Talumayi bari bariyo. Heburoni hamaze imyaka irindwi hubatswe, Sowani yo muri Egiputa irubakwa.",
+      "start": 10.67,
+      "end": 19.76
+    },
+    "23": {
+      "text": "Bagera mu gikombe cya Eshikoli, batemayo ishami ririho iseri rimwe ry'inzabibu, abantu babiri bariheka ku giti, kandi bazana ku makomamanga no ku mbuto z'imitini.",
+      "start": 32.73,
+      "end": 44.65
+    },
+    "24": {
+      "text": "Aho hantu hitirwa igikombe cya Eshikoli iryo seri Abisirayeli batemyeyo.",
+      "start": 0.91,
+      "end": 17.28
+    },
+    "25": {
+      "text": "Bamaze gutata igihugu, bagaruka hashize iminsi mirongo ine.",
+      "start": 24.01,
+      "end": 35.26
+    },
+    "26": {
+      "text": "Basohoye basanga Mose na Aroni n'iteraniro ry'Abisirayeli ryose i Kadeshi mu butayu bwa Parani, bababwirana n'iteraniro ryose ibyo babonye, babereka za mbuto z'igihugu.",
+      "start": 9.25,
+      "end": 44.2
+    },
+    "27": {
+      "text": "Batekerereza Mose bati “Twageze mu gihugu wadutumyemo, ni ukuri koko ni icy'amata n'ubuki, ngizi imbuto zacyo.",
+      "start": 20.86,
+      "end": 22.61
+    },
+    "28": {
+      "text": "Ariko abantu bagituyemo ni abanyamaboko, kandi imidugudu yabo igoteshejwe inkike z'amabuye, kandi ni minini cyane, kandi twabonyeyo Abānaki.",
+      "start": 16.13,
+      "end": 24.41
+    },
+    "29": {
+      "text": "Abamaleki batuye mu gihugu cy'i Negebu, Abaheti n'Abayebusi n'Abamori batuye mu misozi, Abanyakanāni batuye ku Nyanja no mu bibaya bya Yorodani.”",
+      "start": 33.63,
+      "end": 44.02
+    },
+    "30": {
+      "text": "Kalebu ahoreza abantu imbere ya Mose, ati “Tuzamuke nonaha tuhahindūre, kuko tubasha rwose kuhatsinda.”",
+      "start": 12.1,
+      "end": 24.1
+    },
+    "31": {
+      "text": "Maze abantu bari bajyanye na we baravuga bati “Ntitwabasha kuzamuka ngo turwanye abo bantu, kuko baturusha amaboko.”",
+      "start": 41.64,
+      "end": 43.94
+    },
+    "32": {
+      "text": "Babarira Abisirayeli inkuru y'incamugongo y'igihugu batase, bati “Igihugu twanyuzemo tugitata ni igihugu cy'umwiryane, kandi abantu twakibonyemo bose ni barebare.",
+      "start": 4.63,
+      "end": 31.97
+    },
+    "33": {
+      "text": "Kandi twabonyemo abantu barebare banini, Abānaki bakomotse mu bantu barebare banini. Twibonaga tubamezeho nk'inzige, na bo bakabona tumeze nka zo.”",
+      "start": 19.02,
+      "end": 23.02
+    }
+  }
+}

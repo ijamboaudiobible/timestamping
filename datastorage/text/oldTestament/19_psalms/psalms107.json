@@ -1,0 +1,223 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 107,
+  "verses": {
+    "1": {
+      "text": "Nimushimire Uwiteka yuko ari mwiza, 106.1; 118.1; 136.1; Yer 33.11Kuko imbabazi ze zihoraho iteka ryose.",
+      "start": 21.48,
+      "end": 22.23
+    },
+    "2": {
+      "text": "Abacunguwe n'Uwiteka bavuge batyo,Abo yacunguye akabakura mu kuboko k'umwanzi,",
+      "start": 21.7,
+      "end": 28.25
+    },
+    "3": {
+      "text": "Akabatarurukanya abakura mu bihugu,Aho izuba rirasira n'aho rirengera,Ikasikazi no ku nyanja.",
+      "start": 32.42,
+      "end": 44.07
+    },
+    "4": {
+      "text": "Bazerereye mu butayu mu nzira itagira abantu,Ntibabona umudugudu wo kubamo.",
+      "start": 35.53,
+      "end": 44.51
+    },
+    "5": {
+      "text": "Bicwa n'inzara n'inyota,Imitima yabo igwa isari.",
+      "start": 26.92,
+      "end": 42.05
+    },
+    "6": {
+      "text": "Maze batakira Uwiteka bari mu byago,Abakiza imibabaro yabo.",
+      "start": 11.38,
+      "end": 29.55
+    },
+    "7": {
+      "text": "Abashorerera mu nzira igororotse,Kugira ngo bagere mu mudugudu wo kubamo.",
+      "start": 25.59,
+      "end": 43.55
+    },
+    "8": {
+      "text": "Abo bashimire Uwiteka kugira neza kwe,N'imirimo itangaza yakoreye abantu.",
+      "start": 43.66,
+      "end": 44.95
+    },
+    "9": {
+      "text": "Kuko yahagije umutima wifuza,N'umutima ushonje yawujuje ibyiza.",
+      "start": 20.47,
+      "end": 36.17
+    },
+    "10": {
+      "text": "Abandi bicaraga mu mwijima no mu gicucu cy'urupfu,Baboheshejwe umubabaro n'ibyuma,",
+      "start": 10.87,
+      "end": 31.78
+    },
+    "11": {
+      "text": "Kuko bagomeye amagambo y'Imana,Bagasuzugura imigambi y'Isumbabyose.",
+      "start": 15.45,
+      "end": 24.89
+    },
+    "12": {
+      "text": "Ni cyo cyatumye icishisha bugufi imitima yabo umuruho,Bakagwa ntibagire ubatabara.",
+      "start": 9.2,
+      "end": 15.42
+    },
+    "13": {
+      "text": "Maze batakira Uwiteka bari mu makuba,Abakiza imibabaro yabo.",
+      "start": 33.54,
+      "end": 44.64
+    },
+    "14": {
+      "text": "Abakura mu mwijima no mu gicucu cy'urupfu,Aca iminyururu yabo.",
+      "start": 2.18,
+      "end": 6.69
+    },
+    "15": {
+      "text": "Abo bashimire Uwiteka kugira neza kwe,N'imirimo itangaza yakoreye abantu.",
+      "start": 13.27,
+      "end": 30.19
+    },
+    "16": {
+      "text": "Kuko yamennye inzugi z'imiringa,Akavuna ibihindizo by'ibyuma.",
+      "start": 1.78,
+      "end": 14.68
+    },
+    "17": {
+      "text": "Ibirimarima bibabarizwa ibicumuro byabyo,No gukiranirwa kwabyo.",
+      "start": 13.43,
+      "end": 43.25
+    },
+    "18": {
+      "text": "Imitima yabo ihurwa ibyokurya iyo biva bikajya,Bakegera amarembo y'urupfu.",
+      "start": 38.88,
+      "end": 39.94
+    },
+    "19": {
+      "text": "Maze bagatakira Uwiteka bari mu byago,Akabakiza imibabaro yabo.",
+      "start": 17.44,
+      "end": 36.06
+    },
+    "20": {
+      "text": "Akohereza ijambo rye akabakiza indwara,Akabakiza kwinjira mu mva zabo.",
+      "start": 21.35,
+      "end": 29.83
+    },
+    "21": {
+      "text": "Abo bashimire Uwiteka kugira neza kwe,N'imirimo itangaza yakoreye abantu.",
+      "start": 39.35,
+      "end": 40.65
+    },
+    "22": {
+      "text": "Batamba ibitambo by'ishimwe,Bogeresha imirimo ye indirimbo z'ibyishimo.",
+      "start": 38.71,
+      "end": 40.74
+    },
+    "23": {
+      "text": "Abamanuka bajya mu nyanja bakagenda mu nkuge,Bagatundira mu mazi y'isanzure,",
+      "start": 37.71,
+      "end": 42.37
+    },
+    "24": {
+      "text": "Barebeye imirimo y'Uwiteka n'ibitangaza bye imuhengeri.",
+      "start": 17.69,
+      "end": 18.07
+    },
+    "25": {
+      "text": "Kuko yategetse agahuhisha umuyaga w'ishuheri,Ushyira hejuru umuraba waho.",
+      "start": 13.42,
+      "end": 29.27
+    },
+    "26": {
+      "text": "Barazamukaga bakajya mu ijuru,Bagasubira bakamanuka bakajya ikuzimu,Imitima yabo ikayagishwa n'umubabaro.",
+      "start": 35.77,
+      "end": 43.04
+    },
+    "27": {
+      "text": "Bakazunga muzunga,Bakadandabirana nk'umusinzi,Ubwenge bwabo bwose bukazinduka.",
+      "start": 11.87,
+      "end": 25.65
+    },
+    "28": {
+      "text": "Maze batakira Uwiteka bari mu byago,Abakiza imibabaro yabo.",
+      "start": 36.22,
+      "end": 37.78
+    },
+    "29": {
+      "text": "Aturisha uwo muyaga w'ishuheri,Umuraba uratuza.",
+      "start": 17.57,
+      "end": 23.66
+    },
+    "30": {
+      "text": "Maze bīshimishwa n'uko utuje,Kandi abajyana mu mwaro bashakaga.",
+      "start": 8.09,
+      "end": 18.95
+    },
+    "31": {
+      "text": "Abo bashimire Uwiteka kugira neza kwe,N'imirimo itangaza yakoreye abantu.",
+      "start": 2.9,
+      "end": 8.5
+    },
+    "32": {
+      "text": "Bamwogereze mu iteraniro ry'abantu,Bamushimire aho abakuru bicaranye.",
+      "start": 18.41,
+      "end": 28.81
+    },
+    "33": {
+      "text": "Ahindura imigezi ubutayu,N'amasōko ayahindura inkamīra,",
+      "start": 21.89,
+      "end": 34.57
+    },
+    "34": {
+      "text": "Igihugu cyera agihindura ubutaka bw'umunyu,Ku bw'ibyaha by'abahatuye.",
+      "start": 21.79,
+      "end": 36.29
+    },
+    "35": {
+      "text": "Kandi ahindura ubutayu ikidendezi,No mu mburamazi ahahindura amasōko.",
+      "start": 18.39,
+      "end": 18.51
+    },
+    "36": {
+      "text": "Aho ni ho aturiza abashonje,Kugira ngo batunganye umudugudu wo kubamo,",
+      "start": 13.86,
+      "end": 39.27
+    },
+    "37": {
+      "text": "Babibe imirima batere imizabibu,Bibonere imbuto z'umwero.",
+      "start": 7.18,
+      "end": 24.48
+    },
+    "38": {
+      "text": "Akabaha umugisha bakagwira cyane,Ntakundire inka zabo ko zigabanuka.",
+      "start": 7.74,
+      "end": 9.28
+    },
+    "39": {
+      "text": "Kandi iyo bagabanutse,Bagacishwa bugufi n'agahato n'ibyago n'umubabaro,",
+      "start": 32.1,
+      "end": 33.31
+    },
+    "40": {
+      "text": "Asuka igisuzuguriro ku bakomeye,Akabazerereza mu kidaturwa kitagira inzira,",
+      "start": 16.15,
+      "end": 16.67
+    },
+    "41": {
+      "text": "Agashyira hejuru umukene amukuye mu makuba,Akamugwiriza imiryango nk'umukumbi.",
+      "start": 39.61,
+      "end": 42.03
+    },
+    "42": {
+      "text": "Abakiranutsi barabireba bakishima,Ubugoryi bwose bukiziba akanwa.",
+      "start": 33.9,
+      "end": 41.0
+    },
+    "43": {
+      "text": "Umunyabwenge wese azitegereza ibyo,Kandi bazita ku mbabazi z'Uwiteka.",
+      "start": 25.29,
+      "end": 41.02
+    }
+  }
+}

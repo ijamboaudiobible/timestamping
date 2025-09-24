@@ -1,0 +1,143 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 36.83,
+      "end": 44.72
+    },
+    "2": {
+      "text": "“Ongera ubwire Abisirayeli uti: Nihagira umuntu wo mu Bisirayeli cyangwa wo mu banyamahanga babasuhukiyemo uha Moleki uwo mu rubyaro rwe, ntakabure kwicwa. Abo mu gihugu bamwicishe amabuye.",
+      "start": 20.41,
+      "end": 29.38
+    },
+    "3": {
+      "text": "Nanjye nzahoza igitsure cyanjye kuri uwo muntu, mukure mu bwoko bwe muhoye guha Moleki uwo mu rubyaro rwe, akanduza Ahera hanjye, agasuzuguza izina ryanjye ryera.",
+      "start": 6.41,
+      "end": 15.41
+    },
+    "4": {
+      "text": "Abo mu gihugu nibirengagiza uwo muntu uha Moleki uwo mu rubyaro rwe, ntibamwice,",
+      "start": 30.55,
+      "end": 34.49
+    },
+    "5": {
+      "text": "ubwanjye nzahoza igitsure cyanjye kuri uwo muntu no ku muryango we, mukurane mu bwoko bwabo n'abamukurikiza gusambana, basambanisha gusenga Moleki.",
+      "start": 39.11,
+      "end": 40.76
+    },
+    "6": {
+      "text": "“Kandi umuntu uhindukirira abashitsi n'abapfumu, ngo asambanishe kubashikisha no kubaraguza, nzahoza igitsure cyanjye kuri uwo muntu, mukure ku bwoko bwe.",
+      "start": 8.42,
+      "end": 24.29
+    },
+    "7": {
+      "text": "Nuko mwiyeze mube abera, kuko ndi Uwiteka Imana yanyu.",
+      "start": 27.26,
+      "end": 35.6
+    },
+    "8": {
+      "text": "Kandi mujye mwitondera amategeko yanjye, muyumvire. Ndi Uwiteka ubeza.",
+      "start": 18.13,
+      "end": 21.41
+    },
+    "9": {
+      "text": "“Umuntu wese uvuma se cyangwa nyina ntakabure kwicwa, kuko avumye se cyangwa nyina, urubanza rw'amaraso ye ni we ruzahama.",
+      "start": 20.75,
+      "end": 25.31
+    },
+    "10": {
+      "text": "“Umuntu nasambana n'umugore w'undi, usambanye na muka mugenzi we, umusambanyi n'umusambanyikazi ntibakabure kwicwa.",
+      "start": 19.84,
+      "end": 25.91
+    },
+    "11": {
+      "text": "Usambana na muka se aba yambitse se ubusa, bombi ntibakabure kwicwa. Urubanza rw'amaraso ye ni we ruzahama.",
+      "start": 30.98,
+      "end": 31.21
+    },
+    "12": {
+      "text": "Umuntu nasambana n'umukazana we bombi ntibakabure kwicwa, bazaba bavanze ibidahuye. Urubanza rw'amaraso ye ni we ruzahama.",
+      "start": 8.3,
+      "end": 20.97
+    },
+    "13": {
+      "text": "Umugabo natinga undi bombi bazaba bakoze ikizira, ntibakabure kwicwa. urubanza rw'amaraso ye ni we ruzahama.",
+      "start": 40.99,
+      "end": 43.84
+    },
+    "14": {
+      "text": "Umuntu narongora umukobwa na nyina kizaba icyaha gikomeye, azatwikanwe na bo kugira ngo icyaha gikomeye kitaba muri mwe.",
+      "start": 39.76,
+      "end": 41.8
+    },
+    "15": {
+      "text": "Umugabo naryamana n'itungo ntakabure kwicwa, iryo tungo na ryo muzaryice.",
+      "start": 22.6,
+      "end": 34.18
+    },
+    "16": {
+      "text": "Kandi umugore cyangwa umukobwa niyegera itungo ryose akaryamana na ryo, uzamwicane na ryo. Urubanza rw'amaraso ye ni we ruzahama.",
+      "start": 10.03,
+      "end": 31.79
+    },
+    "17": {
+      "text": "“Umuntu niyenda mushiki we basangiye se cyangwa nyina bakarebana ubwambure, kizaba igihemu giteye isoni. Bazakurirweho mu maso y'abo mu bwoko bwabo kuko yambitse ubusa mushiki we, azagibwaho no gukiranirwa kwe.",
+      "start": 9.2,
+      "end": 31.47
+    },
+    "18": {
+      "text": "Umuntu naryamana n'umugore uri mu muhango w'abakobwa akamwambika ubusa, azaba yambitse ubusa isōko ye, na we azaba yiyambitse ubusa isōko y'amaraso ye, bombi bazakurwe mu bwoko bwabo.",
+      "start": 10.5,
+      "end": 38.2
+    },
+    "19": {
+      "text": "“Kandi ntukambike ubusa nyoko wanyu cyangwa nyogosenge, ukoze atyo azaba yambitse ubusa bene wabo ba bugufi, bazagibwaho no gukiranirwa kwabo.",
+      "start": 27.28,
+      "end": 39.93
+    },
+    "20": {
+      "text": "Umuntu naryamana na muka se wabo azaba yambitse ubusa se wabo, bazagibwaho n'icyaha cyabo, bazapfa ari incike.",
+      "start": 34.21,
+      "end": 39.36
+    },
+    "21": {
+      "text": "Umuntu niyenda muka mwene se kizaba ari ukwiyanduza, azaba yambitse ubusa mwene se, bazaba incike.",
+      "start": 40.58,
+      "end": 43.29
+    },
+    "22": {
+      "text": "“Nuko mujye mwitondera amategeko yanjye yose n'amateka yanjye yose mubyumvire, kugira ngo igihugu mbajyana guturamo kitazabaruka.",
+      "start": 4.83,
+      "end": 23.29
+    },
+    "23": {
+      "text": "Ntimuzakurikize imihango y'ishyanga nzirukana imbere yanyu, kuko ibyo byose babikoraga bigatuma mbanga urunuka.",
+      "start": 44.24,
+      "end": 44.3
+    },
+    "24": {
+      "text": "Ariko nabwiye mwe nti ‘Ni mwe muzahabwa igihugu cyabo ho gakondo, nzakibaha kugihindūra igihugu cy'amata n'ubuki.’ Ndi Uwiteka Imana yanyu yabatandukanije n'andi mahanga.",
+      "start": 17.48,
+      "end": 35.47
+    },
+    "25": {
+      "text": "Ni cyo gituma mukwiriye gutandukanya itungo n'inyamaswa bidahumanya n'ibihumanya, n'ibisiga n'inyoni bihumanya n'ibidahumanya. Ntimukiyandavurishe itungo cyangwa inyamaswa cyangwa igisiga cyangwa inyoni, cyangwa ikintu cyose gikururuka hasi, nabigishije kwitandukaniriza na byo kuko bihumanya.",
+      "start": 16.6,
+      "end": 35.56
+    },
+    "26": {
+      "text": "Kandi mumbere abera kuko Uwiteka ndi uwera, kandi nabatandukanirije n'andi mahanga kuba abanjye.",
+      "start": 25.16,
+      "end": 40.36
+    },
+    "27": {
+      "text": "“Umushitsi cyangwa umushitsikazi, n'umupfumu cyangwa umupfumukazi ntibakabure kwicwa, babicishe amabuye. Urubanza rw'amaraso ye ni we ruzahama.”",
+      "start": 41.53,
+      "end": 43.99
+    }
+  }
+}

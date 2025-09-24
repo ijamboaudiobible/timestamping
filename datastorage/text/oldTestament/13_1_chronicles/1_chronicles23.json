@@ -1,0 +1,168 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Ubwo Dawidi yari ashaje ageze mu za bukuru, yimika umuhungu we Salomo ngo abe umwami wa Isirayeli.",
+      "start": 0.05,
+      "end": 37.37
+    },
+    "2": {
+      "text": "Ateranya abatware ba Isirayeli bose n'abatambyi n'Abalewi.",
+      "start": 40.36,
+      "end": 43.46
+    },
+    "3": {
+      "text": "Maze babara Abalewi bashyikije imyaka mirongo itatu y'ubukuru n'abayishagije, kandi umubare wabo uko babazwe umwe umwe, bari inzovu eshatu n'ibihumbi munani.",
+      "start": 13.82,
+      "end": 30.78
+    },
+    "4": {
+      "text": "Kuri abo inzovu ebyiri n'ibihumbi bine, bari abo gutwara umurimo wo mu nzu y'Uwiteka, kandi ibihumbi bitandatu bari abatware n'abacamanza.",
+      "start": 36.14,
+      "end": 37.6
+    },
+    "5": {
+      "text": "Abandi ibihumbi bine bari abakumirizi, n'abandi ibihumbi bine bari abo guhimbarisha Uwiteka ibintu nakoze, (ni ko Dawidi yavuze) ngo babimushimishe.",
+      "start": 7.46,
+      "end": 25.01
+    },
+    "6": {
+      "text": "Dawidi abaremamo ibice uko abahungu ba Lewi bari bari, Gerushoni na Kohati na Merari.",
+      "start": 1.97,
+      "end": 10.93
+    },
+    "7": {
+      "text": "Mu Bagerushoni ni Lādani na Shimeyi.",
+      "start": 16.55,
+      "end": 31.51
+    },
+    "8": {
+      "text": "Bene Lādani, umukuru ni Yehiyeli na Zetamu na Yoweli, uko ari batatu.",
+      "start": 13.89,
+      "end": 26.04
+    },
+    "9": {
+      "text": "Bene Shimeyi ni Shelomoti na Haziyeli na Harani, uko ari batatu. Abo ni bo bari abatware b'amazu ya ba sekuruza ba Lādani.",
+      "start": 1.91,
+      "end": 36.68
+    },
+    "10": {
+      "text": "Bene Shimeyi ni Yahati na Zina, na Yewushi na Beriya. Abo uko ari bane bari bene Shimeyi.",
+      "start": 4.28,
+      "end": 40.35
+    },
+    "11": {
+      "text": "Yahati ni we wari mukuru, uwa kabiri ni Ziza. Ariko Yewushi na Beriya ntibagiraga abana b'abahungu benshi, ni cyo cyatumye bababumbira hamwe bakabagira inzu imwe ya ba sekuruza.",
+      "start": 36.56,
+      "end": 43.77
+    },
+    "12": {
+      "text": "Bene Kohati ni Amuramu na Isuhari, na Heburoni na Uziyeli uko ari bane.",
+      "start": 14.12,
+      "end": 27.83
+    },
+    "13": {
+      "text": "Bene Amuramu ni Aroni na Mose, kandi Aroni yatoranijwe kugira ngo ajye yeza ibintu byera cyane we n'abahungu be iteka ryose, bakosereza imibavu imbere y'Uwiteka bakamukorera, bagasabira umugisha mu izina rye iminsi yose.",
+      "start": 19.73,
+      "end": 22.08
+    },
+    "14": {
+      "text": "Ariko Mose umuntu w'Imana, abahungu be babarwaga mu muryango wa Lewi.",
+      "start": 15.33,
+      "end": 22.14
+    },
+    "15": {
+      "text": "Abahungu ba Mose ni Gerushomu na Eliyezeri.",
+      "start": 20.03,
+      "end": 29.78
+    },
+    "16": {
+      "text": "Bene Gerushomu, Shebuweli ni we wari mukuru.",
+      "start": 8.58,
+      "end": 26.33
+    },
+    "17": {
+      "text": "Bene Eliyezeri, Rehabiya ni we wari mukuru. Kandi Eliyezeri nta bana b'abahungu yagiraga, ariko abahungu ba Rehabiya baba benshi cyane.",
+      "start": 28.97,
+      "end": 40.3
+    },
+    "18": {
+      "text": "Bene Isuhari, Shelomiti ni we wari mukuru.",
+      "start": 26.56,
+      "end": 43.76
+    },
+    "19": {
+      "text": "Bene Heburoni, Yeriya ni we wari mukuru, uwa kabiri ni Amariya, uwa gatatu ni Yahaziyeli, uwa kane ni Yekameyamu.",
+      "start": 43.04,
+      "end": 44.72
+    },
+    "20": {
+      "text": "Bene Uziyeli, Mika ni we wari mukuru, uwa kabiri ni Ishiya.",
+      "start": 17.57,
+      "end": 41.68
+    },
+    "21": {
+      "text": "Bene Merari ni Mahali na Mushi. Bene Mahali ni Eleyazari na Kishi.",
+      "start": 36.11,
+      "end": 43.2
+    },
+    "22": {
+      "text": "Eleyazari apfa ari nta bana b'abahungu yabyaye, keretse abakobwa gusa. Bene se wabo ari bo bene Kishi, barabarongora.",
+      "start": 30.82,
+      "end": 35.95
+    },
+    "23": {
+      "text": "Bene Mushi ni Mahali na Ederi na Yeremoti, uko ari batatu.",
+      "start": 32.98,
+      "end": 43.63
+    },
+    "24": {
+      "text": "Abo ni bo bene Lewi uko amazu ya ba sekuruza yari ari, ni bo batware b'amazu ya ba sekuruza b'ababazwe, ubwo babarwaga mu mazina umwe umwe. Ni bo bakoraga umurimo wo mu nzu y'Uwiteka, ari abantu bashyikije imyaka makumyabiri n'abayishagije.",
+      "start": 20.78,
+      "end": 26.84
+    },
+    "25": {
+      "text": "Kuko Dawidi yari yavuze ati “Uwiteka Imana ya Isirayeli ihaye ubwoko bwayo ihumure kandi iba i Yerusalemu iteka ryose,",
+      "start": 29.71,
+      "end": 43.45
+    },
+    "26": {
+      "text": "kandi Abalewi ntibazaba bacyongera guheka ihema n'ibintu byakorewe umurimo waryo byose.”",
+      "start": 18.36,
+      "end": 18.97
+    },
+    "27": {
+      "text": "Amagambo ya Dawidi yaherutse ni yo yatumye Abalewi babarwa, abari bashyikije imyaka makumyabiri n'abayishagije,",
+      "start": 10.14,
+      "end": 36.89
+    },
+    "28": {
+      "text": "kuko umurimo wabo wari uwo gufasha bene Aroni mu murimo w'inzu y'Uwiteka mu bikari no mu byumba, n'iyo bezaga ibintu byera byose, n'iby'umurimo bakoraga mu nzu y'Imana,",
+      "start": 20.83,
+      "end": 31.31
+    },
+    "29": {
+      "text": "kandi n'imitsima yo kumurikwa imbere y'Imana, n'ifu y'ingezi yo gutura amaturo y'ifu y'impeke, ay'udutsima tudasembuwe, n'ay'ibyakarangwaga ku byuma, n'ay'ibirunzwemo amavuta, n'iby'indengo n'imibyimba bitari bimwe,",
+      "start": 37.88,
+      "end": 40.4
+    },
+    "30": {
+      "text": "no guhagarara uko bukeye bagashima, bagahimbaza Uwiteka kandi na nimugoroba bakabigenza batyo,",
+      "start": 32.43,
+      "end": 42.2
+    },
+    "31": {
+      "text": "no gutambira Uwiteka ibitambo byoswa byose, ku masabato no ku mboneko z'amezi no mu birori byategetswe, nk'uko umubare wabyo wari uri ukurikije amategeko yabyo, (bigakorwa) ubudasiba imbere y'Uwiteka,",
+      "start": 37.33,
+      "end": 37.64
+    },
+    "32": {
+      "text": "no kurinda ihema ry'ibonaniro aho barindishijwe, n'Ahera aho barindishijwe, n'ibya bene Aroni bene wabo barindishijwe, ngo bajye bakora umurimo wo mu nzu y'Uwiteka.",
+      "start": 40.82,
+      "end": 44.01
+    }
+  }
+}

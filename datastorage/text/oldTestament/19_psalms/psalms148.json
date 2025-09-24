@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 148,
+  "verses": {
+    "1": {
+      "text": "Haleluya.Nimushimire Uwiteka mu ijuru,Nimumushire ahantu ho mu ijuru.",
+      "start": 39.13,
+      "end": 44.39
+    },
+    "2": {
+      "text": "Mwa bamarayika be mwese mwe, nimumushime,Mwa ngabo ze zose mwe, nimumushime.",
+      "start": 26.51,
+      "end": 38.7
+    },
+    "3": {
+      "text": "Mwa zuba n'ukwezi mwe, nimumushime,Mwa nyenyeri z'umucyo mwe, nimumushime.",
+      "start": 30.41,
+      "end": 30.69
+    },
+    "4": {
+      "text": "Wa juru risumba amajuru we, mushime,Nawe mazi yo hejuru y'ijuru.",
+      "start": 39.67,
+      "end": 43.7
+    },
+    "5": {
+      "text": "Bishimire izina ry'Uwiteka,Kuko ari we wategetse bikaremwa.",
+      "start": 12.17,
+      "end": 36.02
+    },
+    "6": {
+      "text": "Kandi yabikomereje guhama iteka ryose,Yategetse itegeko ridakuka.",
+      "start": 1.28,
+      "end": 41.3
+    },
+    "7": {
+      "text": "Nimushimire Uwiteka mu isi,Mwa bifi mwe n'imuhengeri hose.",
+      "start": 4.92,
+      "end": 32.45
+    },
+    "8": {
+      "text": "Nawe muriro n'urubura na shelegi n'igihu,Nawe muyaga w'ishuheri, usohoza ijambo rye.",
+      "start": 17.16,
+      "end": 44.46
+    },
+    "9": {
+      "text": "Namwe misozi miremire n'udusozi twose,Namwe biti byera imbuto ziribwa n'imyerezi yose.",
+      "start": 36.35,
+      "end": 37.43
+    },
+    "10": {
+      "text": "Namwe nyamaswa n'amatungo yose,Namwe bikururuka n'inyoni zifite amababa.",
+      "start": 14.29,
+      "end": 26.41
+    },
+    "11": {
+      "text": "Namwe bami bo mu isi n'amahanga yose,Namwe abakomeye n'abacamanza bo mu isi mwese.",
+      "start": 24.03,
+      "end": 30.68
+    },
+    "12": {
+      "text": "Namwe basore n'inkumi,Namwe basaza n'abana.",
+      "start": 9.68,
+      "end": 10.52
+    },
+    "13": {
+      "text": "Bishimire izina ry'Uwiteka,Kuko izina rye ryonyine ari ryo rishyirwa hejuru,Icyubahiro cye kiri hejuru y'isi n'ijuru.",
+      "start": 8.31,
+      "end": 35.38
+    },
+    "14": {
+      "text": "Kandi yashyiriye hejuru ubwoko bwe ihembe,Ni byo ashimirwa n'abakunzi be bose,Ari bo bana ba Isirayeli,Ubwoko bumuri bugufi.Haleluya.",
+      "start": 40.36,
+      "end": 43.13
+    }
+  }
+}

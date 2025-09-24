@@ -1,0 +1,133 @@
+{
+  "book": "Book 60",
+  "book_canonical": "1_peter",
+  "book_number": 60,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Nuko mwiyambure igomwa ryose n'uburiganya bwose, n'uburyarya n'ishyari no gusebanya kose,",
+      "start": 0.0,
+      "end": 5.96
+    },
+    "2": {
+      "text": "mumere nk'impinja zivutse vuba, mwifuze amata y'umwuka adafunguye, kugira ngo abakuze abageze ku gakiza,",
+      "start": 5.96,
+      "end": 13.306
+    },
+    "3": {
+      "text": "niba mwarasogongeye mukamenya yuko Umwami wacu agira neza.",
+      "start": 13.306,
+      "end": 16.6
+    },
+    "4": {
+      "text": "Nimumwegere ni we Buye rizima ryanzwe n'abantu, ariko ku Mana ryaratoranijwe riba iry'igiciro cyinshi,",
+      "start": 16.6,
+      "end": 24.0
+    },
+    "5": {
+      "text": "namwe mwubakwe nk'amabuye mazima kugira ngo mube inzu y'umwuka, n'ubwoko bw'abatambyi bwera bwo gutamba ibitambo by'umwuka bishimwa n'Imana ku bwa Yesu Kristo.",
+      "start": 24.0,
+      "end": 34.0
+    },
+    "6": {
+      "text": "Kuko mu byanditswe harimo aya magambo ngo“Dore ndashyira muri Siyoni ibuye rikomeza impfuruka,Ryatoranijwe kandi ry'igiciro cyinshi,Kandi uryizera ntazakorwa n'isoni.”",
+      "start": 34.0,
+      "end": 44.933
+    },
+    "7": {
+      "text": "Nuko rero, mwebwe ubwo mwizeye, muzi ko ari iby'igiciro cyinshi koko, naho ku banga kwizera,“Ibuye abubatsi banze ni ryo ryahindutse irikomeza impfuruka,",
+      "start": 44.933,
+      "end": 54.8
+    },
+    "8": {
+      "text": "Ni ibuye risitaza n'urutare rugusha.”Basitara ku ijambo ry'Imana ntibaryumvire kandi ari bo ryagenewe.",
+      "start": 54.8,
+      "end": 62.853
+    },
+    "9": {
+      "text": "Ariko mwebweho muri ubwoko bwatoranijwe, abatambyi b'ubwami, ishyanga ryera n'abantu Imana yaronse, kugira ngo mwamamaze ishimwe ry'Iyabahamagaye, ikabakura mu mwijima ikabageza mu mucyo wayo w'itangaza. 2.14; Yes 9.1",
+      "start": 62.853,
+      "end": 77.586
+    },
+    "10": {
+      "text": "Kera ntimwari ubwoko ariko none muri ubwoko bw'Imana. Kera ntimurakababarirwa ariko none mwarababariwe.",
+      "start": 77.586,
+      "end": 84.906
+    },
+    "11": {
+      "text": "Bakundwa, ndabahugura ubwo muri abasuhuke n'abimukira, kugira ngo mwirinde irari ry'umubiri ry'uburyo bwinshi rirwanya ubugingo.",
+      "start": 84.906,
+      "end": 92.666
+    },
+    "12": {
+      "text": "Mugire ingeso nziza hagati y'abapagani, kugira ngo, nubwo babasebya nk'abakora nabi, nibabona imirimo yanyu myiza, izabatere guhimbaza Imana ku munsi wo kugendererwamo.",
+      "start": 92.666,
+      "end": 103.973
+    },
+    "13": {
+      "text": "Mugandukire ubutware bwose bw'abantu ku bw'Umwami wacu, naho yaba umwami kuko ari we usumba bose,",
+      "start": 103.973,
+      "end": 110.706
+    },
+    "14": {
+      "text": "cyangwa abatware kuko ari bo batumwe na we guhana inkozi z'ibibi, no gushima abakora neza.",
+      "start": 110.706,
+      "end": 116.426
+    },
+    "15": {
+      "text": "Kuko ibyo Imana ishaka ari uko mujibisha abantu b'abapfapfa batagira icyo bamenya, gukora neza kwanyu",
+      "start": 116.426,
+      "end": 122.92
+    },
+    "16": {
+      "text": "mumeze nk'ab'umudendezo koko, ariko uwo mudendezo mutawutwikiriza ibibi ahubwo mugenze nk'imbata z'Imana.",
+      "start": 122.92,
+      "end": 130.173
+    },
+    "17": {
+      "text": "Mwubahe abantu bose, mukunde bene Data, mwubahe Imana, mwubahe umwami.",
+      "start": 130.173,
+      "end": 135.493
+    },
+    "18": {
+      "text": "Bagaragu b'imbata, mugandukire ba shobuja mububashye rwose, atari abeza n'abagira ineza gusa ahubwo n'ibigoryi,",
+      "start": 135.493,
+      "end": 143.746
+    },
+    "19": {
+      "text": "kuko igishimwa ari uko umuntu yakwihanganira imibabaro bamuhoye ubusa, azize umutima utunganiye Imana.",
+      "start": 143.746,
+      "end": 150.226
+    },
+    "20": {
+      "text": "Ariko se niba mwihanganira gukubitwa ibipfunsi babahora icyaha, muzashimwa iki? Icyakora niba mukora neza, akaba ari byo mubabarizwa mukabyihanganira, ibyo ni byo Imana ishima",
+      "start": 150.226,
+      "end": 163.72
+    },
+    "21": {
+      "text": "kandi ibyo ni byo mwahamagariwe, kuko na Kristo yabababarijwe akabasigira icyitegererezo, kugira ngo mugere ikirenge mu cye.",
+      "start": 163.72,
+      "end": 173.32
+    },
+    "22": {
+      "text": "Nta cyaha yakoze, nta n'uburiganya bwabonetse mu kanwa ke:",
+      "start": 173.32,
+      "end": 177.026
+    },
+    "23": {
+      "text": "yaratutswe ntiyabasubiza, yarababajwe ntiyabakangisha, ahubwo aritanga yiha Idaca urwa kibera.",
+      "start": 177.026,
+      "end": 184.0
+    },
+    "24": {
+      "text": "Ubwe yikoreye ibyaha byacu mu mubiri we abibambanwa ku giti, kugira ngo dupfe ku byaha duhereko tubeho ku gukiranuka. Imibyimba ye ni yo yabakijije.",
+      "start": 184.0,
+      "end": 193.973
+    },
+    "25": {
+      "text": "Kuko mwari nk'intama zizimiye, ariko none mukaba mwaragarukiye Umwungeri w'ubugingo bwanyu ari we Murinzi wabwo.",
+      "start": 193.973,
+      "end": 200.973
+    }
+  }
+}

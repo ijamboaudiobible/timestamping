@@ -1,0 +1,93 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Uwiteka ahamagara Mose, amubwira avugira mu ihema ry'ibonaniro ati",
+      "start": 44.43,
+      "end": 44.45
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli uti: Nihagira umuntu muri mwe utambira Uwiteka igitambo, mujye mukura icyo mutamba mu matungo, mu mashyo cyangwa mu mikumbi.",
+      "start": 14.12,
+      "end": 16.72
+    },
+    "3": {
+      "text": "“Natamba igitambo cyo koswa kitagabanije cyo mu bushyo, atambe ikimasa kidafite inenge, agitambire ku muryango w'ihema ry'ibonaniro, kugira ngo yemerwe ari imbere y'Uwiteka.",
+      "start": 24.74,
+      "end": 30.54
+    },
+    "4": {
+      "text": "Kandi arambike ikiganza mu ruhanga rw'icyo gitambo cyo koswa, ni ho kizemererwa kumubera impongano.",
+      "start": 0.13,
+      "end": 18.9
+    },
+    "5": {
+      "text": "Abīkīre icyo kimasa imbere y'Uwiteka, bene Aroni abatambyi bamurike amaraso yacyo, bayamishe impande zose z'igicaniro cyo ku muryango w'ihema ry'ibonaniro.",
+      "start": 10.27,
+      "end": 19.62
+    },
+    "6": {
+      "text": "Abage icyo gitambo cyo koswa, agicoce.",
+      "start": 31.25,
+      "end": 39.94
+    },
+    "7": {
+      "text": "Bene Aroni umutambyi bashyire umuriro kuri icyo gicaniro bawugerekeho inkwi,",
+      "start": 34.83,
+      "end": 35.79
+    },
+    "8": {
+      "text": "bene Aroni abatambyi bashyire igihanga n'urugimbu n'ibice bindi ku nkwi ziri ku muriro wo ku gicaniro, igice cyose mu bwoserezo bwacyo,",
+      "start": 24.01,
+      "end": 37.94
+    },
+    "9": {
+      "text": "ariko amara n'ibinyita abyoze, maze umutambyi abyosereze byose ku gicaniro, bibe igitambo cyoswa kitagabanije, igitambo gikongorwa n'umuriro cy'umubabwe uhumurira Uwiteka neza.",
+      "start": 19.85,
+      "end": 33.78
+    },
+    "10": {
+      "text": "“Kandi natamba igitambo cyo koswa cyo mu mukumbi, intama cyangwa ihene, atambe isekurume idafite inenge.",
+      "start": 10.3,
+      "end": 23.47
+    },
+    "11": {
+      "text": "Ayibīkīrire mu ruhande rw'ikasikazi rw'igicaniro imbere y'Uwiteka, bene Aroni abatambyi bamishe amaraso yayo impande zose z'igicaniro.",
+      "start": 12.13,
+      "end": 26.74
+    },
+    "12": {
+      "text": "Ayicocemo ibice, birimo igihanga n'urugimbu, umutambyi abishyire ku nkwi ziri ku muriro wo ku gicaniro, igice cyose mu bwoserezo bwacyo.",
+      "start": 24.94,
+      "end": 36.27
+    },
+    "13": {
+      "text": "Ariko amara n'ibinyita abyoze, maze umutambyi abitambe, byose abyosereze ku gicaniro. Icyo ni igitambo cyoswa kitagabanije gikongorwa n'umuriro, cy'umubabwe uhumurira Uwiteka neza.",
+      "start": 40.13,
+      "end": 44.16
+    },
+    "14": {
+      "text": "“Kandi natambira Uwiteka igitambo cyo koswa kitagabanije cy'inyoni, atambe intungura cyangwa ibyana by'inuma.",
+      "start": 21.01,
+      "end": 41.08
+    },
+    "15": {
+      "text": "Umutambyi akizane ku gicaniro, anosheshe agahanga urwara akosereze ku gicaniro, amaraso yacyo agikandwemo avire ku rubavu rw'igicaniro,",
+      "start": 36.7,
+      "end": 37.52
+    },
+    "16": {
+      "text": "agikureho agatorero n'amoya yacyo, abijugunye iruhande rw'iburasirazuba rw'igicaniro, aho ivu riyorerwa.",
+      "start": 37.81,
+      "end": 38.41
+    },
+    "17": {
+      "text": "Agitanyurane n'amababa, ariko ye kuyarekanya, umutambyi acyosereze ku gicaniro ku nkwi ziri ku muriro. Icyo ni igitambo cyoswa kitagabanije, igitambo gikongorwa n'umuriro cy'umubabwe uhumurira Uwiteka neza.",
+      "start": 27.52,
+      "end": 32.2
+    }
+  }
+}

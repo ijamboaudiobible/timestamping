@@ -1,0 +1,173 @@
+{
+  "book": "Book 6",
+  "book_canonical": "joshua",
+  "book_number": 6,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Yosuwa ashaje ageze mu za bukuru Uwiteka aramubwira ati “Urashaje ugeze mu za bukuru, ariko hasigaye ibihugu byinshi cyane bikwiriye guhindūrwa.",
+      "start": 13.82,
+      "end": 14.1
+    },
+    "2": {
+      "text": "Igihugu gisigaye ngiki kirimo ibi bihugu: iby'Abafilisitiya n'iby'Abanyageshuri byose,",
+      "start": 8.41,
+      "end": 31.14
+    },
+    "3": {
+      "text": "uhereye ku kagezi Shihori kari imbere ya Egiputa ukageza mu rugabano rwo kuri Ekuroni ikasikazi, habarirwa Abanyakanāni. Kandi abatware batanu b'Abafilisitiya ni aba: uw'Abanyagaza n'uw'Abanyashidodi n'uw'Abanyashikeloni, n'uw'Abanyagati n'uw'Abanyekuroni hamwe n'Abawi.",
+      "start": 42.31,
+      "end": 42.82
+    },
+    "4": {
+      "text": "Kandi ikusi igihugu cyose cy'Abanyakanāni, n'i Meyara h'Abasidoni ukageza kuri Afika mu rugabano rw'Abamori,",
+      "start": 16.72,
+      "end": 29.73
+    },
+    "5": {
+      "text": "n'igihugu cy'Abagebali n'i Lebanoni yose herekeye iburasirazuba, uhereye i Bāligadi munsi y'umusozi wa Herumoni ukageza aho i Hamati harasukirwa.",
+      "start": 12.32,
+      "end": 20.33
+    },
+    "6": {
+      "text": "Hariho n'abanyagihugu cy'imisozi miremire, uhereye i Lebanoni ukageza i Misirefotimayimu n'Abasidoni bose.”Ati “Nzabirukanira imbere y'Abisirayeli, maze uzahagabanye Abisirayeli habe gakondo yabo nk'uko nagutegetse.",
+      "start": 36.15,
+      "end": 39.16
+    },
+    "7": {
+      "text": "Nuko none iki gihugu ukigabanye ya miryango cyenda n'igice cy'uwa Manase.”",
+      "start": 34.98,
+      "end": 37.63
+    },
+    "8": {
+      "text": "Kuko Abarubeni n'Abagadi bahanywe na Manase gakondo yabo hakurya ya Yorodani iburasirasuba nk'uko Mose umugaragu w'Uwiteka yabahaye,",
+      "start": 36.08,
+      "end": 40.67
+    },
+    "9": {
+      "text": "uhereye kuri Aroweri mu ruhande rw'ikibaya cya Arunoni n'umudugudu wo hagati mu kibaya, n'igitwa cyose cy'i Medeba ukageza i Diboni,",
+      "start": 40.46,
+      "end": 43.1
+    },
+    "10": {
+      "text": "n'imidugudu yose ya Sihoni umwami w'Abamori watwaraga i Heshiboni kugeza ku rugabano rw'Abamoni,",
+      "start": 23.0,
+      "end": 36.25
+    },
+    "11": {
+      "text": "n'i Galeyadi no mu ngabano z'Abanyageshuri n'Abanyamāka, n'umusozi wose wa Herumoni n'i Bashani yose ukageza i Saleka,",
+      "start": 40.31,
+      "end": 41.88
+    },
+    "12": {
+      "text": "n'igihugu cyose cya Ogi cy'i Bashani watwaraga mu Ashitaroti no muri Edureyi (Ogi uwo ni we wo mu bacitse ku icumu mu Barafa). Abo ni bo Mose yarwanije akabirukana.",
+      "start": 9.11,
+      "end": 19.47
+    },
+    "13": {
+      "text": "Nyamara Abisirayeli bo ntibirukanye Abanyageshuri cyangwa Abanyamāka, ahubwo Abanyageshuri n'Abanyamāka baturana n'Abisirayeli na bugingo n'ubu.",
+      "start": 20.01,
+      "end": 38.23
+    },
+    "14": {
+      "text": "Ariko umuryango w'Abalewi wo nta gakondo Mose yabahaye, keretse ibitambo byoswa by'Uwiteka Imana y'Abisirayeli, ni byo gakondo yabo nk'uko yamubwiye.",
+      "start": 3.1,
+      "end": 9.64
+    },
+    "15": {
+      "text": "Mose ni we wagerereye Abarubeni igihugu nk'uko amazu yabo ari.",
+      "start": 24.56,
+      "end": 43.51
+    },
+    "16": {
+      "text": "Igihugu bahawe cyaheraga kuri Aroweri mu ruhande rw'ikibaya cya Arunoni, n'umudugudu wo hagati mu kibaya n'igitwa cyose cy'i Medeba",
+      "start": 10.98,
+      "end": 39.2
+    },
+    "17": {
+      "text": "n'i Heshiboni, imidugudu yose y'ibitwa n'i Diboni n'i Bamotibāli n'i Betibālimeyoni,",
+      "start": 33.21,
+      "end": 41.51
+    },
+    "18": {
+      "text": "n'i Yahasi n'i Kedemoti n'i Mefāti,",
+      "start": 29.72,
+      "end": 37.88
+    },
+    "19": {
+      "text": "n'i Kiriyatayimu n'i Sibuma n'i Seretishahari hari ku musozi uri mu kibaya,",
+      "start": 42.76,
+      "end": 44.49
+    },
+    "20": {
+      "text": "n'i Betipewori n'imirenge y'i Pisiga n'i Betiyeshimoti,",
+      "start": 34.92,
+      "end": 35.3
+    },
+    "21": {
+      "text": "n'imidugudu yose y'ibitwa n'igihugu cyose cya Sihoni umwami w'Abamori watwaraga i Heshiboni, uwo Mose yanesheje hamwe n'abatware ba Midiyani: Evi na Rekemu na Suri na Huri na Reba, ari bo batware ba Sihoni babaga muri icyo gihugu.",
+      "start": 16.32,
+      "end": 39.27
+    },
+    "22": {
+      "text": "Kandi Balāmu mwene Bewori w'umucunnyi, Abisirayeli bamwicishije inkota hamwe n'abandi bishwe.",
+      "start": 38.25,
+      "end": 43.25
+    },
+    "23": {
+      "text": "Ariko urugabano rw'Abarubeni rwari Yorodani n'inkuka zayo. Iyi ni yo gakondo y'Abarubeni nk'uko amazu yabo ari, n'imidugudu n'ibirorero byayo.",
+      "start": 13.68,
+      "end": 27.96
+    },
+    "24": {
+      "text": "Kandi Mose ni we wagerereye umuryango w'Abagadi nk'uko amazu yabo ari.",
+      "start": 17.24,
+      "end": 33.2
+    },
+    "25": {
+      "text": "Igihugu bahawe cyari Yazeri n'imidugudu yose y'i Galeyadi n'igice cy'igihugu cy'Abamoni kugeza kuri Aroweri hateganye n'i Raba,",
+      "start": 6.11,
+      "end": 42.23
+    },
+    "26": {
+      "text": "uhereye i Heshiboni ukageza i Ramatimisipa n'i Betonimu, uhereye i Mahanayimu ukageza mu rugabano rw'i Debira.",
+      "start": 14.61,
+      "end": 32.93
+    },
+    "27": {
+      "text": "Kandi iyo mu kibaya n'i Betiharamu n'i Betinimura, n'i Sukoti n'i Safoni n'igice cy'igihugu cya Sihoni umwami w'i Heshiboni cyari cyasigaye, na Yorodani n'inkuka zayo ukageza mu bigobe by'inyanja y'i Kinereti iburasirazuba bwa Yorodani.",
+      "start": 37.55,
+      "end": 37.6
+    },
+    "28": {
+      "text": "Iyi ni yo gakondo y'Abagadi nk'uko amazu yabo ari, n'imidugudu n'ibirorero byayo.",
+      "start": 31.25,
+      "end": 33.48
+    },
+    "29": {
+      "text": "Kandi Mose ni we wagerereye igice cy'umuryango wa Manase, haba ahabo nk'uko amazu yabo ari.",
+      "start": 10.15,
+      "end": 26.13
+    },
+    "30": {
+      "text": "Igihugu bahawe cyageraga i Mahanayimu n'i Bashani yose, igihugu cyose cya Ogi umwami w'i Bashani, n'imidugudu yose ya Yayiri yo muri Bashani, yose yari mirongo itandatu,",
+      "start": 0.22,
+      "end": 17.49
+    },
+    "31": {
+      "text": "n'igice cy'i Galeyadi na Ashitaroti na Edureyi, imidugudu y'igihugu cya Ogi cy'i Bashani, yari iya bene Makiri mwene Manase. Ni cyo cya gice cya bene Makiri nk'uko amazu yabo ari.",
+      "start": 14.51,
+      "end": 21.93
+    },
+    "32": {
+      "text": "Uko ni ko Mose yagabanije igihugu cy'ibitwa bya Mowabu, hakurya ya Yorodani herekeye i Yeriko iburasirazuba.",
+      "start": 35.77,
+      "end": 35.83
+    },
+    "33": {
+      "text": "Ariko umuryango w'Abalewi wo Mose nta ho yabahaye kuba gakondo yabo, ahubwo Uwiteka Imana y'Abisirayeli ni yo gakondo yabo nk'uko yababwiye.",
+      "start": 44.18,
+      "end": 44.25
+    }
+  }
+}

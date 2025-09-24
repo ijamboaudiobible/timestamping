@@ -1,0 +1,338 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Bene Lewi ni Gerushomu na Kohati na Merari.",
+      "start": 43.95,
+      "end": 44.62
+    },
+    "2": {
+      "text": "Aya ni yo mazina ya bene Gerushomu: Libuni na Shimeyi.",
+      "start": 37.11,
+      "end": 39.53
+    },
+    "3": {
+      "text": "Bene Kohati ni Amuramu na Isuhari, na Heburoni na Uziyeli.",
+      "start": 24.4,
+      "end": 28.44
+    },
+    "4": {
+      "text": "Bene Merari ni Mahali na Mushi. Kandi iyi ni yo miryango y'Abalewi nk'uko amazu ya ba sekuruza yari ari.",
+      "start": 21.01,
+      "end": 21.51
+    },
+    "5": {
+      "text": "Aba Gerushomu: umuhungu we ni Libuni, mwene Libuni ni Yahati, mwene Yahati ni Zima,",
+      "start": 19.63,
+      "end": 40.05
+    },
+    "6": {
+      "text": "mwene Zima ni Yowa, mwene Yowa ni Ido, mwene Ido ni Zera, mwene Zera ni Yeyaterayi.",
+      "start": 38.32,
+      "end": 40.43
+    },
+    "7": {
+      "text": "Bene Kohati: umuhungu we ni Aminadabu, mwene Aminadabu ni Kōra, mwene Kōra ni Asiri,",
+      "start": 13.11,
+      "end": 40.9
+    },
+    "8": {
+      "text": "mwene Asiri ni Elukana, mwene Elukana ni Ebiyasafu, mwene Ebiyasafu ni Asiri.",
+      "start": 4.49,
+      "end": 17.71
+    },
+    "9": {
+      "text": "Mwene Asiri ni Tahati, mwene Tahati ni Uriyeli, mwene Uriyeli ni Uziya, mwene Uziya ni Shawuli.",
+      "start": 22.27,
+      "end": 23.46
+    },
+    "10": {
+      "text": "Bene Elukana ni Amasayi na Ahimoti.",
+      "start": 32.74,
+      "end": 43.47
+    },
+    "11": {
+      "text": "Ibya Elukana: bene Elukana, umuhungu we ni Zofayi, mwene Zofayi ni Nahati.",
+      "start": 13.43,
+      "end": 38.85
+    },
+    "12": {
+      "text": "Mwene Nahati ni Eliyabu, mwene Eliyabu ni Yerohamu, mwene Yerohamu ni Elukana.",
+      "start": 31.6,
+      "end": 44.33
+    },
+    "13": {
+      "text": "Bene Samweli: imfura ye ni Yoweli, uw'ubuheta ni Abiya.",
+      "start": 1.72,
+      "end": 15.24
+    },
+    "14": {
+      "text": "Bene Merari ni Mahali, mwene Mahali ni Libuni, mwene Libuni ni Shimeyi, mwene Shimeyi ni Uza.",
+      "start": 23.75,
+      "end": 27.2
+    },
+    "15": {
+      "text": "Mwene Uza ni Shimeya, mwene Shimeya ni Hagiya, mwene Hagiya ni Asaya.",
+      "start": 27.19,
+      "end": 40.83
+    },
+    "16": {
+      "text": "Abo ni bo Dawidi yashyize ku murimo wo kuririmba mu nzu y'Uwiteka, ubwo isanduku yari imaze gushyirwa mu buruhukiro,",
+      "start": 34.01,
+      "end": 38.63
+    },
+    "17": {
+      "text": "bagakoreshereza indirimbo imbere y'ubuturo bw'Ihema ry'ibonaniro, kugeza aho Salomo yamariye kubaka inzu y'Uwiteka i Yerusalemu, bagakora umurimo wabo bakuranwa, uko ibihe byabo byari biri.",
+      "start": 40.71,
+      "end": 40.92
+    },
+    "18": {
+      "text": "Kandi aba ni bo bakoranaga n'abahungu babo:muri bene Kohati ni Hemani umuririmbyi mwene Yoweli, mwene Samweli,",
+      "start": 33.95,
+      "end": 34.14
+    },
+    "19": {
+      "text": "mwene Elukana, mwene Yerohamu, mwene Eliyeli, mwene Towa,",
+      "start": 11.55,
+      "end": 40.23
+    },
+    "20": {
+      "text": "mwene Sufi, mwene Elukana, mwene Mahati, mwene Amasayi,",
+      "start": 25.78,
+      "end": 37.56
+    },
+    "21": {
+      "text": "mwene Elukana, mwene Yoweli, mwene Azariya, mwene Zefaniya,",
+      "start": 43.22,
+      "end": 43.55
+    },
+    "22": {
+      "text": "mwene Tahati, mwene Asiri, mwene Ebiyasafu, mwene Kōra,",
+      "start": 9.92,
+      "end": 29.3
+    },
+    "23": {
+      "text": "mwene Isuhari, mwene Kohati, mwene Lewi, mwene Isirayeli.",
+      "start": 18.62,
+      "end": 26.16
+    },
+    "24": {
+      "text": "Na murumuna we Asafu, wahagararaga iburyo bwe, ari we Asafu mwene Berekiya, mwene Shimeya,",
+      "start": 32.13,
+      "end": 41.99
+    },
+    "25": {
+      "text": "mwene Mikayeli, mwene Bāseya, mwene Malikiya,",
+      "start": 41.42,
+      "end": 41.93
+    },
+    "26": {
+      "text": "mwene Etuni, mwene Zera, mwene Adaya,",
+      "start": 26.75,
+      "end": 37.84
+    },
+    "27": {
+      "text": "mwene Etani, mwene Zima, mwene Shimeyi,",
+      "start": 20.27,
+      "end": 43.81
+    },
+    "28": {
+      "text": "mwene Yahati, mwene Gerushomu, mwene Lewi.",
+      "start": 19.98,
+      "end": 31.08
+    },
+    "29": {
+      "text": "Kandi ibumoso bwabo hari bene wabo bene Merari: Etani mwene Kishi, mwene Abudi, mwene Maluki,",
+      "start": 22.29,
+      "end": 29.08
+    },
+    "30": {
+      "text": "mwene Hashabiya, mwene Amasiya, mwene Hilukiya,",
+      "start": 24.93,
+      "end": 35.08
+    },
+    "31": {
+      "text": "mwene Amusi, mwene Bani, mwene Shemeri,",
+      "start": 38.5,
+      "end": 41.64
+    },
+    "32": {
+      "text": "mwene Mahali, mwene Mushi, mwene Merari, mwene Lewi.",
+      "start": 8.23,
+      "end": 26.05
+    },
+    "33": {
+      "text": "Kandi bene wabo Abalewi, bashyiriweho gukora umurimo wose wo mu buturo bw'inzu y'Imana.",
+      "start": 5.56,
+      "end": 32.33
+    },
+    "34": {
+      "text": "Ariko Aroni n'abahungu be batambiraga ku gicaniro cy'ibitambo byoswa no ku gicaniro cyo koserezaho imibavu, bagakora imirimo yose y'Ahera cyane, bagahongerera Abisirayeli nk'ibyo Mose umugaragu w'Imana yategetse byose.",
+      "start": 33.01,
+      "end": 35.96
+    },
+    "35": {
+      "text": "Aba ni bo bene Aroni: umuhungu we ni Eleyazari, mwene Eleyazari ni Finehasi, mwene Finehasi ni Abishuwa,",
+      "start": 26.3,
+      "end": 36.98
+    },
+    "36": {
+      "text": "mwene Abishuwa ni Buki, mwene Buki ni Uzi, mwene Uzi ni Zerahiya,",
+      "start": 40.86,
+      "end": 42.13
+    },
+    "37": {
+      "text": "mwene Zerahiya ni Merayoti, mwene Merayoti ni Amariya, mwene Amariya ni Ahitubu,",
+      "start": 5.45,
+      "end": 29.08
+    },
+    "38": {
+      "text": "mwene Ahitubu ni Sadoki, mwene Sadoki ni Ahimāzi.",
+      "start": 19.7,
+      "end": 33.36
+    },
+    "39": {
+      "text": "Kandi izi ni zo nturo bagabanijwe zo kubamo uko ingando zabo zari ziri: bene Aroni bo mu mazu y'Abakohati (kuko umugabane wa mbere wari uwabo),",
+      "start": 10.85,
+      "end": 27.93
+    },
+    "40": {
+      "text": "babaha i Heburoni mu gihugu cy'i Buyuda n'ibikingi byaho by'impande zose,",
+      "start": 3.83,
+      "end": 22.03
+    },
+    "41": {
+      "text": "ariko imirima yo ku mudugudu n'ibirorero byawo babiha Kalebu mwene Yefune.",
+      "start": 37.05,
+      "end": 37.25
+    },
+    "42": {
+      "text": "Kandi bene Aroni babaha imidugudu y'ubuhungiro, i Heburoni n'i Libuna n'ibikingi byaho, n'i Yatiri na Eshitemowa n'ibikingi byaho,",
+      "start": 9.64,
+      "end": 44.2
+    },
+    "43": {
+      "text": "n'i Hileni n'ibikingi byaho, n'i Debira n'ibikingi byaho,",
+      "start": 27.27,
+      "end": 31.73
+    },
+    "44": {
+      "text": "na Ashani n'ibikingi byaho, n'i Betishemeshi n'ibikingi byaho,",
+      "start": 43.46,
+      "end": 43.52
+    },
+    "45": {
+      "text": "n'iyo mu muryango w'Ababenyamini, i Geba n'ibikingi byaho, na Alemeti n'ibikingi byaho, na Anatoti n'ibikingi byaho. Imidugudu yabo yose uko yagabanijwe mu miryango yabo, yari cumi n'itatu.",
+      "start": 2.1,
+      "end": 43.35
+    },
+    "46": {
+      "text": "Kandi bene Kohati bandi bagabanirizwa umugabane mu mazu y'umuryango wa Efurayimu, no mu gice cy'umuryango wa Manase. Yose ni imidugudu icumi.",
+      "start": 19.6,
+      "end": 42.81
+    },
+    "47": {
+      "text": "Bene Gerushomu nk'uko imbyaro zabo zari ziri, bahabwa imidugudu cumi n'itatu itanzwe n'umuryango wa Isakari n'uwa Asheri, n'uwa Nafutali n'uwa Manase i Bashani.",
+      "start": 34.38,
+      "end": 43.23
+    },
+    "48": {
+      "text": "Bene Merari nk'uko imbyaro zabo zari ziri, bagabanirizwa imigabane mu muryango wa Rubeni n'uwa Gadi n'uwa Zebuluni, imidugudu cumi n'ibiri.",
+      "start": 9.49,
+      "end": 32.78
+    },
+    "49": {
+      "text": "Abisirayeli baha Abalewi iyo midugudu n'ibikingi byayo.",
+      "start": 13.97,
+      "end": 34.68
+    },
+    "50": {
+      "text": "Nuko batanga imigabane y'imidugudu yo mu muryango w'Abayuda, n'iyo mu muryango w'Abasimeyoni, n'iyo mu muryango w'Ababenyamini, ari yo iyo ivuzwe mu mazina.",
+      "start": 6.51,
+      "end": 11.98
+    },
+    "51": {
+      "text": "Kandi bamwe bo mu mazu ya bene Kohati, bari bafite imidugudu n'ingabano zayo yo mu muryango wa Efurayimu.",
+      "start": 0.39,
+      "end": 20.09
+    },
+    "52": {
+      "text": "Babaha n'imidugudu y'ubuhungiro: i Shekemu mu gihugu cy'imisozi ya Efurayimu n'ibikingi byaho, n'i Gezeri n'ibikingi byaho,",
+      "start": 26.75,
+      "end": 43.62
+    },
+    "53": {
+      "text": "n'i Yokimeyamu n'ibikingi byaho, n'i Betihoroni n'ibikingi byaho,",
+      "start": 17.24,
+      "end": 19.15
+    },
+    "54": {
+      "text": "na Ayaloni n'ibikingi byaho, n'i Gatirimoni n'ibikingi byaho.",
+      "start": 19.83,
+      "end": 23.34
+    },
+    "55": {
+      "text": "Kandi n'iyo mu gice cy'umuryango wa Manase: Aneri n'ibikingi byaho, n'i Bileyamu n'ibikingi byaho, ngo ibe iy'abasigaye b'inzu ya bene Kohati.",
+      "start": 18.18,
+      "end": 19.0
+    },
+    "56": {
+      "text": "Bene Gerushomu bahabwa imidugudu yo mu midugudu y'inzu y'igice cy'umuryango wa Manase: i Golani muri Bashani n'ibikingi byaho, na Ashitaroti n'ibikingi byaho,",
+      "start": 16.15,
+      "end": 39.01
+    },
+    "57": {
+      "text": "n'iyo mu muryango wa Isakari: i Kedeshi n'ibikingi byaho, n'i Daberati n'ibikingi byaho,",
+      "start": 11.96,
+      "end": 16.28
+    },
+    "58": {
+      "text": "n'i Ramoti n'ibikingi byaho, na Anemu n'ibikingi byaho,",
+      "start": 9.75,
+      "end": 40.82
+    },
+    "59": {
+      "text": "n'iyo mu muryango wa Asheri: i Mashali n'ibikingi byaho, na Abudoni n'ibikingi byaho,",
+      "start": 4.09,
+      "end": 36.95
+    },
+    "60": {
+      "text": "n'i Hukoki n'ibikingi byaho, n'i Rehobu n'ibikingi byaho,",
+      "start": 17.1,
+      "end": 41.2
+    },
+    "61": {
+      "text": "n'iyo mu muryango wa Nafutali: i Kedeshi y'i Galilaya n'ibikingi byaho, n'i Hamoni n'ibikingi byaho, n'i Kiriyatayimu n'ibikingi byaho.",
+      "start": 40.8,
+      "end": 41.08
+    },
+    "62": {
+      "text": "Abandi Balewi bene Merari bahawe imidugudu yo mu muryango wa Zebuluni: i Rimoni n'ibikingi byaho, n'i Tabora n'ibikingi byaho,",
+      "start": 26.72,
+      "end": 43.09
+    },
+    "63": {
+      "text": "kandi hakurya ya Yorodani iburasirazuba hateganye n'i Yeriko, bahawe imidugudu yo mu muryango wa Rubeni: i Beseri ho mu butayu n'ibikingi byaho, n'i Yahazi n'ibikingi byaho,",
+      "start": 7.17,
+      "end": 21.03
+    },
+    "64": {
+      "text": "n'i Kedemoti n'ibikingi byaho, n'i Mefāti n'ibikingi byaho,",
+      "start": 23.37,
+      "end": 39.7
+    },
+    "65": {
+      "text": "n'iyo mu muryango wa Gadi: i Ramoti y'i Galeyadi n'ibikingi byaho, n'i Mahanayimu n'ibikingi byaho,",
+      "start": 1.0,
+      "end": 20.31
+    },
+    "66": {
+      "text": "n'i Heshiboni n'ibikingi byaho, n'i Yazeri n'ibikingi byaho.",
+      "start": 37.89,
+      "end": 42.19
+    }
+  }
+}

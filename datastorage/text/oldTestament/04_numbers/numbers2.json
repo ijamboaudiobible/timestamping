@@ -1,0 +1,178 @@
+{
+  "book": "Book 4",
+  "book_canonical": "numbers",
+  "book_number": 4,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose na Aroni ati",
+      "start": 7.54,
+      "end": 19.42
+    },
+    "2": {
+      "text": "“Abisirayeli bajye babamba amahema yabo, umuntu wese ahererane n'ibendera ry'ababo, kandi babe munsi y'utubendera tw'amazu ya ba sekuru, berekeze amahema yabo ihema ry'ibonaniro bayarigoteshe.",
+      "start": 6.91,
+      "end": 24.16
+    },
+    "3": {
+      "text": "“Abayabamba iburasirazuba bajye baba ab'icyiciro cya Yuda, kirimo ibendera ryacyo n'imitwe yacyo, umutware w'Abayuda abe Nahashoni mwene Aminadabu.",
+      "start": 32.78,
+      "end": 37.14
+    },
+    "4": {
+      "text": "Umutwe we warimo abagabo inzovu ndwi n'ibihumbi bine na magana atandatu nk'uko babazwe.",
+      "start": 19.67,
+      "end": 22.86
+    },
+    "5": {
+      "text": "Ab'umuryango wa Isakari abe ari bo bahererana na bo, umutware w'Abisakari abe Netanēli mwene Suwari.",
+      "start": 15.08,
+      "end": 24.13
+    },
+    "6": {
+      "text": "Umutwe we warimo abagabo inzovu eshanu n'ibihumbi bine na magana ane nk'uko babazwe.",
+      "start": 37.11,
+      "end": 38.93
+    },
+    "7": {
+      "text": "Bahererwe n'ab'umuryango wa Zebuluni, umutware w'Abazebuluni abe Eliyabu mwene Heloni.",
+      "start": 0.79,
+      "end": 6.86
+    },
+    "8": {
+      "text": "Umutwe we warimo abagabo inzovu eshanu n'ibihumbi birindwi na magana ane nk'uko babazwe.",
+      "start": 2.5,
+      "end": 5.11
+    },
+    "9": {
+      "text": "Ababazwe bo mu cyiciro cya Yuda bose bari abagabo agahumbi n'inzovu munani n'ibihumbi bitandatu na magana ane nk'uko imitwe yabo yari iri. Abo abe ari bo bajya babanza guhaguruka.",
+      "start": 29.8,
+      "end": 37.45
+    },
+    "10": {
+      "text": "“Mu ruhande rw'ikusi hajye haba icyiciro cya Rubeni kirimo ibendera ryacyo n'imitwe yacyo, umutware w'Abarubeni abe Elisuri mwene Shedewuri.",
+      "start": 13.66,
+      "end": 13.75
+    },
+    "11": {
+      "text": "Umutwe we warimo abagabo inzovu enye n'ibihumbi bitandatu na magana atanu nk'uko babazwe.",
+      "start": 18.79,
+      "end": 19.36
+    },
+    "12": {
+      "text": "Ab'umuryango wa Simiyoni abe ari bo bahererana na bo, umutware w'Abasimeyoni abe Shelumiyeli mwene Surishadayi.",
+      "start": 36.14,
+      "end": 41.25
+    },
+    "13": {
+      "text": "Umutwe we warimo abagabo inzovu eshanu n'ibihumbi cyenda na magana atatu nk'uko babazwe.",
+      "start": 12.91,
+      "end": 34.73
+    },
+    "14": {
+      "text": "Bahererwe n'ab'umuryango wa Gadi, umutware w'Abagadi abe Eliyasafu mwene Deweli.",
+      "start": 20.2,
+      "end": 36.18
+    },
+    "15": {
+      "text": "Umutwe we warimo abagabo inzovu enye n'ibihumbi bitanu na magana atandatu na mirongo itanu nk'uko babazwe.",
+      "start": 37.97,
+      "end": 40.83
+    },
+    "16": {
+      "text": "Ababazwe bo mu cyiciro cya Rubeni bose bari abagabo agahumbi n'inzovu eshanu n'igihumbi na magana ane na mirongo itanu nk'uko imitwe yabo yari iri. Abo abe ari bo bajya baba aba kabiri mu ihaguruka.",
+      "start": 24.23,
+      "end": 26.59
+    },
+    "17": {
+      "text": "“Maze ihema ry'ibonaniro rijye rihagurukana n'icyiciro cy'Abalewi kigenda hagati y'ibindi byiciro. Uko babambye amahema abe ari ko bahaguruka, umuntu wese muri gahunda ye, bahereranye n'amabendera y'ababo.",
+      "start": 20.69,
+      "end": 23.3
+    },
+    "18": {
+      "text": "“Mu ruhande rw'iburengerazuba hajye haba icyiciro cya Efurayimu, kirimo ibendera ryacyo n'imitwe yacyo, umutware w'Abefurayimu abe Elishama mwene Amihudi.",
+      "start": 26.71,
+      "end": 34.97
+    },
+    "19": {
+      "text": "Umutwe we warimo abagabo inzovu enye na magana atanu nk'uko babazwe.",
+      "start": 42.99,
+      "end": 44.31
+    },
+    "20": {
+      "text": "Ab'umuryango wa Manase abe ari bo bahererana na bo, umutware w'Abamanase abe Gamaliyeli mwene Pedasuri.",
+      "start": 26.66,
+      "end": 43.92
+    },
+    "21": {
+      "text": "Umutwe we warimo abagabo inzovu eshatu n'ibihumbi bibiri na magana abiri nk'uko babazwe.",
+      "start": 36.62,
+      "end": 40.3
+    },
+    "22": {
+      "text": "Bahererwe n'ab'umuryango wa Benyamini, umutware w'Ababenyamini abe Abidani mwene Gideyoni.",
+      "start": 3.87,
+      "end": 13.75
+    },
+    "23": {
+      "text": "Umutwe we warimo abagabo inzovu eshatu n'ibihumbi bitanu na magana ane nk'uko babazwe.",
+      "start": 29.56,
+      "end": 35.55
+    },
+    "24": {
+      "text": "Ababazwe bo mu cyiciro cya Efurayimu bose, bari abagabo agahumbi n'ibihumbi munani n'ijana nk'uko imitwe yabo yari iri. Abo abe ari bo bajya baba aba gatatu mu ihaguruka.",
+      "start": 5.6,
+      "end": 42.53
+    },
+    "25": {
+      "text": "“Mu ruhande rw'ikasikazi hajye haba icyiciro cya Dani, kirimo ibendera ryacyo n'imitwe yacyo, umutware w'Abadani abe Ahiyezeri mwene Amishadayi.",
+      "start": 42.83,
+      "end": 44.3
+    },
+    "26": {
+      "text": "Umutwe we warimo abagabo inzovu esheshatu n'ibihumbi bibiri na magana arindwi nk'uko babazwe.",
+      "start": 15.17,
+      "end": 38.62
+    },
+    "27": {
+      "text": "Ab'umuryango wa Asheri abe ari bo bahererana na bo, umutware w'Abashēri abe Pagiyeli mwene Okirani.",
+      "start": 16.88,
+      "end": 33.49
+    },
+    "28": {
+      "text": "Umutwe we warimo abagabo inzovu enye n'igihumbi na magana atanu nk'uko babazwe.",
+      "start": 44.5,
+      "end": 44.79
+    },
+    "29": {
+      "text": "Bahererwe n'ab'umuryango wa Nafutali, umutware w'Abanafutali abe Ahira mwene Enani.",
+      "start": 28.84,
+      "end": 40.82
+    },
+    "30": {
+      "text": "Umutwe we warimo abagabo inzovu eshanu n'ibihumbi bitatu na magana ane nk'uko babazwe.",
+      "start": 18.4,
+      "end": 36.68
+    },
+    "31": {
+      "text": "Ababazwe bo mu cyiciro cya Dani bose, bari abagabo agahumbi n'inzovu eshanu n'ibihumbi birindwi na magana atandatu. Abo abe ari bo basezera abandi bahereranye n'amabendera y'ababo.”",
+      "start": 30.34,
+      "end": 35.85
+    },
+    "32": {
+      "text": "Abo ni bo babazwe mu Bisirayeli nk'uko amazu ya ba sekuru ari. Ababazwe bo mu cyiciro bose nk'uko imitwe yabo yari iri, bari uduhumbi dutandatu n'ibihumbi bitatu na magana atanu na mirongo itanu.",
+      "start": 42.07,
+      "end": 43.05
+    },
+    "33": {
+      "text": "Ariko Abalewi ntibabaranwa n'Abisirayeli, uko Uwiteka yategetse Mose.",
+      "start": 26.8,
+      "end": 27.88
+    },
+    "34": {
+      "text": "Uko abe ari ko Abisirayeli bakora. Uko Uwiteka yategetse Mose kose, abe ari ko babamba amahema yabo bahereranye n'amabendera y'ababo, kandi uko abe ari ko bahaguruka, umuntu wese mu muryango we no mu nzu ya ba sekuru.",
+      "start": 39.99,
+      "end": 44.45
+    }
+  }
+}

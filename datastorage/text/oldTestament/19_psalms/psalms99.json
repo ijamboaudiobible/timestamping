@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 99,
+  "verses": {
+    "1": {
+      "text": "Uwiteka ari ku ngoma,Amahanga ahinze imishitsi,Yicaye ku Bakerubi, isi iranyeganyega.",
+      "start": 37.47,
+      "end": 43.85
+    },
+    "2": {
+      "text": "Uwiteka muri Siyoni arakomeye,Kandi ari hejuru y'amahanga yose.",
+      "start": 44.0,
+      "end": 44.23
+    },
+    "3": {
+      "text": "Bashime izina ryawe rikomeye riteye ubwoba,Ni we wera.",
+      "start": 12.02,
+      "end": 40.38
+    },
+    "4": {
+      "text": "Imbaraga z'umwami zikunda imanza zitabera,Ni wowe ukomeza ibitunganye.Imanza zitabera no gukiranuka,Ni wowe ubikorera mu Bayakobo.",
+      "start": 22.98,
+      "end": 23.56
+    },
+    "5": {
+      "text": "Mushyire hejuru Uwiteka Imana yacu,Kandi musengere imbere y'intebe y'ibirenge bye,Ni we wera.",
+      "start": 40.71,
+      "end": 41.17
+    },
+    "6": {
+      "text": "Mose na Aroni bo mu batambyi be,Na Samweli wo mu bambazaga izina rye,Bambazaga Uwiteka akabasubiza.",
+      "start": 4.04,
+      "end": 28.74
+    },
+    "7": {
+      "text": "Yababwiriraga mu nkingi y'igicu,Bakitondera ibyo yahamije n'amategeko yabategetse.",
+      "start": 14.52,
+      "end": 15.48
+    },
+    "8": {
+      "text": "Uwiteka Mana yacu, warabasubizaga,Wari Imana ibababarira,Nubwo wabahoraga ibyo bakoraga.",
+      "start": 42.74,
+      "end": 43.0
+    },
+    "9": {
+      "text": "Mushyire hejuru Uwiteka Imana yacu,Musengere ku musozi we wera,Kuko Uwiteka Imana yacu ari uwera.",
+      "start": 16.56,
+      "end": 38.7
+    }
+  }
+}

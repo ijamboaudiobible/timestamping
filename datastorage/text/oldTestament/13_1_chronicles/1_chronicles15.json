@@ -1,0 +1,153 @@
+{
+  "book": "Book 13",
+  "book_canonical": "1_chronicles",
+  "book_number": 13,
+  "chapter": 15,
+  "verses": {
+    "1": {
+      "text": "Bukeye Dawidi yiyubakira amazu mu rurembo rwa Dawidi, atunganiriza isanduku y'Imana ahantu, ayibambira ihema.",
+      "start": 15.35,
+      "end": 41.51
+    },
+    "2": {
+      "text": "Dawidi aravuga ati “Nta muntu ukwiriye kuremērwa isanduku y'Imana keretse Abalewi, kuko ari bo Uwiteka yatoranije kujya baremērwa isanduku y'Imana, bakayiremērwa iteka ryose.”",
+      "start": 30.76,
+      "end": 36.66
+    },
+    "3": {
+      "text": "Bukeye Dawidi ateraniriza Abisirayeli bose i Yerusalemu, ngo bajye kuzamura isanduku y'Uwiteka bayishyire ahantu hayo yayitunganirije.",
+      "start": 34.49,
+      "end": 35.52
+    },
+    "4": {
+      "text": "Dawidi ateranya bene Aroni n'Abalewi.",
+      "start": 37.02,
+      "end": 40.25
+    },
+    "5": {
+      "text": "Muri bene Kohati, umukuru ni Uriyeli na bene se ijana na makumyabiri.",
+      "start": 7.89,
+      "end": 34.08
+    },
+    "6": {
+      "text": "No muri bene Merari, umukuru ni Asaya na bene se magana abiri na makumyabiri.",
+      "start": 28.62,
+      "end": 29.34
+    },
+    "7": {
+      "text": "No muri bene Gerushomu, umukuru ni Yoweli na bene se ijana na mirongo itatu.",
+      "start": 30.63,
+      "end": 37.24
+    },
+    "8": {
+      "text": "No muri bene Elisafani, umukuru ni Shemaya na bene se magana abiri.",
+      "start": 15.68,
+      "end": 44.37
+    },
+    "9": {
+      "text": "No muri bene Heburoni, umukuru ni Eliyeli na bene se mirongo inani.",
+      "start": 37.25,
+      "end": 42.65
+    },
+    "10": {
+      "text": "No muri bene Uziyeli, umukuru ni Aminadabu na bene se ijana na cumi na babiri.",
+      "start": 18.18,
+      "end": 31.14
+    },
+    "11": {
+      "text": "Dawidi ahamagaza Sadoki na Abiyatari abatambyi, n'Abalewi ari bo Uriyeli na Asaya na Yoweli, na Shemaya na Eliyeli na Aminadabu",
+      "start": 14.46,
+      "end": 44.96
+    },
+    "12": {
+      "text": "arababwira ati “Mwebwe muri abatware b'amazu ya ba sekuruza b'Abalewi. Mwiyeze ubwanyu ndetse na bene wanyu, mubone kujya kuzamura isanduku y'Uwiteka Imana ya Isirayeli, muyishyire ahantu nayitunganirije.",
+      "start": 5.68,
+      "end": 23.83
+    },
+    "13": {
+      "text": "Kuko ubwa mbere atari mwe mwayihetse, ni cyo cyatumye Uwiteka Imana yacu idusumira, kuko tutayishatse nk'uko itegeko ritegeka.”",
+      "start": 29.45,
+      "end": 38.03
+    },
+    "14": {
+      "text": "Nuko abatambyi n'Abalewi biyereza kujya kuzamura isanduku y'Uwiteka Imana ya Isirayeli.",
+      "start": 21.84,
+      "end": 28.99
+    },
+    "15": {
+      "text": "(Bagezeyo) Abalewi baremērwa isanduku y'Imana, bashyira imijisho yayo ku ntugu zabo nk'uko Mose yategetse, uko ijambo ry'Uwiteka ryari riri.",
+      "start": 0.09,
+      "end": 38.01
+    },
+    "16": {
+      "text": "Dawidi abwira abatware b'Abalewi gutoranya abaririmbyi muri bene wabo ngo bazane ibintu bivuga: nebelu n'inanga n'ibyuma birenga, babivuze cyane barangurura ijwi n'ibyishimo.",
+      "start": 15.57,
+      "end": 31.24
+    },
+    "17": {
+      "text": "Nuko Abalewi batoranya Hemani mwene Yoweli, no muri bene Asafu mwene Berekiya, no muri bene se bene Merari, Etani mwene Kushaya,",
+      "start": 28.2,
+      "end": 35.71
+    },
+    "18": {
+      "text": "kandi hamwe na bo bene wabo aba kabiri kuri bo, ari bo Zekariya na Beni, na Yeziyeli na Shemiramoti, na Yehiyeli na Uni na Eliyabu, na Benaya na Māseya na Matitiya, na Elifelehu na Mikuneya, na Obededomu na Yeyeli, bari abarinzi b'irembo.",
+      "start": 18.21,
+      "end": 31.74
+    },
+    "19": {
+      "text": "Uko ni ko batoranije abaririmbyi: Hemani na Asafu na Etani, bazanye ibyuma by'imiringa birenga byo kuvuza cyane.",
+      "start": 30.15,
+      "end": 31.91
+    },
+    "20": {
+      "text": "Zekariya na Aziyeli, na Shemiramoti na Yehiyeli na Uni, na Eliyabu na Māseya na Benaya, bazanye nebelu bazibwirisha ijwi rito.",
+      "start": 23.76,
+      "end": 39.26
+    },
+    "21": {
+      "text": "Matitiya na Elifelehu na Mikuneya, na Obededomu na Yeyeli na Azaziya, bari bafite inanga babwirisha ijwi ryo mu gituza zo kubaterera indirimbo.",
+      "start": 12.63,
+      "end": 34.7
+    },
+    "22": {
+      "text": "Kenaniya umutware w'Abalewi waremērwaga isanduku, ni we wategekaga ibyo kuyiremērwa kuko yari umunyabwenge.",
+      "start": 32.24,
+      "end": 42.97
+    },
+    "23": {
+      "text": "Berekiya na Elukana bari abakumirizi b'isanduku.",
+      "start": 8.79,
+      "end": 44.91
+    },
+    "24": {
+      "text": "Shebaniya na Yashofati, na Netanēli na Amasiya, na Zekariya na Benaya na Eliyezeri abatambyi, ni bo bagendaga bavuza amakondera imbere y'isanduku y'Imana. Obededomu na Yehiya bari abakumirizi b'irembo ry'isanduku.",
+      "start": 12.5,
+      "end": 16.03
+    },
+    "25": {
+      "text": "Nuko Dawidi n'abakuru ba Isirayeli, n'abatware batwara ibihumbi bajya kuzamura isanduku y'isezerano ry'Uwiteka, bayikura kwa Obededomu bishima.",
+      "start": 16.62,
+      "end": 19.61
+    },
+    "26": {
+      "text": "Maze ubwo Imana ifashije Abalewi bari baremērewe isanduku y'isezerano ry'Uwiteka, baherako batamba amapfizi arindwi n'amasekurume y'ihene arindwi.",
+      "start": 4.24,
+      "end": 17.91
+    },
+    "27": {
+      "text": "Kandi Dawidi yari yambaye umwitero w'igitare cyiza, Abalewi bose na bo bari baremērewe isanduku, n'abaririmbyi na Kenaniya umutware w'abahetsi, bose bari bambaye batyo. Kandi Dawidi yari yambaye efodi y'igitare.",
+      "start": 11.59,
+      "end": 25.67
+    },
+    "28": {
+      "text": "Uko ni ko Abisirayeli bose bazamuye isanduku y'isezerano ry'Uwiteka basakuriza hejuru, bavuza ihembe n'amakondera n'ibyuma birenga, bacuranga nebelu n'inanga.",
+      "start": 34.09,
+      "end": 35.43
+    },
+    "29": {
+      "text": "Nuko bagisohoza isanduku y'isezerano ry'Uwiteka mu rurembo rwa Dawidi, Mikali umukobwa wa Sawuli arungurukira mu idirishya, abona Dawidi aca ikibungo abyina amugayira mu mutima.",
+      "start": 2.45,
+      "end": 40.44
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "Book 27",
+  "book_canonical": "daniel",
+  "book_number": 27,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Jyewe Nebukadinezari, nari ngwiriwe neza mu nzu yanjye ya kambere nezerewe.",
+      "start": 5.43,
+      "end": 5.86
+    },
+    "2": {
+      "text": "Ndota inzozi ziteye ubwoba, ibyo nibwiriye ku gisasiro n'ibyo neretswe bimpagarika umutima,",
+      "start": 33.93,
+      "end": 41.17
+    },
+    "3": {
+      "text": "bituma ntegeka ko banzanira abanyabwenge b'i Babuloni bose, kugira ngo bansobanurire ibyo neretswe.",
+      "start": 7.64,
+      "end": 23.58
+    },
+    "4": {
+      "text": "Abakonikoni n'abapfumu n'Abakaludaya n'abacunnyi baraza, mbarotorera izo nzozi ariko bananirwa kuzisobanura.",
+      "start": 10.56,
+      "end": 23.03
+    },
+    "5": {
+      "text": "Ariko hanyuma Daniyeli wahimbwe Beluteshazari mwitiriye imana yanjye, wababwagamo n'umwuka w'imana zera, araza murotorera izo nzozi nti",
+      "start": 42.97,
+      "end": 43.62
+    },
+    "6": {
+      "text": "“Yewe Beluteshazari mutware w'abakonikoni, nzi ko umwuka w'imana zera aba muri wowe, kandi ko nta bihishwe unanirwa guhishura, cyo mbwira ibyo neretswe mu nzozi narose kandi n'uko bisobanurwa.",
+      "start": 42.25,
+      "end": 43.31
+    },
+    "7": {
+      "text": "“Ibyo neretswe ndi ku gisasiro ni byo ibi: nagiye kubona mbona igiti kiri mu isi hagati, uburebure bwacyo bwari bukabije.",
+      "start": 37.22,
+      "end": 43.92
+    },
+    "8": {
+      "text": "Icyo giti kirakura kirakomera, ubushorishori bwacyo bugera ku ijuru, cyitegera abo ku mpera y'isi yose.",
+      "start": 41.37,
+      "end": 44.49
+    },
+    "9": {
+      "text": "Ibibabi byacyo byari byiza, cyari gihunze imbuto nyinshi kandi muri cyo harimo ibyokurya bihaza abantu bose. Inyamaswa zo mu ishyamba zahundagaraga mu gicucu cyacyo, ibisiga byo mu kirere byabaga mu mashami yacyo, kandi ibyari bifite umubiri byose byatungwaga na cyo.",
+      "start": 41.23,
+      "end": 43.31
+    },
+    "10": {
+      "text": "“Ibyo neretswe ndi ku gisasiro ngibi: nabonye uwera wagizwe umurinzi amanuka ava mu ijuru,",
+      "start": 31.0,
+      "end": 43.32
+    },
+    "11": {
+      "text": "ararangurura ati ‘Tsinda icyo giti ugikokoreho amashami, ugihungureho ibibabi, unyanyagize imbuto zacyo, kugira ngo inyamaswa zikive munsi kandi n'ibisiga bive mu mashami yacyo.",
+      "start": 39.6,
+      "end": 44.54
+    },
+    "12": {
+      "text": "Ariko igishyitsi n'imizi byacyo ubihambirize ibyuma n'imiringa, ubirekere mu gitaka mu bwatsi bwo ku gasozi, kugira ngo kijye gitondwaho n'ikime kiva mu ijuru, kandi kirishane n'inyamaswa ubwatsi bwo ku gasozi.",
+      "start": 26.9,
+      "end": 30.16
+    },
+    "13": {
+      "text": "Maze umutima wacyo we kugumya kuba nk'uw'umuntu, ahubwo gihabwe umutima nk'uw'inyamaswa, kimere gityo ibihe birindwi.",
+      "start": 13.87,
+      "end": 25.04
+    },
+    "14": {
+      "text": "Iki gihano cyategetswe n'abarinzi gihamywa n'ijambo ry'abera, kugira ngo abakiriho bamenye ko Isumbabyose ari yo itegeka ubwami bw'abantu, kandi ko ibugabira uwo ishaka ikimikamo uworoheje nyuma ya bose.’",
+      "start": 35.43,
+      "end": 44.29
+    },
+    "15": {
+      "text": "“Izo nzozi ni jye Umwami Nebukadinezari wazirose. Nuko Beluteshazari, cyo zinsobanurire ubwo abanyabwenge bose bo mu gihugu cyanjye badashoboye kuzinsobanurira, ariko wowe urabibasha kuko umwuka w'imana zera ukurimo.”",
+      "start": 21.07,
+      "end": 40.65
+    },
+    "16": {
+      "text": "Nuko Daniyeli wahimbwe Beluteshazari amara akanya yumiwe, ahagarikwa umutima n'ibyo atekereje. Umwami arongera aramubwira ati “Yewe Beluteshazari, izo nzozi no gusobanurwa kwazo bye kuguhagarika umutima.” Beluteshazari aramusubiza ati “Nyagasani, izo nzozi zirakaba ku banzi bawe, kandi gusobanurwa kwazo kurakaba ku babisha bawe.",
+      "start": 39.48,
+      "end": 40.9
+    },
+    "17": {
+      "text": "Nuko icyo giti wabonye gikura kigakomera, ubushorishori bwacyo bukagera ku ijuru, kikitegera abo ku mpera y'isi yose,",
+      "start": 37.98,
+      "end": 43.77
+    },
+    "18": {
+      "text": "kandi ibibabi byacyo byari byiza kikaba cyari gihunze imbuto nyinshi, muri cyo hakaba harimo ibyokurya bihaza abantu bose, kandi inyamaswa zo mu ishyamba zikaba munsi yacyo, ibisiga byo mu kirere bikaba mu mashami yacyo,",
+      "start": 22.09,
+      "end": 24.74
+    },
+    "19": {
+      "text": "icyo giti ni wowe, nyagasani. Warakuze urakomera. Gukomera kwawe kurakura kugera ku ijuru, n'ubutware bwawe bugera ku mpera y'isi.",
+      "start": 16.43,
+      "end": 29.13
+    },
+    "20": {
+      "text": "Kandi nk'uko umwami yabonye uwera wagizwe umurinzi amanuka ava mu ijuru, akavuga ngo ‘Tsinda icyo giti ukimareho, ariko igishyitsi n'imizi byacyo ubihambirize icyuma n'umuringa ubirekere mu gitaka mu bwatsi bwo ku gasozi, kugira ngo kijye gitondwaho n'ikime kiva mu ijuru, kandi kirishane n'inyamaswa zo mu ishyamba kugeza aho ibihe birindwi bizashirira.’",
+      "start": 31.98,
+      "end": 36.0
+    },
+    "21": {
+      "text": "“Nuko nguku gusobanurwa kwabyo, nyagasani: umenye ko ari itegeko ry'Isumbabyose rigeze ku mwami databuja ngo:",
+      "start": 1.02,
+      "end": 2.12
+    },
+    "22": {
+      "text": "Uzirukanwa mu bantu ubane n'inyamaswa zo mu ishyamba, uzarisha nk'inka, uzatondwaho n'ikime kiva mu ijuru uzamare ibihe birindwi umeze utyo, kugeza aho uzamenyera ko Isumbabyose ari yo itegeka ubwami bw'abantu, ikabugabira uwo ishaka wese.",
+      "start": 21.29,
+      "end": 23.87
+    },
+    "23": {
+      "text": "Kandi nk'uko bategetse ko igishyitsi n'imizi by'icyo giti bigumaho, ni ko ubwami bwawe buzakomeza kuba ubwawe, umaze kumenya ko ijuru ari ryo ritegeka.",
+      "start": 22.47,
+      "end": 30.46
+    },
+    "24": {
+      "text": "Ni cyo gituma ngusaba, nyagasani, ngo wemere inama nkugira: kuzaho ibyaha byawe gukiranuka kandi ibicumuro byawe ubikuzeho kugirira abakene impuhwe, ahari aho uzungukirwa amahoro.”",
+      "start": 39.68,
+      "end": 41.17
+    },
+    "25": {
+      "text": "Nuko ibyo byose bisohora ku Mwami Nebukadinezari.",
+      "start": 21.05,
+      "end": 28.27
+    },
+    "26": {
+      "text": "Hashize amezi cumi n'abiri, umwami yari i Babuloni arambagira mu rugo ibwami,",
+      "start": 29.12,
+      "end": 33.9
+    },
+    "27": {
+      "text": "aravuga ati “Ngiyi Babuloni hakomeye niyubakiye ngo habe umurwa wanjye nturaho, mpubakishije imbaraga z'amaboko yanjye ngo haheshe ubwami bwanjye icyubahiro.”",
+      "start": 1.85,
+      "end": 34.13
+    },
+    "28": {
+      "text": "Umwami atararangiza ayo magambo haza ijwi rivuye mu ijuru riti “Yewe Mwami Nebukadinezari, ni wowe ubwirwa. Ubwami bwawe ubukuwemo,",
+      "start": 29.62,
+      "end": 31.37
+    },
+    "29": {
+      "text": "bazakwirukana bagukure mu bantu, ubane n'inyamaswa zo mu ishyamba kugeza aho uzamenyera ko Isumbabyose ari yo itegeka ubwami bw'abantu, kandi ko ibwimikamo uwo ishaka.”",
+      "start": 18.78,
+      "end": 29.39
+    },
+    "30": {
+      "text": "Nuko uwo mwanya iryo jambo risohora kuri Nebukadinezari yirukanwa mu bantu, akajya arisha nk'inka, umubiri we utondwaho n'ikime kiva mu ijuru kugeza aho umusatsi we wabereye urushoke nk'amoya y'ikizu, inzara ze zihinduka nk'iz'ibisiga.",
+      "start": 32.56,
+      "end": 33.61
+    },
+    "31": {
+      "text": "Hanyuma y'iyo minsi jyewe Nebukadinezari nuburira amaso yanjye mu ijuru, ngarura akenge mperako nshima Isumbabyose, ndayambaza nubaha Ihoraho iteka ryose, kuko ubwami bwayo ari bwo bwami butazashira, kandi ingoma yayo izahoraho uko ibihe bihaye ibindi.",
+      "start": 11.84,
+      "end": 21.68
+    },
+    "32": {
+      "text": "Ariko abo mu isi yose ni nk'ubusa imbere yayo, ikora uko ishaka mu ngabo zo mu ijuru no mu bantu bo mu isi, kandi nta wubasha kuyikoma mu nkokora cyangwa kuyibaza ati “Uragira ibiki?”",
+      "start": 31.24,
+      "end": 31.52
+    },
+    "33": {
+      "text": "Icyo gihe nsubizwamo ubwenge, ubwiza burabagirana nahoranye bungarukamo, butuma ubwami bwanjye bugira icyubahiro. Maze abajyanama banjye n'abatware banjye baza kunshaka, mperako nkomezwa mu bwami bwanjye ndetse nongerwa icyubahiro cyinshi.",
+      "start": 40.8,
+      "end": 41.76
+    },
+    "34": {
+      "text": "None jyewe Nebukadinezari ndashimisha Umwami wo mu ijuru, ndamusingiza, ndamwubaha kuko imirimo ye yose ari iy'ukuri kandi inzira ze ari izigororotse, ariko abibone abasha kubacisha bugufi.",
+      "start": 1.65,
+      "end": 21.41
+    }
+  }
+}

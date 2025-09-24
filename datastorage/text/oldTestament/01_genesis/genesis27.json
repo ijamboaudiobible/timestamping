@@ -1,0 +1,238 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Isaka ashaje, amaso ye amaze kuba ibirorirori, ahamagara imfura ye Esawu ati “Mwana wanjye.” Aritaba ati “Karame.”",
+      "start": 18.68,
+      "end": 33.28
+    },
+    "2": {
+      "text": "Aramubwira ati “Dore ndi umusaza, sinzi igihe nzapfira.",
+      "start": 27.17,
+      "end": 28.35
+    },
+    "3": {
+      "text": "None ndakwinginze, enda ibyo uhigisha, ikirimba cyawe n'umuheto wawe, ujye mu ishyamba umpigireyo umuhigo,",
+      "start": 17.17,
+      "end": 44.46
+    },
+    "4": {
+      "text": "untekere inyama ziryoshye nk'izo nkunda, uzinzanire nzirye mbone kuguhesha umugisha ntarapfa.”",
+      "start": 29.29,
+      "end": 35.96
+    },
+    "5": {
+      "text": "Rebeka yumva Isaka abwira umwana we Esawu. Esawu ajya mu ishyamba guhiga, ngo ahigurire se umuhigo.",
+      "start": 37.69,
+      "end": 39.75
+    },
+    "6": {
+      "text": "Rebeka abwira Yakobo umwana we ati “Numvise so abwira Esawu mwene so ati",
+      "start": 14.19,
+      "end": 44.06
+    },
+    "7": {
+      "text": "‘Mpigurira umuhigo, untekere inyama ziryoshye nzirye, nguheshereze umugisha mu maso y'Uwiteka ntarapfa.’",
+      "start": 16.54,
+      "end": 16.54
+    },
+    "8": {
+      "text": "Nuko none mwana wanjye, wumvire ibyo ngiye kugutegeka.",
+      "start": 17.72,
+      "end": 31.77
+    },
+    "9": {
+      "text": "Jya mu mukumbi unzanire abana b'ihene beza babiri, nanjye ndabatekera so babe inyama ziryoshye zimeze nk'izo akunda,",
+      "start": 13.74,
+      "end": 27.54
+    },
+    "10": {
+      "text": "nawe uzishyīre so azirye, aguheshe umugisha atarapfa.”",
+      "start": 29.8,
+      "end": 36.51
+    },
+    "11": {
+      "text": "Yakobo asubiza Rebeka nyina ati “Dore Esawu mukuru wanjye ni cyoya, jyeweho umubiri wanjye ni umurembe.",
+      "start": 41.61,
+      "end": 42.52
+    },
+    "12": {
+      "text": "Ahari data yankorakora, akamenya ko ndi umuriganya, nkizanira umuvumo mu cyimbo cy'umugisha.”",
+      "start": 1.57,
+      "end": 23.07
+    },
+    "13": {
+      "text": "Nyina aramubwira ati “Mwana wanjye umuvumo wawe abe ari jye ubaho, nyumvira gusa ugende uzinzanire.”",
+      "start": 43.36,
+      "end": 43.62
+    },
+    "14": {
+      "text": "Aragenda arazizana aziha nyina, nyina ateka inyama ziryoshye nk'izo se akunda.",
+      "start": 9.21,
+      "end": 24.75
+    },
+    "15": {
+      "text": "Rebeka yenda imyambaro myiza ya Esawu imfura ye, iyo yari afite mu nzu, ayambika Yakobo umuhererezi.",
+      "start": 24.4,
+      "end": 29.88
+    },
+    "16": {
+      "text": "Kandi ashyira impu z'abo bana b'ihene ku bikonjo bye no ku ijosi rye, aharembekereye.",
+      "start": 24.39,
+      "end": 28.03
+    },
+    "17": {
+      "text": "Aha umwana we Yakobo za nyama ziryoshye yatetse n'umutsima yavuze.",
+      "start": 26.69,
+      "end": 28.94
+    },
+    "18": {
+      "text": "Ajya aho se ari aramuhamagara ati “Data.” Aritaba ati “Ndakwitaba. Uri nde mwana wanjye?”",
+      "start": 1.17,
+      "end": 16.99
+    },
+    "19": {
+      "text": "Yakobo asubiza se ati “Ndi imfura yawe Esawu, nkoze ibyo wantegetse. Ndakwinginze, byuka urye ku muhigo wanjye, kugira ngo umpeshe umugisha.”",
+      "start": 2.24,
+      "end": 24.96
+    },
+    "20": {
+      "text": "Isaka abaza umwana we ati “Ni iki kiwukubonesheje vuba utyo, mwana wanjye?”Aramusubiza ati “Ni uko Uwiteka Imana yawe impaye ishya.”",
+      "start": 7.47,
+      "end": 23.46
+    },
+    "21": {
+      "text": "Isaka abwira Yakobo ati “Mwana wanjye, igira hino ndakwinginze, ngukorakore, menye yuko uri umwana wanjye Esawu koko, cyangwa ko utari we.”",
+      "start": 29.4,
+      "end": 37.44
+    },
+    "22": {
+      "text": "Yakobo yegera Isaka se, aramukorakora aravuga ati “Ijwi ni irya Yakobo, ariko ibikonjo ni ibya Esawu.”",
+      "start": 28.81,
+      "end": 32.58
+    },
+    "23": {
+      "text": "Ntiyamenya uwo ari we, kuko ibikonjo bye biriho ubwoya nk'ibya mukuru we Esawu, nuko amuhesha umugisha.",
+      "start": 12.38,
+      "end": 37.34
+    },
+    "24": {
+      "text": "Aramubaza ati “Uri umwana wanjye Esawu koko?”Aramusubiza ati “Ndi we.”",
+      "start": 30.3,
+      "end": 33.4
+    },
+    "25": {
+      "text": "Aramubwira ati “Wunyegereze, nanjye ndye ku muhigo w'umwana wanjye, kugira ngo nguheshe umugisha.” Arawumwegereza ararya, amuzanira vino, ashozaho.",
+      "start": 38.95,
+      "end": 43.89
+    },
+    "26": {
+      "text": "Se Isaka aramubwira ati “Mwana wanjye, nyegera unsome.”",
+      "start": 3.1,
+      "end": 16.7
+    },
+    "27": {
+      "text": "Aramwegera, aramusoma, yumva impumuro y'imyambaro ye, amuhesha umugisha ati“Impumuro y'umwana wanjye,Imeze nk'iy'umurima UwitekaYahaye umugisha.",
+      "start": 0.55,
+      "end": 16.62
+    },
+    "28": {
+      "text": "Nuko Imana iguhe ku kime kiva mu ijuru,No ku mwero w'ubutaka,N'imyaka y'impeke myinshi,Na vino nyinshi.",
+      "start": 9.6,
+      "end": 27.09
+    },
+    "29": {
+      "text": "Amoko agukorere,Amahanga akwikubite imbere,Utware bene so,Bene nyoko bakwikubite imbere.Uzakuvuma wese avumwe,Uzakwifuriza umugisha wese awuhabwe.”",
+      "start": 30.95,
+      "end": 35.76
+    },
+    "30": {
+      "text": "Isaka arangije guhesha Yakobo umugisha, Yakobo akiva mu maso ya Isaka se, Esawu mukuru we arahīguka.",
+      "start": 8.79,
+      "end": 40.94
+    },
+    "31": {
+      "text": "Na we ateka inyama ziryoshye azizanira se, abwira se ati “Data, byuka urye ku muhigo w'umwana wawe, kugira ngo umpeshe umugisha.”",
+      "start": 10.47,
+      "end": 35.07
+    },
+    "32": {
+      "text": "Isaka se aramubaza ati “Uri nde?”Aramusubiza ati “Ndi umwana wawe w'imfura Esawu.”",
+      "start": 12.45,
+      "end": 27.99
+    },
+    "33": {
+      "text": "Isaka ahinda umushyitsi mwinshi cyane ati “Ni nde wahize umuhigo akawunzanira, nkaba nariye kuri byose utaraza, nkamuhesha umugisha? Kandi koko azanawuhabwa.”",
+      "start": 18.36,
+      "end": 27.78
+    },
+    "34": {
+      "text": "Esawu yumvise amagambo ya se, aboroga umuborogo mwinshi w'umunyamubabaro abwira se ati “Jye nanjye mpesha umugisha, data wambyaye.”",
+      "start": 21.35,
+      "end": 22.41
+    },
+    "35": {
+      "text": "Aramusubiza ati “Murumuna wawe yazanye uburiganya, yiba umugisha wawe.”",
+      "start": 10.0,
+      "end": 23.79
+    },
+    "36": {
+      "text": "Aramubwira ati “Yakobo ni Yakobo koko, izina ni ryo muntu. Ubu ni ubwa kabiri andiganya, yankuyeho ubutware dore none ankuyeho n'umugisha.” Arongera aramubaza ati “Nta mugisha wansigiye?”",
+      "start": 26.0,
+      "end": 38.16
+    },
+    "37": {
+      "text": "Isaka asubiza Esawu ati “Dore namuhaye kugutwara, na bene se bose nabamuhaye kuba abagaragu be, kandi namugaburiye vino n'imyaka y'impeke. Nagukorera iki, mwana wanjye?”",
+      "start": 41.32,
+      "end": 43.11
+    },
+    "38": {
+      "text": "Esawu abaza se ati “Nta mugisha n'umwe usigiranye data? Jye nanjye mpesha umugisha, data.” Esawu araturika ararira.",
+      "start": 27.14,
+      "end": 33.06
+    },
+    "39": {
+      "text": "Isaka se aramusubiza ati“Ubuturo bwawe buzaba kure y'umwero w'ubutaka,Buzaba kure y'ikime kiva mu ijuru.",
+      "start": 9.89,
+      "end": 37.2
+    },
+    "40": {
+      "text": "Inkota yawe ni yo izakubeshaho,Kandi uzakorera murumuna waweKandi nugoma uzikuraho uburetwa yagushyizeho.”",
+      "start": 0.19,
+      "end": 8.9
+    },
+    "41": {
+      "text": "Esawu yangira Yakobo umugisha se yamuhesheje. Esawu aribwira ati “Iminsi yo kwiraburira data iri bugufi, ni bwo nzica murumuna wanjye Yakobo.”",
+      "start": 24.92,
+      "end": 29.62
+    },
+    "42": {
+      "text": "Babwira Rebeka amagambo ya Esawu imfura ye, atumira Yakobo umuhererezi aramubwira ati “Dore mukuru wawe Esawu agiye kwimarisha agahinda wamuteye kukwica.",
+      "start": 1.14,
+      "end": 24.22
+    },
+    "43": {
+      "text": "Nuko rero mwana wanjye nyumvira, haguruka uhungire i Harani kwa Labani musaza wanjye,",
+      "start": 9.53,
+      "end": 16.66
+    },
+    "44": {
+      "text": "umarane na we iminsi itari myinshi, ugeze aho uburakari bwa mukuru wawe buzashirira,",
+      "start": 23.46,
+      "end": 30.87
+    },
+    "45": {
+      "text": "ugeze aho inzika ya mukuru wawe izakuviraho akibagirwa ibyo wamugiriye, maze nzabona kugutumira ugaruke. Ni iki cyatuma mbapfushiriza rimwe mwembi?”",
+      "start": 34.76,
+      "end": 41.46
+    },
+    "46": {
+      "text": "Rebeka abwira Isaka ati “Ubugingo bwanjye burambiwe ba Bahetikazi. Yakobo yarongora Umuhetikazi nka ba bandi, ubugingo bwanjye bwamarira iki?”",
+      "start": 14.67,
+      "end": 34.55
+    }
+  }
+}

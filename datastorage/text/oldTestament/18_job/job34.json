@@ -1,0 +1,193 @@
+{
+  "book": "Book 18",
+  "book_canonical": "job",
+  "book_number": 18,
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "Maze Elihu yongera kuvuga ati",
+      "start": 33.41,
+      "end": 34.51
+    },
+    "2": {
+      "text": "“Nimwumve ibyo mvuga mwa banyabwenge mwe,Namwe abajijutse muntegere amatwi,",
+      "start": 32.82,
+      "end": 43.47
+    },
+    "3": {
+      "text": "Kuko ugutwi gusobanura amagambo,Nk'uko akanwa kumva ibyokurya.",
+      "start": 5.68,
+      "end": 30.36
+    },
+    "4": {
+      "text": "Twihitiremo igitunganye,Twimenyere icyiza turi kumwe.",
+      "start": 12.42,
+      "end": 17.11
+    },
+    "5": {
+      "text": "“Yobu yavuze ati ‘Ndi umukiranutsi,Kandi Imana yankuyeho ibyari binkwiriye.",
+      "start": 20.68,
+      "end": 25.41
+    },
+    "6": {
+      "text": "Nubwo nta rubanza rundiho mbarwa nk'umubeshyi,Uruguma rwanjye rurenze urukiriro,Nubwo nta gicumuro mfite.’",
+      "start": 8.4,
+      "end": 31.6
+    },
+    "7": {
+      "text": "Mbese hariho umuntu umeze nka Yobu,Unywa gukobwa nk'ugotomera amazi?",
+      "start": 0.96,
+      "end": 30.51
+    },
+    "8": {
+      "text": "Agenda yibanisha n'inkozi z'ibibi,Kandi akagendana n'abanyabyaha.",
+      "start": 15.95,
+      "end": 42.91
+    },
+    "9": {
+      "text": "Kuko yavuze ati‘Nta cyo bimariye umuntu kwishimana Imana.’",
+      "start": 2.19,
+      "end": 3.01
+    },
+    "10": {
+      "text": "“Nuko rero nimuntegere amatwi,Mwa bantu bajijutse mwe,Ntibikabeho ko Imana ikora ibyaha,N'Ishoborabyose ngo ikore ibyo gukiranirwa,",
+      "start": 1.89,
+      "end": 39.09
+    },
+    "11": {
+      "text": "Kuko izitūra umuntu ibihwanye n'umurimo we,Izaha umuntu wese kubona ibihwanye n'imigenzereze ye.",
+      "start": 18.19,
+      "end": 33.03
+    },
+    "12": {
+      "text": "Ni ukuri ntabwo Imana yakora ibibi,Kandi Ishoborabyose ntiyagoreka imanza.",
+      "start": 4.33,
+      "end": 14.73
+    },
+    "13": {
+      "text": "Ni nde wayihaye gutwara isi?Cyangwa ni nde wayiringanirije ibyaremwe byose?",
+      "start": 36.52,
+      "end": 40.83
+    },
+    "14": {
+      "text": "Yakwitegereza abantu,Ikisubiranira umwuka no guhumeka byayo,",
+      "start": 14.58,
+      "end": 33.5
+    },
+    "15": {
+      "text": "Ibyaremwe byose byapfira rimwe,Umuntu na we agasubira mu mukungugu.",
+      "start": 17.86,
+      "end": 19.85
+    },
+    "16": {
+      "text": "“Noneho niba ujijutse umva ibi,Utegere amatwi ijwi ry'amagambo yanjye.",
+      "start": 37.51,
+      "end": 42.85
+    },
+    "17": {
+      "text": "Mbese uwanga gukiranuka yategeka?Wacira Ikiranuka kandi Ikomeye urubanza?",
+      "start": 37.25,
+      "end": 42.72
+    },
+    "18": {
+      "text": "Birakwiriye se kubwira umwami uti ‘Uri mubi’?Cyangwa ab'imfura uti ‘Muri babi’?",
+      "start": 40.0,
+      "end": 43.26
+    },
+    "19": {
+      "text": "Nkanswe kubibwira Imana itarobanura abami ku butoni,Ntiyite ku batunzi kubarutisha abakene,Kuko bose ari bo yaremesheje amaboko yayo.",
+      "start": 27.07,
+      "end": 44.93
+    },
+    "20": {
+      "text": "Bapfa mu kanya gato ndetse mu gicuku,Abantu baradandabirana bakagendanirako,Kandi intwari zikurwaho ari nta muntu zizize.",
+      "start": 0.91,
+      "end": 16.5
+    },
+    "21": {
+      "text": "“Kuko amaso yayo ari ku migenzereze y'umuntu,Kandi ireba amajya ye yose.",
+      "start": 17.3,
+      "end": 21.37
+    },
+    "22": {
+      "text": "Nta mwijima cyangwa igicucu cy'urupfu,Aho inkozi z'ibibi zishobora kwihisha.",
+      "start": 22.24,
+      "end": 39.62
+    },
+    "23": {
+      "text": "Kuko itagomba kongera kwitegereza umuntu,Kugira ngo yirirwe isubira mu rubanza.",
+      "start": 22.42,
+      "end": 43.4
+    },
+    "24": {
+      "text": "Ivunagura intwari mu buryo butarondoreka,Igashyira abandi mu kigwi cyazo.",
+      "start": 19.04,
+      "end": 23.13
+    },
+    "25": {
+      "text": "Kuko izi imirimo yazo,Kandi izubika nijoro zikarimbuka.",
+      "start": 14.4,
+      "end": 25.5
+    },
+    "26": {
+      "text": "Izikubita nk'abantu babi,Ku mugaragaro imbere y'abandi barora,",
+      "start": 10.63,
+      "end": 22.98
+    },
+    "27": {
+      "text": "Kuko zayiteshutse,Ntizite ku nzira zayo zose.",
+      "start": 12.38,
+      "end": 17.85
+    },
+    "28": {
+      "text": "Bagatuma gutaka kw'abakene kuyigeraho,Kandi ikumva gutaka kw'abarengana.",
+      "start": 28.77,
+      "end": 34.0
+    },
+    "29": {
+      "text": "“Iyo itanze amahoro ni nde wabasha gutera amahane?Iyo yitwikiriye ni nde wabasha kuyireba?Uko yagira benshi ni ko yagira n'umwe,",
+      "start": 15.34,
+      "end": 24.1
+    },
+    "30": {
+      "text": "Kugira ngo utubaha Imana atima,Kandi ngo hatagira utega abantu umutego.",
+      "start": 8.37,
+      "end": 24.73
+    },
+    "31": {
+      "text": "“Hari uwabwiye Imana ati‘Narahanwe sinzongera gucumura,",
+      "start": 5.48,
+      "end": 36.74
+    },
+    "32": {
+      "text": "Icyo ntabonye ukinyigishe,Niba narakoze ikibi sinzongera kugikora.’",
+      "start": 42.2,
+      "end": 42.23
+    },
+    "33": {
+      "text": "Mbese ingororano yayo uyangishwa n'uko idakora icyo ushaka?Kuko ari wowe ukwiriye guhitamo atari jye,Nuko vuga icyo uzi.",
+      "start": 9.82,
+      "end": 18.01
+    },
+    "34": {
+      "text": "“Abantu bajijutse,Ndetse abantu bose bazi ubwenge banyumva,Bazambwira bati",
+      "start": 15.53,
+      "end": 32.87
+    },
+    "35": {
+      "text": "‘Yobu yavuze icyo atazi,Kandi amagambo ye ntiyarimo ubwenge.’",
+      "start": 24.02,
+      "end": 25.62
+    },
+    "36": {
+      "text": "“Icyampa Yobu akageragezwa akazagezwa ku maherezo,Kuko asubiza nk'abanyabyaha.",
+      "start": 41.13,
+      "end": 44.37
+    },
+    "37": {
+      "text": "Kuko yongera ubugome ku cyaha cye,Agakoma mu mashyi muri twe atangara,Akagwiza amagambo ye yibasiye Imana.”",
+      "start": 22.29,
+      "end": 38.45
+    }
+  }
+}

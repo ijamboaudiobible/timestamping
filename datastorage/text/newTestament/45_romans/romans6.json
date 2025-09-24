@@ -1,0 +1,123 @@
+{
+  "book": "Book 45",
+  "book_canonical": "romans",
+  "book_number": 45,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "Nuko tuvuge iki? Tugumye gukora ibyaha ngo ubuntu busage?",
+      "start": 36.2,
+      "end": 40.17
+    },
+    "2": {
+      "text": "Ntibikabeho! Mbese twebwe abapfuye ku byaha, twakomeza kuramira muri byo dute?",
+      "start": 0.97,
+      "end": 29.55
+    },
+    "3": {
+      "text": "Ntimuzi yuko twese ababatirijwe muri Yesu Kristo, twabatirijwe no mu rupfu rwe?",
+      "start": 39.14,
+      "end": 39.49
+    },
+    "4": {
+      "text": "Nuko rero, ku bw'umubatizo twahambanywe na we mu rupfu rwe, kugira ngo nk'uko Kristo yazuwe n'ubwiza bwa Data wa twese, abe ari na ko natwe tugendera mu bugingo bushya.",
+      "start": 12.51,
+      "end": 19.25
+    },
+    "5": {
+      "text": "Ubwo twateranijwe na we gusangira urupfu nk'urwe, ni ko tuzaba duteranijwe na we gusangira kuzuka nk'ukwe.",
+      "start": 35.21,
+      "end": 37.77
+    },
+    "6": {
+      "text": "Kandi tumenye iki, yuko umuntu wacu wa kera yabambanywe na we, kugira ngo umubiri w'ibyaha ukurweho, twe kugumya kuba imbata z'ibyaha,",
+      "start": 25.75,
+      "end": 40.05
+    },
+    "7": {
+      "text": "kuko uwapfuye aba atsindishirijwe ibyaha.",
+      "start": 31.88,
+      "end": 37.02
+    },
+    "8": {
+      "text": "Ariko niba twarapfanye na Kristo twizera yuko tuzabanaho na we,",
+      "start": 9.0,
+      "end": 26.04
+    },
+    "9": {
+      "text": "kuko tuzi yuko Kristo amaze kuzuka atagipfa, urupfu rukaba rutakimufiteho urutabi.",
+      "start": 39.94,
+      "end": 44.13
+    },
+    "10": {
+      "text": "Urwo rupfu yapfuye yarupfuye rimwe risa ku bw'ibyaha, ariko ubwo ariho, ariho ku bw'Imana.",
+      "start": 44.2,
+      "end": 44.31
+    },
+    "11": {
+      "text": "Abe ari ko namwe mwiyumvamo ko mwapfuye ku byaha, mukaba muriho ku Mana muri Kristo Yesu.",
+      "start": 27.88,
+      "end": 38.76
+    },
+    "12": {
+      "text": "Noneho ntimukīmike ibyaha mu mibiri yanyu izapfa, ngo mwumvire ibyo irarikira.",
+      "start": 8.0,
+      "end": 19.91
+    },
+    "13": {
+      "text": "Kandi ntimuhe ibyaha ingingo zanyu kuba intwaro zo gukiranirwa, ahubwo mwitange mwihe Imana nk'abazuke, n'ingingo zanyu muzihe Imana kuba intwaro zo gukiranuka.",
+      "start": 20.75,
+      "end": 28.23
+    },
+    "14": {
+      "text": "Ibyaha ntibikabategeke kuko mudatwarwa n'amategeko, ahubwo mutwarwa n'ubuntu.",
+      "start": 22.98,
+      "end": 28.98
+    },
+    "15": {
+      "text": "Nuko tugire dute? Mbese dukore ibyaha kuko tudatwarwa n'amategeko, ahubwo dutwarwa n'ubuntu? Ntibikabeho!",
+      "start": 5.12,
+      "end": 28.82
+    },
+    "16": {
+      "text": "Ntimuzi yuko uwo mwihaye kuba imbata zo kumwumvira, muri imbata z'uwo mwumvira uwo, imbata z'ibyaha bizana urupfu, cyangwa izo kumvira Imana kuzana gukiranuka?",
+      "start": 33.35,
+      "end": 44.44
+    },
+    "17": {
+      "text": "Ariko Imana ishimwe kuko nubwo mwari imbata z'ibyaha, mwumviye ibyo mwigishijwe mubikuye ku mutima,",
+      "start": 4.4,
+      "end": 7.65
+    },
+    "18": {
+      "text": "maze mubātuwe ku byaha, muhinduka imbata zo gukiranuka.",
+      "start": 24.02,
+      "end": 32.83
+    },
+    "19": {
+      "text": "Ibyo mbivuze nk'umuntu ku bw'intege nke z'imibiri yanyu, kuko nk'uko mwahaga ibiteye isoni n'ubugome ingingo zanyu kuba imbata zabyo bigatuma muba abagome, abe ari ko na none muha gukiranuka ingingo zanyu kuba imbata zako kugira ngo mwezwe.",
+      "start": 33.36,
+      "end": 38.49
+    },
+    "20": {
+      "text": "Ubwo mwari mukiri imbata z'ibyaha ntimwatwarwaga no gukiranuka.",
+      "start": 23.36,
+      "end": 31.96
+    },
+    "21": {
+      "text": "Mbese icyo gihe mweraga mbuto ki zitari ibibakoza isoni ubu, amaherezo yabyo akaba ari urupfu?",
+      "start": 12.11,
+      "end": 36.33
+    },
+    "22": {
+      "text": "Ariko noneho ubwo mwabātuwe ku byaha mukaba imbata z'Imana, mwifitiye imbuto zanyu ari zo kwezwa kandi amaherezo yanyu ni ubugingo buhoraho,",
+      "start": 15.6,
+      "end": 26.98
+    },
+    "23": {
+      "text": "kuko ibihembo by'ibyaha ari urupfu, ariko impano y'Imana ni ubugingo buhoraho muri Yesu Kristo Umwami wacu.",
+      "start": 35.89,
+      "end": 43.85
+    }
+  }
+}

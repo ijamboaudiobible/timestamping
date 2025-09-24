@@ -1,0 +1,198 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Ba bamarayika bombi bagera i Sodomu nimugoroba, Loti yari yicaye mu marembo y'i Sodomu. Loti ababonye arahaguruka ngo abasanganire, yikubita hasi yubamye.",
+      "start": 40.45,
+      "end": 40.52
+    },
+    "2": {
+      "text": "Arababwira ati “Ndabinginze ba databuja, nimwinjire mu nzu y'umugaragu wanyu, muharare bucye, mwoge ibirenge, ejo muzazinduke mugende.”Baramusubiza bati “Oya, turarara mu nzira bucye.”",
+      "start": 13.6,
+      "end": 37.53
+    },
+    "3": {
+      "text": "Arabahata bajya iwe, binjira mu nzu ye. Abatekera ibyokurya, yotsa imitsima idasembuwe, bararya.",
+      "start": 39.52,
+      "end": 40.3
+    },
+    "4": {
+      "text": "Batararyama, abagabo bo muri uwo mudugudu Sodomu bagota iyo nzu, abato n'abakuru bose, bavuye ahantu hose ho muri wo.",
+      "start": 35.07,
+      "end": 44.26
+    },
+    "5": {
+      "text": "Bahamagara Loti baramubaza bati “Abagabo binjiye iwawe muri iri joro bari he? Basohore turyamane na bo.”",
+      "start": 26.49,
+      "end": 40.4
+    },
+    "6": {
+      "text": "Loti ajya ku rugi, arasohoka, arukingira inyuma ye.",
+      "start": 25.04,
+      "end": 27.95
+    },
+    "7": {
+      "text": "Arababwira ati “Bene data, ndabinginze ntimukore icyaha kingana gityo.",
+      "start": 44.45,
+      "end": 44.7
+    },
+    "8": {
+      "text": "Dore mfite abakobwa babiri batararyamana n'abagabo, ndabasohora mubagirire ibyo mushaka byose. Gusa abo bagabo mwe kugira icyo mubatwara, kuko bageze munsi y'ipfundo ry'inzu yanjye.”",
+      "start": 32.93,
+      "end": 33.67
+    },
+    "9": {
+      "text": "Baramusubiza bati “Have tubise!” Bati “Uru rugabo rwaje rusuhuka, none rwigize umucamanza. Turakugirira inabi iruta iyo tugiye kugirira ba bandi.” Basunika Loti cyane, begera urugi kurumena.",
+      "start": 43.06,
+      "end": 44.15
+    },
+    "10": {
+      "text": "Maze ba bagabo basingiriza Loti amaboko, bamwinjiza mu nzu, bakinga urugi.",
+      "start": 23.36,
+      "end": 33.55
+    },
+    "11": {
+      "text": "Batera ubuhumyi abagabo bo ku rugi rw'inzu, abato n'abakuru, birushya bashaka urugi.",
+      "start": 16.49,
+      "end": 34.19
+    },
+    "12": {
+      "text": "Ba bagabo babaza Loti bati “Hari abandi bantu ufite? Umukwe wawe n'abahungu bawe n'abakobwa bawe, n'abo ufite mu mudugudu bose, bakuremo.",
+      "start": 30.48,
+      "end": 31.81
+    },
+    "13": {
+      "text": "Tugiye kurimbura aha hantu, kuko gutaka kw'abaharega kwagwiriye imbere y'Uwiteka, akadutuma kuharimbura.”",
+      "start": 15.35,
+      "end": 30.63
+    },
+    "14": {
+      "text": "Loti arasohoka, avugana n'abakwe be barongoye abakobwa be, arababwira ati “Nimuhaguruke muve aha hantu, kuko Uwiteka agiye kurimbura uyu mudugudu.” Ariko abakwe be bo babigize nk'ibikino.",
+      "start": 25.84,
+      "end": 30.02
+    },
+    "15": {
+      "text": "Nuko bukeye mu gitondo, ba bamarayika batera Loti umwete bati “Haguruka ujyane n'umugore wawe n'aba bakobwa bawe bombi bari hano, kugira ngo utarimburirwa mu gihano cy'umudugudu.”",
+      "start": 40.8,
+      "end": 44.72
+    },
+    "16": {
+      "text": "Maze azaririye, abo bagabo bafata ukuboko kwe n'uk' umugore we n'ay'abakobwa be bombi, Uwiteka amubabariye, baramusohora, bamushyira inyuma y'uwo mudugudu.",
+      "start": 41.15,
+      "end": 43.03
+    },
+    "17": {
+      "text": "Bamaze kubakuramo, umwe muri bo aravuga ati “Hunga udapfa. Nturebe inyuma kandi ntutinde utararangiza iki kibaya, hungira ku musozi utarimbuka.”",
+      "start": 8.87,
+      "end": 9.21
+    },
+    "18": {
+      "text": "Loti arababwira ati “Bye kuba bityo Mwami, ndakwinginze.",
+      "start": 17.1,
+      "end": 33.48
+    },
+    "19": {
+      "text": "Dore umugaragu wawe nkugiriyeho umugisha, kandi ugwije imbabazi zawe ungiriye, ubwo ukijije ubugingo bwanjye. Sinahunga ngo ngere kuri uriya musozi icyo cyago kitaramfata ngo mpfe.",
+      "start": 6.24,
+      "end": 30.67
+    },
+    "20": {
+      "text": "Dore uriya mudugudu ni wo uri bugufi bwo guhungirwaho kandi ni muto. Reka nywuhungiremo, ubugingo bwanjye bukire. Nturora ko ari muto?”",
+      "start": 33.03,
+      "end": 38.89
+    },
+    "21": {
+      "text": "Aramusubiza ati “Dore ku byo uvuze ibyo, ndakwemereye kutarimbura umudugudu uvuze.",
+      "start": 34.14,
+      "end": 44.21
+    },
+    "22": {
+      "text": "Ihute uhungireyo, kuko ari nta cyo mbasha gukora utaragerayo.” Ni cyo cyatumye uwo mudugudu witwa Sowari.",
+      "start": 6.68,
+      "end": 17.48
+    },
+    "23": {
+      "text": "Loti agera i Sowari izuba rirashe.",
+      "start": 9.93,
+      "end": 43.5
+    },
+    "24": {
+      "text": "Maze Uwiteka agusha kuri Sodomu n'i Gomora amazuku n'umuriro, bivuye ku Uwiteka mu ijuru.",
+      "start": 17.3,
+      "end": 22.14
+    },
+    "25": {
+      "text": "Atsemba iyo midugudu yose na cya kibaya cyose n'abayituyemo bose, n'ibyameze ku butaka.",
+      "start": 5.73,
+      "end": 16.13
+    },
+    "26": {
+      "text": "Ariko muka Loti arakebuka, areba inyuma amukurikiye, ahinduka inkingi y'umunyu.",
+      "start": 16.07,
+      "end": 28.12
+    },
+    "27": {
+      "text": "Aburahamu azinduka kare, ajya aho yari yahagarariye imbere y'Uwiteka,",
+      "start": 40.78,
+      "end": 41.55
+    },
+    "28": {
+      "text": "yerekeza amaso i Sodomu n'i Gomora n'igihugu cyose cya cya kibaya, abona umwotsi waho ucumba nk'umwotsi w'ikome.",
+      "start": 39.0,
+      "end": 43.01
+    },
+    "29": {
+      "text": "Ubwo Imana yarimburaga imidugudu yo muri icyo kibaya, yibutse Aburahamu, yohereza Loti ngo ave muri iryo tsembwa, ubwo yatsembaga imidugudu Loti yari atuyemo.",
+      "start": 6.09,
+      "end": 20.81
+    },
+    "30": {
+      "text": "Loti ava i Sowari, arazamuka ajya ku musozi, abanayo n'abakobwa be bombi kuko yatinyaga gutura i Sowari, abana n'abakobwa be bombi mu buvumo.",
+      "start": 14.37,
+      "end": 20.4
+    },
+    "31": {
+      "text": "Uw'imfura abwira murumuna we ati “Data arashaje, kandi nta muntu mu isi wo kuturongora nk'uko abo mu isi bose bakora.",
+      "start": 33.34,
+      "end": 34.22
+    },
+    "32": {
+      "text": "Reka dutereke data vino, turyamane na we, kugira ngo ducikure data.”",
+      "start": 43.6,
+      "end": 44.95
+    },
+    "33": {
+      "text": "Batereka se vino muri iryo joro, uw'impfura aragenda aryamana na se, se ntiyamenya ko yaryamye cyangwa ko yabyutse.",
+      "start": 7.71,
+      "end": 26.59
+    },
+    "34": {
+      "text": "Bukeye bwaho, uw'imfura abwira murumuna we ati “Iri joro ryakeye naryamanye na data. Twongere tumutereke n'iri joro, nawe ugende uryamane na we, ducikure data.”",
+      "start": 33.61,
+      "end": 34.31
+    },
+    "35": {
+      "text": "N'iryo joro bongera gutereka se, umuto arahaguruka aryamana na we, se ntiyamenya ko yaryamye cyangwa ko yabyutse.",
+      "start": 33.9,
+      "end": 44.36
+    },
+    "36": {
+      "text": "Uko ni ko abakobwa ba Loti bombi basamye inda za se.",
+      "start": 43.76,
+      "end": 43.98
+    },
+    "37": {
+      "text": "Uw'imfura abyara umuhungu amwita Mowabu. Uwo ni we sekuruza w'Abamowabu na bugingo n'ubu.",
+      "start": 10.33,
+      "end": 24.53
+    },
+    "38": {
+      "text": "Umuto na we abyara umuhungu amwita Benami, ari we sekuruza w'Abamoni na bugingo n'ubu.",
+      "start": 27.2,
+      "end": 34.73
+    }
+  }
+}

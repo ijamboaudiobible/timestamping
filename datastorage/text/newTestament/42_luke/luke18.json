@@ -1,0 +1,223 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 18,
+  "verses": {
+    "1": {
+      "text": "Abacira umugani wo kubigisha ko bakwiriye gusenga iteka ntibarambirwe. Arababwira ati",
+      "start": 8.26,
+      "end": 22.72
+    },
+    "2": {
+      "text": "“Hariho umucamanza mu mudugudu umwe, utubaha Imana ntiyite ku bantu.",
+      "start": 18.09,
+      "end": 19.13
+    },
+    "3": {
+      "text": "Muri uwo mudugudu harimo umupfakazi, aramusanga aramubwira ati ‘Ndengera ku mwanzi wanjye.’",
+      "start": 21.93,
+      "end": 43.85
+    },
+    "4": {
+      "text": "Amara iminsi atemera, ariko aho ageze aribwira ati ‘Nubwo ntubaha Imana kandi sinite ku bantu,",
+      "start": 33.77,
+      "end": 37.5
+    },
+    "5": {
+      "text": "ariko kuko uyu mupfakazi anduhije ndamurengera, ngo adahora aza iminsi yose akandushya.’ ”",
+      "start": 11.7,
+      "end": 23.38
+    },
+    "6": {
+      "text": "Nuko Umwami Yesu arabaza ati “Ntimwumvise ibyo umucamanza ukiranirwa yavuze?",
+      "start": 17.98,
+      "end": 20.74
+    },
+    "7": {
+      "text": "Ubwo bibaye bityo, Imana se yo ntizarengera intore zayo ziyitakira ku manywa na nijoro? Mbese yazirangarana?",
+      "start": 6.71,
+      "end": 8.79
+    },
+    "8": {
+      "text": "Ndababwira yuko izazirengera vuba. Ariko Umwana w'umuntu naza, mbese azasanga kwizera kukiri mu isi?”",
+      "start": 36.98,
+      "end": 38.97
+    },
+    "9": {
+      "text": "Uyu mugani yawuciriye abiyiringiye ubwabo ko bakiranuka, bagahinyura abandi bose.",
+      "start": 16.37,
+      "end": 32.91
+    },
+    "10": {
+      "text": "Ati “Abantu babiri bazamutse bajya mu rusengero gusenga, umwe yari Umufarisayo undi, ari umukoresha w'ikoro.",
+      "start": 14.05,
+      "end": 15.56
+    },
+    "11": {
+      "text": "“Umufarisayo arahagarara, asengera mu mutima we ati ‘Mana, ndagushimiye yuko ntameze nk'abandi b'abanyazi n'abakiranirwa n'abasambanyi, cyangwa ndetse n'uyu mukoresha w'ikoro.",
+      "start": 13.94,
+      "end": 44.46
+    },
+    "12": {
+      "text": "Mu minsi irindwi hose niyiriza ubusa kabiri, ntanga kimwe mu icumi mu byo nungutse byose.’",
+      "start": 33.87,
+      "end": 38.96
+    },
+    "13": {
+      "text": "“Naho uwo mukoresha w'ikoro ahagarara kure, ntiyahangara no kūbura amaso ngo arebe mu ijuru, ahubwo yikubita mu gituza ati ‘Mana, mbabarira kuko ndi umunyabyaha.’",
+      "start": 27.18,
+      "end": 31.03
+    },
+    "14": {
+      "text": "Ndababwira yuko uwo muntu yamanutse ajya iwe, ari we utsindishirijwe kuruta wa wundi, kuko uwishyira hejuru azacishwa bugufi, ariko uwicisha bugufi azashyirwa hejuru.”",
+      "start": 13.01,
+      "end": 31.82
+    },
+    "15": {
+      "text": "Nuko bamuzanira abana bato ngo abakoreho, ariko abigishwa babibonye barabacyaha.",
+      "start": 7.94,
+      "end": 23.27
+    },
+    "16": {
+      "text": "Maze Yesu arabahamagara ati “Mureke abana bato bansange, ntimubabuze kuko abameze batyo ubwami bw'Imana ari ubwabo.",
+      "start": 38.81,
+      "end": 44.76
+    },
+    "17": {
+      "text": "Ndababwira ukuri yuko utemera ubwami bw'Imana nk'umwana muto, atazabwinjiramo na hato.”",
+      "start": 12.8,
+      "end": 13.61
+    },
+    "18": {
+      "text": "Umutware aramubaza ati “Mwigisha mwiza, nkore nte ngo mbone kuragwa ubugingo buhoraho?”",
+      "start": 32.53,
+      "end": 34.01
+    },
+    "19": {
+      "text": "Yesu na we aramusubiza ati “Unyitira iki mwiza? Nta mwiza keretse umwe, ni Imana.",
+      "start": 23.49,
+      "end": 31.05
+    },
+    "20": {
+      "text": "Uzi amategeko ngo ‘Ntugasambane, ntukice, ntukibe, ntukabeshyere abandi, wubahe so na nyoko.’ ”",
+      "start": 33.93,
+      "end": 34.44
+    },
+    "21": {
+      "text": "Aramubwira ati “Ayo yose narayitondeye mpereye mu buto bwanjye.”",
+      "start": 6.07,
+      "end": 27.51
+    },
+    "22": {
+      "text": "Yesu abyumvise aramubwira ati “Noneho ushigaje kimwe: ibyo ufite byose ubigure uhe abakene, ni bwo uzagira ubutunzi mu ijuru, uhereko uze unkurikire.”",
+      "start": 5.14,
+      "end": 22.12
+    },
+    "23": {
+      "text": "Abyumvise agira agahinda kenshi, kuko yari umutunzi cyane.",
+      "start": 19.12,
+      "end": 43.6
+    },
+    "24": {
+      "text": "Yesu amwitegereje aramubwira ati “Erega biraruhije ko abatunzi binjira mu bwami bw'Imana!",
+      "start": 6.01,
+      "end": 20.82
+    },
+    "25": {
+      "text": "Ndetse icyoroshye ni uko ingamiya yanyura mu zuru ry'urushinge, kuruta ko umutunzi yakwinjira mu bwami bw'Imana.”",
+      "start": 30.88,
+      "end": 44.51
+    },
+    "26": {
+      "text": "Ababyumvise bati “Ubwo bimeze bityo ni nde ushobora gukizwa?”",
+      "start": 13.9,
+      "end": 41.29
+    },
+    "27": {
+      "text": "Arabasubiza ati “Ibidashobokera abantu bishobokera Imana.”",
+      "start": 37.03,
+      "end": 44.41
+    },
+    "28": {
+      "text": "Petero aramubwira ati “Dore twebwe twasize ibyacu turagukurikira.”",
+      "start": 2.89,
+      "end": 13.38
+    },
+    "29": {
+      "text": "Arababwira ati “Ndababwira ukuri yuko ari nta muntu wasize inzu ye cyangwa umugore, cyangwa bene se cyangwa ababyeyi cyangwa abana ku bw'ubwami bw'Imana,",
+      "start": 2.7,
+      "end": 20.18
+    },
+    "30": {
+      "text": "utazongerwa ibirutaho cyane muri iki gihe, no mu gihe kizaza agahabwa ubugingo buhoraho.”",
+      "start": 30.89,
+      "end": 33.48
+    },
+    "31": {
+      "text": "Yesu yihererana n'abo cumi na babiri arababwira ati “Dore turazamuka tujye i Yerusalemu, kandi ibyanditswe n'abahanuzi byose bizasohora ku Mwana w'umuntu.",
+      "start": 10.16,
+      "end": 35.36
+    },
+    "32": {
+      "text": "Azagambanirwa mu bapagani, azashinyagurirwa, bazamukoza isoni bamucire amacandwe,",
+      "start": 9.75,
+      "end": 44.6
+    },
+    "33": {
+      "text": "kandi nibamara kumukubita imikoba bazamwica, maze ku munsi wa gatatu azazuka.”",
+      "start": 14.13,
+      "end": 17.25
+    },
+    "34": {
+      "text": "Ariko ntibagira icyo bamenya muri ibyo, kuko ayo magambo bari bayahishwe, ntibamenya ibyo babwiwe.",
+      "start": 21.98,
+      "end": 29.85
+    },
+    "35": {
+      "text": "Nuko yenda kugera i Yeriko, impumyi yari yicaye iruhande rw'inzira isabiriza,",
+      "start": 33.24,
+      "end": 37.23
+    },
+    "36": {
+      "text": "yumvise abantu benshi bahita ibaza ibyo ari byo.",
+      "start": 20.12,
+      "end": 43.04
+    },
+    "37": {
+      "text": "Barayibwira bati “Ni Yesu w'i Nazareti uhita.”",
+      "start": 27.04,
+      "end": 30.05
+    },
+    "38": {
+      "text": "Irataka cyane iti “Yesu mwene Dawidi, mbabarira.”",
+      "start": 36.72,
+      "end": 41.98
+    },
+    "39": {
+      "text": "Abagiye imbere barayicyaha ngo iceceke, ariko irushaho gutaka iti “Mwene Dawidi, mbabarira.”",
+      "start": 3.46,
+      "end": 14.75
+    },
+    "40": {
+      "text": "Yesu arahagarara, ategeka ko bayimuzanira. Igeze bugufi arayibaza ati",
+      "start": 24.27,
+      "end": 39.73
+    },
+    "41": {
+      "text": "“Urashaka ko nkugirira nte?”Iti “Databuja, ndashaka guhumuka.”",
+      "start": 18.39,
+      "end": 44.44
+    },
+    "42": {
+      "text": "Yesu arayibwira ati “Humuka, kwizera kwawe kuragukijije.”",
+      "start": 34.1,
+      "end": 44.56
+    },
+    "43": {
+      "text": "Ako kanya arahumuka, amukurikira ahimbaza Imana. Abantu bose babibonye bashima Imana.",
+      "start": 32.76,
+      "end": 34.74
+    }
+  }
+}

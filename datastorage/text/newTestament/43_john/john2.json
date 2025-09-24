@@ -1,0 +1,133 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Ku munsi wa gatatu hacyujijwe ubukwe i Kana y'i Galilaya, kandi na nyina wa Yesu yari ahari.",
+      "start": 38.22,
+      "end": 44.75
+    },
+    "2": {
+      "text": "Yesu bamutorana n'abigishwa be ngo batahe ubwo bukwe.",
+      "start": 25.94,
+      "end": 32.49
+    },
+    "3": {
+      "text": "Nuko vino ishize, nyina wa Yesu aramubwira ati “Nta vino bafite.”",
+      "start": 33.12,
+      "end": 40.18
+    },
+    "4": {
+      "text": "Yesu aramubwira ati “Mubyeyi, tubigendanyemo dute? Igihe cyanjye ntikiragera.”",
+      "start": 3.53,
+      "end": 40.59
+    },
+    "5": {
+      "text": "Nyina abwira abahereza ati “Icyo ababwira cyose mugikore.”",
+      "start": 42.95,
+      "end": 43.78
+    },
+    "6": {
+      "text": "Hariho intango esheshatu zaremwe mu mabuye, zashyiriweho kwiyeza nk'uko umugenzo w'Abayuda wari uri, intango yose irimo incuro ebyiri cyangwa eshatu z'amazi.",
+      "start": 44.63,
+      "end": 44.68
+    },
+    "7": {
+      "text": "Yesu arababwira ati “Mwuzuze intango amazi.” Barazuzuza bageza ku ngara.",
+      "start": 39.24,
+      "end": 39.97
+    },
+    "8": {
+      "text": "Arababwira ati “Nimudahe noneho mushyire umusangwa mukuru.” Barayamushyīra.",
+      "start": 27.98,
+      "end": 38.27
+    },
+    "9": {
+      "text": "Uwo musangwa mukuru asogongeye amazi ahindutse vino ntiyamenya aho iturutse, keretse ba bahereza badashye amazi ni bo bari babizi. Umusangwa mukuru ahamagara umukwe",
+      "start": 33.9,
+      "end": 37.44
+    },
+    "10": {
+      "text": "aramubwira ati “Abandi bose babanza vino nziza, abantu bamara guhaga bakabona kuzana izitaryoshye, ariko wowe ho washyinguye inziza aba ari zo uherutsa.”",
+      "start": 25.03,
+      "end": 30.24
+    },
+    "11": {
+      "text": "Icyo ni cyo kimenyetso cya mbere Yesu yakoreye i Kana y'i Galilaya, yerekana icyubahiro cye, abigishwa be baramwizera.",
+      "start": 23.51,
+      "end": 35.13
+    },
+    "12": {
+      "text": "Hanyuma y'ibyo aramanuka ajya i Kaperinawumu, ari kumwe na nyina na bene se n'abigishwa be, ariko ntibamarayo iminsi myinshi.",
+      "start": 9.4,
+      "end": 21.65
+    },
+    "13": {
+      "text": "Pasika y'Abayuda yenda gusohora, Yesu ajya i Yerusalemu.",
+      "start": 8.26,
+      "end": 24.21
+    },
+    "14": {
+      "text": "Ageze mu rusengero asangamo abahatundira inka n'intama n'inuma, n'abandi bicaye bavunja ifeza.",
+      "start": 12.36,
+      "end": 40.36
+    },
+    "15": {
+      "text": "Abohekanya imigozi ayigira nk'ikiboko, bose abirukana n'intama n'inka mu rusengero, amena ifeza z'abaguraga inuma",
+      "start": 38.01,
+      "end": 38.72
+    },
+    "16": {
+      "text": "ati “Nimukureho bino, mureke guhindura inzu ya Data iguriro.”",
+      "start": 22.09,
+      "end": 22.95
+    },
+    "17": {
+      "text": "Abigishwa be bibuka uko byanditswe ngo “Ishyaka ry'inzu yawe rirandya.”",
+      "start": 23.17,
+      "end": 33.89
+    },
+    "18": {
+      "text": "Abayuda baramubaza bati “Ubwo ugize utyo watwereka kimenyetso ki?”",
+      "start": 44.81,
+      "end": 44.89
+    },
+    "19": {
+      "text": "Yesu arabasubiza ati “Nimusenye uru rusengero, nanjye nzarwubaka mu minsi itatu.”",
+      "start": 18.54,
+      "end": 34.86
+    },
+    "20": {
+      "text": "Nuko Abayuda bati “Uru rusengero ko rwubatswe mu myaka mirongo ine n'itandatu, nawe ngo uzarwubaka mu minsi itatu?”",
+      "start": 8.57,
+      "end": 43.43
+    },
+    "21": {
+      "text": "Ariko urusengero yavugaga ni umubiri we.",
+      "start": 43.92,
+      "end": 44.78
+    },
+    "22": {
+      "text": "Nuko azuwe abigishwa be bibuka ko yabivuze, bemera ibyanditswe na rya jambo Yesu yari yaravuze.",
+      "start": 13.43,
+      "end": 41.69
+    },
+    "23": {
+      "text": "Nuko ubwo yari i Yerusalemu mu minsi mikuru ya Pasika, abantu benshi babonye ibimenyetso akora bizera izina rye,",
+      "start": 32.02,
+      "end": 32.31
+    },
+    "24": {
+      "text": "ariko Yesu ntiyabiringira kuko yari azi abantu bose.",
+      "start": 23.76,
+      "end": 31.56
+    },
+    "25": {
+      "text": "Ntiyagombaga kubwirwa iby'abantu, kuko ubwe yari azi ibibarimo.",
+      "start": 6.74,
+      "end": 42.49
+    }
+  }
+}

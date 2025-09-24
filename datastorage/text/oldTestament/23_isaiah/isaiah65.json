@@ -1,0 +1,133 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 65,
+  "verses": {
+    "1": {
+      "text": "“Nabaririjwe n'abatanyitagaho, nabonywe n'abatanshatse. Mbwira ishyanga rititiriwe izina ryanjye nti ‘Nimundebe, nimundebe.’",
+      "start": 7.98,
+      "end": 38.06
+    },
+    "2": {
+      "text": "Ariko ubwoko bw'abagome nabutegeraga amaboko umunsi ukira, bagendanaga ingeso mbi bakurikiza ibyo bibwira ubwabo.",
+      "start": 3.79,
+      "end": 8.11
+    },
+    "3": {
+      "text": "Ni abantu bakorera ibindakaza imbere yanjye hato na hato, bagatambira ibitambo mu masambu yabo, bakosereza imibavu ku bicaniro byubakishijwe amatafari.",
+      "start": 14.94,
+      "end": 42.63
+    },
+    "4": {
+      "text": "Bakicara mu bituro bakarara ahantu hihishe, bakarya inyama z'ingurube, kandi mu nzabya zabo hakabamo umufa w'inyama z'ibizira,",
+      "start": 8.73,
+      "end": 9.18
+    },
+    "5": {
+      "text": "bakavuga bati ‘Hagarara ukwawe winyegera, kuko nkurusha gukiranuka.’ Abo bambera umwotsi wo mu mazuru n'umuriro waka ukiriza umunsi.",
+      "start": 11.17,
+      "end": 24.0
+    },
+    "6": {
+      "text": "“Dore ibyo biranditswe imbere yanjye sinzabyihorera, ahubwo nzabyitura, ni koko nzabibitura bigere ku mitima yabo.",
+      "start": 43.7,
+      "end": 43.99
+    },
+    "7": {
+      "text": "Gukiranirwa kwanyu ubwanyu, n'ukwa ba sogokuruza wanyu nzakubiturira hamwe.” Ni ko Uwiteka avuga. “Boserezaga imibavu ku misozi bakantukishiriza ku dusozi. Ni cyo gituma nzabitura ibikwiriye ibyo bakoze bikagera mu mitima yabo.”",
+      "start": 22.32,
+      "end": 33.79
+    },
+    "8": {
+      "text": "Uwiteka aravuga ati “Nk'uko iseri ry'inzabibu rivamo umutobe bakavuga bati ‘Ntuwurimbure kuko ugifite umumaro’, ni ko nzagirira abagaragu banjye ne kubarimbura bose.",
+      "start": 15.84,
+      "end": 31.78
+    },
+    "9": {
+      "text": "Muri Yakobo nzahakura urubyaro, no muri Yuda nzakuramo uwo kuragwa imisozi yanjye, abatoni banjye bazaharagwa n'abagaragu banjye bazahatura.",
+      "start": 8.42,
+      "end": 8.74
+    },
+    "10": {
+      "text": "Maze i Sharoni hazaba ikiraro cy'intama, kandi igikombe cya Akori kizaba igikumba cy'amashyo y'inka, nzahagabira abantu banjye banshakaga.",
+      "start": 0.72,
+      "end": 24.81
+    },
+    "11": {
+      "text": "“Ariko mwebwe abimūye Uwiteka mukibagirwa umusozi wanjye wera, mugatereka Gadi intango mukanywera Meni vino y'inkangaza,",
+      "start": 40.34,
+      "end": 43.0
+    },
+    "12": {
+      "text": "nzabategekera inkota namwe mwese muzacira bugufi kwicwa, kuko ubwo nabahamagaraga mutitabye, kandi ubwo nababwiraga ntimwumviye, ahubwo mugakora ibyo nanze mugahitamo ibitanezeza.”",
+      "start": 35.52,
+      "end": 40.12
+    },
+    "13": {
+      "text": "Ni cyo gituma Umwami Imana ivuga iti “Dore abagaragu banjye bazarya naho mwebwe muzicwa n'inzara, abagaragu banjye bazanywa naho mwebwe muzicwa n'inyota, abagaragu banjye bazanezerwa naho mwebwe muzakorwa n'isoni.",
+      "start": 31.62,
+      "end": 43.62
+    },
+    "14": {
+      "text": "Dore abagaragu banjye bazaririmbishwa n'umunezero wo mu mitima naho mwebwe muzarizwa n'agahinda ko mu mutima, muborozwe n'imitima ibabaye.",
+      "start": 20.96,
+      "end": 38.52
+    },
+    "15": {
+      "text": "Kandi izina ryanyu muzarisigira abatoni banjye ribe incyuro, Umwami Imana izabica, abagaragu bayo izabita irindi zina.",
+      "start": 27.97,
+      "end": 44.29
+    },
+    "16": {
+      "text": "Maze uwo mu isi ushaka umugisha azawusaba Imana y'ukuri, n'uwo mu isi urahira azarahira Imana y'ukuri, kuko imibabaro ya kera yibagiranye, igahishwa amaso yanjye.",
+      "start": 39.99,
+      "end": 42.34
+    },
+    "17": {
+      "text": "“Dore ndarema ijuru rishya n'isi nshya, ibya kera ntibizibukwa kandi ntibizatekerezwa.",
+      "start": 25.69,
+      "end": 33.59
+    },
+    "18": {
+      "text": "Ahubwo nimunezerwe mujye mwishimira ibyo ndema, kuko ndema i Yerusalemu ngo mpagire ibyishimo, nkarema abantu baho bakaba umunezero.",
+      "start": 11.57,
+      "end": 31.65
+    },
+    "19": {
+      "text": "Nzanezererwa i Yerusalemu nishimire abantu banjye, kandi ijwi ryo kurira n'imiborogo ntibizahumvikana ukundi.",
+      "start": 42.57,
+      "end": 42.71
+    },
+    "20": {
+      "text": "Ntihazongera kubamo umwana umaze iminsi mike, cyangwa umusaza udashyikije imyaka ye, kuko umwana azapfa amaze imyaka ijana, ariko umunyabyaha azavumwa, apfe atamaze imyaka ijana.",
+      "start": 30.32,
+      "end": 31.71
+    },
+    "21": {
+      "text": "Bazubaka amazu bayabemo, kandi bazatera inzabibu barye imbuto zazo.",
+      "start": 32.53,
+      "end": 41.31
+    },
+    "22": {
+      "text": "Ntibazubaka amazu ngo abandi bayabemo, ntibazatera inzabibu ngo ziribwe n'abandi, kuko bazamara imyaka nk'ibiti, kandi abatoni banjye bazashyira kera bishimira imirimo y'intoki zabo.",
+      "start": 39.25,
+      "end": 39.62
+    },
+    "23": {
+      "text": "Ntibazaruhira ubusa kandi ntibazabyara abana bo kubona amakuba, kuko bazaba ari urubyaro rw'abahawe umugisha n'Uwiteka, hamwe n'abazabakomokaho.",
+      "start": 37.34,
+      "end": 40.72
+    },
+    "24": {
+      "text": "Maze ubwo bazaba batarantabaza nzabatabara, kandi bakivuga nzumva.",
+      "start": 2.05,
+      "end": 8.42
+    },
+    "25": {
+      "text": "Isega n'umwana w'intama bizarishanya, intare zizarisha ubwatsi nk'inka, umukungugu ni wo uzaba ibyokurya by'inzoka. Ntibizaryana kandi ntibizarimbura hose ku musozi wanjye wera.” Ni ko Uwiteka avuga.",
+      "start": 41.57,
+      "end": 43.56
+    }
+  }
+}

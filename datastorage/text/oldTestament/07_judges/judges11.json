@@ -1,0 +1,208 @@
+{
+  "book": "Book 7",
+  "book_canonical": "judges",
+  "book_number": 7,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Nuko Yefuta w'Umugileyadi yari umunyambaraga w'intwari, kandi yari umwana wa maraya, kandi Gileyadi ni we bamubyaranye.",
+      "start": 4.24,
+      "end": 36.34
+    },
+    "2": {
+      "text": "Ariko umugore wa Gileyadi amubyarira abahungu. Abo bamaze gukura birukana Yefuta, baramwerurira bati “Nta mugabane ufite mu bya data, kuko uri umwana w'undi mugore.”",
+      "start": 43.74,
+      "end": 44.35
+    },
+    "3": {
+      "text": "Nuko Yefuta ahunga bene se, ahungira mu gihugu cy'i Tobu aturayo, maze Yefuta ateranya abantu b'inguguzi bakajya batera abandi.",
+      "start": 31.11,
+      "end": 31.7
+    },
+    "4": {
+      "text": "Hahise iminsi Abamoni barwanya Abisirayeli.",
+      "start": 12.68,
+      "end": 13.28
+    },
+    "5": {
+      "text": "Nuko Abamoni bakibarwanya, abakuru b'i Galeyadi batuma kuri Yefuta ngo acikuke ave mu gihugu cy'i Tobu.",
+      "start": 36.21,
+      "end": 39.9
+    },
+    "6": {
+      "text": "Baramubwira bati “Ngwino ube umugaba wacu tubone uko turwana n'Abamoni.”",
+      "start": 25.96,
+      "end": 31.77
+    },
+    "7": {
+      "text": "Yefuta abwira abakuru b'i Galeyadi ati “Mbese si mwe mwanyanze mukanyirukana mu bya data? Ni iki gituma muza kunshaka ubu, kuko mubabaye?”",
+      "start": 36.88,
+      "end": 40.45
+    },
+    "8": {
+      "text": "Nuko abakuru b'i Galeyadi basubiza Yefuta bati “Igitumye tuguhindukiriye ubu, ni ukugira ngo tujyane tubone kurwana n'Abamoni. Nitumara gutsinda uzaba umutware wacu, utware abatuye i Galeyadi bose.”",
+      "start": 21.25,
+      "end": 34.55
+    },
+    "9": {
+      "text": "Yefuta arababaza ati “Nimunsubiza iwacu kurwana n'Abamoni Uwiteka akabangabiza, nzaba umutware wanyu koko?”",
+      "start": 15.11,
+      "end": 39.36
+    },
+    "10": {
+      "text": "Baramusubiza bati “Uwiteka abe umuhamya hagati yacu, nitudasohoza ibyo uvuze.”",
+      "start": 26.54,
+      "end": 37.71
+    },
+    "11": {
+      "text": "Yefuta aherako ajyana na ba bakuru b'i Galeyadi, nuko abantu bamugira umugaba wabo n'umutware. I Misipa ni ho Yefuta yavugiye ibyo yavuze byose imbere y'Uwiteka.",
+      "start": 36.01,
+      "end": 42.14
+    },
+    "12": {
+      "text": "Nuko Yefuta atuma intumwa ku mwami w'Abamoni kumubaza ati “Turapfa iki gituma utera igihugu cyanjye?”",
+      "start": 8.44,
+      "end": 33.92
+    },
+    "13": {
+      "text": "Umwami w'Abamoni asubiza intumwa za Yefuta ati “Impamvu ni uko Abisirayeli bamaze kuva muri Egiputa, banyaze igihugu cyanjye uhereye kuri Arunoni ukageza i Yaboki n'i Yorodani. Noneho wemere kunsubiza ibyo bihugu ku neza.”",
+      "start": 17.31,
+      "end": 38.33
+    },
+    "14": {
+      "text": "Yefuta yongera gutuma intumwa ku mwami w'Abamoni.",
+      "start": 0.52,
+      "end": 32.19
+    },
+    "15": {
+      "text": "Ziramubwira ziti “Yefuta yavuze ngo Abisirayeli kunyaga ntibanyaze igihugu cy'i Mowabu cyangwa igihugu cy'Abamoni.",
+      "start": 25.77,
+      "end": 44.56
+    },
+    "16": {
+      "text": "Ariko Abisirayeli bamaze kuva muri Egiputa, banyuraga mu butayu bagera ku Nyanja Itukura, maze bagera i Kadeshi.",
+      "start": 1.58,
+      "end": 21.79
+    },
+    "17": {
+      "text": "Abisirayeli baherako batuma intumwa ku mwami wa Edomu bati ‘Turakwinginze utwemerere tunyure mu gihugu cyawe.’ Ariko umwami wa Edomu ntiyabakundira. Uko ni ko kandi batumye ku mwami w'i Mowabu, na we ntiyabakundira. Nuko Abisirayeli baguma i Kadeshi.",
+      "start": 15.92,
+      "end": 42.63
+    },
+    "18": {
+      "text": "Hanyuma banyura mu butayu bakikiye igihugu cya Edomu n'icy'i Mowabu, banyura mu ruhande rw'iburasirazuba rw'i Mowabu, bagandika hakurya ya Arunoni, ntibarenga urugabano rw'i Mowabu kuko Arunoni yari urugabano rwaho.",
+      "start": 9.4,
+      "end": 16.16
+    },
+    "19": {
+      "text": "Nuko Abisirayeli batuma intumwa kuri Sihoni umwami w'Abamori, umwami w'i Heshiboni. Baramubwira bati ‘Turakwinginze utwemerere tunyure mu gihugu cyawe tujye mu cyacu.’",
+      "start": 5.52,
+      "end": 43.11
+    },
+    "20": {
+      "text": "Ariko Sihoni ntiyiringira Abisirayeli ngo banyure mu rugabano rwe, maze Sihoni ateranya ingabo ze zose agandika i Yahasi, arwanya Abisirayeli.",
+      "start": 37.69,
+      "end": 38.52
+    },
+    "21": {
+      "text": "Uwiteka Imana y'Abisirayeli ibagabiza Sihoni n'ingabo ze zose, barabanesha. Nuko Abisirayeli bahindūra igihugu cyose cy'Abamori bene icyo gihugu.",
+      "start": 2.38,
+      "end": 10.17
+    },
+    "22": {
+      "text": "Bahindūra urugabano rwose rw'Abamori, uhereye kuri Arunoni ukageza i Yaboki, kandi uhereye mu butayu ukageza kuri Yorodani.",
+      "start": 3.68,
+      "end": 17.06
+    },
+    "23": {
+      "text": "Nuko ubwo Uwiteka Imana y'Abisirayeli yirukanye Abamori imbere y'abantu bayo ba Isirayeli ikabaha igihugu, mbese ni wowe wakitunyaga?",
+      "start": 15.09,
+      "end": 36.79
+    },
+    "24": {
+      "text": "Igihugu imana yawe Kemoshi yaguha, ntiwagihindūra? Natwe ni uko, abo Uwiteka Imana yacu yirukanye imbere yacu, twabahindūye.",
+      "start": 44.62,
+      "end": 44.9
+    },
+    "25": {
+      "text": "Mbese uraruta Balaki mwene Sipori, umwami w'i Mowabu? Hari ubwo yigeze kujya impaka n'Abisirayeli? Hari ubwo yarwanye na bo?",
+      "start": 19.1,
+      "end": 31.61
+    },
+    "26": {
+      "text": "Abisirayeli ko bamaze imyaka magana atatu batuye i Heshiboni no mu birorero byaho, no muri Aroweri n'ibirorero byaho, no mu midugudu yose iri ku nkengero ya Arunoni. Ni iki cyababujije kubigarura muri iyo myaka yose?",
+      "start": 21.83,
+      "end": 32.97
+    },
+    "27": {
+      "text": "Noneho si jye ugucumuyeho, ahubwo ni wowe ungiriye nabi, urantera kundwanya. Uwiteka umucamanza abe umucamanza uyu munsi hagati y'Abisirayeli n'Abamoni.”",
+      "start": 25.22,
+      "end": 29.11
+    },
+    "28": {
+      "text": "Ariko umwami w'Abamoni ntiyita ku magambo Yefuta yamutumyeho.",
+      "start": 15.47,
+      "end": 42.49
+    },
+    "29": {
+      "text": "Umwuka w'Uwiteka aza kuri Yefuta, anyura i Galeyadi n'i Manase ajya i Misipa y'i Galeyadi, avayo afata mu Bamoni.",
+      "start": 35.46,
+      "end": 35.99
+    },
+    "30": {
+      "text": "Nuko Yefuta ahiga Uwiteka umuhigo ati “Nungabiza Abamoni,",
+      "start": 44.29,
+      "end": 44.55
+    },
+    "31": {
+      "text": "ngatabaruka amahoro mvuye kubatsinda, ikizabanza gusohoka imbere y'umuryango w'inzu yanjye kunsanganira, kizaba icy'Uwiteka. Nanjye nzagitangaho igitambo cyoswa.”",
+      "start": 2.54,
+      "end": 42.03
+    },
+    "32": {
+      "text": "Nuko Yefuta arambuka atera Abamoni arwana na bo, Uwiteka arabamugabiza.",
+      "start": 33.82,
+      "end": 41.46
+    },
+    "33": {
+      "text": "Arabatikiza uhereye kuri Aroweri ukageza i Miniti, imidugudu yari makumyabiri ukageza Abelikeramimu, yica benshi cyane. Uko ni ko Abamoni bacogojwe imbere y'Abisirayeli.",
+      "start": 15.65,
+      "end": 24.52
+    },
+    "34": {
+      "text": "Nuko Yefuta aratabaruka ajya iwe i Misipa, yenda kugera iwe, umukobwa we asohokana utuntu dusa n'ishakwe abyina, ajya kumusanganira. Kandi uwo mwana we yari ikinege, nta muhungu cyangwa umukobwa yari afite wundi utari we.",
+      "start": 26.7,
+      "end": 26.7
+    },
+    "35": {
+      "text": "Amubonye ashishimura imyenda ye aravuga ati “Ye baba we, mwana wanjye! Ko umbabaje cyane, ko uri mu bampagaritse umutima kuko nahigiye imbere y'Uwiteka, none simbasha kwivuguruza!”",
+      "start": 23.74,
+      "end": 27.22
+    },
+    "36": {
+      "text": "Aramubwira ati “Data, ubwo wahigiye imbere y'Uwiteka mpigura nk'uko wahize, kuko Uwiteka yaguhoje ababisha bawe b'Abamoni.”",
+      "start": 38.36,
+      "end": 43.54
+    },
+    "37": {
+      "text": "Nyuma uwo mukobwa abwira se ati “Unyemerere icyo ngusaba: ube undetse amezi abiri ngende manukane mu misozi na bagenzi banjye, ndirire ubukumi bwanjye.”",
+      "start": 34.92,
+      "end": 39.23
+    },
+    "38": {
+      "text": "Se aramusubiza ati “Genda.” Aramusezerera ngo amare amezi abiri. Ajyana na bagenzi be, aririra ubukumi bwe mu misozi.",
+      "start": 6.39,
+      "end": 26.2
+    },
+    "39": {
+      "text": "Nuko amezi abiri ashize agaruka kwa se, na we amuhigura Uwiteka nk'uko yari yahize, kandi yari atararongorwa.Bihera ubwo biba umugenzo mu Bisirayeli uko umwaka utashye,",
+      "start": 4.54,
+      "end": 36.93
+    },
+    "40": {
+      "text": "inkumi z'Abisirayeli zikajya kwibuka uwo mukobwa wa Yefuta w'Umugileyadi, iminsi ine mu mwaka.",
+      "start": 39.66,
+      "end": 40.45
+    }
+  }
+}

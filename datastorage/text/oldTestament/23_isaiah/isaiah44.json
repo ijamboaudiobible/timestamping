@@ -1,0 +1,148 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 44,
+  "verses": {
+    "1": {
+      "text": "“Ariko rero noneho umva, Yakobo mugaragu wanjye, Isirayeli natoranije.”",
+      "start": 22.52,
+      "end": 40.07
+    },
+    "2": {
+      "text": "Uwiteka wakuremye akagukuza uhereye ukiri mu nda, kandi ari we uzajya agufasha aravuga ati “Witinya Yakobo mugaragu wanjye, Yeshuruni natoranije.",
+      "start": 3.78,
+      "end": 34.25
+    },
+    "3": {
+      "text": "“Uwishwe n'inyota nzamusukiraho amazi, nzatembesha imigezi ku butaka bwumye, urubyaro rwawe nzarusukaho Umwuka wanjye n'abana bawe nzabaha umugisha.",
+      "start": 31.89,
+      "end": 38.01
+    },
+    "4": {
+      "text": "Bazamera nk'uko imikinga yo ku migezi imerera mu bwatsi.",
+      "start": 5.5,
+      "end": 17.76
+    },
+    "5": {
+      "text": "“Umwe azavuga ati ‘Ndi uw'Uwiteka’, undi aziyita izina rya Yakobo, undi aziyandikira n'ukuboko kwe ko ari uw'Uwiteka yihimbe izina rya Isirayeli.”",
+      "start": 2.29,
+      "end": 28.34
+    },
+    "6": {
+      "text": "Uwiteka Umwami wa Isirayeli, Uwiteka Nyiringabo Umucunguzi we aravuga ati “Ndi uwa mbere kandi ndi uw'imperuka, kandi nta yindi mana ibaho itari jye.",
+      "start": 44.55,
+      "end": 44.61
+    },
+    "7": {
+      "text": "Ni nde uhwanye nanjye uzahamagara akabivuga, akabintunganyiriza uhereye aho nashyiriyeho bwa bwoko bwa kera? Ibiza kuza n'ibizabaho nibabivuge.",
+      "start": 4.85,
+      "end": 14.86
+    },
+    "8": {
+      "text": "Mwe kugira ubwoba ngo mutinye. Kera sinabikubwiye nkabigaragaza? Namwe muri abagabo bo kumpamya. Hariho indi mana ibaho itari jye? Ni koko nta kindi gitare, ubwanjye sinkizi.”",
+      "start": 19.15,
+      "end": 34.95
+    },
+    "9": {
+      "text": "Abarema ibishushanyo bibajwe bose nta cyo bamaze, ibintu byabo by'umurimbo nta cyo bizamara, ndetse n'ibyo batanga ho abagabo ntibireba kandi nta cyo bizi, ni cyo gituma bakorwa n'isoni.",
+      "start": 13.96,
+      "end": 38.28
+    },
+    "10": {
+      "text": "Ni nde waremye ikigirwamana, agacura igishushanyo kibajwe kitagira umumaro?",
+      "start": 28.99,
+      "end": 32.01
+    },
+    "11": {
+      "text": "Dore bagenzi be bose bazakorwa n'isoni, abanyabukorikori babyo ni abantu gusa, bose nibateranire hamwe bahagarare. Bazagira ubwoba, isoni zibakorere hamwe.",
+      "start": 10.15,
+      "end": 28.16
+    },
+    "12": {
+      "text": "Umucuzi yenda icyuma akakivugutira mu makara, akagicurisha inyundo akakirambura n'ukuboko kwe gukomeye, nyamara iyo ashonje acika intege, atānywa amazi akaraba.",
+      "start": 33.85,
+      "end": 34.18
+    },
+    "13": {
+      "text": "Umubaji w'ibishushanyo arēga umugozi akagiharatuza ikaramu, akakibāza n'imbazo, akakigera cyose n'icyuma kigera, akagishushanya n'ishusho y'umuntu kikagira uburanga nk'ubw'umuntu, nuko kikaba mu nzu.",
+      "start": 37.41,
+      "end": 39.3
+    },
+    "14": {
+      "text": "Yitemera imyerezi n'imizo n'imyela, akihitiramo igiti kimwe mu byo mu ishyamba, agatera igiti cy'umworeni imvura ikakimeza,",
+      "start": 1.67,
+      "end": 33.3
+    },
+    "15": {
+      "text": "hanyuma kikazaba inkwi umuntu acana. Umuntu azajya aza acyendeho inkwi zo kota yendeho n'izo gutara umutsima, akibazemo ikigirwamana akiramye, agihindure igishushanyo kibajwe agipfukamire.",
+      "start": 21.48,
+      "end": 35.01
+    },
+    "16": {
+      "text": "Ingere yacyo imwe ayicanisha umuriro, indi ngere akayokesha inyama akayirya agahaga, kandi acyota akavuga ati “Arararara! Nshize imbeho mbonye umuriro.”",
+      "start": 19.3,
+      "end": 25.88
+    },
+    "17": {
+      "text": "Maze ingere yacyo isigaye akayigira ikigirwamana, ari cyo gishushanyo cye kibajwe, akagipfukamira akakiramya, akagisenga ati “Nkiza kuko uri imana yanjye.”",
+      "start": 16.34,
+      "end": 17.77
+    },
+    "18": {
+      "text": "Nta cyo bazi kandi nta cyo batekereza, kuko yabahumye amaso ntibabashe kureba, ikabanangira imitima ntibabashe kumenya.",
+      "start": 32.82,
+      "end": 40.3
+    },
+    "19": {
+      "text": "Nta wibuka, nta wumenya ngo ajijuke avuge ati “Ingere yacyo imwe nayicanishije umuriro amakara nyatarisha umutsima, nyotsaho n'inyama ndayirya. Mbese ingere yacyo isigaye nayihindura icyo kuziririza, ngapfukamira ingere y'igiti?”",
+      "start": 37.13,
+      "end": 43.8
+    },
+    "20": {
+      "text": "Uyu muntu arya ivu, ayobejwe n'umutima wibeshya, ntabasha gukiza ubugingo bwe ntarushye yibaza ati “Mbese icyo mfite mu ntoki si ikinyoma?”",
+      "start": 14.44,
+      "end": 28.92
+    },
+    "21": {
+      "text": "“Nuko Yakobo we, Isirayeli we, wibuke ibyo kuko uri umugaragu wanjye. Ni jye wakuremye uri umugaragu wanjye, Isirayeli sinzakwibagirwa.",
+      "start": 42.18,
+      "end": 43.39
+    },
+    "22": {
+      "text": "Neyuye ibicumuro byawe nk'igicu cya rukokoma, ibyaha byawe mbikuyeho nk'igicu, ngarukira kuko nagucunguye.”",
+      "start": 34.1,
+      "end": 41.91
+    },
+    "23": {
+      "text": "Ririmba wa juru we, kuko Uwiteka yabikoze. Rangurura wa kuzimu ko hasi we. Nimuturagare muririmbe mwa misozi mwe, nawe shyamba n'igiti cyose kiririmo, kuko Uwiteka yacunguye Yakobo kandi azibonera icyubahiro muri Isirayeli.",
+      "start": 44.19,
+      "end": 44.29
+    },
+    "24": {
+      "text": "Uwiteka Umucunguzi wawe ari we wagukujije uhereye ukiri mu nda aravuga ati “Uwiteka ni jyewe waremye byose, mbamba ijuru jyenyine, ndambura isi. Hari uwo twari turi kumwe?",
+      "start": 44.51,
+      "end": 44.96
+    },
+    "25": {
+      "text": "Indagu z'abanyabinyoma nzihindura ubusa, abarozi nkabatera ibisazi. Nsubiza inyuma abanyabwenge, ubwenge bwabo nkabuhindura ubupfu.",
+      "start": 43.88,
+      "end": 44.91
+    },
+    "26": {
+      "text": "Uwiteka ari we ukomeza ijambo ry'umugaragu we agasohoza inama z'intumwa ze, avuga iby'i Yerusalemu ati ‘Hazaturwa’, akavuga iby'imidugudu y'i Buyuda ati ‘Izubakwa kandi nzubura imyanya yaho, yabaye amatongo.’",
+      "start": 17.68,
+      "end": 26.69
+    },
+    "27": {
+      "text": "Abwira imuhengeri ati ‘Kama, nanjye nzakamya imigezi yawe.’",
+      "start": 43.51,
+      "end": 44.04
+    },
+    "28": {
+      "text": "Kandi avuga ibya Kuro ati ‘Ni umushumba wanjye, azasohoza ibyo nshaka byose.’ Akavuga iby'i Yerusalemu ati ‘Hazubakwa’, kandi avuga iby'urusengero ati ‘Urufatiro rwawe ruzashyirwaho.’ ”",
+      "start": 18.26,
+      "end": 40.91
+    }
+  }
+}

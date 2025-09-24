@@ -1,0 +1,63 @@
+{
+  "book": "Book 28",
+  "book_canonical": "hosea",
+  "book_number": 28,
+  "chapter": 6,
+  "verses": {
+    "1": {
+      "text": "“Nimuze tugarukire Uwiteka, kuko ari we wadukomerekeje kandi ni we uzadukiza, ni we wadukubise kandi ni we uzatwomora.",
+      "start": 43.63,
+      "end": 43.83
+    },
+    "2": {
+      "text": "Azaduhembura tumaze kabiri, ku munsi wa gatatu azaduhagurutsa, kandi tuzabaho turi imbere ye.",
+      "start": 35.43,
+      "end": 41.4
+    },
+    "3": {
+      "text": "Dushishikarire kumenya, tugire umwete wo kumenya Uwiteka: azatunguka nk'umuseke utambika nta kabuza, azatuzaho ameze nk'imvura, nk'imvura y'itumba isomya ubutaka.”",
+      "start": 38.6,
+      "end": 42.7
+    },
+    "4": {
+      "text": "“Yewe Efurayimu we, nkugenze nte? Yewe Yuda we, nakugira nte? Kuko ineza yanyu ari nk'igicu cyo mu ruturuturu gitamuruka, kandi nk'ikime gitonyorotse hakiri kare.",
+      "start": 21.27,
+      "end": 35.47
+    },
+    "5": {
+      "text": "Ni cyo gituma nabahanishije abahanuzi. Nabicishije amagambo y'akanwa kanjye, kandi imanza nabaciriye zimeze nk'umucyo ukwira hose.",
+      "start": 2.48,
+      "end": 33.71
+    },
+    "6": {
+      "text": "Kuko icyo nshaka ari imbabazi si ibitambo, kandi kumenya Imana kubirutisha ibitambo byoswa.",
+      "start": 30.36,
+      "end": 39.21
+    },
+    "7": {
+      "text": "“Ariko bishe isezerano nka Adamu, ni ho bampemukiriye.",
+      "start": 26.16,
+      "end": 42.21
+    },
+    "8": {
+      "text": "I Galeyadi ni umudugudu w'inkozi z'ibibi, hahindanijwe n'amaraso.",
+      "start": 28.97,
+      "end": 31.59
+    },
+    "9": {
+      "text": "Uko ibitero by'abambuzi bicira umuntu igico, ni ko igitero cy'abatambyi cyicira abantu mu nzira igana i Shekemu. Ni ukuri bagira ubugambanyi.",
+      "start": 30.94,
+      "end": 39.51
+    },
+    "10": {
+      "text": "Mu nzu ya Isirayeli nabonyemo ikintu gishishana: aho ni ho ubumaraya bwa Efurayimu bwagaragariye, ni ho Isirayeli yandurijwe.",
+      "start": 29.01,
+      "end": 37.19
+    },
+    "11": {
+      "text": "“Kandi nawe Yuda urindirijwe isarura, igihe nzagarura abajyanywe ari imbohe bo mu bwoko bwanjye.",
+      "start": 10.4,
+      "end": 10.8
+    }
+  }
+}

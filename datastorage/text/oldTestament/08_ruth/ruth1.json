@@ -1,0 +1,118 @@
+{
+  "book": "Book 8",
+  "book_canonical": "ruth",
+  "book_number": 8,
+  "chapter": 1,
+  "verses": {
+    "1": {
+      "text": "Mu minsi y'abacamanza inzara yateye mu gihugu. Nuko umugabo w'i Betelehemu y'i Buyuda asuhukira mu gihugu cy'i Mowabu, we n'umugore we n'abahungu be bombi.",
+      "start": 35.74,
+      "end": 39.57
+    },
+    "2": {
+      "text": "Uwo mugabo yitwaga Elimeleki, umugore we yitwaga Nawomi, n'abahungu be bombi umwe yitwaga Mahaloni, undi yitwaga Kiliyoni. Bari Abanyefurata b'i Betelehemu y'i Buyuda. Bagera mu gihugu cy'i Mowabu baturayo.",
+      "start": 1.27,
+      "end": 17.04
+    },
+    "3": {
+      "text": "Elimeleki umugabo wa Nawomi arapfa, asigirana abahungu be bombi.",
+      "start": 8.1,
+      "end": 10.14
+    },
+    "4": {
+      "text": "Barongora Abamowabukazi, umwe yitwaga Orupa, undi yitwaga Rusi, bamarayo imyaka nk'icumi.",
+      "start": 38.62,
+      "end": 39.17
+    },
+    "5": {
+      "text": "Maze Mahaloni na Kiliyoni bombi barapfa. Uwo mugore yapfushije umugabo we n'abana be bombi.",
+      "start": 38.74,
+      "end": 43.71
+    },
+    "6": {
+      "text": "Bukeye ahagurukana n'abakazana be kugira ngo ave mu gihugu cy'i Mowabu, asubira iwabo kuko yari yumviye mu gihugu cy'i Mowabu yuko Uwiteka yagendereye ubwoko bwe, akabaha ibyokurya.",
+      "start": 36.03,
+      "end": 39.22
+    },
+    "7": {
+      "text": "Ava aho yari ari hamwe n'abakazana be bombi, aboneza inzira isubira mu gihugu cya Yuda.",
+      "start": 22.75,
+      "end": 42.98
+    },
+    "8": {
+      "text": "Nawomi abwira abakazana be ati “Nimugende musubire mu mazu ya ba nyoko, Uwiteka abagirire neza nk'uko mwayigiriye ba nyakwigendera nanjye.",
+      "start": 23.1,
+      "end": 42.45
+    },
+    "9": {
+      "text": "Uwiteka abahe mwembi kubona uburuhukiro mu mazu y'abagabo banyu.”Arabasoma, batera hejuru bararira.",
+      "start": 15.07,
+      "end": 32.54
+    },
+    "10": {
+      "text": "Baramusubiza bati “Oya, ahubwo tuzasubirana nawe mu bwoko bwanyu.”",
+      "start": 20.73,
+      "end": 36.0
+    },
+    "11": {
+      "text": "Nawomi arababwira ati “Bakobwa banjye, nimusubireyo. Ni iki kibashakisha kujyana nanjye? Hari abandi bana mfite mu nda ngo bazabe abagabo banyu?",
+      "start": 30.44,
+      "end": 43.32
+    },
+    "12": {
+      "text": "Bakobwa banjye, nimwigendere musubireyo, kuko ndenze urucyuriro. Navuga nti ‘Ndabyiringiye’, ndetse naho nabona umugabo iri joro, nkazabyara abahungu,",
+      "start": 2.39,
+      "end": 23.82
+    },
+    "13": {
+      "text": "ibyo byatuma mubarindira kugeza aho bazakurira? Ibyo byatuma mudashaka abagabo? Bye kuba bityo bakobwa banjye, kuko mbababarira cyane. Erega Uwiteka yabanguriye ukuboko kundwanya!”",
+      "start": 18.86,
+      "end": 38.5
+    },
+    "14": {
+      "text": "Barongera batera hejuru bararira, Orupa asoma nyirabukwe, Rusi we amubaho akaramata.",
+      "start": 36.55,
+      "end": 38.83
+    },
+    "15": {
+      "text": "Nawomi aravuga ati “Dore muka mugabo wanyu asubiye mu bwoko bwabo no ku mana ye, nawe usubireyo ukurikire muka mugabo wanyu.”",
+      "start": 28.6,
+      "end": 37.02
+    },
+    "16": {
+      "text": "Rusi aramusubiza ati “Winyinginga kugusiga, no gusubirayo ngo ne kugukurikira, kuko aho uzajya ari ho nzajya, kandi aho uzarara ari ho nzarara. Ubwoko bwawe ni bwo buzaba ubwoko bwanjye, Imana yawe ni yo izaba Imana yanjye,",
+      "start": 37.5,
+      "end": 41.8
+    },
+    "17": {
+      "text": "aho uzagwa ni ho nzagwa bahampambe. Nihagira ikizantandukanya nawe atari urupfu, Uwiteka azabimpore, ndetse bikabije.”",
+      "start": 15.58,
+      "end": 23.39
+    },
+    "18": {
+      "text": "Abonye yuko amaramaje kujyana na we, arorera kubimubwira.",
+      "start": 25.68,
+      "end": 38.17
+    },
+    "19": {
+      "text": "Nuko bombi barajyana bagerana i Betelehemu. Bagezeyo, abo mu mudugudu bose bahagarikwa imitima na bo, abagore barabazanya bati “Uyu ni Nawomi se?”",
+      "start": 32.55,
+      "end": 41.58
+    },
+    "20": {
+      "text": "Arabasubiza ati “Ntimukanyite Nawomi, ahubwo mujye munyita Mara, kuko Uwiteka yangiriye ibisharira cyane.",
+      "start": 7.61,
+      "end": 28.76
+    },
+    "21": {
+      "text": "Navuye ino nuzuye, Uwiteka angaruye iwacu nareyereye. Munyitira iki Nawomi ubwo Uwiteka yanshinje, Ishoborabyose yambabaje?”",
+      "start": 23.28,
+      "end": 43.36
+    },
+    "22": {
+      "text": "Nuko Nawomi agarukana na Rusi Umumowabukazi umukazana we, baturutse mu gihugu cy'i Mowabu, bagera i Betelehemu batangiye gusarura sayiri.",
+      "start": 13.56,
+      "end": 24.58
+    }
+  }
+}

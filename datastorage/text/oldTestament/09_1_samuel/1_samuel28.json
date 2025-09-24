@@ -1,0 +1,133 @@
+{
+  "book": "Book 9",
+  "book_canonical": "1_samuel",
+  "book_number": 9,
+  "chapter": 28,
+  "verses": {
+    "1": {
+      "text": "Muri iyo minsi Abafilisitiya bateranya ingabo zabo kujya kurwana n'Abisirayeli. Akishi abwira Dawidi ati “Umenye rwose ko uzatabarana nanjye n'abantu bawe, tukajyana n'ingabo ku rugamba.”",
+      "start": 35.05,
+      "end": 39.6
+    },
+    "2": {
+      "text": "Dawidi aramubwira ati “Ni na ho uzamenyera icyo umugaragu wawe nzakora.”Akishi abwira Dawidi ati “Ni cyo kizatuma nkugira umurinzi w'umutwe wanjye iminsi yose.”",
+      "start": 10.67,
+      "end": 24.68
+    },
+    "3": {
+      "text": "Ariko Samweli yari yarapfuye, Abisirayeli bose baramuririra bamuhamba mu mudugudu we i Rama. Kandi Sawuli yari yaraciye abahanzweho n'imyuka mibi n'abashitsi muri icyo gihugu.",
+      "start": 26.69,
+      "end": 37.87
+    },
+    "4": {
+      "text": "Bukeye Abafilisitiya baraterana, baraza bagerereza i Shunemu. Sawuli na we ateranya Abisirayeli bose, bagerereza i Gilibowa.",
+      "start": 9.96,
+      "end": 18.85
+    },
+    "5": {
+      "text": "Sawuli arabutswe ingabo z'Abafilisitiya aratinya, umutima we urakuka cyane.",
+      "start": 33.82,
+      "end": 39.16
+    },
+    "6": {
+      "text": "Sawuli aherako agisha Uwiteka inama, Uwiteka ntiyagira icyo amusubiza haba mu nzozi, haba na Urimu, haba n'abahanuzi.",
+      "start": 42.47,
+      "end": 44.23
+    },
+    "7": {
+      "text": "Sawuli aherako abwira abagaragu be ati “Nimunshakire umushitsikazi njye kumushikisha.”Abagaragu be baramusubiza bati “Hariho umushitsikazi kuri Endori.”",
+      "start": 21.67,
+      "end": 23.07
+    },
+    "8": {
+      "text": "Nuko Sawuli ariyoberanya yambara indi myambaro, ajyana n'abagabo babiri bajya kuri uwo mushitsikazi nijoro. Maze Sawuli aramubwira ati “Ndakwinginze, nshikishiriza umwuka uguhanzeho unzurire uwo nkubwira.”",
+      "start": 16.03,
+      "end": 31.05
+    },
+    "9": {
+      "text": "Uwo mugore aramusubiza ati “Mbese ntuzi icyo Sawuli yakoze, uko yarimbuye abahanzweho n'imyuka mibi n'abashitsi akabaca mu gihugu? Ni iki gitumye utega ubugingo bwanjye umutego kugira ngo unyicishe?”",
+      "start": 2.29,
+      "end": 4.24
+    },
+    "10": {
+      "text": "Sawuli amurahira Uwiteka ati “Nkurahiye Uwiteka uhoraho, icyo cyo ntuzagihanirwa.”",
+      "start": 19.24,
+      "end": 20.89
+    },
+    "11": {
+      "text": "Uwo mugore aramubaza ati “Nkuzurire nde?”Na we ati “Nzurira Samweli.”",
+      "start": 13.9,
+      "end": 18.1
+    },
+    "12": {
+      "text": "Ariko uwo mugore abonye Samweli, atera hejuru n'ijwi rirenga abaza Sawuli ati “Umbeshyeye iki? Kandi ari wowe Sawuli!”",
+      "start": 36.45,
+      "end": 36.76
+    },
+    "13": {
+      "text": "Umwami aramusubiza ati “Humura! Mbwira icyo ubonye.”Umugore ati “Mbonye imana izamuka iva ikuzimu.”",
+      "start": 17.03,
+      "end": 41.53
+    },
+    "14": {
+      "text": "Sawuli aramubaza ati “Arasa ate?”Na we ati “Ni umusaza uzamutse kandi yiteye igishura.”Sawuli amenya ko ari Samweli, arunama yubika amaso ye aramuramya.",
+      "start": 44.79,
+      "end": 45.0
+    },
+    "15": {
+      "text": "Nuko Samweli abaza Sawuli ati “Ni iki gitumye unkubaganira ukarinda kunzamura?”Sawuli aramusubiza ati “Nihebye kuko Abafilisitiya bandwanya, kandi Imana ikaba yarantaye itakigira icyo insubiza, ari mu bahanuzi cyangwa mu nzozi. Ni cyo cyatumye nguhamagara ngo unsobanurire icyo nkwiriye gukora.”",
+      "start": 21.21,
+      "end": 21.68
+    },
+    "16": {
+      "text": "Samweli aravuga ati “Ubimbarije iki, ubwo Uwiteka yakuretse agahinduka umwanzi wawe?",
+      "start": 15.49,
+      "end": 25.17
+    },
+    "17": {
+      "text": "Uwiteka ubwe yagenje nk'uko yabivugiye muri jye, Uwiteka yaguciye ku ngoma ayiha umuturanyi wawe Dawidi,",
+      "start": 10.07,
+      "end": 21.2
+    },
+    "18": {
+      "text": "kuko utumviye Uwiteka kandi ntusohoze uburakari bwe bukomeye ku Bamaleki. Ni cyo gitumye Uwiteka ubu ngubu akugenza atyo.",
+      "start": 40.64,
+      "end": 43.81
+    },
+    "19": {
+      "text": "Ndetse Uwiteka azaguhāna n'Abisirayeli mu Bafilisitiya, kandi ejo wowe n'abahungu bawe muzansanga. Uwiteka agiye guhāna ingabo za Isirayeli mu Bafilisitiya.”",
+      "start": 39.0,
+      "end": 41.39
+    },
+    "20": {
+      "text": "Uwo mwanya Sawuli aherako yikubita hasi indambya yubamye, kuko akuwe umutima cyane n'ibyo Samweli amubwiye, acika intege kuko yari yiriwe ubusa kandi akaburara.",
+      "start": 37.43,
+      "end": 42.6
+    },
+    "21": {
+      "text": "Hanyuma uwo mugore asanga Sawuli, abona ko yashobewe cyane aramubwira ati “Dore umuja wawe nakumviye mpara amagara, numvira amagambo umbwiye.",
+      "start": 41.43,
+      "end": 43.85
+    },
+    "22": {
+      "text": "None ndakwinginze, nawe wumvire umuja wawe unyemerere ngufungurire, urye kugira ngo nugenda ubone intege.”",
+      "start": 8.08,
+      "end": 18.85
+    },
+    "23": {
+      "text": "Aranga ati “Sinshaka kurya.” Ariko abagaragu be n'uwo mugore baramuhata arabumvira, aherako abaduka hasi yicara ku buriri.",
+      "start": 29.39,
+      "end": 40.43
+    },
+    "24": {
+      "text": "Kandi uwo mugore yari afite ikimasa kibyibushye kiri mu ruhongore arihuta aracyica, yenda ifu ayivugamo umutsima udasembuwe arawotsa,",
+      "start": 26.37,
+      "end": 32.59
+    },
+    "25": {
+      "text": "abihereza Sawuli n'abagaragu be barafungura. Baherako bahaguruka iryo joro, baragenda.",
+      "start": 42.21,
+      "end": 43.16
+    }
+  }
+}

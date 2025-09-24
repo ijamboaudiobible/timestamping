@@ -1,0 +1,218 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 19,
+  "verses": {
+    "1": {
+      "text": "Nuko Pilato aherako ajyana Yesu, amukubita imikoba.",
+      "start": 29.8,
+      "end": 37.68
+    },
+    "2": {
+      "text": "Abasirikare baboha ikamba ry'amahwa barimwambika mu mutwe, bamwambika n'umwenda w'umuhengeri.",
+      "start": 13.07,
+      "end": 13.96
+    },
+    "3": {
+      "text": "Baramwegera baramubwira bati “Ni amahoro, Mwami w'Abayuda!” Bamukubita inshyi.",
+      "start": 19.48,
+      "end": 19.96
+    },
+    "4": {
+      "text": "Pilato yongera gusohoka arababwira ati “Dore ndamusohoye, ndamubazaniye ngo mumenye yuko ari nta cyaha mubonyeho.”",
+      "start": 3.05,
+      "end": 5.99
+    },
+    "5": {
+      "text": "Nuko Yesu asohoka yambaye ikamba ry'amahwa n'umwenda w'umuhengeri, Pilato arababwira ati “Uwo muntu nguyu!”",
+      "start": 38.34,
+      "end": 38.47
+    },
+    "6": {
+      "text": "Abatambyi bakuru n'abasirikare bamubonye batera hejuru bati “Mubambe! Mubambe!”Pilato arababwira ati “Mube ari mwe mumujyana mumubambe, kuko jyewe ntamubonyeho icyaha.”",
+      "start": 26.93,
+      "end": 37.19
+    },
+    "7": {
+      "text": "Abayuda baramusubiza bati “Dufite itegeko, ku bw'iryo tegeko akwiriye gupfa kuko yigize Umwana w'Imana.”",
+      "start": 40.2,
+      "end": 40.99
+    },
+    "8": {
+      "text": "Pilato yumvise ibyo arushaho gutinya.",
+      "start": 43.4,
+      "end": 43.91
+    },
+    "9": {
+      "text": "Nuko yongera kwinjira mu rukiko maze abaza Yesu ati “Wavuye he?”Ariko Yesu ntiyagira icyo amusubiza.",
+      "start": 36.24,
+      "end": 42.63
+    },
+    "10": {
+      "text": "Pilato aramubaza ati “Uranyihorera? Ntuzi yuko mfite ububasha bwo kukurekura, kandi ko mfite ububasha bwo kukubamba?”",
+      "start": 23.18,
+      "end": 32.06
+    },
+    "11": {
+      "text": "Yesu aramusubiza ati “Ntiwagira ububasha bwo kugira icyo untwara utabuhawe buvuye mu ijuru, ni cyo gituma ukungabije akurusha icyaha.”",
+      "start": 15.65,
+      "end": 18.0
+    },
+    "12": {
+      "text": "Uhereye ubwo Pilato ashaka uburyo bwo kumurekura. Ariko Abayuda batera hejuru bati “Nurekura uyu uraba utari incuti ya Kayisari, kuko umuntu wese wigize umwami aba agomeye Kayisari.”",
+      "start": 12.66,
+      "end": 18.05
+    },
+    "13": {
+      "text": "Nuko Pilato yumvise ibyo asohora Yesu, yicara ku ntebe y'imanza ahantu hitwa Amabuye ashashwe, mu Ruheburayo hitwa Gabata.",
+      "start": 15.52,
+      "end": 43.84
+    },
+    "14": {
+      "text": "(Ubwo hari ku munsi wo kwitegura ibya Pasika, hari nk'isaha esheshatu.) Nuko abwira Abayuda ati “Nguyu umwami wanyu.”",
+      "start": 40.02,
+      "end": 42.95
+    },
+    "15": {
+      "text": "Na bo batera hejuru bati “Mukureho, mukureho umubambe!”Pilato arababaza ati “Mbese mbambe umwami wanyu?”Abatambyi bakuru baramusubiza bati “Nta mwami dufite keretse Kayisari.”",
+      "start": 31.78,
+      "end": 35.57
+    },
+    "16": {
+      "text": "Aherako aramubaha ngo abambwe.",
+      "start": 43.22,
+      "end": 44.84
+    },
+    "17": {
+      "text": "asohoka yiyikorereye umusaraba agera ahantu hitwa i Nyabihanga, mu Ruheburayo hitwa i Gologota.",
+      "start": 1.49,
+      "end": 9.19
+    },
+    "18": {
+      "text": "Bamubambanaho n'abandi babiri hirya no hino, Yesu ari hagati.",
+      "start": 24.86,
+      "end": 37.15
+    },
+    "19": {
+      "text": "Pilato yandika urwandiko arushyira ku musaraba, rwanditswe ngo “YESU W'I NAZARETI, UMWAMI W'ABAYUDA.”",
+      "start": 31.71,
+      "end": 41.2
+    },
+    "20": {
+      "text": "Urwo rwandiko benshi mu Bayuda bararusoma, kuko ahantu babambye Yesu hari bugufi bw'umurwa, kandi rwari rwanditswe mu Ruheburayo, no mu Ruroma, no mu Rugiriki.",
+      "start": 17.45,
+      "end": 32.48
+    },
+    "21": {
+      "text": "Nuko Abatambyi bakuru b'Abayuda babwira Pilato bati “Ntiwandike ngo ‘Umwami w'Abayuda’, ahubwo wandike uti ‘Yiyise umwami w'Abayuda.’ ”",
+      "start": 25.54,
+      "end": 43.74
+    },
+    "22": {
+      "text": "Pilato arabasubiza ati “Icyo nanditse nacyanditse.”",
+      "start": 37.64,
+      "end": 39.23
+    },
+    "23": {
+      "text": "Nuko abasirikare bamaze kubamba Yesu, bajyana imyambaro ye bayigabanyamo kane, umusirikare wese umugabane we, ariko hasigara ikanzu ye. Iyo kanzu ntiyari ifite umubariro, ahubwo yari iboshywe yose uhereye hejuru ukageza hasi.",
+      "start": 2.34,
+      "end": 27.96
+    },
+    "24": {
+      "text": "Nuko baravugana bati “Twe kuyitanyagura, ahubwo tuyifindire turebe uri bube nyirayo uwo ari we.” Bavuze ibyo ngo ibyanditswe bisohore ngo“Bagabanye imyenda yanjye,Kandi bafindira umwambaro wanjye.”Nuko abasirikare babigenza batyo.",
+      "start": 42.4,
+      "end": 43.3
+    },
+    "25": {
+      "text": "Nyina wa Yesu na nyina wabo, na Mariya muka Kilopa na Mariya Magadalena, bari bahagaze ku musaraba wa Yesu.",
+      "start": 22.05,
+      "end": 41.17
+    },
+    "26": {
+      "text": "Nuko Yesu abonye nyina n'umwigishwa yakundaga ahagaze bugufi, abwira nyina ati “Mubyeyi, nguyu umwana wawe.”",
+      "start": 38.36,
+      "end": 42.01
+    },
+    "27": {
+      "text": "Maze abwira uwo mwigishwa ati “Nguyu nyoko.” Uhereye uwo mwanya uwo mwigishwa amujyana iwe.",
+      "start": 34.62,
+      "end": 36.87
+    },
+    "28": {
+      "text": "Hanyuma y'ibyo, Yesu amenye yuko noneho byose birangiye, agira ngo ibyanditswe bisohore rwose ni ko kuvuga ati “Mfite inyota.”",
+      "start": 11.37,
+      "end": 29.36
+    },
+    "29": {
+      "text": "Hari hateretse ikibindi cyuzuye vino isharira. Nuko benda sipongo yuzuye iyo vino isharira, bayishyira ku rubingo barayimusomesha.",
+      "start": 31.3,
+      "end": 38.73
+    },
+    "30": {
+      "text": "Yesu amaze gusoma iyo vino aravuga ati “Birarangiye.”Acurika umutwe, umutima uraca.",
+      "start": 42.09,
+      "end": 44.39
+    },
+    "31": {
+      "text": "Uwo munsi wari uwo kwitegura Pasika, kandi Abayuda ntibashakaga ko imibiri iguma ku musaraba ku isabato, kuko iyo sabato yari umunsi mukuru, ni ko gusaba Pilato kubavuna amaguru ngo babamburwe.",
+      "start": 13.57,
+      "end": 30.29
+    },
+    "32": {
+      "text": "Abasirikare baraza babanza kuri umwe bamuvuna amaguru, n'undi wari ubambanywe na we bamugenza batyo,",
+      "start": 28.99,
+      "end": 31.32
+    },
+    "33": {
+      "text": "ariko bageze kuri Yesu basanga amaze gupfa ntibamuvuna amaguru,",
+      "start": 10.09,
+      "end": 40.99
+    },
+    "34": {
+      "text": "ariko umwe muri bo amucumita icumu mu rubavu, uwo mwanya havamo amaraso n'amazi.",
+      "start": 43.96,
+      "end": 44.15
+    },
+    "35": {
+      "text": "Uwabibonye ni we ubihamije, kandi ibyo ahamya ni iby'ukuri, kandi azi ko avuga ukuri ngo namwe mwizere.",
+      "start": 3.82,
+      "end": 40.92
+    },
+    "36": {
+      "text": "Kuko ibyo byabereyeho kugira ngo ibyanditswe bisohore ngo “Nta gufwa rye rizavunwa.”",
+      "start": 7.85,
+      "end": 15.59
+    },
+    "37": {
+      "text": "Byongeye kandi ibindi byanditswe biravuga ngo “Bazabona uwo bacumise.”",
+      "start": 24.27,
+      "end": 29.52
+    },
+    "38": {
+      "text": "Hanyuma y'ibyo haza Yosefu wo mu Arimataya, na we yari umwigishwa wa Yesu ariko rwihishwa, kuko yatinyaga Abayuda. Uwo ajya kwa Pilato amwaka intumbi ya Yesu ngo ayikureho, Pilato aramwemerera, araza akuraho intumbi ya Yesu.",
+      "start": 23.26,
+      "end": 40.3
+    },
+    "39": {
+      "text": "Na Nikodemo wa wundi wigeze kumusanga nijoro cya gihe, araza azanye ishangi ivanze n'umusaga, kuremera kwayo kwari nk'ibiro mirongo itanu.",
+      "start": 24.91,
+      "end": 44.62
+    },
+    "40": {
+      "text": "Bajyana intumbi ya Yesu bayizingira mu myenda y'ibitare hamwe n'iyo mibavu, nk'uko Abayuda bagenzaga bahamba.",
+      "start": 21.54,
+      "end": 44.93
+    },
+    "41": {
+      "text": "Aho hantu yabambwe hari agashyamba, kandi muri ako gashyamba hari imva nshya itarahambwamo umuntu.",
+      "start": 6.48,
+      "end": 44.72
+    },
+    "42": {
+      "text": "Aho ni ho bahambye Yesu, kuko wari umunsi wo kwitegura kw'Abayuda, kandi iyo mva yari iri hafi.",
+      "start": 9.18,
+      "end": 30.83
+    }
+  }
+}

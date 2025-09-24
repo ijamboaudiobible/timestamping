@@ -1,0 +1,163 @@
+{
+  "book": "Book 1",
+  "book_canonical": "genesis",
+  "book_number": 1,
+  "chapter": 34,
+  "verses": {
+    "1": {
+      "text": "Dina umukobwa wa Leya, uwo yabyaranye na Yakobo, arasohoka ajya kugenderera abakobwa bo muri icyo gihugu.",
+      "start": 18.64,
+      "end": 42.85
+    },
+    "2": {
+      "text": "Shekemu mwene Hamori Umuhivi, umutware mukuru w'icyo gihugu aramubona, aramwenda aryamana na we, aramukinda.",
+      "start": 42.56,
+      "end": 43.23
+    },
+    "3": {
+      "text": "Amarira umutima kuri Dina, umukobwa wa Yakobo, aramukunda, amubwira neza.",
+      "start": 7.67,
+      "end": 11.32
+    },
+    "4": {
+      "text": "Shekemu abwira se Hamori ati “Nsabira uyu mukobwa.”",
+      "start": 3.15,
+      "end": 30.2
+    },
+    "5": {
+      "text": "Yakobo yumva yuko Shekemu yononnye Dina umukobwa we, abahungu be bari mu matungo mu rwuri, Yakobo araceceka, ageza aho baziye.",
+      "start": 23.52,
+      "end": 40.4
+    },
+    "6": {
+      "text": "Hamori se wa Shekemu aragenda ngo ajye kujya inama na Yakobo.",
+      "start": 17.08,
+      "end": 21.52
+    },
+    "7": {
+      "text": "Bene Yakobo babyumvise bava mu rwuri barataha. Barababara kandi bararakara cyane, kuko yakoreye ikizira mu Bisirayeli, ari cyo kuryamana n'umukobwa wa Yakobo bidakwiriye gukorwa.",
+      "start": 40.03,
+      "end": 41.51
+    },
+    "8": {
+      "text": "Hamori ajya inama na bo ati “Umutima w'umuhungu wanjye Shekemu wigombye umukobwa wanyu, ndabinginze, mumushyingire.",
+      "start": 36.67,
+      "end": 40.98
+    },
+    "9": {
+      "text": "Kandi mushyingirane natwe, mudushyingire abakobwa banyu, namwe murongore abakobwa bacu.",
+      "start": 30.42,
+      "end": 42.71
+    },
+    "10": {
+      "text": "Kandi muzaturana natwe, igihugu kizaba imbere yanyu ngo mujye aho mushaka, mugituremo, mugitundemo, mukironkemo ibintu.”",
+      "start": 31.69,
+      "end": 33.11
+    },
+    "11": {
+      "text": "Shekemu abwira se wa Dina na basaza be ati “Mbagirireho umugisha, icyo muzanca cyose nzakibaha.",
+      "start": 28.55,
+      "end": 37.48
+    },
+    "12": {
+      "text": "Inkwano n'impano muzanyaka uko bizangana kose, nzabibaha uko mubinyatse, ariko munshyingire uwo mukobwa.”",
+      "start": 33.54,
+      "end": 41.59
+    },
+    "13": {
+      "text": "Bene Yakobo basubizanya uburiganya Shekemu na Hamori se, kuko yononnye Dina mushiki wabo.",
+      "start": 20.4,
+      "end": 43.71
+    },
+    "14": {
+      "text": "Baramubwira bati “Ntitwabasha gushyingira mushiki wacu umuntu utakebwe, kuko ibyo byadutera isoni.",
+      "start": 30.6,
+      "end": 31.96
+    },
+    "15": {
+      "text": "Icyatuma twemera ibyo ni kimwe gusa, ko muba nka twe, ngo umugabo wese wo muri mwe akebwe.",
+      "start": 4.44,
+      "end": 17.91
+    },
+    "16": {
+      "text": "Ni ho tuzabashyingira abakobwa bacu, tukarongora abakobwa banyu, tugaturana, tukaba ubwoko bumwe.",
+      "start": 22.95,
+      "end": 25.19
+    },
+    "17": {
+      "text": "Ariko nimutatwumvira ngo mukebwe, tuzajyana umukobwa wacu twigendere.”",
+      "start": 38.75,
+      "end": 43.14
+    },
+    "18": {
+      "text": "Amagambo yabo anezeza Hamori na Shekemu mwene Hamori.",
+      "start": 0.76,
+      "end": 35.11
+    },
+    "19": {
+      "text": "Uwo muhungu ntiyatindiganya kubikora kuko yanezererwaga umukobwa wa Yakobo, kandi Shekemu yari afite icyubahiro kiruta icy'ab'inzu ya se bose.",
+      "start": 34.53,
+      "end": 40.05
+    },
+    "20": {
+      "text": "Hamori na Shekemu umuhungu we bajya mu marembo y'umudugudu wabo, bajya inama n'abagabo bo mu mudugudu bati",
+      "start": 25.66,
+      "end": 36.92
+    },
+    "21": {
+      "text": "“Abo bantu ntibashaka kurwana natwe, nuko bature mu gihugu bagitundemo kuko igihugu ari kigari bakagikwirwamo, turongore abakobwa babo, tubashyingire abacu.",
+      "start": 35.28,
+      "end": 35.67
+    },
+    "22": {
+      "text": "Ariko icyatuma batwumvira bakemera guturana natwe tukaba ubwoko bumwe ni iki gusa: ni uko umugabo wese wo muri twe akebwa nk'uko bo bakebwa.",
+      "start": 42.97,
+      "end": 44.74
+    },
+    "23": {
+      "text": "Mbese inka zabo n'ibintu byabo n'amatungo yabo yose ntibizaba ibyacu? Tubemerere gusa, na bo bazaturana natwe.”",
+      "start": 13.74,
+      "end": 28.86
+    },
+    "24": {
+      "text": "Hamori na Shekemu umuhungu we, bumvirwa n'abavaga mu irembo ry'umudugudu wabo bose, umugabo wese arakebwa, uwavaga mu irembo ry'umudugudu wabo wese.",
+      "start": 7.43,
+      "end": 30.13
+    },
+    "25": {
+      "text": "Maze ku munsi wa gatatu, barushijeho kubabara, bene Yakobo babiri, Simiyoni na Lewi, basaza ba Dina, benda inkota zabo, batera umudugudu gitunguro, bica abagabo bo muri wo bose.",
+      "start": 25.98,
+      "end": 36.36
+    },
+    "26": {
+      "text": "Bicisha Hamori na Shekemu umuhungu we inkota, bakura Dina mu nzu ya Shekemu, baragenda.",
+      "start": 39.99,
+      "end": 41.17
+    },
+    "27": {
+      "text": "Bene Yakobo bacuza intumbi, basahura mu mudugudu, babahōra konona mushiki wabo.",
+      "start": 41.11,
+      "end": 41.99
+    },
+    "28": {
+      "text": "Banyaga imikumbi yabo n'amashyo yabo n'indogobe zabo, n'ibintu byari mu mudugudu n'ibyo mu gasozi,",
+      "start": 15.18,
+      "end": 36.43
+    },
+    "29": {
+      "text": "banyaga ubutunzi bwabo bwose, bafata mpiri abana babo bose n'abagore babo, n'ibyari mu mazu yabo byose.",
+      "start": 28.19,
+      "end": 31.01
+    },
+    "30": {
+      "text": "Maze Yakobo abwira Simiyoni na Lewi ati “Mumpagaritse umutima, kuko mutumye nangwa urunuka na bene igihugu, Abanyakanāni n'Abaferizi, kandi umubare wacu ari muke, bazaterana bose bantere, nanjye nzarimbukana n'inzu yanjye.”",
+      "start": 9.25,
+      "end": 15.66
+    },
+    "31": {
+      "text": "Baramubaza bati “Bikwiriye ko agirira mushiki wacu atyo, nk'aho yari maraya?”",
+      "start": 33.78,
+      "end": 42.71
+    }
+  }
+}

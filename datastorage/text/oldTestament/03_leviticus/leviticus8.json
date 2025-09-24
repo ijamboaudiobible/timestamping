@@ -1,0 +1,188 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 27.15,
+      "end": 39.25
+    },
+    "2": {
+      "text": "“Jyana na Aroni n'abana be na ya myambaro, na ya mavuta ya elayo yo gusīga, n'ikimasa cyo gutambirwa ibyaha, n'amasekurume y'intama yombi, n'icyibo kirimo ya mitsima itasembuwe,",
+      "start": 18.06,
+      "end": 33.68
+    },
+    "3": {
+      "text": "uteranirize iteraniro ryose ku muryango w'ihema ry'ibonaniro.”",
+      "start": 8.96,
+      "end": 38.55
+    },
+    "4": {
+      "text": "Mose agenza uko Uwiteka yamutegetse, iteraniro riteranira ku muryango w'ihema ry'ibonaniro.",
+      "start": 41.56,
+      "end": 43.11
+    },
+    "5": {
+      "text": "Mose abwira iteraniro ati “Ibi ni byo Uwiteka yategetse ko bikorwa.”",
+      "start": 33.98,
+      "end": 38.01
+    },
+    "6": {
+      "text": "Mose azana Aroni n'abana be, arabuhagira.",
+      "start": 19.8,
+      "end": 31.72
+    },
+    "7": {
+      "text": "Amwambika ya kanzu ibanza ku mubiri, amukenyeza wa mushumi, amwambika ya kanzu yindi, na efodi, amukenyeza wa mushumi waboshywe n'abahanga uri kuri efodi, arawuyihwamikisha.",
+      "start": 14.47,
+      "end": 21.59
+    },
+    "8": {
+      "text": "Amwambika wa mwambaro wo ku gituza, imbere muri wo ashyiramo Urimu na Tumimu.",
+      "start": 36.01,
+      "end": 38.03
+    },
+    "9": {
+      "text": "Amwambika mu mutwe cya gitambaro kizinze, imbere kuri cyo ashyiraho cya gisate cy'izahabu, ari cyo gisingo cyera uko Uwiteka yategetse Mose.",
+      "start": 3.62,
+      "end": 6.27
+    },
+    "10": {
+      "text": "Mose yenda ya mavuta ya elayo yo gusīga, ayasīga ku buturo bwera no ku biburimo byose, arabyeza.",
+      "start": 5.82,
+      "end": 36.9
+    },
+    "11": {
+      "text": "Ayamisha ku gicaniro karindwi, ayagisīgana n'ibintu byacyo byose n'igikarabiro n'igitereko cyacyo, ngo abyeze.",
+      "start": 20.59,
+      "end": 31.95
+    },
+    "12": {
+      "text": "Asuka ku mutwe wa Aroni ayo mavuta yo gusīga, amusīgira kumweza.",
+      "start": 27.89,
+      "end": 43.38
+    },
+    "13": {
+      "text": "Mose azana bene Aroni abambika amakanzu, abakenyeza imishumi, abambika ingofero uko Uwiteka yategetse Mose.",
+      "start": 18.22,
+      "end": 19.65
+    },
+    "14": {
+      "text": "Azana cya kimasa cyo gutambirwa ibyaha, Aroni n'abana be bakirambika ibiganza mu ruhanga.",
+      "start": 24.22,
+      "end": 28.16
+    },
+    "15": {
+      "text": "Mose arakibīkīra, yenda amaraso yacyo, ayashyirisha urutoki ku mahembe y'igicaniro impande zose, aboneza icyo gicaniro, akibyariraho amaraso hasi, acyereza kugihongerera.",
+      "start": 36.4,
+      "end": 44.97
+    },
+    "16": {
+      "text": "Yenda uruta n'urugimbu rundi rwo ku mara rwose, n'umwijima w'ityazo, n'impyiko zombi, n'urugimbu rwo kuri zo, abyosereza ku gicaniro.",
+      "start": 19.63,
+      "end": 32.02
+    },
+    "17": {
+      "text": "Ariko icyo kimasa n'uruhu rwacyo, n'inyama zacyo n'amayezi yacyo abyosereza inyuma y'ingando z'amahema, uko Uwiteka yategetse Mose.",
+      "start": 29.54,
+      "end": 31.4
+    },
+    "18": {
+      "text": "Amurika ya sekurume y'intama yo koswa Aroni n'abana be bayirambika ibiganza mu ruhanga.",
+      "start": 15.7,
+      "end": 23.46
+    },
+    "19": {
+      "text": "Mose arayibīkīra, amisha amaraso yayo impande zose z'igicaniro.",
+      "start": 36.23,
+      "end": 42.53
+    },
+    "20": {
+      "text": "Arayicoca, yosa igihanga cyayo n'ibindi bice byayo n'urugimbu rwayo.",
+      "start": 23.18,
+      "end": 39.34
+    },
+    "21": {
+      "text": "Yoza amara n'ibinyita, yosereza iyo sekurume itagabanije ku gicaniro iba igitambo cyosherejwe kuba umubabwe uhumura neza, iba igitambo gitambiwe Uwiteka kigakongorwa n'umuriro uko Uwiteka yategetse Mose.",
+      "start": 14.33,
+      "end": 19.94
+    },
+    "22": {
+      "text": "Amurika ya sekurume y'intama yindi yo kwereza abatambyi umurimo, Aroni n'abana be bayirambika ibiganza mu ruhanga.",
+      "start": 11.88,
+      "end": 37.9
+    },
+    "23": {
+      "text": "Mose arayibīkīra, yenda ku maraso yayo, ayakoza hejuru ku gutwi kw'iburyo kwa Aroni, no ku gikumwe cye cy'iburyo, no kw'ino rye ry'iburyo rinini.",
+      "start": 40.19,
+      "end": 40.69
+    },
+    "24": {
+      "text": "Azana bene Aroni, akoza amaraso hejuru ku matwi yabo y'iburyo, no ku bikumwe byabo by'iburyo, no ku mano yabo y'iburyo manini, ayandi maraso ayamisha impande zose z'igicaniro.",
+      "start": 40.14,
+      "end": 42.76
+    },
+    "25": {
+      "text": "Yenda ibinure byayo, umurizo wayo, yenda n'uruta n'urugimbu rwo ku mara, n'umwijima w'ityazo, n'impyiko zombi, n'urugimbu rwo kuri zo, n'urushyi rw'ukuboko kw'iburyo.",
+      "start": 29.31,
+      "end": 29.69
+    },
+    "26": {
+      "text": "Kandi mu cyibo cy'imitsima itasembuwe cyari imbere y'Uwiteka, akuramo agatsima katasembuwe kamwe, n'akandi gasīzwe amavuta ya elayo, n'akandi gasa n'ibango, adushyira kuri urwo rugimbu, no kuri urwo rushyi rw'ukuboko kw'iburyo.",
+      "start": 32.25,
+      "end": 42.38
+    },
+    "27": {
+      "text": "Abishyira byose ku mashyi ya Aroni no ku y'abana be, arabizunguza, biba ituro rijungurijwe imbere y'Uwiteka.",
+      "start": 17.83,
+      "end": 19.63
+    },
+    "28": {
+      "text": "Mose abikura ku mashyi yabo abyosereza ku gicaniro, abishyize kuri cya gitambo cyoshejwe, biba igitambo cyo kubereza umurimo cy'umubabwe uhumura neza, igitambo gitambiwe Uwiteka kigakongorwa n'umuriro.",
+      "start": 9.97,
+      "end": 26.33
+    },
+    "29": {
+      "text": "Mose yenda inkoro, ayizunguriza kuba ituro rijungurijwe imbere y'Uwiteka, aba ari yo iba umwanya wa Mose kuri iyo sekurume yo kubereza umurimo, uko Uwiteka yategetse Mose.",
+      "start": 38.92,
+      "end": 44.9
+    },
+    "30": {
+      "text": "Mose yenda kuri ya mavuta yo gusīga, no ku maraso yo ku gicaniro, abimisha kuri Aroni no ku myambaro ye, no ku bana be na bo n'imyambaro yabo, yezanya Aroni n'imyambaro ye, n'abana be na bo n'imyambaro yabo.",
+      "start": 36.77,
+      "end": 40.27
+    },
+    "31": {
+      "text": "Mose abwira Aroni n'abana be ati “Muteke izi nyama ku muryango w'ihema ry'ibonaniro, abe ari ho muzirishiriza imitsima ibereza umurimo iri mu cyibo, uko nategetse nti ‘Aroni n'abana be babirye.’",
+      "start": 16.5,
+      "end": 24.62
+    },
+    "32": {
+      "text": "Ibisigara by'izo nyama n'iyo mitsima mubyose.",
+      "start": 34.23,
+      "end": 41.98
+    },
+    "33": {
+      "text": "Mumare iminsi irindwi mutava ku muryango w'ihema ry'ibonaniro, mugeze aho iminsi yo kwezwa kwanyu izashirira, kuko muzezwa iminsi irindwi.",
+      "start": 36.01,
+      "end": 41.56
+    },
+    "34": {
+      "text": "Uko bikozwe uyu munsi, ni ko Uwiteka yategetse ko bijya bikorerwa kubahongerera.",
+      "start": 8.59,
+      "end": 38.24
+    },
+    "35": {
+      "text": "Ku muryango w'ihema ry'ibonaniro abe ari ho mumara iminsi irindwi ku manywa na nijoro, mwitondere umurimo Uwiteka yabarindishije mudapfa kuko ari ko nategetswe.”",
+      "start": 44.26,
+      "end": 45.0
+    },
+    "36": {
+      "text": "Aroni n'abana be bakora ibyo Uwiteka yategekeye mu kanwa ka Mose byose.",
+      "start": 41.22,
+      "end": 42.94
+    }
+  }
+}

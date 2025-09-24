@@ -1,0 +1,78 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 140,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 25.83,
+      "end": 29.42
+    },
+    "2": {
+      "text": "Uwiteka, nkiza umunyabyaha,Undinde umunyarugomo.",
+      "start": 0.78,
+      "end": 9.72
+    },
+    "3": {
+      "text": "Bibwira iby'igomwa,Bakajya bateranira umurwano.",
+      "start": 32.89,
+      "end": 43.97
+    },
+    "4": {
+      "text": "Basongoye indimi zabo nk'inzoka,Ubusagwe bw'incira buri munsi y'iminwa yabo.Sela.",
+      "start": 25.82,
+      "end": 36.91
+    },
+    "5": {
+      "text": "Uwiteka, nkiza amaboko y'umunyabyaha,Undinde umunyarugomo,Bagambiriye gusunika ibirenge byanjye ngo bangushe.",
+      "start": 43.97,
+      "end": 44.5
+    },
+    "6": {
+      "text": "Abibone banteze umutego n'igisambi,Banteze ikigoyi iruhande rw'inzira,Banciriye ibico.Sela.",
+      "start": 25.65,
+      "end": 27.5
+    },
+    "7": {
+      "text": "Nabwiye Uwiteka nti “Ni wowe Mana yanjye.”Uwiteka, tegera ugutwi ijwi ryo kwinginga kwanjye.",
+      "start": 27.74,
+      "end": 37.79
+    },
+    "8": {
+      "text": "Uwiteka Mwami, mbaraga z'agakiza kanjye,Ujye utwikīra umutwe wanjye ku munsi w'intambara.",
+      "start": 12.86,
+      "end": 32.74
+    },
+    "9": {
+      "text": "Uwiteka, ntiwemere ibyo umunyabyaha ashaka,Ntufashe umugambi we mubi,Kugira ngo batishyira hejuru.Sela.",
+      "start": 16.89,
+      "end": 18.2
+    },
+    "10": {
+      "text": "Ku mutwe w'abangota,Abe ari ho igomwa ry'iminwa yabo rigwa ribatwikīre.",
+      "start": 30.9,
+      "end": 43.56
+    },
+    "11": {
+      "text": "Amakara yotsa abagweho,Bajugunywe mu muriro,Bajugunywe mu nzobo ndende,Kugira ngo badahaguruka ukundi.",
+      "start": 21.21,
+      "end": 30.36
+    },
+    "12": {
+      "text": "Umunyakirimi kibi ntazakomezwa mu isi,Ibyaha bizahigira umunyarugomo kumurimbura.",
+      "start": 4.61,
+      "end": 29.29
+    },
+    "13": {
+      "text": "Nzi yuko Uwiteka azacira umunyamubabaro urubanza rutunganye,N'abakene azabacira urukwiriye.",
+      "start": 23.18,
+      "end": 26.45
+    },
+    "14": {
+      "text": "Nuko abakiranutsi bazashima izina ryawe,Abatunganye bazatura imbere yawe.",
+      "start": 22.49,
+      "end": 28.27
+    }
+  }
+}

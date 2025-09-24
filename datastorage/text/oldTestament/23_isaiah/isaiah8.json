@@ -1,0 +1,123 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 8,
+  "verses": {
+    "1": {
+      "text": "Bukeye Uwiteka arambwira ati “Wende igisate kinini ucyandikisheho ikaramu y'umuntu uti ‘Maherishalalihashibazi.’",
+      "start": 32.28,
+      "end": 35.28
+    },
+    "2": {
+      "text": "Nanjye nzishakira abagabo biringirwa, Uriya w'umutambyi na Zekariya mwene Yeberekiya.”",
+      "start": 13.78,
+      "end": 15.73
+    },
+    "3": {
+      "text": "Nuko njya ku muhanuzikazi asama inda, abyara umwana w'umuhungu. Uwiteka aherako arambwira ngo “Mwite Maherishalalihashibazi.",
+      "start": 8.84,
+      "end": 44.45
+    },
+    "4": {
+      "text": "Kuko uwo mwana ataramenya kuvuga ati ‘Data’ cyangwa ‘Mama’, ubutunzi bw'i Damasiko n'iminyago y'i Samariya bizajyanwa ho iminyago n'umwami wa Ashuri.”",
+      "start": 32.4,
+      "end": 41.94
+    },
+    "5": {
+      "text": "Uwiteka arongera arambwira ati",
+      "start": 11.68,
+      "end": 20.04
+    },
+    "6": {
+      "text": "“Ubwo aba bantu banze amazi ya Shilowa atemba buhoro, bakishimira Resini na mwene Remaliya,",
+      "start": 24.04,
+      "end": 43.18
+    },
+    "7": {
+      "text": "nuko rero none Uwiteka abateje amazi y'urwo ruzi, amazi menshi afite imbaraga, ari yo mwami wa Ashuri n'icyubahiro cye cyose, azasendera arenge inkombe zose,",
+      "start": 27.27,
+      "end": 36.33
+    },
+    "8": {
+      "text": "kandi azatemba agere i Buyuda. Azahasendēra ahahītānye agere no mu ijosi ry'umuntu, maze natanda amababa ye, azakwira igihugu cyawe, Imanweli.”",
+      "start": 26.95,
+      "end": 28.06
+    },
+    "9": {
+      "text": "Nimwiyunge mwa mahanga mwe! Ariko muzavunagurika, kandi namwe abo mu bihugu bya kure nimutege amatwi mwese, mukenyere! Ariko muzavunagurika. Nuko mukenyere ariko muzavunagurika.",
+      "start": 32.68,
+      "end": 38.51
+    },
+    "10": {
+      "text": "Mujye inama, ariko izo nama zizapfa ubusa; nimuvuga n'ijambo ntirizahama: kuko Imana iri kumwe natwe.",
+      "start": 13.23,
+      "end": 29.07
+    },
+    "11": {
+      "text": "Uwiteka yamfatishije ukuboko kwe gukomeye, aranyigisha ambwira yuko ntakwiriye kugendera mu migambi y'ubu bwoko ati",
+      "start": 17.3,
+      "end": 22.71
+    },
+    "12": {
+      "text": "“Ntimuvuge ngo ‘Baratugambaniye’, nk'uko ubu bwoko buzavuga kuri ibyo byose buti ‘Baratugambaniye.’ Ntimukagire ubwoba nk'ubwabo, kandi ntimugatinye.",
+      "start": 18.62,
+      "end": 24.45
+    },
+    "13": {
+      "text": "Ahubwo Uwiteka Nyiringabo mube ari we mushimisha kwera kwe, kandi uwo abe ari we mujya mwubaha mukamutinya.",
+      "start": 15.81,
+      "end": 38.37
+    },
+    "14": {
+      "text": "Kandi ni we uzababera ubuturo bwera, ariko azabera amazu ya Isirayeli yombi ibuye risitaza n'urutare rugusha, abere n'abaturage b'i Yerusalemu ikigoyi n'umutego.",
+      "start": 37.14,
+      "end": 42.34
+    },
+    "15": {
+      "text": "Benshi bazamusitaraho bagwe bavunike, bazategwa bafatwe.”",
+      "start": 31.99,
+      "end": 34.8
+    },
+    "16": {
+      "text": "Bumba Ibihamya, amategeko uyafatanishe ikimenyetso mu bigishwa banjye.",
+      "start": 30.81,
+      "end": 41.45
+    },
+    "17": {
+      "text": "Nuko Uwiteka wimaga amaso ab'inzu ya Yakobo, nzamutegereza murindire.",
+      "start": 27.57,
+      "end": 30.81
+    },
+    "18": {
+      "text": "Dore jyewe n'abana Uwiteka yampaye, turi abo kubera Abisirayeli ibimenyetso n'ibitangaza bituruka ku Uwiteka Nyiringabo, utuye ku musozi wa Siyoni.",
+      "start": 37.74,
+      "end": 40.11
+    },
+    "19": {
+      "text": "Kandi nibababwira ngo “Nimushake abashitsi mubashikishe, mushake n'abapfumu banwigira bakongorera”, mbese abantu ntibari bakwiriye gushaka Imana yabo, bakaba ari yo babaza? Mbese iby'abazima byabazwa abapfuye?",
+      "start": 37.1,
+      "end": 37.72
+    },
+    "20": {
+      "text": "Nimusange amategeko y'Imana n'ibiyihamya. Nibatavuga ibihwanye n'iryo jambo nta museke uzabatambikira.",
+      "start": 25.51,
+      "end": 29.14
+    },
+    "21": {
+      "text": "Ahubwo bazanyura mu gihugu ari abihebe n'abashonji, maze nibasonza bazarakara bavume umwami wabo n'Imana yabo, bazararama barebe hejuru",
+      "start": 8.22,
+      "end": 23.5
+    },
+    "22": {
+      "text": "barebe no hasi ku isi, icyo bazabona ni amakuba n'umwijima n'umubabaro umeze nk'ubwire, maze bazirukanirwa mu mwijima w'icuraburindi.",
+      "start": 11.78,
+      "end": 36.19
+    },
+    "23": {
+      "text": "Ariko nta bwire buzaba ku uwahoze ari umunyamubabaro. Mu gihe cya kera yateye igisuzuguriro igihugu cya Zebuluni n'igihugu cya Nafutali, ariko mu gihe cya nyuma yagiteye icyubahiro ku nzira ikikiye inyanja hakurya ya Yorodani, Galilaya y'abanyamahanga.",
+      "start": 27.09,
+      "end": 41.64
+    }
+  }
+}

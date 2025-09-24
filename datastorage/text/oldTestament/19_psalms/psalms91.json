@@ -1,0 +1,88 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 91,
+  "verses": {
+    "1": {
+      "text": "Uba mu rwihisho rw'Isumbabyose,Azahama mu gicucu cy'Ishoborabyose.",
+      "start": 28.39,
+      "end": 38.82
+    },
+    "2": {
+      "text": "Ndabwira Uwiteka nti“Uri ubuhungiro bwanjye n'igihome kinkingira,Imana yanjye niringira.”",
+      "start": 15.33,
+      "end": 38.75
+    },
+    "3": {
+      "text": "Kuko ari we uzagukiza ikigoyi cy'umugoyi,Na mugiga irimbura.",
+      "start": 11.83,
+      "end": 41.28
+    },
+    "4": {
+      "text": "Azakubundikiza amoya ye,Kandi uzajya uhungira munsi y'amababa ye,Umurava we ni ingabo n'icyuma kigukingira.",
+      "start": 11.81,
+      "end": 27.86
+    },
+    "5": {
+      "text": "Igiteye ubwoba cya nijoro ntikizagutinyisha,Cyangwa umwambi ugenda ku manywa,",
+      "start": 22.29,
+      "end": 24.43
+    },
+    "6": {
+      "text": "Cyangwa mugiga igendera mu mwijima,Cyangwa kurimbura gutsemba ku manywa y'ihangu.",
+      "start": 26.94,
+      "end": 42.08
+    },
+    "7": {
+      "text": "Abantu igihumbi bazagwa iruhande rwawe,Abantu inzovu bazagwa iburyo bwawe,Ariko ntibizakugeraho.",
+      "start": 28.32,
+      "end": 37.78
+    },
+    "8": {
+      "text": "Uzabirebesha amaso yawe gusa,Ubone ibihembo by'abanyabyaha.",
+      "start": 34.85,
+      "end": 41.57
+    },
+    "9": {
+      "text": "Kuko ari wowe buhungiro bwanjye Uwiteka,Wagize Isumbabyose ubuturo,",
+      "start": 25.81,
+      "end": 44.52
+    },
+    "10": {
+      "text": "Nuko nta kibi kizakuzaho,Kandi nta cyago kizegera ihema ryawe.",
+      "start": 1.21,
+      "end": 2.0
+    },
+    "11": {
+      "text": "Kuko azagutegekera abamarayika be,Ngo bakurindire mu nzira zawe zose.",
+      "start": 0.06,
+      "end": 30.68
+    },
+    "12": {
+      "text": "Bazakuramira mu maboko yabo,Ngo udakubita ikirenge ku ibuye.",
+      "start": 31.38,
+      "end": 42.14
+    },
+    "13": {
+      "text": "Uzakandagira intare n'impoma,Uzaribata umugunzu w'intare n'ikiyoka.",
+      "start": 34.68,
+      "end": 42.48
+    },
+    "14": {
+      "text": "“Kuko yankunze akaramata ni cyo nzamukiriza,Nzamushyira hejuru kuko yamenye izina ryanjye.",
+      "start": 7.84,
+      "end": 9.86
+    },
+    "15": {
+      "text": "Azanyambaza nanjye mwitabe,Nzabana na we mu makuba no mu byago,Nzamukiza muhe icyubahiro.",
+      "start": 26.28,
+      "end": 35.48
+    },
+    "16": {
+      "text": "Nzamuhaza uburame,Kandi nzamwereka agakiza kanjye.”",
+      "start": 31.51,
+      "end": 42.71
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Ijambo ry'Uwiteka ryongera kunzaho riti",
+      "start": 38.61,
+      "end": 41.14
+    },
+    "2": {
+      "text": "“Nawe mwana w'umuntu, ucurire i Tiro umuborogo",
+      "start": 10.72,
+      "end": 33.99
+    },
+    "3": {
+      "text": "maze ubwire i Tiro uti ‘Yewe utuye ku masangano y'inyanja, ukaba n'umugenza ugurira abantu bo mu birwa byinshi, umva uko Umwami Uwiteka avuga ngo: Yewe Tiro we, waravuze uti “Ndi mwiza bihebuje.”",
+      "start": 8.15,
+      "end": 18.33
+    },
+    "4": {
+      "text": "Ingabano zawe ziri mu nyanja hagati, abubatsi bawe basohoje ubwiza bwawe.",
+      "start": 22.49,
+      "end": 23.84
+    },
+    "5": {
+      "text": "Imbaho zawe zose bazibaje mu miberoshi ivuye i Seniri, bishakiye imyerezi y'i Lebanoni bayikubarizamo imiringoti.",
+      "start": 12.58,
+      "end": 28.16
+    },
+    "6": {
+      "text": "Imyaloni y'i Bashani ni yo bakubarijemo ingashya, na zo intebe zawe bazibaje mu mbaho z'imiteyashuri, baziharaza amahembe y'inzovu zivanywe mu birwa by'i Kitimu.",
+      "start": 14.26,
+      "end": 36.02
+    },
+    "7": {
+      "text": "Itanga ryawe riboheshejwe imyenda y'ibitare, yatewemo ibika by'amabara muri Egiputa kugira ngo rikubere ibendera, imikara ya kabayonga n'imihengeri byavuye mu birwa bya Elisha ni byo byakubereye igitwikirizo.",
+      "start": 31.92,
+      "end": 32.55
+    },
+    "8": {
+      "text": "Abaturage b'i Sidoni n'abo muri Aruvadi ni bo bari abasare bawe, abanyabwenge bawe Tiro we, baguhozemo ari bo bari aberekeza bawe.",
+      "start": 30.42,
+      "end": 42.35
+    },
+    "9": {
+      "text": "Abasaza b'i Gebali n'abanyabwenge baho baguhozemo ari abahomyi bawe, inkuge zose zo mu nyanja n'abasare bazo byaguhozemo, bakajya bakubungiriza iby'ubugenza.",
+      "start": 32.23,
+      "end": 34.14
+    },
+    "10": {
+      "text": "“ ‘Ab'i Buperesi n'i Ludi n'i Puti bahoze mu ngabo zawe ari intwari zawe, bakumanikagaho ingabo n'ingofero z'ibyuma bakagaragaza ubwiza bwawe.",
+      "start": 8.37,
+      "end": 35.78
+    },
+    "11": {
+      "text": "Abantu bo muri Aruvadi bahoranye n'ingabo zawe ku nkike zawe impande zose, kandi n'Abagamadi bahoze mu minara yawe, bamanikaga ingabo zabo ku nkike zawe impande zose bagasohoza ubwiza bwawe.",
+      "start": 43.93,
+      "end": 44.93
+    },
+    "12": {
+      "text": "“ ‘Ab'i Tarushishi bari abagenza bawe kuko ubutunzi bwawe bw'amoko yose ari bwinshi, bari bafite ifeza n'icyuma n'ibati n'isasu bakabigurana ibyawe.",
+      "start": 3.45,
+      "end": 24.22
+    },
+    "13": {
+      "text": "Ab'i Yavani n'ab'i Tubali n'ab'i Mesheki bari abagenza bawe, bagatanga abaretwa ku buguzi, n'ibikoreshwa by'imiringa bakabigurana iby'ubugenza byawe.",
+      "start": 19.08,
+      "end": 23.3
+    },
+    "14": {
+      "text": "Ab'inzu ya Togaruma baguranaga iby'ubugenza byawe amafarashi, n'amafarashi y'intambara n'inyumbu.",
+      "start": 38.23,
+      "end": 38.29
+    },
+    "15": {
+      "text": "Abantu b'i Dedani na bo bari abagenza bawe, ubugenza bwo mu birwa byinshi bwari mu maboko yawe, bakakuzanira amahembe y'inzovu n'imipingo ngo mugurane.",
+      "start": 11.75,
+      "end": 23.88
+    },
+    "16": {
+      "text": "Ab'i Siriya bari abagenza bawe kuko ibintu byawe by'ubukorikori ari byinshi, iby'ubugenza byawe babiguranaga na nofekina n'imyenda y'imihengeri n'imirimo y'ibika, n'imyenda y'ibitare myiza na fezaruka n'amabuye ya marijani.",
+      "start": 34.41,
+      "end": 43.66
+    },
+    "17": {
+      "text": "Yuda n'abo mu gihugu cya Isirayeli bari abagenza bawe, iby'ubugenza byawe bajyaga babigurana ingano z'i Miniti, n'udutsima turyoshye n'ubuki n'amavuta ya elayo n'umuti womora.",
+      "start": 43.01,
+      "end": 45.0
+    },
+    "18": {
+      "text": "Ab'i Damasiko bari abagenza bawe kuko ubutunzi bwawe bw'amoko menshi ari bwinshi, kandi bari bafite ubutunzi bwinshi butari bumwe, na vino y'i Heluboni n'ubwoya bw'intama bwera.",
+      "start": 8.37,
+      "end": 11.12
+    },
+    "19": {
+      "text": "Ab'i Vedani n'ab'i Yavani iby'ubugenza byawe babiguranaga ubudodo, n'ibyuma bicuzwe na kesiya na kāne byari mu bintu by'ubugenza byawe.",
+      "start": 7.11,
+      "end": 12.33
+    },
+    "20": {
+      "text": "Ab'i Dedani bari abagenza bawe b'imyenda y'igiciro cyinshi y'abahekwa n'amafarashi.",
+      "start": 24.67,
+      "end": 39.71
+    },
+    "21": {
+      "text": "Abarabu n'ibikomangoma byose by'i Kedari bari abagenza bawe bwite, bakugenzuriraga abana b'intama n'amasekurume y'intama n'ihene.",
+      "start": 12.38,
+      "end": 27.52
+    },
+    "22": {
+      "text": "Abagenza b'i Sheba n'i Rama bari abagenza bawe, iby'ubugenza byawe babiguranaga imibavu iruta iyindi, n'amabuye yose y'igiciro cyinshi n'izahabu.",
+      "start": 17.3,
+      "end": 22.92
+    },
+    "23": {
+      "text": "Ab'i Harani n'ab'i Kane n'aba Edeni, abagenza b'i Sheba na Ashuri n'i Kilumadi, bari abagenza bawe.",
+      "start": 25.17,
+      "end": 32.24
+    },
+    "24": {
+      "text": "Abo bari abagenza bawe b'ibintu by'ingenzi, imyitero y'imikara ya kabayonga n'imirimo y'ibika by'amabara, n'amasanduku arimo imyambaro y'igiciro cyinshi ahambirijwe imigozi yaboshywe yari abajijwe mu myerezi, ibyo byari mu bintu byawe by'ubugenza.",
+      "start": 6.02,
+      "end": 38.26
+    },
+    "25": {
+      "text": "“ ‘Inkuge z'i Tarushishi zajyanaga ibintu byawe by'ubugenza nuko ugira byinshi cyane, ugira n'icyubahiro kinini uri hagati y'inyanja.",
+      "start": 30.15,
+      "end": 37.59
+    },
+    "26": {
+      "text": "Abasare bawe bakujyanye mu mazi menshi, umuyaga w'iburasirazuba wakuvunaguriye mu nyanja hagati.",
+      "start": 3.86,
+      "end": 17.97
+    },
+    "27": {
+      "text": "Ubutunzi bwawe n'ibintu byawe n'ubugenza bwawe, n'abasare bawe n'aberekeza bawe n'abahomyi bawe, n'abagenza b'ibintu byawe n'abantu bawe bose b'intwari bakuriho, hamwe n'ingabo zose zikurimo, mu munsi wo kurimburwa kwawe byose bizarohama mu nyanja hagati.",
+      "start": 3.52,
+      "end": 16.49
+    },
+    "28": {
+      "text": "Imihana yawe izatigiswa n'urusaku rwo gutaka kw'aberekeza bawe.",
+      "start": 16.97,
+      "end": 29.31
+    },
+    "29": {
+      "text": "“ ‘N'abavugama bose n'abasare n'aberekeza bose bo mu nyanja, bazururuka bave mu nkuge zabo bahagarare ku butaka,",
+      "start": 28.31,
+      "end": 43.87
+    },
+    "30": {
+      "text": "kandi ijwi ryabo rizumvikana bakuririra, bazaboroga cyane birenze imikungugu ku mutwe, kandi bazigaragura mu ivu,",
+      "start": 14.94,
+      "end": 17.36
+    },
+    "31": {
+      "text": "bimoze ku bwawe kandi bakenyere ibigunira, bazakuririra bafite umutima ubabaye bakuborogere cyane.",
+      "start": 39.44,
+      "end": 40.41
+    },
+    "32": {
+      "text": "Mu mubabaro wabo bazacura umuborogo, bakuborogere bavuge bati “Ni nde uhwanye n'i Tiro, akamera nkawe wajimirijwe hagati y'inyanja?”",
+      "start": 43.99,
+      "end": 44.98
+    },
+    "33": {
+      "text": "Iyo iby'ubugenza bwawe byavaga mu nyanja wahazaga amahanga menshi, abami bo mu isi wabagiraga abatunzi, wabahaye ku butunzi bwawe n'iby'ubugenza byawe kuko ari byinshi.",
+      "start": 21.16,
+      "end": 36.99
+    },
+    "34": {
+      "text": "Igihe uvunaguwe n'inyanja uri imuhengeri, ibintu byawe by'ubugenza n'ingabo zawe zose byakuguyemo.",
+      "start": 38.97,
+      "end": 40.18
+    },
+    "35": {
+      "text": "Abatuye mu birwa bose baragutangariye n'abami babo bafatwa n'ubwoba bwinshi, mu maso habo harasuherwa.",
+      "start": 11.2,
+      "end": 27.54
+    },
+    "36": {
+      "text": "Abagenza bo mu mahanga barakwimyoje, uhindutse igishishana kandi ntabwo uzongera kubaho ukundi.’ ”",
+      "start": 43.5,
+      "end": 43.55
+    }
+  }
+}

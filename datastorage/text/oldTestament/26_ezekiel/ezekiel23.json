@@ -1,0 +1,253 @@
+{
+  "book": "Book 26",
+  "book_canonical": "ezekiel",
+  "book_number": 26,
+  "chapter": 23,
+  "verses": {
+    "1": {
+      "text": "Ijambo ry'Uwiteka ryongera kunzaho riti",
+      "start": 8.26,
+      "end": 36.04
+    },
+    "2": {
+      "text": "“Mwana w'umuntu, habayeho abagore babiri basangiye nyina",
+      "start": 15.77,
+      "end": 17.69
+    },
+    "3": {
+      "text": "maze basambanira muri Egiputa, basambana bakiri inkumi. Aho ni ho amabere yabo yakabakabwaga, amabere y'ubwari bwabo bakayakorakora.",
+      "start": 15.6,
+      "end": 18.17
+    },
+    "4": {
+      "text": "Amazina yabo umukuru yitwaga Ohola, na murumuna we yitwaga Oholiba, hanyuma baba abanjye babyara abahungu n'abakobwa. Ayo mazina yabo Ohola ni we Samariya, na we Oholiba ni Yerusalemu.",
+      "start": 38.6,
+      "end": 42.4
+    },
+    "5": {
+      "text": "“Nuko Ohola yari amaze kuba uwanjye hanyuma arasambana, kandi yakundaga abakunzi be bikabije ari bo Bashuri b'abaturanyi be.",
+      "start": 4.83,
+      "end": 16.16
+    },
+    "6": {
+      "text": "Bari bambaye imyambaro y'imikara ya kabayonga, abategeka n'abatware, bose ari abasore b'igikundiro bafite amafarashi bagenderaho.",
+      "start": 18.87,
+      "end": 27.96
+    },
+    "7": {
+      "text": "Nuko asambana na bo, ab'imfura zo muri Ashuri bose. Yiyanduzaga ku uwo yakundaga wese n'ibigirwamana byabo byose.",
+      "start": 35.13,
+      "end": 38.74
+    },
+    "8": {
+      "text": "Kandi ntiyaretse ubusambanyi bwe yagiriye muri Egiputa, kuko baryamanye na we akiri inkumi bagakorakora ku mabere y'ubwari bwe, kandi bakamugwizaho ubusambanyi bwabo.",
+      "start": 7.91,
+      "end": 39.44
+    },
+    "9": {
+      "text": "Ni cyo cyatumye mutanga mu maboko y'abakunzi be, mu maboko y'Abashuri, abo yakundaga.",
+      "start": 19.21,
+      "end": 25.55
+    },
+    "10": {
+      "text": "Nuko abo bamwambika ubusa, batwara abahungu be n'abakobwa be naho we bamwicisha inkota. Nuko aba akabarore mu bagore kuko bamuciriyeho iteka.",
+      "start": 12.63,
+      "end": 20.14
+    },
+    "11": {
+      "text": "“Nuko na murumuna we Oholiba ubwo yabonaga ibyo yamurushije kugira irari, ubusambanyi bwe burusha ubwa mukuru we.",
+      "start": 20.07,
+      "end": 20.97
+    },
+    "12": {
+      "text": "Yifuza Abashuri b'abaturanyi be, abategeka n'abatware bari bambaye iby'umurimbo bafite amafarashi bagenderaho, bose ari abasore b'igikundiro.",
+      "start": 3.76,
+      "end": 14.96
+    },
+    "13": {
+      "text": "Nuko mbona ko yandujwe, kandi yuko bombi ari iri n'iri.",
+      "start": 44.17,
+      "end": 44.89
+    },
+    "14": {
+      "text": "“Nuko agwiza ubusambanyi bwe kuko yabonye abagabo bashushanyijwe ku rusika, ibishushanyo by'Abakaludaya bishushanishijwe ibara ritukura,",
+      "start": 20.75,
+      "end": 42.75
+    },
+    "15": {
+      "text": "bakenyeje imishumi mu rukenyerero, n'ibitambaro by'amabara bitendera ku mitwe yabo, bose bagaragara ko ari ibikomangoma, basa n'Abanyababuloni h'i Bukaludaya igihugu cya kavukire yabo.",
+      "start": 24.38,
+      "end": 42.64
+    },
+    "16": {
+      "text": "Nuko ababonye muri ako kanya arabifuza, abatumaho intumwa i Bukaludaya.",
+      "start": 0.42,
+      "end": 17.83
+    },
+    "17": {
+      "text": "Nuko Abanyababuloni baraza bamusanga ku buriri bw'ubusambanyi, bamwanduza ku busambanyi bwabo ndetse arabiyandurisha, maze umutima we urabazinukwa.",
+      "start": 12.21,
+      "end": 27.68
+    },
+    "18": {
+      "text": "Nuko agaragaza ubusambanyi bwe yiyambika ubusa, maze umutima wanjye umwikuburaho nk'uko wikubuye kuri mukuru we.",
+      "start": 8.09,
+      "end": 14.71
+    },
+    "19": {
+      "text": "Ariko yakomeje kugwiza ubusambanyi bwe, yibuka iminsi yo mu bukumi bwe, igihe yasambaniraga mu gihugu cya Egiputa.",
+      "start": 39.85,
+      "end": 40.44
+    },
+    "20": {
+      "text": "Akifuza abasambanyi baho bafite umubiri umeze nk'uw'indogobe, bagashyuha nk'amafarashi.",
+      "start": 42.57,
+      "end": 42.75
+    },
+    "21": {
+      "text": "Uko ni ko wibukije ubusambanyi bwo mu bukumi bwawe, ubwo Abanyegiputa bakabakabaga amabere yawe, bagakorakora ku mabere y'ubwari bwawe.",
+      "start": 6.52,
+      "end": 40.18
+    },
+    "22": {
+      "text": "“Ni cyo gituma yewe Oholiba we, Umwami Uwiteka avuga ati: Dore ngiye kugukaburira abakunzi bawe, abo umutima wawe umaze kwikuburaho, ngiye kubaguteza baguturutse impande zose:",
+      "start": 34.5,
+      "end": 43.98
+    },
+    "23": {
+      "text": "Abanyababuloni n'Abakaludaya bose, Pekodi na Showa na Kowa hamwe n'abo muri Ashuri bose, abasore b'igikundiro, abategeka n'abatware bose, ibikomangoma n'ab'ibirangirire bagendera ku mafarashi bose.",
+      "start": 24.94,
+      "end": 32.24
+    },
+    "24": {
+      "text": "Maze bazagutera bafite intwaro n'amagare y'intambara n'atwara ibintu, bari kumwe n'amahanga ateranye. Bazaba bafite ingabo nto n'inini n'ingofero z'ibyuma, bazakugotera impande zose, kandi nzashyira imanza mu maboko yabo maze bagucire imanza nk'uko amategeko yabo ari.",
+      "start": 23.21,
+      "end": 36.8
+    },
+    "25": {
+      "text": "Kandi nzabibasira mbitewe no gufuha kwanjye bakugirire uburakari bwinshi. Bazaguca amazuru n'amatwi maze imyanya yawe isigaye itsembwe n'inkota, bazajyana abahungu n'abakobwa bawe maze imyanya yawe isigaye izamarwaho n'umuriro.",
+      "start": 1.34,
+      "end": 30.67
+    },
+    "26": {
+      "text": "Bazakwambura n'imyambaro yawe, batware n'iby'uburimbyi byawe.",
+      "start": 21.16,
+      "end": 26.17
+    },
+    "27": {
+      "text": "Uko ni ko nzazana iherezo ry'ibibi byawe bikabije, n'ubusambanyi bwawe wavanye mu gihugu cya Egiputa, kugira ngo utongera kububuriraho amaso cyangwa kuzibuka Egiputa ukundi.",
+      "start": 29.3,
+      "end": 29.56
+    },
+    "28": {
+      "text": "“Kuko uku ari ko Umwami Uwiteka avuga ngo: Dore ngiye kugushyira mu maboko y'abakwanga, mu maboko y'abo umutima wawe wikubuyeho,",
+      "start": 40.82,
+      "end": 42.23
+    },
+    "29": {
+      "text": "kandi bazagukorera iby'urwangano maze bakunyage ibyo waruhiye byose, bagusige iheruheru wambaye ubusa kandi ubusambanyi bwawe buzagaragazwa, byombi, ibibi byawe bikabije n'ubusambanyi bwawe.",
+      "start": 3.55,
+      "end": 38.35
+    },
+    "30": {
+      "text": "Ibyo ni byo uzakorerwa kuko wasambanye n'abapagani, ukanduzwa n'ibigirwamana byabo.",
+      "start": 4.96,
+      "end": 40.86
+    },
+    "31": {
+      "text": "Wakurikizaga mukuru wawe, ni cyo gituma igikombe cye ngiye kugishyira mu kuboko kwawe.",
+      "start": 38.61,
+      "end": 42.78
+    },
+    "32": {
+      "text": "“Uku ni ko Umwami Uwiteka avuga ngo: Uzanywera ku gikombe cya mukuru wawe, ni kigari kandi ni kinini. Bazakugira urw'amenyo kandi ushinyagurirwe kuko gisendereye.",
+      "start": 39.26,
+      "end": 42.33
+    },
+    "33": {
+      "text": "Isindwe n'agahinda bizakuzuramo, kuko ari igikombe gitangarirwa kandi gitera gushoberwa, ari cyo gikombe cya mukuru wawe Samariya.",
+      "start": 19.77,
+      "end": 34.12
+    },
+    "34": {
+      "text": "Uzakinyweraho ukimare uhekenye n'ibimene byacyo, bigushishimure mu mabere kuko ari jye ubivuze.” Ni ko Umwami Uwiteka avuga.",
+      "start": 39.94,
+      "end": 43.42
+    },
+    "35": {
+      "text": "Ni cyo gituma Umwami Uwiteka avuga ati “Kuko wanyibagiwe ukandengaho, hoshi jyana n'ibibi byawe bikabije n'ubusambanyi bwawe!”",
+      "start": 25.87,
+      "end": 40.13
+    },
+    "36": {
+      "text": "Uwiteka yongera kumbwira ati “Mwana w'umuntu, mbese uzacira Ohola na Oholiba urubanza? Noneho bamenyeshe ibizira byabo.",
+      "start": 24.38,
+      "end": 31.14
+    },
+    "37": {
+      "text": "Kuko basambanye kandi amaraso bavusha abahindanya ibiganza, basambanye n'ibigirwamana byabo, n'abahungu babo bambyariye babibacishirije mu muriro ngo bakongoke.",
+      "start": 5.61,
+      "end": 26.8
+    },
+    "38": {
+      "text": "Ibi na byo ni ibindi bankoreye: mu munsi umwe banduje ubuturo bwanjye bwera, n'amasabato yanjye barayazirura.",
+      "start": 10.19,
+      "end": 13.71
+    },
+    "39": {
+      "text": "Kuko igihe biciraga abana babo ibigirwamana byabo, uwo munsi bazanywe mu buturo bwanjye bwera no kubwanduza, kandi dore ni ko bakoreye no mu nzu yanjye.",
+      "start": 7.69,
+      "end": 44.41
+    },
+    "40": {
+      "text": "“Maze kandi mwatumye ku bagabo ba kure, batumweho intumwa baherako baraza, ubabonye uriyuhagira, amaso yawe uyarabaho ibara uriringaniza",
+      "start": 32.58,
+      "end": 34.66
+    },
+    "41": {
+      "text": "wicara ku buriri bw'icyubahiro, n'ameza atunganirijwe imbere yabwo uyaterekaho imibavu yanjye n'amavuta yanjye ya elayo.",
+      "start": 13.54,
+      "end": 29.04
+    },
+    "42": {
+      "text": "Kandi urusaku rwo mu rudubi rwa benshi badendeje rwari ruri aho ari, kandi haje n'abantu ba rubanda bazanye n'abasinzi baturutse mu butayu. Nuko bose babambika ibitare by'izahabu ku maboko, n'amakamba meza cyane ku mutwe.",
+      "start": 31.99,
+      "end": 40.63
+    },
+    "43": {
+      "text": "Maze mvuga iby'usaziye mu busambanyi nti ‘Noneho bagiye kumusambanya na we asambane na bo.’",
+      "start": 35.12,
+      "end": 42.06
+    },
+    "44": {
+      "text": "Nuko baherako bajya iwe nk'abasanga maraya, uko ni ko binjiye kwa Ohola no kwa Oholiba, ba bagore b'intarengwa.",
+      "start": 40.87,
+      "end": 44.21
+    },
+    "45": {
+      "text": "Kandi abakiranutsi ni bo bazabacira urubanza ko ari abamaraya, bakaba n'abagore bavusha amaraso kuko ari abagore basambana, kandi amaraso bavushaga yahindanije ibiganza byabo.”",
+      "start": 27.3,
+      "end": 27.62
+    },
+    "46": {
+      "text": "Nuko Umwami Uwiteka aravuga ati “Nzabateza igitero mbatange, bateraganirwe hirya no hino kandi basahurwe.",
+      "start": 40.8,
+      "end": 44.5
+    },
+    "47": {
+      "text": "Igitero kizabicisha amabuye kibatanyaguze inkota bazasogota abahungu babo n'abakobwa babo, amazu yabo bayatwike.",
+      "start": 19.83,
+      "end": 24.42
+    },
+    "48": {
+      "text": "Uku ni ko nzaca ubusambanyi mu gihugu, kugira ngo abagore bose bigishwe kudakurikiza ubusambanyi bwanyu.",
+      "start": 19.37,
+      "end": 26.66
+    },
+    "49": {
+      "text": "Kandi bazabitura ubusambanyi bwanyu, mutware ibyaha by'ibigirwamana byanyu, nuko muzamenya yuko ndi Umwami Uwiteka.”",
+      "start": 15.06,
+      "end": 15.06
+    }
+  }
+}

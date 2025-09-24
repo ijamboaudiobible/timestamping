@@ -1,0 +1,73 @@
+{
+  "book": "Book 46",
+  "book_canonical": "1_corinthians",
+  "book_number": 46,
+  "chapter": 13,
+  "verses": {
+    "1": {
+      "text": "Nubwo navuga indimi z'abantu n'iz'abamarayika, ariko singire urukundo, mba mpindutse nk'umuringa uvuga cyangwa icyuma kirenga.",
+      "start": 34.46,
+      "end": 35.22
+    },
+    "2": {
+      "text": "Kandi nubwo nagira impano yo guhanura, nkamenya ibihishwe byose n'ubwenge bwose, kandi nubwo nagira kwizera kose nkabasha gukuraho imisozi, ariko singire urukundo nta cyo mba ndi cyo.",
+      "start": 35.14,
+      "end": 35.84
+    },
+    "3": {
+      "text": "Kandi nubwo natanga ibyanjye byose ngo ngaburire abakene, ndetse nkitanga ubwanjye ngo ntwikwe ariko singire urukundo, nta cyo byamarira.",
+      "start": 13.59,
+      "end": 31.18
+    },
+    "4": {
+      "text": "Urukundo rurihangana rukagira neza, urukundo ntirugira ishyari, urukundo ntirwirarira, ntirwihimbaza,",
+      "start": 11.32,
+      "end": 17.69
+    },
+    "5": {
+      "text": "ntirukora ibiteye isoni, ntirushaka ibyarwo, ntiruhutiraho, ntirutekereza ikibi ku bantu,",
+      "start": 27.37,
+      "end": 34.34
+    },
+    "6": {
+      "text": "ntirwishimira gukiranirwa kw'abandi ahubwo rwishimira ukuri,",
+      "start": 6.76,
+      "end": 15.41
+    },
+    "7": {
+      "text": "rubabarira byose, rwizera byose, rwiringira byose, rwihanganira byose.",
+      "start": 29.86,
+      "end": 40.69
+    },
+    "8": {
+      "text": "Urukundo ntabwo ruzashira. Guhanura kuzarangizwa no kuvuga izindi ndimi kuzagira iherezo, ubwenge na bwo buzakurwaho",
+      "start": 43.01,
+      "end": 44.66
+    },
+    "9": {
+      "text": "kuko tumenyaho igice kandi duhanuraho igice,",
+      "start": 2.93,
+      "end": 26.57
+    },
+    "10": {
+      "text": "ariko ubwo igishyitse rwose kizasohora, bya bindi bidashyitse bizakurwaho.",
+      "start": 41.56,
+      "end": 42.54
+    },
+    "11": {
+      "text": "Nkiri umwana muto navugaga nk'umwana muto, ngatekereza nk'umwana muto nkibwira nk'umwana muto. Ariko maze gukura mva mu by'ubwana.",
+      "start": 30.43,
+      "end": 43.34
+    },
+    "12": {
+      "text": "Icyakora none turebera mu ndorerwamo ibirorirori, ariko icyo gihe tuzarebana duhanganye mu maso. None menyaho igice, ariko icyo gihe nzamenya rwose nk'uko namenywe rwose.",
+      "start": 13.64,
+      "end": 21.67
+    },
+    "13": {
+      "text": "Ariko none hagumyeho kwizera n'ibyiringiro n'urukundo, ibyo uko ari bitatu, ariko ikiruta ibindi ni urukundo.",
+      "start": 16.69,
+      "end": 26.39
+    }
+  }
+}

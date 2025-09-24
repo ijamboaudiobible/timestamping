@@ -1,0 +1,68 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 46,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya bene Kōra babwirisha inanga ijwi rito. Ni indirimbo.",
+      "start": 2.78,
+      "end": 30.82
+    },
+    "2": {
+      "text": "Imana ni yo buhungiro bwacu n'imbaraga zacu,Ni umufasha utabura kuboneka mu byago no mu makuba.",
+      "start": 12.48,
+      "end": 14.48
+    },
+    "3": {
+      "text": "Ni cyo gituma tutazatinya naho isi yahinduka,Naho imisozi yakurwa ahayo ikajya imuhengeri,",
+      "start": 25.91,
+      "end": 42.05
+    },
+    "4": {
+      "text": "Naho amazi yaho yahorera akībirindura,Naho imisozi yatigiswa no kwihinduriza kwayo.Sela.",
+      "start": 11.27,
+      "end": 29.27
+    },
+    "5": {
+      "text": "Hariho uruzi,Imigende yarwo ishimisha ururembo rw'Imana,Ni rwo Hera hari amahema y'Isumbabyose.",
+      "start": 33.29,
+      "end": 34.62
+    },
+    "6": {
+      "text": "Imana iri hagati muri rwo ntiruzanyeganyezwa,Imana izarutabara mu museke.",
+      "start": 2.35,
+      "end": 35.22
+    },
+    "7": {
+      "text": "Abanyamahanga barashakuje,Ibihugu by'abami byagize imidugararo,Ivuga ijwi ryayo isi irayaga.",
+      "start": 23.33,
+      "end": 24.88
+    },
+    "8": {
+      "text": "Uwiteka Nyiringabo ari kumwe natwe,Imana ya Yakobo ni igihome kirekire kidukingira.Sela.",
+      "start": 18.21,
+      "end": 39.19
+    },
+    "9": {
+      "text": "Nimuze murebe imirimo y'Uwiteka,Kurimbura yazanye mu isi.",
+      "start": 43.76,
+      "end": 43.88
+    },
+    "10": {
+      "text": "Akuraho intambara kugeza ku mpera y'isi,Avunagura imiheto, amacumu ayacamo kabiri,Amagare ayatwikisha umuriro.",
+      "start": 26.54,
+      "end": 39.42
+    },
+    "11": {
+      "text": "“Nimworoshye mumenye ko ari jye Mana,Nzashyirwa hejuru mu mahanga,Nzashyirwa hejuru mu isi.”",
+      "start": 2.58,
+      "end": 21.45
+    },
+    "12": {
+      "text": "Uwiteka Nyiringabo ari kumwe natwe,Imana ya Yakobo ni igihome kirekire kidukingira.Sela.",
+      "start": 23.42,
+      "end": 29.0
+    }
+  }
+}

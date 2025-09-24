@@ -1,0 +1,133 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 21,
+  "verses": {
+    "1": {
+      "text": "Hanyuma y'ibyo Yesu yongera kwiyereka abigishwa be ku Nyanja ya Tiberiya, yiyerekana atya:",
+      "start": 21.15,
+      "end": 35.62
+    },
+    "2": {
+      "text": "Simoni Petero na Toma witwa Didumo, na Natanayeli w'i Kana y'i Galilaya, na bene Zebedayo n'abandi bigishwa babiri bari bari kumwe.",
+      "start": 36.55,
+      "end": 40.66
+    },
+    "3": {
+      "text": "Nuko Simoni Petero arababwira ati “Ngiye kuroba.”Baramubwira bati “Natwe turajyana nawe.” Barahaguruka bīkira mu bwato, ariko bakesha iryo joro ari nta cyo bafashe.",
+      "start": 6.28,
+      "end": 25.11
+    },
+    "4": {
+      "text": "Umuseke umaze gutambika Yesu ahagarara mu kibaya cy'inyanja, ariko abigishwa ntibamenya ko ari we.",
+      "start": 9.33,
+      "end": 38.38
+    },
+    "5": {
+      "text": "Yesu arababaza ati “Yemwe bana banjye, mufite icyo kurya?”Baramusubiza bati “Nta cyo.”",
+      "start": 4.94,
+      "end": 43.1
+    },
+    "6": {
+      "text": "Arababwira ati “Nimujugunye urushundura iburyo bw'ubwato, murafata.” Nuko bararujugunya ntibaba bakibasha kurukurura, kuko ifi zari nyinshi.",
+      "start": 39.88,
+      "end": 44.65
+    },
+    "7": {
+      "text": "Wa mwigishwa Yesu yakundaga abwira Petero ati “Ni Umwami Yesu.” Nuko Simoni Petero yumvise ko ari Umwami, akenyera umwenda kuko yari yambaye ubusa, yiroha mu nyanja.",
+      "start": 20.06,
+      "end": 26.07
+    },
+    "8": {
+      "text": "Ariko abandi bigishwa baza mu bwato, bakurura urushundura rurimo ifi kuko batari kure y'inkombe, ahubwo hari nka mikono magana abiri.",
+      "start": 33.97,
+      "end": 44.93
+    },
+    "9": {
+      "text": "Bomotse imusozi babona umuriro w'amakara, n'ifi zokejeho n'umutsima.",
+      "start": 11.23,
+      "end": 16.49
+    },
+    "10": {
+      "text": "Yesu arababwira ati “Nimuzane ku ifi mumaze gufata.”",
+      "start": 44.64,
+      "end": 44.93
+    },
+    "11": {
+      "text": "Simoni Petero yikira mu bwato, akururira urushundura imusozi rwuzuye ifi nini ijana na mirongo itanu n'eshatu, ariko nubwo zari nyinshi zityo urushundura ntirwacitse.",
+      "start": 1.84,
+      "end": 16.4
+    },
+    "12": {
+      "text": "Yesu arababwira ati “Nimuze murye.” Ntihagira n'umwe wo muri abo bigishwa be utinyuka kumubaza ati “Uri nde?” Kuko bari bazi ko ari Umwami.",
+      "start": 6.81,
+      "end": 27.1
+    },
+    "13": {
+      "text": "Yesu araza yenda umutsima arawubaha, n'ifi na zo azigenza atyo.",
+      "start": 5.69,
+      "end": 24.09
+    },
+    "14": {
+      "text": "Ubwo ni ubwa gatatu Yesu abonekera abigishwa be, amaze kuzuka.",
+      "start": 0.37,
+      "end": 2.99
+    },
+    "15": {
+      "text": "Nuko bamaze kurya Yesu abaza Simoni Petero ati “Simoni mwene Yona, urusha aba kunkunda?”Aramusubiza ati “Yee, Mwami, uzi ko ngukunda.”Aramubwira ati “Ragira abana b'intama banjye.”",
+      "start": 4.32,
+      "end": 27.78
+    },
+    "16": {
+      "text": "Yongera kumubaza ubwa kabiri ati “Simoni mwene Yona, urankunda?”Aramusubiza ati “Yee, Mwami, uzi ko ngukunda.”Aramubwira ati “Ragira intama zanjye.”",
+      "start": 4.74,
+      "end": 14.32
+    },
+    "17": {
+      "text": "Amubaza ubwa gatatu ati “Simoni mwene Yona, urankunda?”Petero ababazwa n'uko amubajije ubwa gatatu ati “Urankunda?” Nuko aramusubiza ati “Mwami, umenya byose, uzi kandi ko ngukunda.”Yesu aramubwira ati “Ragira intama zanjye.",
+      "start": 18.36,
+      "end": 43.17
+    },
+    "18": {
+      "text": "Ni ukuri, ni ukuri, ndakubwira yuko ukiri umusore wikenyezaga ukajya aho ushaka hose, ariko nusaza uzarambura amaboko undi agukenyeze, akujyane aho udashaka.”",
+      "start": 36.34,
+      "end": 42.8
+    },
+    "19": {
+      "text": "Icyatumye avuga atyo ni ukwerekana urupfu azubahisha Imana. Amaze kuvuga atyo aramubwira ati “Nkurikira.”",
+      "start": 41.13,
+      "end": 42.13
+    },
+    "20": {
+      "text": "Petero arakebuka, abona umwigishwa Yesu yakundaga na we abakurikiye, ari we wari wariseguye igituza cya Yesu basangira nijoro akamubaza ati “Databuja, ni nde ugiye kukugambanira?”",
+      "start": 4.13,
+      "end": 16.18
+    },
+    "21": {
+      "text": "Petero abonye uwo abaza Yesu ati “Mwami, uyu se azamera ate?”",
+      "start": 4.67,
+      "end": 17.75
+    },
+    "22": {
+      "text": "Yesu aramusubiza ati “Niba nshaka ko agumaho kugeza aho nzazira, upfa iki? Nkurikira.”",
+      "start": 16.02,
+      "end": 41.83
+    },
+    "23": {
+      "text": "Ni cyo cyatumye iryo jambo ryamamara muri bene Data ngo uwo mwigishwa ntazapfa. Ariko Yesu ntiyabwiye Petero yuko uwo atazapfa, ahubwo yaramubwiye ngo “Niba nshaka ko agumaho kugeza aho nzazira, upfa iki?”",
+      "start": 30.14,
+      "end": 41.94
+    },
+    "24": {
+      "text": "Uyu ni we wa mwigishwa uhamya ibyo, ni na we wabyanditse kandi tuzi yuko ibyo ahamya ari iby'ukuri.",
+      "start": 11.77,
+      "end": 41.62
+    },
+    "25": {
+      "text": "Ariko hariho n'ibindi byinshi Yesu yakoze, byakwandikwa byose ngira ngo ibitabo byakwandikwa ntibyakwirwa mu isi.",
+      "start": 10.64,
+      "end": 29.9
+    }
+  }
+}

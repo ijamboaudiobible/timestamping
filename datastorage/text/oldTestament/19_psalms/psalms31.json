@@ -1,0 +1,133 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 31,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi. Ni iya Dawidi.",
+      "start": 10.35,
+      "end": 42.62
+    },
+    "2": {
+      "text": "Uwiteka ni wowe mpungiraho,Singakorwe n'isoni,Unkize ku bwo gukiranuka kwawe.",
+      "start": 10.21,
+      "end": 13.07
+    },
+    "3": {
+      "text": "Untegere ugutwi utebuke unkize,Umbere igitare gikomeye,Inzu y'igihome yo kunkiza.",
+      "start": 28.55,
+      "end": 32.0
+    },
+    "4": {
+      "text": "Kuko ari wowe gitare cyanjye n'igihome kinkingira,Nuko ku bw'izina ryawe unjye imbere unyobore.",
+      "start": 3.22,
+      "end": 35.61
+    },
+    "5": {
+      "text": "Unkure mu kigoyi banteze rwihishwa,Kuko ari wowe gihome kinkingira.",
+      "start": 6.13,
+      "end": 17.15
+    },
+    "6": {
+      "text": "Mu maboko yawe ni ho mbikije ubugingo bwanjye,Uwiteka Mana y'umurava, warancunguye.",
+      "start": 2.54,
+      "end": 43.54
+    },
+    "7": {
+      "text": "Nanga abita ku bitagira umumaro by'ibinyoma,Ku bwanjye niringira Uwiteka.",
+      "start": 37.13,
+      "end": 44.56
+    },
+    "8": {
+      "text": "Nzajya nezerwa nishimira imbabazi zawe,Kuko warebye amakuba yanjye n'ibyago byanjye,Wamenye imibabaro y'umutima wanjye,",
+      "start": 42.08,
+      "end": 42.71
+    },
+    "9": {
+      "text": "Kandi utankingiraniye gufatwa n'amaboko y'umwanzi,Washyize ibirenge byanjye ahantu hagari.",
+      "start": 37.72,
+      "end": 39.53
+    },
+    "10": {
+      "text": "Uwiteka umbabarire kuko mbabaye,Mu maso hanjye hananurwa n'umubabaro,Kandi n'ubugingo bwanjye n'umubiri binanuwe na wo.",
+      "start": 39.09,
+      "end": 44.23
+    },
+    "11": {
+      "text": "Kuko iminsi yo kubaho kwanjye nyihoranamo agahinda,N'imyaka yanjye nkayimara nsuhuza umutima.Intege zanjye zimarwa no gukiranirwa kwanjye,Amagufwa yanjye arananutse.",
+      "start": 41.93,
+      "end": 43.63
+    },
+    "12": {
+      "text": "Ku bw'abanzi banjye bose mpindutse igitutsi,Ni koko mpindukiye abaturanyi banjye igitutsi gikomeye,N'abamenyi banjye mbahindukiye igiteye ubwoba,Abandebye mu nzira barampunga.",
+      "start": 32.37,
+      "end": 42.91
+    },
+    "13": {
+      "text": "Nibagiranye nk'uwapfuye utacyibukwa,Mpwanye n'urwabya rumenetse.",
+      "start": 28.69,
+      "end": 43.22
+    },
+    "14": {
+      "text": "Kuko numvise benshi bambeshya,Ubwoba bukantera impande zose,Ubwo bangīraga inama,Bagashaka uburyo banyica.",
+      "start": 40.61,
+      "end": 42.72
+    },
+    "15": {
+      "text": "Ariko ku bwanjye ni wowe niringiye Uwiteka,Naravuze nti “Uri Imana yanjye.”",
+      "start": 1.57,
+      "end": 30.02
+    },
+    "16": {
+      "text": "Ibihe byanjye biri mu maboko yawe,Unkize amaboko y'abanzi banjye n'abangenza,",
+      "start": 32.49,
+      "end": 36.13
+    },
+    "17": {
+      "text": "Umurikishirize umugaragu wawe mu maso hawe,Unkize ku bw'imbabazi zawe.",
+      "start": 13.78,
+      "end": 18.68
+    },
+    "18": {
+      "text": "Uwiteka, ne gukorwa n'isoni kuko ngutakiye,Abanyabyaha abe ari bo bakorwa n'isoni,Bacecekere ikuzimu.",
+      "start": 31.8,
+      "end": 36.01
+    },
+    "19": {
+      "text": "Indimi z'ibinyoma zigobwe,Zivugana umukiranutsi agasuzuguro,N'ubwibone no kugayana.",
+      "start": 34.04,
+      "end": 43.05
+    },
+    "20": {
+      "text": "Erega kugira neza kwawe ni kwinshi,Uko wabikiye abakubaha,Uko wakorereye abaguhungiraho mu maso y'abantu.",
+      "start": 15.86,
+      "end": 26.68
+    },
+    "21": {
+      "text": "Mu bwihisho bwo mu maso yawe,Ni ho uzabahisha inama mbi z'abantu,Uzabahisha mu ihema gutongana kw'indimi.",
+      "start": 39.35,
+      "end": 44.04
+    },
+    "22": {
+      "text": "Uwiteka ahimbazwe,Kuko yanyerekeye imbabazi ze zitangaza,Mu mudugudu ufite igihome gikomeye.",
+      "start": 30.65,
+      "end": 42.83
+    },
+    "23": {
+      "text": "Ku bwanjye navuganye ubwira nti“Nciriwe mu maso yawe,Ariko ngutakiye wumva ijwi ryo kwinginga kwanjye.”",
+      "start": 36.77,
+      "end": 42.28
+    },
+    "24": {
+      "text": "Mukunde Uwiteka mwa bakunzi be mwese mwe,Uwiteka arinda abanyamurava,Yitura byinshi ūkora iby'ubwibone.",
+      "start": 3.02,
+      "end": 23.62
+    },
+    "25": {
+      "text": "Mwa bategereza Uwiteka mwese mwe,Nimukomere, imitima yanyu ihumure.",
+      "start": 8.77,
+      "end": 39.71
+    }
+  }
+}

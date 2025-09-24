@@ -1,0 +1,118 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Yowasi yimye amaze imyaka irindwi avutse.",
+      "start": 7.03,
+      "end": 18.51
+    },
+    "2": {
+      "text": "Mu mwaka wa karindwi wo ku ngoma ya Yehu, Yowasi yarimye, amara imyaka mirongo ine i Yerusalemu ari ku ngoma. Nyina yitwaga Sibiya w'i Bērisheba.",
+      "start": 40.14,
+      "end": 43.23
+    },
+    "3": {
+      "text": "Yowasi akora ibishimwa imbere y'Uwiteka iminsi Yehoyada umutambyi yamwigishirijemo yose.",
+      "start": 41.95,
+      "end": 44.28
+    },
+    "4": {
+      "text": "Ariko ingoro ntizakurwaho. Abantu bari bagitamba ibitambo, bakosereza imibavu muri izo ngoro.",
+      "start": 26.05,
+      "end": 27.73
+    },
+    "5": {
+      "text": "Bukeye Yowasi abwira abatambyi ati “Impiya zose z'ibintu byejejwe zizanywe mu nzu y'Uwiteka zigakoreshwa, n'iz'umuntu wese aciwe, n'impiya zose umuntu wese agambiriye mu mutima we kuzana mu nzu y'Uwiteka,",
+      "start": 33.27,
+      "end": 41.39
+    },
+    "6": {
+      "text": "izo zose abatambyi bazende, umutambyi wese azatse uwo baziranye, bahereko basane ahasenyutse, aho bazasanga ku nzu hose.”",
+      "start": 28.06,
+      "end": 37.28
+    },
+    "7": {
+      "text": "Ariko kugeza mu mwaka wa makumyabiri n'itatu Umwami Yowasi avutse, abatambyi bari batarasana aho iyo nzu yasenyutse.",
+      "start": 8.09,
+      "end": 27.04
+    },
+    "8": {
+      "text": "Umwami Yowasi ni ko guhamagara Yehoyada umutambyi n'abandi batambyi, arababaza ati “Ni iki cyababujije gusana ahasenyutse ku nzu? Nuko none ntimwongere kwakira impiya z'abo muziranye, ahubwo muzitange kugira ngo basane aho inzu yasenyutse.”",
+      "start": 34.19,
+      "end": 40.64
+    },
+    "9": {
+      "text": "Nuko abatambyi bemera ko batazongera kwakira impiya z'abantu, cyangwa kuba ari bo basana ahasenyutse.",
+      "start": 38.91,
+      "end": 42.12
+    },
+    "10": {
+      "text": "Maze umutambyi Yehoyada yenda isanduku atobora umwenge mu gipfundikizo cyayo, ayitereka bugufi bw'icyotero, mu ruhande rw'iburyo aho umuntu yinjirira mu nzu y'Uwiteka. Nuko abatambyi barinda urugi bakajya bashyiramo impiya zose zazanwaga mu nzu y'Uwiteka.",
+      "start": 32.51,
+      "end": 39.27
+    },
+    "11": {
+      "text": "Bukeye babonye ko impiya zigwiriye muri iyo sanduku, umwanditsi w'umwami n'umutambyi mukuru barazamuka, bashyira mu masaho impiya zibonetse mu nzu y'Uwiteka, barayabara.",
+      "start": 26.93,
+      "end": 32.17
+    },
+    "12": {
+      "text": "Bamaze gupima impiya baziha abategetswe gukoresha imirimo y'inzu y'Uwiteka, na bo baziha ababaji n'abubatsi bubakaga inzu y'Uwiteka,",
+      "start": 11.28,
+      "end": 41.82
+    },
+    "13": {
+      "text": "n'abubakishaga amabuye n'abayabazaga. Kandi izindi bazigura imbaho n'amabuye abaje byo gusana ahasenyutse ku nzu y'Uwiteka, izindi bazitanga ku bindi byari bikwiriye gusana iyo nzu.",
+      "start": 2.67,
+      "end": 6.98
+    },
+    "14": {
+      "text": "Ariko impiya zazanwaga mu nzu y'Uwiteka ntizakoreshejwe ibikombe by'ifeza cyangwa ibifashi, cyangwa ibyungu cyangwa amakondera, cyangwa ibintu by'izahabu cyangwa iby'ifeza by'inzu y'Uwiteka.",
+      "start": 16.67,
+      "end": 33.06
+    },
+    "15": {
+      "text": "Bazihaye abakoraga umurimo, kugira ngo bazikoreshe gusana inzu y'Uwiteka.",
+      "start": 42.21,
+      "end": 43.25
+    },
+    "16": {
+      "text": "Kandi abo bagabo babikijwe izo feza zihembwa abakozi b'imirimo, ntibagombaga kuzibamurikisha kuko bakoraga ari abiringirwa.",
+      "start": 14.97,
+      "end": 40.01
+    },
+    "17": {
+      "text": "Ariko ifeza zatangwaga ho impongano yo gukuraho urubanza n'izo gukuraho ibyaha, ntizashyirwaga mu nzu y'Uwiteka, ahubwo zabaga iz'abatambyi.",
+      "start": 15.22,
+      "end": 36.35
+    },
+    "18": {
+      "text": "Bukeye Hazayeli umwami w'i Siriya, arazamuka atera i Gati arahatsinda. Maze Hazayeli yerekeza amaso i Yerusalemu ngo ahatere.",
+      "start": 11.07,
+      "end": 31.11
+    },
+    "19": {
+      "text": "Yowasi umwami w'Abayuda ni ko kwenda ibintu byose byejejwe, ibyo ba sekuruza Yehoshafati na Yoramu na Ahaziya, abami b'Abayuda bari baratuye n'ibyo yatuye ubwe, n'izahabu zibonetse mu by'ubutunzi byo mu nzu y'Uwiteka n'ibyo mu nzu y'umwami, abyoherereza Hazayeli umwami w'i Siriya. Nuko Hazayeli arorera gutera i Yerusalemu.",
+      "start": 5.4,
+      "end": 22.68
+    },
+    "20": {
+      "text": "Ariko indi mirimo ya Yowasi n'ibyo yakoze byose, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abayuda?",
+      "start": 16.34,
+      "end": 33.71
+    },
+    "21": {
+      "text": "Bukeye abagaragu ba Yowasi baramugambanira, barahaguruka bamwicira mu nzu ya Milo mu nzira imanuka ijya i Sila.",
+      "start": 24.45,
+      "end": 28.96
+    },
+    "22": {
+      "text": "Yozakari mwene Shimeyati, na Yehozabadi mwene Shomeri abagaragu be, ni bo bamwishe. Ahambwa hamwe na ba sekuruza mu mudugudu wa Dawidi, maze umuhungu we Amasiya yima ingoma ye.",
+      "start": 2.68,
+      "end": 43.58
+    }
+  }
+}

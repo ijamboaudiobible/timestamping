@@ -1,0 +1,33 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 127,
+  "verses": {
+    "1": {
+      "text": "Indirimbo ya Salomo y'Amazamuka.Uwiteka iyo atari we wubaka inzu,Abayubaka baba baruhira ubusa.Uwiteka iyo atari we urinda umudugudu,Umurinzi abera maso ubusa.",
+      "start": 20.54,
+      "end": 29.48
+    },
+    "2": {
+      "text": "Bibaruhiriza ubusa kuzinduka kare,Mugatinda cyane kuruhuka,Mukarya umutsima w'umuruho.Ni ko aha uwo akunda ibitotsi.",
+      "start": 4.01,
+      "end": 20.33
+    },
+    "3": {
+      "text": "Dore abana ni umwandu uturuka ku Uwiteka,Imbuto z'inda ni zo ngororano atanga.",
+      "start": 23.53,
+      "end": 37.93
+    },
+    "4": {
+      "text": "Nk'uko imyambi yo mu ntoki z'intwari iri,Ni ko abana bo mu busore bamera.",
+      "start": 15.46,
+      "end": 44.99
+    },
+    "5": {
+      "text": "Hahirwa ufite ikirimba kibuzuye,Abameze batyo ntibazakorwa n'isoni,Uko bazavuganira n'abanzi babo mu marembo.",
+      "start": 29.49,
+      "end": 34.63
+    }
+  }
+}

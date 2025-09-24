@@ -1,0 +1,73 @@
+{
+  "book": "Book 10",
+  "book_canonical": "2_samuel",
+  "book_number": 10,
+  "chapter": 9,
+  "verses": {
+    "1": {
+      "text": "Bukeye Dawidi arabaza ati “Mbese hari uwasigaye wo mu muryango wa Sawuli, ngo mugirire neza ku bwa Yonatani?”",
+      "start": 34.64,
+      "end": 40.3
+    },
+    "2": {
+      "text": "Kandi mu nzu ya Sawuli hariho umugaragu we witwaga Siba, baramuhamagara ngo yitabe Dawidi. Umwami aramubaza ati “Mbese ni wowe Siba?”Na we ati “Ni jye umugaragu wawe.”",
+      "start": 9.67,
+      "end": 22.87
+    },
+    "3": {
+      "text": "Umwami aramubaza ati “Harya nta wukiriho wo mu nzu ya Sawuli ngo mugirire imbabazi z'Imana?”Siba asubiza umwami ati “Haracyariho umwana wa Yonatani umugaye ibirenge.”",
+      "start": 20.3,
+      "end": 38.53
+    },
+    "4": {
+      "text": "Umwami aramubaza ati “Aba he?”Siba asubiza umwami ati “Aba mu rugo rwa Makiri mwene Amiyeli i Lodebari.”",
+      "start": 31.75,
+      "end": 32.51
+    },
+    "5": {
+      "text": "Umwami aramutumira, amukura mu rugo rwa Makiri mwene Amiyeli i Lodebari.",
+      "start": 33.88,
+      "end": 43.23
+    },
+    "6": {
+      "text": "Nuko Mefibosheti mwene Yonatani mwene Sawuli yitaba Dawidi, ageze imbere ye agwa yubamye aramuramya. Maze Dawidi aravuga ati “Mefibosheti.”Aritaba ati “Karame umugaragu wawe ndi hano.”",
+      "start": 8.71,
+      "end": 28.0
+    },
+    "7": {
+      "text": "Dawidi aramubwira ati “Humura kuko ntazabura kukugirira neza ku bwa so Yonatani, kandi nzagusubiza imisozi yose y'inyarurembo ya sogokuru Sawuli, kandi uzajya urira ku meza yanjye iminsi yose.”",
+      "start": 31.66,
+      "end": 36.99
+    },
+    "8": {
+      "text": "Nuko aramuramya aravuga ati “Umugaragu wawe ndi iki ko unyitaho, kandi ndi intumbi y'imbwa?”",
+      "start": 10.18,
+      "end": 12.68
+    },
+    "9": {
+      "text": "Umwami aherako ahamagara Siba umugaragu wa Sawuli aramubwira ati “Ibyari ibya Sawuli byose n'iby'abo mu nzu ye bose, mbigabiye mwene shobuja.",
+      "start": 30.72,
+      "end": 41.26
+    },
+    "10": {
+      "text": "Kandi wowe n'abahungu bawe n'abagaragu bawe muzajye mumuhingira imirima ye, usarure imyaka kugira ngo mwene shobuja abone ibimutunga. Ariko Mefibosheti mwene shobuja azajya arira ku meza yanjye iteka.” Kandi Siba yari afite abahungu cumi na batanu n'abagaragu makumyabiri.",
+      "start": 29.94,
+      "end": 40.83
+    },
+    "11": {
+      "text": "Maze Siba abwira umwami ati “Ibyo umwami databuja yategetse umugaragu we byose, ni ko umugaragu wawe nzabigenza.”Nuko Mefibosheti akajya arira ku meza y'umwami nk'umwana w'umwami wese.",
+      "start": 35.32,
+      "end": 36.73
+    },
+    "12": {
+      "text": "Kandi Mefibosheti yari afite umwana w'umuhungu muto witwa Mika, n'abo mu rugo rwa Siba bose bari abagaragu ba Mefibosheti.",
+      "start": 43.48,
+      "end": 44.65
+    },
+    "13": {
+      "text": "Nuko Mefibosheti aguma i Yerusalemu kuko yajyaga arira ku meza y'umwami iteka, kandi yacumbagiraga ibirenge byombi.",
+      "start": 3.5,
+      "end": 12.51
+    }
+  }
+}

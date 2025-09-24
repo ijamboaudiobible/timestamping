@@ -1,0 +1,133 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Ku ngoma ya Ahazi mwene Yotamu, mwene Uziya umwami w'Abayuda, Resini umwami wa Siriya na Peka mwene Remaliya umwami w'Abisirayeli baratabaranye, batera i Yerusalemu kuharwanya ntibahashobora.",
+      "start": 31.88,
+      "end": 40.88
+    },
+    "2": {
+      "text": "Abantu babwira umuryango wa Dawidi bati “Abasiriya buzuye n'Abefurayimu.” Maze umutima wa Ahazi n'imitima y'abantu be irahubangana, nk'uko ibiti byo mu kibira bihubanganywa n'umuyaga.",
+      "start": 36.37,
+      "end": 43.19
+    },
+    "3": {
+      "text": "Uwiteka aherako abwira Yesaya ati “Sohoka nonaha, ujyane n'umwana wawe Sheyariyashubu usanganire Ahazi, murahurira aho umugende w'amazi y'ikidendezi cyo haruguru ugarukira, kiri ku nzira yo ku gisambu cy'umumeshi.",
+      "start": 40.13,
+      "end": 41.22
+    },
+    "4": {
+      "text": "Maze umubwire uti ‘Wirinde uhumure, witinya kandi we gukurwa umutima n'uburakari bw'inkazi bwa Resini n'Abasiriya n'ubwa mwene Remaliya, bameze nk'imishimu ibiri y'imuri zicumba,",
+      "start": 37.46,
+      "end": 39.19
+    },
+    "5": {
+      "text": "kuko Abasiriya n'Abefurayimu na mwene Remaliya bagufitiye imigambi mibi. Bavuze ngo",
+      "start": 20.06,
+      "end": 32.29
+    },
+    "6": {
+      "text": "nimuze duhaguruke dutere u Buyuda tubakure umutima, tuhace icyuho twiyimikire mwene Tabēli abe umwami waho.",
+      "start": 27.73,
+      "end": 30.8
+    },
+    "7": {
+      "text": "“ ‘Ariko Uwiteka Imana iravuze ngo imigambi yabo ntizahama kandi ntizasohora,",
+      "start": 20.99,
+      "end": 37.13
+    },
+    "8": {
+      "text": "kuko umutwe wa Siriya ari i Damasiko, n'umutwe wa Damasiko ukaba ari Resini, kandi imyaka mirongo itandatu n'itanu itarashira Abefurayimu bazatagarana, babe batakibaye ishyanga.",
+      "start": 44.24,
+      "end": 44.74
+    },
+    "9": {
+      "text": "Umutwe wa Efurayimu ni Samariya, kandi uwa Samariya ni mwene Remaliya.“ ‘Nimwanga kwemera, ni ukuri ntimuzakomera.’ ”",
+      "start": 34.04,
+      "end": 40.15
+    },
+    "10": {
+      "text": "Uwiteka yongera kubwira Ahazi ati",
+      "start": 16.58,
+      "end": 35.26
+    },
+    "11": {
+      "text": "“Saba Uwiteka Imana yawe ikimenyetso, usabe icy'ikuzimu cyangwa icyo hejuru mu kirere.”",
+      "start": 23.23,
+      "end": 43.21
+    },
+    "12": {
+      "text": "Ariko Ahazi aravuga ati “Nta cyo nsaba, singiye kugerageza Uwiteka.”",
+      "start": 35.04,
+      "end": 39.22
+    },
+    "13": {
+      "text": "Yesaya aravuga ati “Nimwumve yemwe mwa muryango wa Dawidi mwe, murushya abantu mukabona biboroheye, none murashaka no kurushya Imana yanjye na yo?",
+      "start": 17.49,
+      "end": 23.09
+    },
+    "14": {
+      "text": "Ni cyo kizatuma Uwiteka ubwe ari we uzabihera ikimenyetso. Dore Umwari azasama inda, azabyara umwana w'umuhungu amwite izina Imanweli.",
+      "start": 9.6,
+      "end": 30.25
+    },
+    "15": {
+      "text": "Amata n'ubuki ni byo bizamutunga kugeza aho azamenyera ubwenge bwo kwanga ibibi agakunda ibyiza,",
+      "start": 5.03,
+      "end": 28.68
+    },
+    "16": {
+      "text": "kuko uwo mwana ataramenya ubwenge bwo kwanga ibibi ngo akunde ibyiza, igihugu cy'abo bami bombi wazinutswe kizatabwa.",
+      "start": 37.99,
+      "end": 43.56
+    },
+    "17": {
+      "text": "“Wowe n'abantu bawe n'inzu ya so Uwiteka azabateza iminsi mibi itigeze kubaho uhereye umunsi Abefurayimu batanye n'Abayuda: ni ko guterwa n'umwami wa Ashuri.",
+      "start": 21.43,
+      "end": 24.22
+    },
+    "18": {
+      "text": "“Nuko icyo gihe Uwiteka azahamagaza ikivugirizo isazi zo mu gihugu cyose cy'imigezi ya Egiputa, n'inzuki zo mu gihugu cya Ashuri.",
+      "start": 22.5,
+      "end": 39.89
+    },
+    "19": {
+      "text": "Bizaza byose byararare mu bikombe no mu masenga yo mu bitare, no ku mahwa yose no mu rwuri hose.",
+      "start": 35.23,
+      "end": 35.73
+    },
+    "20": {
+      "text": "“Icyo gihe Uwiteka azogosha umusatsi ku mutwe n'ubwoya bwo ku birenge, abyogosheshe icyuma cy'igitirano, ari cyo mwami wa Ashuri wo hakurya y'uruzi, ndetse kizamaraho n'ubwanwa.",
+      "start": 4.11,
+      "end": 20.63
+    },
+    "21": {
+      "text": "“Icyo gihe umuntu azaragira inka y'iriza n'intama ebyiri.",
+      "start": 31.15,
+      "end": 40.49
+    },
+    "22": {
+      "text": "Nuko kuko amata azaba ari menshi, azatungwa n'amavuta, ndetse abazasigara mu gihugu bose bazatungwa n'amavuta n'ubuki.",
+      "start": 17.45,
+      "end": 32.16
+    },
+    "23": {
+      "text": "“Kandi icyo gihe ahabaga imizabibu igihumbi igura shekeli igihumbi, hose hazamera imifatangwe n'amahwa.",
+      "start": 29.14,
+      "end": 38.97
+    },
+    "24": {
+      "text": "Uwitwaje umuheto n'imyambi ni we uzahagera, kuko igihugu cyose kizaba ari imifatangwe n'amahwa gusa.",
+      "start": 43.6,
+      "end": 44.6
+    },
+    "25": {
+      "text": "Kandi n'imisozi yahingwaga yose, uzayitinyishwa n'imifatangwe n'amahwa, ahubwo hazaba urwuri rw'inka n'intama.”",
+      "start": 8.2,
+      "end": 32.73
+    }
+  }
+}

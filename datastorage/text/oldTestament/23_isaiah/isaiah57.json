@@ -1,0 +1,113 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 57,
+  "verses": {
+    "1": {
+      "text": "Umukiranutsi arashira ariko nta wabyitayeho, abanyabuntu barakurwaho, ariko abantu ntibazi ko umukiranutsi aba akijijwe ibyago byenda kuza.",
+      "start": 20.82,
+      "end": 27.91
+    },
+    "2": {
+      "text": "Agera mu mahoro umuntu wese wagendaga akiranuka, azaruhukira ku buriri bwe.",
+      "start": 19.09,
+      "end": 24.66
+    },
+    "3": {
+      "text": "“Nimwigire hino, mwa bahungu b'umugore w'umushitsikazi mwe, urubyaro rw'umusambanyi na maraya.",
+      "start": 15.56,
+      "end": 30.61
+    },
+    "4": {
+      "text": "Uwo museka ni nde? Uwo muneguriza izuru ni nde, mukamurabiriza indimi? Ntimuri abana b'abanyabyaha, urubyaro rw'abanyabinyoma,",
+      "start": 10.03,
+      "end": 21.71
+    },
+    "5": {
+      "text": "yemwe abihangishaho muri munsi y'imirinzi n'igiti cyose kibisi, mukicira abana mu bikombe, mu bihanamanga byo mu rutare?",
+      "start": 19.1,
+      "end": 27.89
+    },
+    "6": {
+      "text": "Mu mabuye y'ibitare anyerera yo mu gikombe ni ho hari umugabane wawe, ayo ngayo ni yo mugabane wawe, ni yo wasukiriye amaturo anyobwa ukayatura n'ayandi maturo. Ubu se ndacyari uwitwarwaho ku bimeze bityo?",
+      "start": 1.01,
+      "end": 39.38
+    },
+    "7": {
+      "text": "Ku musozi muremure munini ni ho washyize uburiri bwawe, kandi ni ho wazamukaga ukajya gutamba ibitambo.",
+      "start": 18.35,
+      "end": 23.18
+    },
+    "8": {
+      "text": "Kandi washyize urwibutso rwawe inyuma y'inzugi n'ibikomanizo, kuko wambariye ubusa undi utari jye, wurira uburiri bwawe ubugira bugari, usezerana na bo isezerano ubonye uburiri bwabo urabukunda.",
+      "start": 22.82,
+      "end": 27.53
+    },
+    "9": {
+      "text": "Washengereye umwami wihezuye imibavu igutamyeho, utuma intumwa zawe kure, urisuzuguza bikugeza ikuzimu.",
+      "start": 36.78,
+      "end": 37.29
+    },
+    "10": {
+      "text": "Wagenze urugendo rurerure rugutera kunanirwa, ariko ntiwisubiramo ngo uvuge uti ‘Nta cyo rumaze.’ Wabonye ikikongeramo imbaraga, ni cyo cyatumye utiheba.",
+      "start": 3.42,
+      "end": 20.17
+    },
+    "11": {
+      "text": "“Mbese uwo watinye ugashya ubwoba ni nde, bigatuma ubeshya ntunyibuke kandi ukabyirengagiza? Mbese simaze igihe kirekire niyumanganije ntunyubahe?",
+      "start": 32.1,
+      "end": 43.61
+    },
+    "12": {
+      "text": "Nzavuga gukiranuka kwawe, kandi n'imirimo yawe ntizagira icyo ikumarira.",
+      "start": 15.29,
+      "end": 29.55
+    },
+    "13": {
+      "text": "Ubwo utaka, ibyo wakoranije ngaho nibigukize ariko rero umuyaga uzabitwara, umwuka uzabikuraho byose. Ariko unyizera ni we uzahindūra igihugu kandi ni we uzaragwa umusozi wanjye wera.”",
+      "start": 20.06,
+      "end": 39.05
+    },
+    "14": {
+      "text": "Kandi azavuga ati “Nimutumburure, nimutumburure mutunganye inzira, mukure ibisitaza mu nzira y'ubwoko bwanjye.”",
+      "start": 35.91,
+      "end": 44.19
+    },
+    "15": {
+      "text": "Nimwumve uko Iyo iri hejuru cyane, ituye ahahoraho ivuga, izina ryayo ni Uwera ikavuga iti “Aho ntuye ni hejuru kandi harera. Mbana n'ufite umutima umenetse wicisha bugufi, kugira ngo mpembure imyuka y'abicisha bugufi, mpembure n'abafite imitima imenetse.",
+      "start": 13.85,
+      "end": 36.64
+    },
+    "16": {
+      "text": "Sinatongana iminsi yose, kandi sinahora ndakaye iteka ryose, kuko imyuka n'imitima naremye byashirira imbere yanjye.",
+      "start": 4.14,
+      "end": 36.5
+    },
+    "17": {
+      "text": "Icyaha cye cy'umururumba ni cyo cyandakaje ndamukubita. Narihishe ndakaye, ariko akomeza gusubira inyuma mu ngeso zikundwa n'umutima we.",
+      "start": 30.69,
+      "end": 41.24
+    },
+    "18": {
+      "text": "“Nabonye ingeso ze nzamukiza, kandi nzamuyobora musubize ibyo kumumarana umubabaro hamwe n'abamuborogeye.",
+      "start": 19.75,
+      "end": 25.94
+    },
+    "19": {
+      "text": "Ni jye urema ishimwe ry'imirwa, ngo ‘Amahoro, amahoro abe ku uri kure no ku uwo hafi, nanjye nzamukiza.’ ” Ni ko Uwiteka avuga.",
+      "start": 2.76,
+      "end": 20.76
+    },
+    "20": {
+      "text": "“Ariko abanyabyaha bameze nk'inyanja izikuka uko itabasha gucayuka, amazi yayo azikura isayo n'imivumba.",
+      "start": 1.71,
+      "end": 34.72
+    },
+    "21": {
+      "text": "Nta mahoro y'abanyabyaha.” Ni ko Imana yanjye ivuga.",
+      "start": 42.81,
+      "end": 43.52
+    }
+  }
+}

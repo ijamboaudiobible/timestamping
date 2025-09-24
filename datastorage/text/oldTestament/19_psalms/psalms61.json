@@ -1,0 +1,53 @@
+{
+  "book": "Book 19",
+  "book_canonical": "psalms",
+  "book_number": 19,
+  "chapter": 61,
+  "verses": {
+    "1": {
+      "text": "Zaburi iyi yahimbiwe umutware w'abaririmbyi babwira inanga. Ni Zaburi ya Dawidi.",
+      "start": 11.9,
+      "end": 14.57
+    },
+    "2": {
+      "text": "Mana, umva gutaka kwanjye,Tyariza ugutwi gusenga kwanjye.",
+      "start": 15.83,
+      "end": 17.34
+    },
+    "3": {
+      "text": "Mpagaze ku mpera y'isi nzajya ngutabaza,Uko umutima wanjye uzagwa isari.Unshyire ku gitare kirekire ntakwishyiraho,",
+      "start": 14.11,
+      "end": 26.0
+    },
+    "4": {
+      "text": "Kuko wambereye ubuhungiro,N'igihome kirekire kinkingira umwanzi.",
+      "start": 17.48,
+      "end": 28.67
+    },
+    "5": {
+      "text": "Nzaguma mu ihema ryawe iteka,Nzahungira mu bwihisho bwo mu mababa yawe.Sela.",
+      "start": 0.59,
+      "end": 31.06
+    },
+    "6": {
+      "text": "Kuko wowe Mana, wumvise umuhigo wanjye,Umpaye umwandu uhabwa abubaha izina ryawe.",
+      "start": 11.7,
+      "end": 26.12
+    },
+    "7": {
+      "text": "Uzongerera umwami iminsi y'ubugingo bwe,Imyaka ye izabe nk'iy'ab'ibihe byinshi.",
+      "start": 36.88,
+      "end": 41.37
+    },
+    "8": {
+      "text": "Azaguma mu maso y'Imana iteka,Itegura imbabazi n'umurava kugira ngo bimurinde.",
+      "start": 31.69,
+      "end": 38.56
+    },
+    "9": {
+      "text": "Bizatuma ndirimbira izina ryawe ishimwe iteka,Ngo mpigure umuhigo wanjye uko bukeye.",
+      "start": 8.56,
+      "end": 26.59
+    }
+  }
+}

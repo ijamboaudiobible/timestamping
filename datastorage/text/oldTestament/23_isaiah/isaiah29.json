@@ -1,0 +1,128 @@
+{
+  "book": "Book 23",
+  "book_canonical": "isaiah",
+  "book_number": 23,
+  "chapter": 29,
+  "verses": {
+    "1": {
+      "text": "Yewe Ariyeli, Ariyeli umudugudu Dawidi yagize urugerero, umwaka nimuwukurikize uwundi, nimugire ibirori bihererekanye,",
+      "start": 32.65,
+      "end": 44.2
+    },
+    "2": {
+      "text": "ariko nzaherako ngirire Ariyeli nabi, maze hazabe kurira no kuboroga, nyamara Ariyeli hazambera Ariyeli.",
+      "start": 35.56,
+      "end": 42.26
+    },
+    "3": {
+      "text": "Nzakugerereza impande zose nkugoteshe ibihome, nkurundeho ibyo kugusenyera.",
+      "start": 24.66,
+      "end": 30.57
+    },
+    "4": {
+      "text": "Nuko uzacishwa bugufi uzavugira mu butaka, amagambo yawe azaba aturuka hasi mu mukungugu, ijwi ryawe rizamera nk'iry'umushitsi, rituruke mu butaka ryongorerere mu mukungugu.",
+      "start": 42.77,
+      "end": 43.08
+    },
+    "5": {
+      "text": "Ariko ingabo z'ababisha bawe zizaba zimeze nk'umukungugu, n'ingabo z'abanyamwaga zizamera nk'umurama utumuka. Ni koko, ni ko bizaba muri ako kanya.",
+      "start": 34.42,
+      "end": 35.74
+    },
+    "6": {
+      "text": "Uwiteka Nyiringabo azamuteza guhinda kw'inkuba n'umushyitsi w'isi n'umuriri ukomeye, na serwakira n'inkubi y'umuyaga, n'ikirimi cy'umuriro ukongora.",
+      "start": 15.85,
+      "end": 35.09
+    },
+    "7": {
+      "text": "Ingabo z'amahanga yose zirwanye Ariyeli, abamurwaniriza bose hamwe n'igihome cye bakamurushya, bizaba nk'inzozi cyangwa kwerekwa kwa nijoro.",
+      "start": 33.69,
+      "end": 33.89
+    },
+    "8": {
+      "text": "Nuko bizamera nk'ushonje arota arya akaramuka afite inzara, cyangwa nk'ufite inyota uko arota anywa akaramuka arembye, agifite inyota. Uko ni ko ingabo z'amahanga yose zirwanya umusozi wa Siyoni zizamera.",
+      "start": 22.51,
+      "end": 36.3
+    },
+    "9": {
+      "text": "Nimube muretse mutangare, muhumirize amaso mube impumyi. Basinze batanyoye, baradandabirana batanyoye igisindisha",
+      "start": 2.3,
+      "end": 19.26
+    },
+    "10": {
+      "text": "kuko Uwiteka abasutseho umwuka w'ibitotsi byinshi, agahuma amaso yanyu, ari yo bahanuzi, agatwikira n'imitwe yanyu, ari yo aberekwa.",
+      "start": 17.81,
+      "end": 19.73
+    },
+    "11": {
+      "text": "Kwerekwa kose kwabahindukiye nk'amagambo yo mu gitabo gifatanishijwe ikimenyetso, iyo bagihaye umuntu wigishijwe bati “Soma iki gitabo”, akabasubiza ati “Simbasha kugisoma kuko gifatanishijwe ikimenyetso”,",
+      "start": 11.8,
+      "end": 18.25
+    },
+    "12": {
+      "text": "maze bakagiha utigishijwe bati “Soma iki gitabo”, akabasubiza ati “Reka da! Sinigishijwe.”",
+      "start": 14.47,
+      "end": 38.83
+    },
+    "13": {
+      "text": "Umwami aravuga ati “Kuko aba bantu banyegera bakanyubahisha akanwa kabo n'iminwa yabo, ariko imitima yabo bakayinshyira kure, no kubaha banyubaha akaba ari itegeko ry'abantu bigishijwe,",
+      "start": 41.92,
+      "end": 42.56
+    },
+    "14": {
+      "text": "nuko rero ngiye gukora umurimo utangaza muri ubu bwoko. Ni umurimo utangaje rwose kandi ni urujijo: ubwenge bw'abanyabwenge babo buzarimbuka, n'ubuhanga bw'abahanga babo buzahishwa.”",
+      "start": 19.51,
+      "end": 29.65
+    },
+    "15": {
+      "text": "Bazabona ishyano abashakira ikuzimu aho guhisha Uwiteka inama zabo, imirimo yabo ikaba mu mwijima, bakibwira bati “Ni nde utureba?” Kandi bati “Utuzi ni nde?”",
+      "start": 6.3,
+      "end": 24.09
+    },
+    "16": {
+      "text": "Ariko mufudika ibintu rwose. Mbese umubumbyi mwamuhwanya n'ibumba bigatuma ikibindi cyihakana uwakibumbye ko atari we wakibumbye? Cyangwa se icyaremwe cyakwihakana uwakiremye ko atazi ubwenge?",
+      "start": 15.52,
+      "end": 36.22
+    },
+    "17": {
+      "text": "Hasigaye akanya gato i Lebanoni hakaba umurima wera cyane, kandi umurima wera cyane bazawita ishyamba.",
+      "start": 42.13,
+      "end": 44.36
+    },
+    "18": {
+      "text": "Uwo munsi igipfamatwi kizumva amagambo yo mu gitabo, n'impumyi zizahumuka zikire ubuhumyi n'umwijima.",
+      "start": 4.46,
+      "end": 36.29
+    },
+    "19": {
+      "text": "Kandi abagwaneza na bo bazagwiza umunezero wo kunezererwa mu Uwiteka, n'abakene bo mu bantu bazishimira Uwera wa Isirayeli.",
+      "start": 5.28,
+      "end": 14.68
+    },
+    "20": {
+      "text": "Kuko umunyamwaga ahindutse ubusa, n'umukobanyi ashizeho, n'abashaka ibyo gukiranirwa bose bararimbutse.",
+      "start": 10.03,
+      "end": 43.46
+    },
+    "21": {
+      "text": "Ni bo bacumuza umuntu mu ijambo, kandi ūburanira mu muharuro bamutega umutego, umukiranutsi bakamuyobesha ikitagira umumaro.",
+      "start": 13.59,
+      "end": 38.52
+    },
+    "22": {
+      "text": "Ni cyo gituma Uwiteka wacunguye Aburahamu avugira inzu ya Yakobo ati “Noneho Yakobo ntazakorwa n'isoni, kandi mu maso he ntihazasuherwa.",
+      "start": 13.58,
+      "end": 36.28
+    },
+    "23": {
+      "text": "Kandi we n'abana be nibabona ibyo nkorera muri bo bazeza izina ryanjye. Ni koko bazeza Uwera wa Yakobo kandi bazatinya Imana ya Isirayeli,",
+      "start": 17.23,
+      "end": 20.57
+    },
+    "24": {
+      "text": "n'abayoba mu mitima na bo bazahinduka abajijutse, n'abinuba bazemera kubwirizwa.”",
+      "start": 36.29,
+      "end": 41.51
+    }
+  }
+}

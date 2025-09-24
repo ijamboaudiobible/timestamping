@@ -1,0 +1,153 @@
+{
+  "book": "Book 12",
+  "book_canonical": "2_kings",
+  "book_number": 12,
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "Mu mwaka wa kabiri wo ku ngoma ya Yehowasi mwene Yehowahazi umwami w'Abisirayeli, Amasiya mwene Yowasi umwami w'Abayuda yarimye.",
+      "start": 27.48,
+      "end": 36.82
+    },
+    "2": {
+      "text": "Atangira gutegeka amaze imyaka makumyabiri n'itanu avutse, amara imyaka makumyabiri n'icyenda i Yerusalemu ari ku ngoma. Kandi nyina yitwaga Yehoyadina w'i Yerusalemu.",
+      "start": 24.58,
+      "end": 42.33
+    },
+    "3": {
+      "text": "Akora ibishimwa imbere y'Uwiteka, ariko ntiyahwanije na sekuruza Dawidi, ahubwo yakoraga n'ibyo se Yowasi yakoraga byose.",
+      "start": 26.94,
+      "end": 39.78
+    },
+    "4": {
+      "text": "Ariko ingoro zari zitakuweho, abantu bari bagitamba ibitambo, bakosereza imibavu muri izo ngoro.",
+      "start": 16.87,
+      "end": 40.21
+    },
+    "5": {
+      "text": "Bukeye ubwami bwe bumaze gukomera, arahōra yica abo bagaragu be bari barishe se, ari umwami.",
+      "start": 30.6,
+      "end": 43.27
+    },
+    "6": {
+      "text": "Ariko abana b'abo bicanyi ntiyabica nk'uko byanditswe mu gitabo cy'amategeko ya Mose, uko Uwiteka yategetse ngo “Ba se w'abana ntibakicwe babahōra abana babo, kandi abana ntibakicwe babahōra ba se, ngo ahubwo umuntu wese azahōrwe icye cyaha.”",
+      "start": 10.19,
+      "end": 40.91
+    },
+    "7": {
+      "text": "Bukeye yica mu Bedomu abantu inzovu imwe abatsinda mu kibaya cy'umunyu, atera i Sela arahatsinda, ahahimba Yokitēli na bugingo n'ubu.",
+      "start": 43.36,
+      "end": 44.01
+    },
+    "8": {
+      "text": "Hanyuma Amasiya yohereza intumwa kuri Yehowasi mwene Yehowahazi mwene Yehu umwami w'Abisirayeli ati “Vayo twibonanire.”",
+      "start": 9.09,
+      "end": 24.47
+    },
+    "9": {
+      "text": "Yehowasi umwami w'Abisirayeli atuma kuri Amasiya umwami w'Abayuda ati “Igitovu cy'i Lebanoni cyatumye ku mwerezi w'i Lebanoni kiti ‘Umuhungu wanjye umushyingire umukobwa wawe.’ Bukeye inyamaswa yo mu kibira cy'i Lebanoni iragikandagira.",
+      "start": 6.55,
+      "end": 10.96
+    },
+    "10": {
+      "text": "Icyakora watsinze i Bwedomu, mu mutima wawe uriyogeza. Nuko byirate, ariko ugume imuhira. Ni iki gituma wishyira mu bitari ibyawe ngo bikugirire nabi, ukagwa wowe ubwawe hamwe n'Abayuda?”",
+      "start": 23.89,
+      "end": 39.47
+    },
+    "11": {
+      "text": "Ariko Amasiya ntiyabyitaho. Nuko Yehowasi umwami w'Abisirayeli arazamuka asanga Amasiya umwami w'Abayuda, bahanganira i Betishemeshi hari ah'Abayuda.",
+      "start": 33.61,
+      "end": 36.89
+    },
+    "12": {
+      "text": "Abayuda baneshwa n'Abisirayeli, umuntu wese ahungira mu ihema rye.",
+      "start": 10.71,
+      "end": 16.2
+    },
+    "13": {
+      "text": "Maze Yehowasi umwami w'Abisirayeli afatira Amasiya umwami w'Abayuda mwene Yowasi mwene Ahaziya i Betishemeshi, ajya i Yerusalemu, asenya inkike z'amabuye z'i Yerusalemu, uhereye ku irembo rya Efurayimu ukageza ku irembo ryo ku mfuruka, hose hari mikono magana ane.",
+      "start": 41.75,
+      "end": 44.12
+    },
+    "14": {
+      "text": "Anyagayo izahabu n'ifeza zose, n'ibintu byose byabonetse mu nzu y'Uwiteka, no mu by'ubutunzi bwo mu nzu y'umwami, anyagayo abantu babajyana ho ingwate asubira i Samariya.",
+      "start": 9.31,
+      "end": 19.33
+    },
+    "15": {
+      "text": "Nuko indi mirimo ya Yehowasi yakoze, n'imbaraga ze n'uko yarwanye na Amasiya umwami w'Abayuda, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abisirayeli?",
+      "start": 0.04,
+      "end": 43.14
+    },
+    "16": {
+      "text": "Hanyuma Yehowasi aratanga asanga ba sekuruza, ahambwa i Samariya hamwe n'abami b'Abisirayeli, maze umuhungu we Yerobowamu yima ingoma ye.",
+      "start": 8.24,
+      "end": 19.04
+    },
+    "17": {
+      "text": "Yehowasi mwene Yehowahazi umwami w'Abisirayeli amaze gutanga, Amasiya mwene Yowasi umwami w'Abayuda amara indi myaka cumi n'itanu akiriho.",
+      "start": 14.97,
+      "end": 30.1
+    },
+    "18": {
+      "text": "Iyindi mirimo ya Amasiya, mbese ntiyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abayuda?",
+      "start": 11.55,
+      "end": 23.11
+    },
+    "19": {
+      "text": "Bukeye abantu bamugambanirira i Yerusalemu, ahungira i Lakishi. Bohereza abamukurikira i Lakishi bamutsindayo.",
+      "start": 9.62,
+      "end": 13.83
+    },
+    "20": {
+      "text": "Bikoreza intumbi ye amafarashi bayizana i Yerusalemu, bayihambayo hamwe na ba sekuruza mu mudugudu wa Dawidi.",
+      "start": 8.8,
+      "end": 23.6
+    },
+    "21": {
+      "text": "Nuko abantu bose b'Abayuda bimika Uziya ngo yime ingoma ya se Amasiya, kandi yari amaze imyaka cumi n'itandatu avutse.",
+      "start": 42.7,
+      "end": 43.43
+    },
+    "22": {
+      "text": "Ni we wubatse Elati ahagarura i Buyuda, umwami amaze gutanga asanze ba sekuruza.",
+      "start": 9.03,
+      "end": 22.16
+    },
+    "23": {
+      "text": "Mu mwaka wa cumi n'itanu wo ku ngoma ya Amasiya mwene Yowasi umwami w'Abayuda, Yerobowamu mwene Yehowasi yimye i Samariya, amara imyaka mirongo ine n'umwe ari ku ngoma.",
+      "start": 22.63,
+      "end": 29.23
+    },
+    "24": {
+      "text": "Ariko akora ibyangwa n'Uwiteka, ntiyareka ibyaha bya Yerobowamu mwene Nebati woheje Abisirayeli ngo bacumure.",
+      "start": 14.58,
+      "end": 39.78
+    },
+    "25": {
+      "text": "Maze agarura urugabano rwa Isirayeli, uhereye aharasukirwa i Hamati ukageza ku Nyanja ya Araba, nk'uko Uwiteka Imana ya Isirayeli yavugiye mu mugaragu wayo w'umuhanuzi Yona, mwene Amitayi w'i Gatiheferi.",
+      "start": 38.45,
+      "end": 41.86
+    },
+    "26": {
+      "text": "Kuko Uwiteka yabonye ko umubabaro w'Abisirayeli ari mubi cyane, uhereye ku mbata ukagera ku b'umudendezo, kandi nta n'umwe wasigaye ngo arengere Abisirayeli.",
+      "start": 16.71,
+      "end": 24.72
+    },
+    "27": {
+      "text": "Nuko Uwiteka ntiyavuze ko azatsemba izina rya Isirayeli ngo rishire munsi y'ijuru, ahubwo abakirisha ukuboko kwa Yerobowamu mwene Yehowasi.",
+      "start": 33.29,
+      "end": 44.23
+    },
+    "28": {
+      "text": "Nuko indi mirimo ya Yerobowamu n'ibyo yakoze byose n'imbaraga ze, n'uko yarwanaga akagarurira Isirayeli i Damasiko n'i Hamati hari ah'Abayuda, mbese ntibyanditswe mu gitabo cy'ibyo ku ngoma z'abami b'Abisirayeli?",
+      "start": 15.65,
+      "end": 16.56
+    },
+    "29": {
+      "text": "Hanyuma Yerobowamu aratanga asanga ba sekuruza, abami b'Abisirayeli, maze umuhungu we Zekariya yima ingoma ye.",
+      "start": 33.03,
+      "end": 43.8
+    }
+  }
+}

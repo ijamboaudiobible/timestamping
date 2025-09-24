@@ -1,0 +1,178 @@
+{
+  "book": "Book 3",
+  "book_canonical": "leviticus",
+  "book_number": 3,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Uwiteka abwira Mose ati",
+      "start": 37.65,
+      "end": 43.31
+    },
+    "2": {
+      "text": "“Bwira Abisirayeli uti: Umuntu nahigura umuhigo, niba ari uwo guhonga abantu, bazaba ab'Uwiteka, bacunguzwe igiciro uzacira.",
+      "start": 42.01,
+      "end": 44.06
+    },
+    "3": {
+      "text": "Umugabo uhereye ku myaka makumyabiri avutse, akageza ku myaka mirongo itandatu, ujye umucira shekeli z'ifeza mirongo itanu, zigezwe ku y'Ahera.",
+      "start": 10.84,
+      "end": 11.03
+    },
+    "4": {
+      "text": "“Umukobwa cyangwa umugore ujye umucira shekeli mirongo itatu.",
+      "start": 17.47,
+      "end": 38.1
+    },
+    "5": {
+      "text": "“Umuhungu uhereye ku myaka itanu akageza ku myaka makumyabiri ujye umucira shekeli makumyabiri, umukobwa ujye umucira icumi.",
+      "start": 32.49,
+      "end": 32.79
+    },
+    "6": {
+      "text": "“Umuhungu uhereye ku kwezi kumwe akageza ku myaka itanu ujye umucira shekeli z'ifeza eshanu, umukobwa ujye umucira shekeli z'ifeza eshatu.",
+      "start": 37.22,
+      "end": 44.33
+    },
+    "7": {
+      "text": "“Umugabo usagije imyaka mirongo itandatu ujye umucira shekeli cumi n'eshanu, umugore ujye umucira shekeli cumi.",
+      "start": 6.27,
+      "end": 43.65
+    },
+    "8": {
+      "text": "“Ariko niba uwahize ari umukene ntabashe kubona izo waciriye ajye ashyirwa umutambyi, uwo mutambyi amucirire igiciro, acire igiciro gihwanye n'ibyo uwahize ashobora gutanga.",
+      "start": 36.72,
+      "end": 41.16
+    },
+    "9": {
+      "text": "“Niba ari itungo yahize ryo mu moko batambira Uwiteka, iryo muri ayo moko ryose umuntu ahaye Uwiteka rizaba iryera.",
+      "start": 30.68,
+      "end": 37.96
+    },
+    "10": {
+      "text": "Ntakarihindure, ntakarigurane iryiza mu cyimbo cy'iribi cyangwa iribi mu cyimbo cy'iryiza, yagurana itungo irindi, iryo yahize n'ingurane yaryo yombi azaba ayera.",
+      "start": 41.47,
+      "end": 43.76
+    },
+    "11": {
+      "text": "Kandi niba yahize itungo rizira cyangwa inyamaswa izira, icyo badatambira Uwiteka agishyire umutambyi,",
+      "start": 40.21,
+      "end": 43.06
+    },
+    "12": {
+      "text": "uwo mutambyi agicire igiciro gihwanye n'ubwiza cyangwa n'ububi bwacyo, igiciro umutambyi agiciriye abe ari cyo kiba igiciro cyacyo.",
+      "start": 4.09,
+      "end": 31.71
+    },
+    "13": {
+      "text": "Ariko uwagihize nashaka kucyicungurira, agereke ku giciro uciriye kucyicungurira, agereke ku giciro uciriye igice cyacyo cya gatanu.",
+      "start": 44.09,
+      "end": 44.39
+    },
+    "14": {
+      "text": "“Kandi umuntu niyereza Uwiteka inzu ye, umutambyi ayicire igiciro gihwanye n'ubwiza cyangwa n'ububi bwayo, igiciro umutambyi ayiciriye abe ari cyo gihama.",
+      "start": 6.32,
+      "end": 37.56
+    },
+    "15": {
+      "text": "Kandi uwayejeje nashaka kuyicungurira, agereke ku giciro waciriye igice cyacyo cya gatanu, ibone kuba iye.",
+      "start": 33.67,
+      "end": 43.95
+    },
+    "16": {
+      "text": "“Kandi umuntu niyereza Uwiteka igice cy'umurima wo muri gakondo ye, igiciro uzacira kizatangwe n'ubwinshi bw'imbuto zibibwamo, urugero rwa homeru rw'imbuto za sayiri rucirwe shekeli z'ifeza mirongo itanu.",
+      "start": 44.02,
+      "end": 44.85
+    },
+    "17": {
+      "text": "Niyereza Uwiteka umurima we ahereye ku mwaka wa yubile, icyo giciro uciriye gihame.",
+      "start": 43.17,
+      "end": 43.56
+    },
+    "18": {
+      "text": "Ariko namwereza umurima we hanyuma y'uwo mwaka wa yubile, umutambyi ahabwe ibiguzi n'umubare w'imyaka isigaye hagataha undi mwaka wa yubile, nuko ucire igiciro kigabanutse.",
+      "start": 27.37,
+      "end": 44.78
+    },
+    "19": {
+      "text": "Kandi uwereje Uwiteka umurima nashaka kuwicungurira, agereke ku giciro waciriye igice cyacyo cya gatanu, ubone kuba uwe bwite.",
+      "start": 3.86,
+      "end": 42.17
+    },
+    "20": {
+      "text": "Ariko nadashaka kwicungurira uwo murima, cyangwa naba awugurishije undi, ntiwacungurwa ukundi,",
+      "start": 43.64,
+      "end": 44.59
+    },
+    "21": {
+      "text": "ahubwo uwo murima nukomōrwa n'umwaka wa yubile, uzaba uwera w'Uwiteka nk'uwahonzwe, uzabe gakondo y'umutambyi.",
+      "start": 10.17,
+      "end": 43.6
+    },
+    "22": {
+      "text": "“Kandi umuntu niyereza Uwiteka umurima yaguze atari uwo muri gakondo ye,",
+      "start": 21.6,
+      "end": 41.6
+    },
+    "23": {
+      "text": "umutambyi amucirire igiciro gitangwa n'umubare w'imyaka isigaye hagataha uwa yubile, atange kuri uwo munsi igiciro waciriye nk'icyerejwe Uwiteka.",
+      "start": 10.67,
+      "end": 11.22
+    },
+    "24": {
+      "text": "Kandi mu mwaka wa yubile, uzasubiranwe n'uwo yawuguzeho, nyiri gakondo y'uwo murima.",
+      "start": 25.9,
+      "end": 30.0
+    },
+    "25": {
+      "text": "“Kandi igiciro cyose uzajya ucira kijye kiba shekeli zigezwe ku y'Ahera: gera makumyabiri zibe shekeli imwe.",
+      "start": 22.72,
+      "end": 31.91
+    },
+    "26": {
+      "text": "“Keretse uburiza bw'amatungo busanzwe ari ubw'Uwiteka kuko ari uburiza, ntihakagire umuntu ubweza naho bwaba ubw'inka cyangwa ubw'intama, ni ubw'Uwiteka.",
+      "start": 19.19,
+      "end": 36.0
+    },
+    "27": {
+      "text": "Nibuba ubw'itungo rizira, abucunguze igiciro uzacira, akigeretseho igice cyacyo cya gatanu. Niridacungurwa, rigurwe igiciro uciriye.",
+      "start": 16.38,
+      "end": 40.53
+    },
+    "28": {
+      "text": "“Ariko ituro umuntu atura Uwiteka burundu mu byo afite byose, naho ari umuntu cyangwa itungo cyangwa umurima wo muri gakondo ye, ntihakagire ituro bene iryo rigurwa cyangwa ricungurwa, ituro ry'impezi nk'iryo ni iryera cyane ry'Uwiteka.",
+      "start": 21.11,
+      "end": 29.53
+    },
+    "29": {
+      "text": "Ntihakagire umuntu utuwe burundu ucungurwa, ahubwo akwiriye gupfa.",
+      "start": 6.68,
+      "end": 44.45
+    },
+    "30": {
+      "text": "“Mu bimeze mu butaka byose, naho yaba imyaka cyangwa imbuto z'ibiti, kimwe mu icumi ni icy'Uwiteka. Ni icyera cy'Uwiteka.",
+      "start": 4.04,
+      "end": 27.37
+    },
+    "31": {
+      "text": "Umuntu nashaka kwicungurira icyo muri kimwe mu icumi akwiriye gutanga, akigerekeho igice cyacyo cya gatanu.",
+      "start": 3.28,
+      "end": 31.05
+    },
+    "32": {
+      "text": "Kimwe mu icumi cyo mu mashyo yose cyangwa imikumbi yose, muzinyura munsi y'inkoni bazibarisha zose, imwe mu icumi ijye iba iyera y'Uwiteka.",
+      "start": 34.83,
+      "end": 36.14
+    },
+    "33": {
+      "text": "Umuntu ntakayitegereze ko ari nziza cyangwa ko ari mbi ntakayigurane indi, nayigurana, iyo n'ingurane yayo zombi zizabe izera kandi ntigacungurwe.”",
+      "start": 35.23,
+      "end": 36.31
+    },
+    "34": {
+      "text": "Ayo ni yo mategeko Uwiteka yategekeye Mose ku musozi wa Sinayi, ngo ayabwire Abisirayeli.",
+      "start": 6.98,
+      "end": 37.5
+    }
+  }
+}
