@@ -8,6 +8,9 @@ Functions:
     - Prompts for a chapter base name (e.g., 1_peter2)
 2. Non‑interactive (flags):
     - Provide --book and --chapter to skip prompts.
+3. Bulk processing mode:
+    - Use --book and --bulk to process all timestamp files for a book
+    - Processes all .txt files in the timestamp folder and updates corresponding JSON files
 
 Book directory resolution order (first existing is used):
     workstorage/<book>
@@ -40,8 +43,14 @@ Examples:
     # Non-interactive specify book & chapter
     python3 workstorage/verse_timing_wizard.py --book 60_1_peter --chapter 1_peter2
 
+    # Bulk processing - process all timestamp files for a book
+    python3 workstorage/verse_timing_wizard.py --book 60_1_peter --bulk
+
     # Dry run (no file write) with verbose per-verse table
     python3 workstorage/verse_timing_wizard.py -b 60_1_peter -c 1_peter2 --dry-run --verbose
+
+    # Bulk dry run
+    python3 workstorage/verse_timing_wizard.py -b 60_1_peter --bulk --dry-run
 
     # Update without promoting to canonical datastorage
     python3 workstorage/verse_timing_wizard.py -b 60_1_peter -c 1_peter2 --no-promote
@@ -195,6 +204,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(description="Update verse timing in a chapter JSON using cue markers TSV (and promote to canonical).")
     p.add_argument("--book", "-b", help="Book folder name under workstorage (e.g. 60_1_peter)")
     p.add_argument("--chapter", "-c", help="Chapter base filename (e.g. 1_peter2)")
+    p.add_argument("--bulk", action="store_true", help="Process all timestamp files for the specified book")
     p.add_argument("--dry-run", action="store_true", help="Show changes without writing the JSON")
     p.add_argument("--verbose", "-v", action="store_true", help="Print per-verse timing table")
     p.add_argument("--no-promote", action="store_true", help="Skip copying updated JSON into canonical datastorage/text tree")
@@ -265,6 +275,143 @@ def parse_book_number(book_folder: str) -> Optional[int]:
         return None
 
 
+def process_single_chapter(book_dir: str, chapter_base: str, args, book: str) -> Tuple[bool, str]:
+    """
+    Process a single chapter and return (success, message).
+    """
+    json_path = os.path.join(book_dir, f"{chapter_base}.json")
+    # Preferred new location: workstorage/<book>/timestamp/<chapter>.txt
+    timestamp_dir = os.path.join(book_dir, "timestamp")
+    tsv_path = os.path.join(timestamp_dir, f"{chapter_base}.txt")
+    
+    if not os.path.exists(tsv_path):
+        legacy_path = os.path.join(book_dir, f"{chapter_base}.txt")
+        if os.path.exists(legacy_path):
+            tsv_path = legacy_path
+        else:
+            return False, f"Could not find marker file for {chapter_base} in timestamp/ or legacy path."
+    
+    if not os.path.exists(json_path):
+        return False, f"JSON file not found: {json_path}"
+
+    try:
+        markers = read_markers(tsv_path)
+    except Exception as e:
+        return False, f"Error reading markers for {chapter_base}: {e}"
+
+    if not markers:
+        return False, f"No markers found for {chapter_base}. Nothing to update."
+
+    try:
+        chapter = load_chapter_json(json_path)
+    except Exception as e:
+        return False, f"Error loading JSON for {chapter_base}: {e}"
+
+    updated, total, details = update_timings(chapter, markers)
+
+    extra = len(markers) - total
+    warning_msg = ""
+    if extra > 0:
+        warning_msg += f" [Warning: {extra} extra marker(s) ignored]"
+    elif updated < total:
+        warning_msg += f" [Warning: Only updated {updated}/{total} verses due to insufficient markers]"
+
+    if args.verbose:
+        print(f"\nVerse updates for {chapter_base}:")
+        print("verse\told_start\told_end\tnew_start\tnew_end")
+        for d in details:
+            print(f"{d['verse']}\t{d['old_start']}\t{d['old_end']}\t{d['new_start']}\t{d['new_end']}")
+
+    promoted_path = None
+    if not args.dry_run:
+        try:
+            save_chapter_json(json_path, chapter)
+        except Exception as e:
+            return False, f"Error saving JSON for {chapter_base}: {e}"
+        
+        # Auto-promote unless disabled
+        if not args.no_promote:
+            book_num = parse_book_number(book)
+            structure = load_structure()
+            # Use located_testament preference unless explicit override is given
+            testament = args.testament
+            if not testament and book_num is not None:
+                testament = determine_testament(book_num, structure)
+            if testament:
+                canonical_dir = os.path.join(DATA_TEXT, testament, book)
+                os.makedirs(canonical_dir, exist_ok=True)
+                promoted_path = os.path.join(canonical_dir, f"{chapter_base}.json")
+                try:
+                    shutil.copy2(json_path, promoted_path)
+                except Exception as e:
+                    warning_msg += f" [Warning: Failed to promote chapter: {e}]"
+                    promoted_path = None
+
+    action = "(dry-run)" if args.dry_run else ""
+    result_msg = f"Updated {updated} verse(s) {action} for {chapter_base} using {len(markers)} marker(s){warning_msg}."
+    if promoted_path and not args.dry_run:
+        result_msg += f" Promoted to: {os.path.relpath(promoted_path, ROOT)}"
+    
+    return True, result_msg
+
+
+def process_bulk(book_dir: str, book: str, args) -> int:
+    """
+    Process all timestamp files in the book directory.
+    Returns exit code (0 for success, 1 for failure).
+    """
+    timestamp_dir = os.path.join(book_dir, "timestamp")
+    
+    if not os.path.exists(timestamp_dir):
+        print(f"No timestamp directory found in {book_dir}")
+        return 1
+    
+    # Find all .txt files in timestamp directory
+    txt_files = []
+    try:
+        for filename in os.listdir(timestamp_dir):
+            if filename.endswith('.txt'):
+                chapter_base = filename[:-4]  # Remove .txt extension
+                txt_files.append(chapter_base)
+    except Exception as e:
+        print(f"Error listing timestamp directory: {e}")
+        return 1
+    
+    if not txt_files:
+        print(f"No .txt files found in {timestamp_dir}")
+        return 1
+    
+    # Sort files for consistent processing order
+    txt_files.sort()
+    
+    print(f"Found {len(txt_files)} timestamp file(s) to process:")
+    for f in txt_files:
+        print(f"  - {f}.txt")
+    print()
+    
+    success_count = 0
+    failed_files = []
+    
+    for chapter_base in txt_files:
+        print(f"Processing {chapter_base}...")
+        success, message = process_single_chapter(book_dir, chapter_base, args, book)
+        print(f"  {message}")
+        
+        if success:
+            success_count += 1
+        else:
+            failed_files.append(chapter_base)
+    
+    print(f"\nBulk processing complete:")
+    print(f"  Successfully processed: {success_count}/{len(txt_files)} files")
+    
+    if failed_files:
+        print(f"  Failed files: {', '.join(failed_files)}")
+        return 1
+    
+    return 0
+
+
 def main(argv: List[str]) -> int:
     print("Verse Timing Wizard")
     print("--------------------")
@@ -272,14 +419,10 @@ def main(argv: List[str]) -> int:
     parser = build_arg_parser()
     args = parser.parse_args(argv)
 
-    # Fallback to interactive if flags missing
+    # Get book - required for both single and bulk modes
     book = args.book or prompt("Which book? (e.g., 60_1_peter): ")
     if not book:
         print("No book provided. Exiting.")
-        return 1
-    chapter_base = args.chapter or prompt("Which chapter? (e.g., 1_peter2): ")
-    if not chapter_base:
-        print("No chapter provided. Exiting.")
         return 1
 
     # Resolve book directory across possible layouts
@@ -288,88 +431,26 @@ def main(argv: List[str]) -> int:
         print(f"Could not locate book directory for '{book}'. Checked: direct, newTestament, oldTestament paths.")
         return 1
 
-    json_path = os.path.join(book_dir, f"{chapter_base}.json")
-    # Preferred new location: workstorage/<book>/timestamp/<chapter>.txt
-    timestamp_dir = os.path.join(book_dir, "timestamp")
-    tsv_path = os.path.join(timestamp_dir, f"{chapter_base}.txt")
-    if not os.path.exists(tsv_path):
-        legacy_path = os.path.join(book_dir, f"{chapter_base}.txt")
-        if os.path.exists(legacy_path):
-            print("Info: Using legacy marker path (no timestamp/ folder found).")
-            tsv_path = legacy_path
-        else:
-            print(f"Could not find marker file in '{timestamp_dir}' or legacy path '{legacy_path}'.")
-            return 1
+    # If testament not explicitly provided, use the located one
+    if not args.testament:
+        args.testament = located_testament
 
-    try:
-        markers = read_markers(tsv_path)
-    except Exception as e:
-        print(f"Error reading markers: {e}")
+    # Check if bulk mode is requested
+    if args.bulk:
+        print(f"Bulk processing mode for book: {book}")
+        print(f"Book directory: {os.path.relpath(book_dir, ROOT)}")
+        return process_bulk(book_dir, book, args)
+
+    # Single chapter mode (original behavior)
+    chapter_base = args.chapter or prompt("Which chapter? (e.g., 1_peter2): ")
+    if not chapter_base:
+        print("No chapter provided. Exiting.")
         return 1
 
-    if not markers:
-        print("No markers found. Nothing to update.")
-        return 1
-
-    try:
-        chapter = load_chapter_json(json_path)
-    except Exception as e:
-        print(f"Error loading JSON: {e}")
-        return 1
-
-    updated, total, details = update_timings(chapter, markers)
-
-    extra = len(markers) - total
-    if extra > 0:
-        print(f"Warning: {extra} extra marker(s) ignored (markers={len(markers)}, verses={total}).")
-    elif updated < total:
-        print(f"Warning: Only updated {updated}/{total} verses due to insufficient markers.")
-
-    if args.verbose:
-        print("\nVerse updates:")
-        print("verse\told_start\told_end\tnew_start\tnew_end")
-        for d in details:
-            print(f"{d['verse']}\t{d['old_start']}\t{d['old_end']}\t{d['new_start']}\t{d['new_end']}")
-
-    promoted_path = None
-    if args.dry_run:
-        print("\nDry run requested; NOT writing changes.")
-    else:
-        try:
-            save_chapter_json(json_path, chapter)
-        except Exception as e:
-            print(f"Error saving JSON: {e}")
-            return 1
-        # Auto-promote unless disabled
-        if args.no_promote:
-            print("Promotion skipped (--no-promote).")
-        else:
-            book_num = parse_book_number(book)
-            structure = load_structure()
-            # Use located_testament preference unless explicit override is given
-            testament = args.testament or located_testament
-            if not testament and book_num is not None:
-                testament = determine_testament(book_num, structure)
-            if not testament:
-                print("Warning: Could not determine testament; skipping promotion.")
-            else:
-                canonical_dir = os.path.join(DATA_TEXT, testament, book)
-                os.makedirs(canonical_dir, exist_ok=True)
-                promoted_path = os.path.join(canonical_dir, f"{chapter_base}.json")
-                try:
-                    shutil.copy2(json_path, promoted_path)
-                except Exception as e:
-                    print(f"Warning: Failed to promote chapter: {e}")
-                    promoted_path = None
-                else:
-                    print(f"Promotion complete: {os.path.relpath(promoted_path, ROOT)}")
-
-    action = "(dry-run)" if args.dry_run else ""
-    base_msg = f"Updated {updated} verse(s) {action} in {os.path.relpath(json_path, ROOT)} using {len(markers)} marker(s) from {os.path.relpath(tsv_path, ROOT)}."
-    if promoted_path and not args.dry_run:
-        base_msg += f" Canonical copy: {os.path.relpath(promoted_path, ROOT)}"
-    print(base_msg)
-    return 0
+    success, message = process_single_chapter(book_dir, chapter_base, args, book)
+    print(message)
+    
+    return 0 if success else 1
 
 
 if __name__ == "__main__":

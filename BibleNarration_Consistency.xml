@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectRackPreset Version="1.0">
+  <Name>BibleNarration_Consistency</Name>
+  <Effects>
+    <Effect UID="AdaptiveNoiseReduction" PresetName="">
+      <Parameter Name="NoiseReduction" Value="5"/>
+      <Parameter Name="FFTSize" Value="2048"/>
+      <Parameter Name="SpectralDecayRate" Value="65"/>
+      <Parameter Name="ReduceBy" Value="10"/>
+    </Effect>
+    <Effect UID="ParametricEQ" PresetName="">
+      <Parameter Name="HPFilterEnabled" Value="true"/>
+      <Parameter Name="HPFrequency" Value="80"/>
+      <Parameter Name="HPQ" Value="0.8"/>
+      <Parameter Name="Band2Frequency" Value="150"/>
+      <Parameter Name="Band2Gain" Value="2"/>
+      <Parameter Name="Band2Q" Value="1"/>
+      <Parameter Name="Band3Frequency" Value="350"/>
+      <Parameter Name="Band3Gain" Value="-2"/>
+      <Parameter Name="Band3Q" Value="1.2"/>
+      <Parameter Name="Band4Frequency" Value="4000"/>
+      <Parameter Name="Band4Gain" Value="3"/>
+      <Parameter Name="Band4Q" Value="1"/>
+      <Parameter Name="HighShelfFrequency" Value="10000"/>
+      <Parameter Name="HighShelfGain" Value="2"/>
+    </Effect>
+    <Effect UID="DynamicsProcessor" PresetName="">
+      <Parameter Name="Threshold" Value="-18"/>
+      <Parameter Name="Ratio" Value="2.5"/>
+      <Parameter Name="Attack" Value="5"/>
+      <Parameter Name="Release" Value="50"/>
+      <Parameter Name="MakeupGain" Value="3"/>
+    </Effect>
+    <Effect UID="DeEsser" PresetName="">
+      <Parameter Name="Frequency" Value="5500"/>
+      <Parameter Name="Bandwidth" Value="3000"/>
+      <Parameter Name="Threshold" Value="-25"/>
+      <Parameter Name="Reduction" Value="6"/>
+    </Effect>
+    <Effect UID="StudioReverb" PresetName="">
+      <Parameter Name="RoomSize" Value="20"/>
+      <Parameter Name="Decay" Value="1.5"/>
+      <Parameter Name="EarlyReflectionsLevel" Value="-12"/>
+      <Parameter Name="ReverbLevel" Value="-18"/>
+      <Parameter Name="DryLevel" Value="0"/>
+    </Effect>
+  </Effects>
+</EffectRackPreset>
