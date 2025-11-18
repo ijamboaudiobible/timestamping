@@ -1,0 +1,83 @@
+{
+  "book": "Book 54",
+  "book_canonical": "1_timothy",
+  "book_number": 54,
+  "chapter": 2,
+  "verses": {
+    "1": {
+      "text": "Irya mbere ya byose ndaguhugurira kwingingira abantu bose, no kubasengera no kubasabira no kubashimira,",
+      "start": 0.0,
+      "end": 6.751
+    },
+    "2": {
+      "text": "ariko cyane cyane abami n'abatware bose kugira ngo duhore mu mahoro tutabona ibyago, twubaha Imana kandi twitonda rwose.",
+      "start": 6.751,
+      "end": 15.665
+    },
+    "3": {
+      "text": "Ibyo ni byo byiza byemerwa imbere y'Imana Umukiza wacu,",
+      "start": 15.665,
+      "end": 19.5
+    },
+    "4": {
+      "text": "ishaka ko abantu bose bakizwa bakamenya ukuri.",
+      "start": 19.5,
+      "end": 23.162
+    },
+    "5": {
+      "text": "Kuko hariho Imana imwe, kandi hariho Umuhuza umwe w'Imana n'abantu, na we ni umuntu, ari we Yesu Kristo",
+      "start": 23.162,
+      "end": 30.812
+    },
+    "6": {
+      "text": "witangiye kuba incungu ya bose. Ibyo byahamijwe mu gihe cyabyo,",
+      "start": 30.812,
+      "end": 35.618
+    },
+    "7": {
+      "text": "ari cyo cyatumye nshyirirwaho kuba umubwiriza n'intumwa (ndavuga ukuri, simbeshya) n'umwigisha wo kwigisha abanyamahanga kwizera n'ukuri.",
+      "start": 35.618,
+      "end": 43.768
+    },
+    "8": {
+      "text": "Nuko ndashaka ko abagabo basenga hose barambuye amaboko yera, badafite umujinya kandi batagira impaka.",
+      "start": 43.768,
+      "end": 50.718
+    },
+    "9": {
+      "text": "Kandi n'abagore ni uko ndashaka ko bambara imyambaro ikwiriye, bakagira isoni birinda, kandi batirimbisha kuboha umusatsi, cyangwa izahabu cyangwa imaragarita, cyangwa imyenda y'igiciro cyinshi,",
+      "start": 50.718,
+      "end": 64.626
+    },
+    "10": {
+      "text": "ahubwo birimbishishe imirimo y'ingeso nziza nk'uko bikwiriye abagore bavuga yuko bubaha Imana.",
+      "start": 64.626,
+      "end": 71.453
+    },
+    "11": {
+      "text": "Umugore yigane ituza aganduke rwose,",
+      "start": 71.453,
+      "end": 74.874
+    },
+    "12": {
+      "text": "kuko nanga ko umugore yigisha cyangwa ngo ategeke umugabo, ahubwo agire ituza",
+      "start": 74.874,
+      "end": 80.77
+    },
+    "13": {
+      "text": "kuko Adamu ari we wabanje kuremwa nyuma hagakurikiraho Eva.",
+      "start": 80.77,
+      "end": 85.227
+    },
+    "14": {
+      "text": "Kandi Adamu si we wayobejwe, ahubwo umugore ni we wayobejwe rwose, ahinduka umunyabicumuro.",
+      "start": 85.227,
+      "end": 92.0
+    },
+    "15": {
+      "text": "Nyamara abagore bazakizwa mu ibyara nibakomeza kwizera, bakagira urukundo no kwera, bakirinda.",
+      "start": 92.0,
+      "end": 99.412
+    }
+  }
+}

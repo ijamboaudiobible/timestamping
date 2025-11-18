@@ -1,0 +1,26 @@
+﻿Name	Start	Duration	Time Format	Type	Description
+Marker 01	0:05.216	0:00.000	decimal	Cue	
+Marker 02	0:14.350	0:00.000	decimal	Cue	
+Marker 03	0:17.802	0:00.000	decimal	Cue	
+Marker 04	0:30.250	0:00.000	decimal	Cue	
+Marker 05	0:36.899	0:00.000	decimal	Cue	
+Marker 06	0:40.330	0:00.000	decimal	Cue	
+Marker 07	0:43.305	0:00.000	decimal	Cue	
+Marker 08	0:51.420	0:00.000	decimal	Cue	
+Marker 09	0:58.701	0:00.000	decimal	Cue	
+Marker 10	1:11.995	0:00.000	decimal	Cue	
+Marker 11	1:20.404	0:00.000	decimal	Cue	
+Marker 12	1:24.228	0:00.000	decimal	Cue	
+Marker 13	1:36.747	0:00.000	decimal	Cue	
+Marker 14	1:45.136	0:00.000	decimal	Cue	
+Marker 15	1:48.955	0:00.000	decimal	Cue	
+Marker 16	1:59.847	0:00.000	decimal	Cue	
+Marker 17	2:10.381	0:00.000	decimal	Cue	
+Marker 18	2:17.804	0:00.000	decimal	Cue	
+Marker 19	2:22.260	0:00.000	decimal	Cue	
+Marker 20	2:27.417	0:00.000	decimal	Cue	
+Marker 21	2:37.331	0:00.000	decimal	Cue	
+Marker 22	2:44.232	0:00.000	decimal	Cue	
+Marker 25	2:50.714	0:00.000	decimal	Cue	
+Marker 24	2:57.181	0:00.000	decimal	Cue	
+Marker 26	3:03.074	0:00.000	decimal	Cue	
