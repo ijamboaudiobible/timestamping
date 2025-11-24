@@ -1,0 +1,8 @@
+# SSH keys - never commit these!
+ijambo_deploy_rsa
+ijambo_deploy_rsa.pub
+*.pem
+*.key
+
+# Windows metadata files
+*.Zone.Identifier
