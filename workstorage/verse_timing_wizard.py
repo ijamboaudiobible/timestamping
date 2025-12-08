@@ -153,6 +153,13 @@ def save_chapter_json(json_path: str, data: dict) -> None:
 
 def update_timings(chapter: dict, marker_times: List[float]):
     """Update chapter['verses'][*]['start'|'end'] in place using marker_times as end boundaries.
+    
+    Each marker represents the END time of a verse. For N verses we need N markers.
+    - Verse 1: start = 0.000, end = marker[0]
+    - Verse 2: start = marker[0], end = marker[1]
+    - ...
+    - Verse N: start = marker[N-2], end = marker[N-1]
+    
     Returns (updated_count, total_verses, details_list) where details_list contains dicts:
         { 'verse': '1', 'old_start': <float|None>, 'old_end': <float|None>, 'new_start': float, 'new_end': float }
     """
@@ -169,12 +176,18 @@ def update_timings(chapter: dict, marker_times: List[float]):
     n_markers = len(marker_times)
     n_verses = len(verse_keys)
 
+    # We need exactly n_verses markers (one end boundary per verse)
+    # If we have fewer markers, we can only update that many verses
     n_update = min(n_markers, n_verses)
     details = []
+    
     for i in range(n_update):
         key = verse_keys[i]
+        # Start time: 0 for first verse, otherwise previous marker (which was previous verse's end)
         start_val = 0.0 if i == 0 else marker_times[i - 1]
+        # End time: current marker
         end_val = marker_times[i]
+        
         v = verses.get(key, {})
         old_start = v.get("start") if isinstance(v.get("start"), (int, float)) else None
         old_end = v.get("end") if isinstance(v.get("end"), (int, float)) else None
@@ -189,7 +202,7 @@ def update_timings(chapter: dict, marker_times: List[float]):
             "new_end": v["end"],
         })
 
-    # Note: If fewer markers than verses, we leave the remaining verses unchanged
+    # Note: If fewer markers than verses, remaining verses are left unchanged
     return n_update, n_verses, details
 
 
@@ -313,8 +326,13 @@ def process_single_chapter(book_dir: str, chapter_base: str, args, book: str) ->
     warning_msg = ""
     if extra > 0:
         warning_msg += f" [Warning: {extra} extra marker(s) ignored]"
-    elif updated < total:
-        warning_msg += f" [Warning: Only updated {updated}/{total} verses due to insufficient markers]"
+    elif len(markers) < total:
+        missing = total - len(markers)
+        # Red color warning using ANSI escape codes
+        RED = "\033[91m"
+        RESET = "\033[0m"
+        warning_msg += f"\n{RED}  ⚠ ERROR: Missing {missing} marker(s)! Need {total} markers for {total} verses but only found {len(markers)}.{RESET}"
+        warning_msg += f"\n{RED}  ⚠ Verses {len(markers)+1}-{total} were NOT updated and may have incorrect timing!{RESET}"
 
     if args.verbose:
         print(f"\nVerse updates for {chapter_base}:")
