@@ -47,11 +47,11 @@
     "9": {
       "text": "Ariko niba murobanura abantu ku butoni muba mukoze icyaha, mutsinzwe n'amategeko y'uko mwacumuye.",
       "start": 68.191,
-      "end": 74.0
+      "end": 73.964
     },
     "10": {
       "text": "Umuntu wese witondera amategeko yose agasitara kuri rimwe, aba ayacumuye yose",
-      "start": 74.0,
+      "start": 73.964,
       "end": 79.712
     },
     "11": {
@@ -122,17 +122,17 @@
     "24": {
       "text": "Mubonye yuko umuntu atsindishirizwa n'imirimo, adatsindishirizwa no kwizera gusa.",
       "start": 182.001,
-      "end": 196.113
+      "end": 187.134
     },
     "25": {
       "text": "Dore na maraya uwo Rahabu. Mbese ntiyatsindishirijwe n'imirimo ubwo yacumbikiraga za ntumwa, akaziyobora indi nzira?",
-      "start": 196.113,
-      "end": 203.232
+      "start": 187.134,
+      "end": 196.594
     },
     "26": {
       "text": "Nuko rero nk'uko umubiri udafite umwuka uba upfuye, ni ko no kwizera kudafite imirimo kumeze, kuba gupfuye.",
-      "start": 203.232,
-      "end": 211.65
+      "start": 196.594,
+      "end": 203.713
     }
   }
 }
