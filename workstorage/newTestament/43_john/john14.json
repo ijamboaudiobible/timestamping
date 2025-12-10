@@ -1,0 +1,163 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 14,
+  "verses": {
+    "1": {
+      "text": "“Ntimuhagarike imitima yanyu, mwizere Imana nanjye munyizere.",
+      "start": 13.82,
+      "end": 41.92
+    },
+    "2": {
+      "text": "Mu rugo rwa Data harimo amazu menshi: iyaba adahari mba mbabwiye, kuko ngiye kubategurira ahanyu.",
+      "start": 1.58,
+      "end": 21.51
+    },
+    "3": {
+      "text": "Kandi ubwo ngiye kubategurira ahanyu, nzagaruka mbajyane iwanjye, ngo aho ndi namwe muzabeyo.",
+      "start": 19.57,
+      "end": 27.75
+    },
+    "4": {
+      "text": "Kandi aho njya, inzira murayizi.”",
+      "start": 37.61,
+      "end": 42.0
+    },
+    "5": {
+      "text": "Toma aramubwira ati “Databuja, ntituzi aho ujya, inzira twayibwirwa n'iki?”",
+      "start": 6.43,
+      "end": 15.18
+    },
+    "6": {
+      "text": "Yesu aramubwira ati “Ni jye nzira n'ukuri n'ubugingo: nta wujya kwa Data ntamujyanye.",
+      "start": 25.87,
+      "end": 42.96
+    },
+    "7": {
+      "text": "Iyaba mwaramenye, muba mwaramenye na Data. Uhereye none muramuzi kandi mwamurebye.”",
+      "start": 32.82,
+      "end": 39.77
+    },
+    "8": {
+      "text": "Filipo aramubwira ati “Databuja, twereke Data wa twese biraba bihagije.”",
+      "start": 29.35,
+      "end": 40.59
+    },
+    "9": {
+      "text": "Yesu aramubaza ati “Nabanye namwe iminsi ingana ityo, kandi ntiwari wamenya, Filipo? Umbonye aba abonye Data. Ni iki gitumye uvuga uti ‘Twereke Data wa twese’?",
+      "start": 39.02,
+      "end": 39.78
+    },
+    "10": {
+      "text": "Ntiwizeye yuko ndi muri Data, na Data akaba ari muri jye? Amagambo mbabwira sinyavuga ku bwanjye, ahubwo Data uguma muri jye ni we ukora imirimo ye.",
+      "start": 36.79,
+      "end": 37.93
+    },
+    "11": {
+      "text": "Nimunyizere mwemere ko ndi muri Data, na Data akaba muri jye, ariko rero nimutizezwa n'ibyo mvuga, munyizezwe n'imirimo nkora ubwayo.",
+      "start": 16.55,
+      "end": 43.31
+    },
+    "12": {
+      "text": "Ni ukuri, ni ukuri, ndababwira yuko unyizera, imirimo nkora na we azayikora ndetse azakora n'iyiruta, kuko njya kwa Data.",
+      "start": 5.73,
+      "end": 19.68
+    },
+    "13": {
+      "text": "Kandi icyo muzasaba cyose mu izina ryanjye, nzagikorera kugira ngo Data yubahirizwe mu Mwana we.",
+      "start": 40.85,
+      "end": 44.68
+    },
+    "14": {
+      "text": "Nimugira icyo musaba cyose mu izina ryanjye nzagikora.",
+      "start": 42.42,
+      "end": 44.21
+    },
+    "15": {
+      "text": "“Nimunkunda muzitondera amategeko yanjye.",
+      "start": 2.77,
+      "end": 4.52
+    },
+    "16": {
+      "text": "Nanjye nzasaba Data, na we azabaha undi Mufasha wo kubana namwe ibihe byose,",
+      "start": 4.79,
+      "end": 17.82
+    },
+    "17": {
+      "text": "ni we Mwuka w'ukuri. Ntibishoboka ko ab'isi bamuhabwa, kuko batamurora kandi batamuzi, ariko mwebweho muramuzi kuko abana namwe, kandi azaba muri mwe.",
+      "start": 7.64,
+      "end": 17.42
+    },
+    "18": {
+      "text": "“Sinzabasiga nk'impfubyi, ahubwo nzaza aho muri.",
+      "start": 11.99,
+      "end": 18.84
+    },
+    "19": {
+      "text": "Hasigaye umwanya muto ab'isi ntibabe bakimbona, ariko mwebweho muzambona, kuko ndiho namwe muzabaho.",
+      "start": 20.09,
+      "end": 43.44
+    },
+    "20": {
+      "text": "Uwo munsi muzamenya ko ndi muri Data namwe mukaba muri jye, nanjye nkaba muri mwe.",
+      "start": 2.51,
+      "end": 13.35
+    },
+    "21": {
+      "text": "“Ufite amategeko yanjye akayitondera ni we unkunda, kandi unkunda azakundwa na Data, nanjye nzamukunda mwiyereke.”",
+      "start": 20.38,
+      "end": 25.11
+    },
+    "22": {
+      "text": "Yuda utari Isikariyota aramubaza ati “Databuja, bibaye bite ko ugiye kutwiyereka ntiwiyereke ab'isi?”",
+      "start": 28.96,
+      "end": 33.14
+    },
+    "23": {
+      "text": "Yesu aramusubiza ati “Umuntu nankunda azitondera ijambo ryanjye, na Data azamukunda, tuzaza aho ari tugumane na we.",
+      "start": 32.69,
+      "end": 36.56
+    },
+    "24": {
+      "text": "Ariko utankunda ntiyitondera amagambo yanjye, kandi iryo jambo mwumvise si iryanjye, ahubwo ni irya Data wantumye.",
+      "start": 29.55,
+      "end": 40.8
+    },
+    "25": {
+      "text": "“Ibyo mbibabwiye nkiri kumwe namwe,",
+      "start": 32.14,
+      "end": 37.41
+    },
+    "26": {
+      "text": "ariko Umufasha ari we Mwuka Wera, uwo Data azatuma mu izina ryanjye ni we uzabigisha byose, abibutse ibyo nababwiye byose.",
+      "start": 13.87,
+      "end": 39.55
+    },
+    "27": {
+      "text": "“Mbasigiye amahoro, amahoro yanjye ndayabahaye. Icyakora simbaha nk'uko ab'isi batanga. Imitima yanyu ntihagarare kandi ntitinye.",
+      "start": 33.82,
+      "end": 38.75
+    },
+    "28": {
+      "text": "Mwumvise uko nababwiye nti ‘Ndagenda kandi nzagaruka aho muri.’ Iyaba mwankundaga, muba munejejwe n'uko njya kwa Data kuko Data anduta.",
+      "start": 31.65,
+      "end": 43.64
+    },
+    "29": {
+      "text": "Nuko rero mbibabwiye bitaraba, ngo ubwo bizaba muzizere.",
+      "start": 39.44,
+      "end": 43.86
+    },
+    "30": {
+      "text": "Sinkivugana namwe byinshi, kuko umutware w'ab'iyi si aza kandi nta cyo amfiteho,",
+      "start": 34.43,
+      "end": 39.27
+    },
+    "31": {
+      "text": "ahubwo nkora uko Data yantegetse, kugira ngo ab'isi bamenye ko munkunda.“Nimuhaguruke tuve hano.",
+      "start": 19.52,
+      "end": 42.18
+    }
+  }
+}

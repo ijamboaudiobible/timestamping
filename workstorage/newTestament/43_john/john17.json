@@ -1,0 +1,138 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 17,
+  "verses": {
+    "1": {
+      "text": "Yesu amaze kuvuga ibyo, yubura amaso areba mu ijuru ati “Data, igihe kirasohoye, ubahiriza Umwana wawe ngo Umwana akūbahishe,",
+      "start": 16.86,
+      "end": 31.49
+    },
+    "2": {
+      "text": "nk'uko wamuhaye ubutware ku bantu bose, kugira ngo abo wamuhaye bose abahe ubugingo buhoraho.",
+      "start": 39.86,
+      "end": 43.72
+    },
+    "3": {
+      "text": "Ubu ni bwo bugingo buhoraho, ko bakumenya ko ari wowe Mana y'ukuri yonyine, bakamenya n'uwo watumye ari we Yesu Kristo.",
+      "start": 39.03,
+      "end": 43.56
+    },
+    "4": {
+      "text": "Nakūbahishije mu isi, kuko narangije umurimo wampaye gukora.",
+      "start": 15.96,
+      "end": 44.36
+    },
+    "5": {
+      "text": "Na none Data, imbere yawe unyubahirishe cya cyubahiro nahoranye ndi kumwe nawe isi itararemwa.",
+      "start": 19.32,
+      "end": 37.18
+    },
+    "6": {
+      "text": "“Abo wampaye mu isi mbamenyesheje izina ryawe. Bari abawe urabampa, none dore bitondeye ijambo ryawe.",
+      "start": 9.23,
+      "end": 10.87
+    },
+    "7": {
+      "text": "None bamenye yuko ibyo wampaye byose byaturutse kuri wowe,",
+      "start": 3.63,
+      "end": 18.33
+    },
+    "8": {
+      "text": "kuko amagambo wampaye nayabahaye na bo bakayemera, bakamenya by'ukuri ko naturutse kuri wowe, bakizera kandi ko ari wowe wantumye.",
+      "start": 25.55,
+      "end": 30.07
+    },
+    "9": {
+      "text": "“Ndabasabira. Sinsabira ab'isi, ahubwo ndasabira abo wampaye kuko ari abawe,",
+      "start": 1.48,
+      "end": 36.03
+    },
+    "10": {
+      "text": "kandi ibyanjye byose ni ibyawe, n'ibyawe na byo ni ibyanjye kandi nubahirijwe muri bo.",
+      "start": 37.46,
+      "end": 44.33
+    },
+    "11": {
+      "text": "Jye sinkiri mu isi ariko bo bari mu isi, naho jye ndaza kuri wowe. Data Wera, ubarindire mu izina ryawe wampaye, ngo babe umwe nk'uko natwe turi umwe.",
+      "start": 7.08,
+      "end": 18.61
+    },
+    "12": {
+      "text": "Nkiri kumwe na bo, nabarindiraga mu izina ryawe wampaye. Narabarinze, muri bo nta muntu wabuze ngo arimbuke, keretse umwana wo kurimbuka ngo ibyanditswe bisohore.",
+      "start": 38.91,
+      "end": 43.25
+    },
+    "13": {
+      "text": "Ariko none ndaza kuri wowe, kandi ibyo mbivuze nkiri mu isi, ngo bagire umunezero wanjye wuzure muri bo.",
+      "start": 35.69,
+      "end": 36.45
+    },
+    "14": {
+      "text": "Nabahaye ijambo ryawe, kandi ab'isi barabanga kuko atari ab'isi, nk'uko nanjye ntari uw'isi.",
+      "start": 39.86,
+      "end": 44.96
+    },
+    "15": {
+      "text": "Sinsaba ko ubakura mu isi, ahubwo ubarinde Umubi.",
+      "start": 20.6,
+      "end": 35.52
+    },
+    "16": {
+      "text": "Si ab'isi nk'uko nanjye ntari uw'isi.",
+      "start": 32.43,
+      "end": 40.44
+    },
+    "17": {
+      "text": "Ubereshe ukuri: ijambo ryawe ni ryo kuri.",
+      "start": 40.4,
+      "end": 44.08
+    },
+    "18": {
+      "text": "Uko wantumye mu isi nanjye ni ko nabatumye mu isi,",
+      "start": 41.31,
+      "end": 44.11
+    },
+    "19": {
+      "text": "kandi nanjye niyeza ku bwabo ngo na bo babe bereshejwe ukuri.",
+      "start": 35.89,
+      "end": 38.46
+    },
+    "20": {
+      "text": "“Sinsabira aba bonyine, ahubwo ndasabira n'abazanyizezwa n'ijambo ryabo,",
+      "start": 9.4,
+      "end": 41.08
+    },
+    "21": {
+      "text": "ngo bose babe umwe nk'uko uri muri jye, Data, nanjye nkaba muri wowe ngo na bo babe umwe muri twe, ngo ab'isi bizere ko ari wowe wantumye.",
+      "start": 43.68,
+      "end": 44.58
+    },
+    "22": {
+      "text": "Nanjye mbahaye ubwiza wampaye, ngo babe umwe nk'uko natwe turi umwe.",
+      "start": 29.49,
+      "end": 37.55
+    },
+    "23": {
+      "text": "Jyewe mbe muri bo nawe ube muri jye, ngo babe umwe rwose, ngo ab'isi bamenye ko ari wowe wantumye, ukabakunda nk'uko wankunze.",
+      "start": 12.95,
+      "end": 18.08
+    },
+    "24": {
+      "text": "“Data, abo wampaye ndashaka ko aho ndi na bo bahabana nanjye, ngo babone ubwiza bwanjye wampaye, kuko wankunze isi itararemwa.",
+      "start": 14.62,
+      "end": 44.46
+    },
+    "25": {
+      "text": "Data ukiranuka, ab'isi ntibakumenye ariko jyewe narakumenye, n'aba na bo bamenye ko ari wowe wantumye.",
+      "start": 39.28,
+      "end": 42.0
+    },
+    "26": {
+      "text": "Nabamenyesheje izina ryawe kandi nzaribamenyesha, ngo urukundo wankunze rube muri bo, nanjye mbe muri bo.”",
+      "start": 22.19,
+      "end": 41.55
+    }
+  }
+}

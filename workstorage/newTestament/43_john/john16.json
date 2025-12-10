@@ -1,0 +1,173 @@
+{
+  "book": "Book 43",
+  "book_canonical": "john",
+  "book_number": 43,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "“Icyo mbabwiriye ibyo ni ukugira ngo hatagira ikibagusha.",
+      "start": 10.91,
+      "end": 29.2
+    },
+    "2": {
+      "text": "Bazabaca mu masinagogi, kandi igihe kigiye kuza, uzabica wese azibwira ko akoreye Imana umurimo.",
+      "start": 19.68,
+      "end": 42.24
+    },
+    "3": {
+      "text": "Kandi ibyo bazabikorera batyo kuko batamenye Data, nanjye ntibamenye.",
+      "start": 12.79,
+      "end": 18.32
+    },
+    "4": {
+      "text": "Ariko ibyo mbibabwiriye kugira ngo igihe cyabyo nikigera, muzibuke ko ari jye wabibabwiye.",
+      "start": 13.04,
+      "end": 29.86
+    },
+    "5": {
+      "text": "Ariko none ndajya ku Uwantumye, kandi muri mwe nta wumbaza ati ‘Urajya he?’",
+      "start": 5.81,
+      "end": 17.94
+    },
+    "6": {
+      "text": "Ariko kuko mbabwiye ibyo, imitima yanyu yuzuye agahinda.",
+      "start": 44.21,
+      "end": 44.79
+    },
+    "7": {
+      "text": "“Ariko ndababwira ukuri yuko ikizagira icyo kibamarira ari uko ngenda, kuko nintagenda Umufasha atazaza aho muri, ariko ningenda nzamuboherereza.",
+      "start": 6.89,
+      "end": 24.76
+    },
+    "8": {
+      "text": "Ubwo azaza azatsinda ab'isi, abemeze iby'icyaha n'ibyo gukiranuka n'iby'amateka;",
+      "start": 18.01,
+      "end": 19.36
+    },
+    "9": {
+      "text": "iby'icyaha, kuko batanyizeye,",
+      "start": 42.26,
+      "end": 44.73
+    },
+    "10": {
+      "text": "n'ibyo gukiranuka kuko njya kwa Data, kandi namwe muzaba mutakimbona,",
+      "start": 42.66,
+      "end": 42.83
+    },
+    "11": {
+      "text": "n'iby'amateka kuko umutware w'ab'iyi si aciriweho iteka.",
+      "start": 25.78,
+      "end": 32.56
+    },
+    "12": {
+      "text": "“Ndacyafite ibyo kubabwira byinshi, ariko ubu ntimubasha kubyihanganira.",
+      "start": 37.06,
+      "end": 42.28
+    },
+    "13": {
+      "text": "Uwo Mwuka w'ukuri naza azabayobora mu kuri kose kuko atazavuga ku bwe, ahubwo ibyo azumva ni byo azavuga, kandi azababwira ibyenda kubaho.",
+      "start": 17.98,
+      "end": 37.75
+    },
+    "14": {
+      "text": "Uwo azanyubahiriza, kuko azenda ku byanjye akabibabwira.",
+      "start": 1.32,
+      "end": 21.28
+    },
+    "15": {
+      "text": "Ibyo Data afite byose ni ibyanjye, ni cyo gitumye mvuga nti ‘Azenda ku byanjye abibabwire.’",
+      "start": 38.85,
+      "end": 41.14
+    },
+    "16": {
+      "text": "“Hasigaye igihe gito ntimumbone, maze hazabaho ikindi gihe gito mumbone.”",
+      "start": 4.39,
+      "end": 28.95
+    },
+    "17": {
+      "text": "Bamwe mu bigishwa be barabazanya bati “Ibyo atubwiye ni ibiki ngo ‘Hasigaye igihe gito ntimumbone, maze hazabaho igihe gito mumbone’, kandi ngo ‘Kuko njya kuri Data.’ ”",
+      "start": 13.29,
+      "end": 38.01
+    },
+    "18": {
+      "text": "Kandi bati “Ibyo ni ibiki ngo ‘Igihe gito’? Ntituzi ibyo avuze.”",
+      "start": 33.89,
+      "end": 34.2
+    },
+    "19": {
+      "text": "Yesu amenye ko bashaka kumubaza arababaza ati “Murabazanya ibyo mbabwiye ibyo ngo ‘Hasigaye igihe gito ntimumbone, maze hazabaho ikindi gihe gito mumbone’?",
+      "start": 1.61,
+      "end": 28.26
+    },
+    "20": {
+      "text": "Ni ukuri, ni ukuri, ndababwira yuko mwebweho muzarira mukaboroga, ariko ab'isi bazanezerwa. Mwebweho muzababara, ariko umubabaro wanyu uzahinduka umunezero.",
+      "start": 4.78,
+      "end": 29.06
+    },
+    "21": {
+      "text": "Umugore iyo aramukwa arababara kuko igihe cye gisohoye, ariko iyo umwana amaze kuvuka ntaba akibuka kuribwa, kuko anejejwe n'uko umuntu avutse mu isi.",
+      "start": 35.1,
+      "end": 44.6
+    },
+    "22": {
+      "text": "Ni ko namwe mubabara none, ariko nzongera kubonana namwe kandi imitima yanyu izanezerwa, n'umunezero wanyu nta muntu uzawubaka.",
+      "start": 14.08,
+      "end": 29.74
+    },
+    "23": {
+      "text": "Uwo munsi nta cyo muzambaza. Ni ukuri, ni ukuri, ndababwira yuko icyo muzasaba Data cyose mu izina ryanjye azakibaha.",
+      "start": 17.08,
+      "end": 33.7
+    },
+    "24": {
+      "text": "Kugeza none nta cyo mwasabye mu izina ryanjye. Musabe muzahabwa ngo umunezero wanyu ube wuzuye.",
+      "start": 21.91,
+      "end": 33.72
+    },
+    "25": {
+      "text": "“Ibyo mbibabwiriye mu migani, ariko igihe kizaza sinzavuganira namwe mu migani, ahubwo nzababwira ibya Data neruye.",
+      "start": 39.83,
+      "end": 42.05
+    },
+    "26": {
+      "text": "Uwo munsi muzasaba mu izina ryanjye, kandi simbabwira ko nzabasabira kuri Data,",
+      "start": 25.72,
+      "end": 27.35
+    },
+    "27": {
+      "text": "kuko Data na we abakunda ubwe kuko mwankunze mukizera yuko navuye ku Mana.",
+      "start": 42.55,
+      "end": 43.13
+    },
+    "28": {
+      "text": "Navuye kuri Data nza mu isi, kandi isi ndayivamo nsubire kuri Data.”",
+      "start": 41.1,
+      "end": 41.38
+    },
+    "29": {
+      "text": "Abigishwa baravuga bati “Dore noneho ureruye, nta mugani uduciriye.",
+      "start": 32.53,
+      "end": 36.34
+    },
+    "30": {
+      "text": "Ubu tuzi yuko uzi byose kandi ko utagomba ko umuntu wese agira icyo akubaza, ni cyo gituma twizera ko wavuye ku Mana.”",
+      "start": 32.14,
+      "end": 36.68
+    },
+    "31": {
+      "text": "Yesu arabasubiza ati “None murizeye?",
+      "start": 44.6,
+      "end": 44.96
+    },
+    "32": {
+      "text": "Dore igihe kirenda gusohora ndetse kirasohoye, ubwo muri butatane umuntu wese ukwe, mukansiga jyenyine. Ariko sindi jyenyine, kuko Data ari kumwe nanjye.",
+      "start": 44.49,
+      "end": 44.61
+    },
+    "33": {
+      "text": "Ibyo mbibabwiriye kugira ngo mugire amahoro muri jye. Mu isi mugira umubabaro, ariko nimuhumure nanesheje isi.”",
+      "start": 7.71,
+      "end": 17.05
+    }
+  }
+}

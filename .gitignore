@@ -6,3 +6,9 @@ ijambo_deploy_rsa.pub
 
 # Windows metadata files
 *.Zone.Identifier
+
+# Recording files
+/recording
+**/recording/
+*.pkf
+*.wav
