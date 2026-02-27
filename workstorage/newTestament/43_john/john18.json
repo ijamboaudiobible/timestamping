@@ -6,203 +6,203 @@
   "verses": {
     "1": {
       "text": "Yesu amaze kuvuga ayo magambo asohokana n'abigishwa be, yambuka umugezi witwa Kidironi, hariho agashyamba akajyanamo n'abigishwa be.",
-      "start": 21.26,
-      "end": 39.97
+      "start": 0.0,
+      "end": 11.389
     },
     "2": {
       "text": "Kandi na Yuda umugambanira na we yari azi aho hantu, kuko Yesu yahajyanaga n'abigishwa be kenshi.",
-      "start": 10.2,
-      "end": 38.78
+      "start": 11.389,
+      "end": 18.745
     },
     "3": {
       "text": "Nuko Yuda amaze guhabwa ingabo z'abasirikare n'abagaragu b'abatambyi bakuru n'ab'Abafarisayo, ajyayo afite amatabaza n'imuri n'intwaro.",
-      "start": 37.5,
-      "end": 44.64
+      "start": 18.745,
+      "end": 28.679
     },
     "4": {
       "text": "Yesu amenye ibyenda kumubaho byose, arabasanganira arababaza ati “Murashaka nde?”",
-      "start": 5.06,
-      "end": 38.51
+      "start": 28.679,
+      "end": 35.659
     },
     "5": {
       "text": "Baramusubiza bati “Ni Yesu w'i Nazareti.”Arababwira ati “Ni jye.” Na Yuda umugambanira yari ahagararanye na bo.",
-      "start": 3.86,
-      "end": 13.25
+      "start": 35.659,
+      "end": 44.959
     },
     "6": {
       "text": "Amaze kubabwira ati “Ni jye”, bagenza imigongo bagwa hasi.",
-      "start": 34.98,
-      "end": 43.98
+      "start": 44.959,
+      "end": 50.419
     },
     "7": {
       "text": "Nuko yongera kubabaza ati “Murashaka nde?”Bati “Ni Yesu w'i Nazareti.”",
-      "start": 17.28,
-      "end": 33.28
+      "start": 50.419,
+      "end": 56.589
     },
     "8": {
       "text": "Yesu arabasubiza ati “Mbabwiye ko ari jye. Nuko rero niba ari jye mushaka mureke aba bagende.”",
-      "start": 42.2,
-      "end": 44.27
+      "start": 56.589,
+      "end": 67.023
     },
     "9": {
       "text": "Yabivugiye atyo kugira ngo rya jambo yavuze risohore, ngo “Mu bo wampaye sinabuzeho n'umwe.”",
-      "start": 13.66,
-      "end": 44.09
+      "start": 67.023,
+      "end": 73.183
     },
     "10": {
       "text": "Nuko Simoni Petero yari afite inkota, arayikura ayikubita umugaragu w'umutambyi mukuru amuca ugutwi kw'iburyo. Uwo mugaragu yitwaga Maluko.",
-      "start": 13.55,
-      "end": 22.11
+      "start": 73.183,
+      "end": 85.872
     },
     "11": {
       "text": "Nuko Yesu abwira Petero ati “Subiza inkota mu rwubati rwayo, mbese igikombe Data ampaye ne kukinyweraho?”",
-      "start": 5.06,
-      "end": 24.66
+      "start": 85.872,
+      "end": 94.604
     },
     "12": {
       "text": "Nuko izo ngabo n'umutware wazo n'abagaragu b'Abayuda bafata Yesu baramuboha,",
-      "start": 22.86,
-      "end": 23.51
+      "start": 94.604,
+      "end": 101.154
     },
     "13": {
       "text": "babanza kumujyana kwa Ana kuko yari sebukwe wa Kayafa, wari umutambyi mukuru muri uwo mwaka.",
-      "start": 7.21,
-      "end": 19.66
+      "start": 101.154,
+      "end": 109.06
     },
     "14": {
       "text": "Kandi Kayafa ni we wagiriye Abayuda inama ati “Birakwiriye ko umuntu umwe apfira abantu.”",
-      "start": 24.24,
-      "end": 35.21
+      "start": 109.06,
+      "end": 116.384
     },
     "15": {
       "text": "Simoni Petero n'undi mwigishwa bakurikira Yesu. Uwo mwigishwa yari azwi n'umutambyi mukuru, yinjirana na Yesu mu rugo rw'umutambyi mukuru.",
-      "start": 17.33,
-      "end": 31.34
+      "start": 116.384,
+      "end": 126.835
     },
     "16": {
       "text": "Ariko Petero yari ahagaze hanze ku irembo. Wa mwigishwa wundi wari uzwi n'umutambyi mukuru, arasohoka avugana n'umuja ukumīra, nuko yinjiza Petero.",
-      "start": 31.12,
-      "end": 35.49
+      "start": 126.835,
+      "end": 137.435
     },
     "17": {
       "text": "Uwo muja ukumīra abaza Petero ati “Mbese aho nawe nturi uwo mu bigishwa b'uriya muntu?”Aramusubiza ati “Oya, sindi umwigishwa we.”",
-      "start": 2.24,
-      "end": 38.1
+      "start": 137.435,
+      "end": 148.575
     },
     "18": {
       "text": "Abagaragu n'abasirikare bari bahagaze aho, bacanye umuriro w'amakara kuko hari imbeho barota, na Petero na we yari kumwe na bo ahagaze yota.",
-      "start": 27.74,
-      "end": 37.81
+      "start": 148.575,
+      "end": 159.036
     },
     "19": {
       "text": "Nuko umutambyi mukuru abaza Yesu iby'abigishwa be n'ibyo yigishaga.",
-      "start": 14.57,
-      "end": 19.24
+      "start": 159.036,
+      "end": 165.98
     },
     "20": {
       "text": "Yesu aramusubiza ati “Nigishaga ab'isi neruye, iteka nigishiriza mu masinagogi no mu rusengero aho Abayuda bose bateranira, nta cyo navuze rwihishwa.",
-      "start": 35.32,
-      "end": 41.26
+      "start": 165.98,
+      "end": 177.289
     },
     "21": {
       "text": "Urambariza iki? Abumvaga ba ari bo ubaza ibyo nababwiye, ni bo bazi ibyo navuze.”",
-      "start": 33.13,
-      "end": 38.48
+      "start": 177.289,
+      "end": 183.993
     },
     "22": {
       "text": "Amaze kuvuga atyo, umwe mu basirikare wari uhagaze aho akubita Yesu urushyi ati “Uku ni ko usubiza umutambyi mukuru?”",
-      "start": 3.66,
-      "end": 14.74
+      "start": 183.993,
+      "end": 192.407
     },
     "23": {
       "text": "Yesu aramusubiza ati “Niba mvuze ikibi kimpamye. Ariko niba ari neza umpoye iki?”",
-      "start": 40.9,
-      "end": 43.07
+      "start": 192.407,
+      "end": 199.493
     },
     "24": {
       "text": "Nuko Ana amwohereza ari imbohe kuri Kayafa, umutambyi mukuru.",
-      "start": 15.55,
-      "end": 38.44
+      "start": 199.493,
+      "end": 204.406
     },
     "25": {
       "text": "Ubwo Simoni Petero yari ahagaze yota. Baramubaza bati “Mbese nawe nturi uwo mu bigishwa be?”Arabihakana ati “Oya, sindi uwo muri bo.”",
-      "start": 12.58,
-      "end": 20.28
+      "start": 204.406,
+      "end": 214.22
     },
     "26": {
       "text": "Umwe mu bagaragu b'umutambyi mukuru, mwene wabo w'uwo Petero yaciye ugutwi aramubaza ati “Harya sinakubonye uri kumwe na we muri ka gashyamba?”",
-      "start": 26.11,
-      "end": 27.0
+      "start": 214.22,
+      "end": 224.551
     },
     "27": {
       "text": "Petero yongera kubihakana, muri ako kanya inkoko irabika.",
-      "start": 25.14,
-      "end": 38.72
+      "start": 224.551,
+      "end": 229.371
     },
     "28": {
       "text": "Bavana Yesu kwa Kayafa bamujyana mu rukiko, hari mu museke. Ubwabo ntibinjira mu rukiko ngo batihumanya, bakabura uko barya ibya Pasika.",
-      "start": 30.14,
-      "end": 33.29
+      "start": 229.371,
+      "end": 239.852
     },
     "29": {
       "text": "Nuko Pilato arasohoka ajya aho bari ati “Uyu muntu muramurega iki?”",
-      "start": 17.97,
-      "end": 33.61
+      "start": 239.852,
+      "end": 245.762
     },
     "30": {
       "text": "Baramusubiza bati “Uyu iyaba atakoze icyaha ntituba tumukuzaniye.”",
-      "start": 30.53,
-      "end": 36.22
+      "start": 245.762,
+      "end": 251.062
     },
     "31": {
       "text": "Pilato arababwira ati “Nimumujyane, abe ari mwe mumucira urubanza nk'uko amategeko yanyu ari.”Abayuda baramubwira bati “Twebwe ntitwemererwa kwica umuntu”,",
-      "start": 23.29,
-      "end": 23.85
+      "start": 251.062,
+      "end": 260.986
     },
     "32": {
       "text": "ngo ijambo rya Yesu risohore, iryo yavuze rimenyesha urupfu agiye gupfa.",
-      "start": 10.46,
-      "end": 10.93
+      "start": 260.986,
+      "end": 267.012
     },
     "33": {
       "text": "Pilato yongera kwinjira mu rukiko, ahamagara Yesu aramubaza ati “Wowe uri umwami w'Abayuda?”",
-      "start": 15.12,
-      "end": 37.37
+      "start": 267.012,
+      "end": 274.142
     },
     "34": {
       "text": "Yesu na we aramubaza ati “Mbese ibyo ubibajije ku bwawe, cyangwa se ni abandi bakubwiye ibyanjye?”",
-      "start": 7.08,
-      "end": 16.22
+      "start": 274.142,
+      "end": 281.282
     },
     "35": {
       "text": "Pilato aramusubiza ati “Uragira ngo ndi Umuyuda? Ab'ubwoko bwanyu n'abatambyi bakuru ni bo bakunzaniye. Wakoze iki?”",
-      "start": 16.81,
-      "end": 25.7
+      "start": 281.282,
+      "end": 289.442
     },
     "36": {
       "text": "Yesu aramusubiza ati “Ubwami bwanjye si ubw'iyi si, iyaba ubwami bwanjye bwari ubw'iyi si, abagaragu banjye baba barwanye ngo ntahabwa Abayuda, ariko noneho ubwami bwanjye si ubw'ino.”",
-      "start": 17.3,
-      "end": 35.26
+      "start": 289.442,
+      "end": 301.446
     },
     "37": {
       "text": "Pilato aramubaza ati “Noneho ga uri umwami?”Yesu aramusubiza ati “Wakabimenye ko ndi umwami. Iki ni cyo navukiye kandi ni cyo cyanzanye mu isi: ni ukugira ngo mpamye ukuri, uw'ukuri wese yumva ijwi ryanjye.”",
-      "start": 44.06,
-      "end": 44.87
+      "start": 301.446,
+      "end": 316.466
     },
     "38": {
       "text": "Pilato aramubaza ati “Ukuri ni iki?”Amaze kubivuga atyo aherako arasohoka, ajya aho Abayuda bari bari arababwira ati “Jyewe nta cyaha mubonyeho.",
-      "start": 12.81,
-      "end": 13.78
+      "start": 316.466,
+      "end": 327.116
     },
     "39": {
       "text": "Icyakora mufite umugenzo ko mbabohorera imbohe imwe mu minsi ya Pasika. Mbese murashaka ko mbabohorera umwami w'Abayuda?”",
-      "start": 17.38,
-      "end": 32.63
+      "start": 327.116,
+      "end": 335.203
     },
     "40": {
       "text": "Ariko bongera gusakuza bati “Si we dushaka, ahubwo utubohorere Baraba.” Baraba uwo yari umwambuzi.",
-      "start": 40.86,
-      "end": 42.48
+      "start": 335.203,
+      "end": 344.447
     }
   }
 }

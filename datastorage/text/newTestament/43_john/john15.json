@@ -6,138 +6,138 @@
   "verses": {
     "1": {
       "text": "“Ndi umuzabibu w'ukuri, kandi Data ni nyirawo uwuhingira.",
-      "start": 11.1,
-      "end": 30.53
+      "start": 0.0,
+      "end": 5.156
     },
     "2": {
       "text": "Ishami ryose ryo muri jye ritera imbuto arikuraho, iryera imbuto ryose aryanganyaho amahage yaryo ngo rirusheho kwera imbuto.",
-      "start": 12.46,
-      "end": 32.63
+      "start": 5.156,
+      "end": 13.543
     },
     "3": {
       "text": "None mumaze kwezwa n'ijambo nababwiye.",
-      "start": 2.47,
-      "end": 6.54
+      "start": 13.543,
+      "end": 16.273
     },
     "4": {
       "text": "Mugume muri jye, nanjye ngume muri mwe. Nk'uko ishami ritabasha kwera imbuto ubwaryo ritagumye mu muzabibu, ni ko namwe mutabibasha nimutaguma muri jye.",
-      "start": 21.88,
-      "end": 43.0
+      "start": 16.273,
+      "end": 27.591
     },
     "5": {
       "text": "“Ni jye muzabibu, namwe muri amashami. Uguma muri jye nanjye nkaguma muri we, uwo ni we wera imbuto nyinshi, kuko ari nta cyo mubasha gukora mutamfite.",
-      "start": 19.84,
-      "end": 34.53
+      "start": 27.591,
+      "end": 39.0
     },
     "6": {
       "text": "Umuntu utaguma muri jye ajugunywa hanze nk'ishami ryumye, maze bakayateranya bakayajugunya mu muriro agashya.",
-      "start": 28.42,
-      "end": 30.49
+      "start": 39.0,
+      "end": 48.25
     },
     "7": {
       "text": "Nimuguma muri jye amagambo yanjye akaguma muri mwe, musabe icyo mushaka cyose muzagihabwa.",
-      "start": 23.1,
-      "end": 37.38
+      "start": 48.25,
+      "end": 56.23
     },
     "8": {
       "text": "Ibyo ni byo byubahisha Data, ni uko mwera imbuto nyinshi, mukaba abigishwa banjye.",
-      "start": 38.11,
-      "end": 44.57
+      "start": 56.23,
+      "end": 61.824
     },
     "9": {
       "text": "“Uko Data yankunze ni ko nanjye nabakunze. Nuko rero mugume mu rukundo rwanjye.",
-      "start": 2.62,
-      "end": 10.26
+      "start": 61.824,
+      "end": 68.754
     },
     "10": {
       "text": "Nimwitondera amategeko yanjye muzaguma mu rukundo rwanjye, nk'uko nanjye nitondeye amategeko ya Data nkaguma mu rukundo rwe.",
-      "start": 36.77,
-      "end": 44.14
+      "start": 68.754,
+      "end": 77.504
     },
     "11": {
       "text": "“Ibyo mbibabwiriye kugira ngo umunezero wanjye ube muri mwe, kandi n'umunezero wanyu ube wuzuye.",
-      "start": 9.49,
-      "end": 22.23
+      "start": 77.504,
+      "end": 82.787
     },
     "12": {
       "text": "Ngiri itegeko ryanjye: mukundane nk'uko nabakunze.",
-      "start": 4.79,
-      "end": 34.1
+      "start": 82.787,
+      "end": 88.053
     },
     "13": {
       "text": "Nta wufite urukundo ruruta urw'umuntu upfira incuti ze.",
-      "start": 4.81,
-      "end": 30.8
+      "start": 88.053,
+      "end": 93.342
     },
     "14": {
       "text": "Muri incuti zanjye, nimukora ibyo mbategeka.",
-      "start": 30.29,
-      "end": 33.18
+      "start": 93.342,
+      "end": 97.557
     },
     "15": {
       "text": "Sinkibita abagaragu kuko umugaragu atazi ibyo shebuja akora, ahubwo mbise incuti kuko ibyo numvise kuri Data byose mbibamenyesheje.",
-      "start": 22.9,
-      "end": 28.38
+      "start": 97.557,
+      "end": 106.906
     },
     "16": {
       "text": "Si mwe mwantoranyije, ahubwo ni jye wabatoranyije kandi mbashyiriraho kugira ngo mugende mwere imbuto, imbuto zanyu zigumeho kugira ngo icyo muzasaba Data cyose mu izina ryanjye akibahe.",
-      "start": 31.3,
-      "end": 42.96
+      "start": 106.906,
+      "end": 119.213
     },
     "17": {
       "text": "Ibyo mbibategekeye kugira ngo mukundane.",
-      "start": 23.54,
-      "end": 41.48
+      "start": 119.213,
+      "end": 122.532
     },
     "18": {
       "text": "“Ab'isi nibabanga, mumenye ko babanje kunyanga batarabanga.",
-      "start": 34.04,
-      "end": 40.28
+      "start": 122.532,
+      "end": 127.49
     },
     "19": {
       "text": "Iyo muba ab'isi, ab'isi baba babakunze. Ariko kuko mutari ab'isi, ahubwo nabatoranyije mu b'isi, ni cyo gituma ab'isi babanga.",
-      "start": 11.8,
-      "end": 37.11
+      "start": 127.49,
+      "end": 136.38
     },
     "20": {
       "text": "Mwibuke ijambo nababwiye nti ‘Umugaragu ntaruta shebuja.’ Niba bandenganyije namwe bazabarenganya, niba bitondeye ijambo ryanjye, n'iryanyu na ryo bazaryitondera.",
-      "start": 20.14,
-      "end": 38.91
+      "start": 136.38,
+      "end": 147.395
     },
     "21": {
       "text": "Ariko ibyo byose bazabibagirira babahora izina ryanjye, kuko batazi Uwantumye uwo ari we.",
-      "start": 42.19,
-      "end": 43.34
+      "start": 147.395,
+      "end": 154.315
     },
     "22": {
       "text": "Iyaba ntaje ngo mvugane na bo ntibaba bafite icyaha, ariko noneho ntibafite uko biregura icyaha cyabo.",
-      "start": 19.29,
-      "end": 33.9
+      "start": 154.315,
+      "end": 161.729
     },
     "23": {
       "text": "Unyanga aba yanze na Data.",
-      "start": 2.66,
-      "end": 11.08
+      "start": 161.729,
+      "end": 165.269
     },
     "24": {
       "text": "Iyaba ntakoreye muri bo imirimo itakozwe n'undi muntu, nta cyaha baba bafite. Ariko noneho barayibonye, nyamara baratwanga jyewe na Data.",
-      "start": 12.85,
-      "end": 40.35
+      "start": 165.269,
+      "end": 176.379
     },
     "25": {
       "text": "Ariko byabaye bityo kugira ngo ijambo risohore, ryanditswe mu mategeko yabo ngo ‘Banyangiye ubusa.’",
-      "start": 15.93,
-      "end": 31.34
+      "start": 176.379,
+      "end": 184.53
     },
     "26": {
       "text": "“Umufasha naza, uwo nzaboherereza ava kuri Data, ari we Mwuka w'ukuri ukomoka kuri Data, azampamya.",
-      "start": 3.9,
-      "end": 3.96
+      "start": 184.53,
+      "end": 191.515
     },
     "27": {
       "text": "Kandi namwe muzampamya, kuko uhereye mbere na mbere mwari kumwe nanjye.",
-      "start": 28.2,
-      "end": 43.33
+      "start": 191.515,
+      "end": 198.551
     }
   }
 }

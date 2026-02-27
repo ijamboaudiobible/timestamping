@@ -1,0 +1,198 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 20,
+  "verses": {
+    "1": {
+      "text": "Imidugararo imaze gushira, Pawulo atumira abigishwa arabahugura, abasezeraho avayo ajya i Makedoniya.",
+      "start": 40.02,
+      "end": 40.42
+    },
+    "2": {
+      "text": "Anyura muri ibyo bihugu abahuguza amagambo menshi, ajya i Bugiriki",
+      "start": 11.17,
+      "end": 44.81
+    },
+    "3": {
+      "text": "amarayo amezi atatu, maze Abayuda bajya inama yo kumutera yenda gutsura ngo yambuke ajye i Siriya. Ni cyo cyatumye agambirira kujyayo anyuze i Makedoniya.",
+      "start": 2.43,
+      "end": 19.17
+    },
+    "4": {
+      "text": "Abajyanaga na we ni Sopatero mwene Puro w'i Beroya, na Arisitariko na Sekondo b'i Tesalonike, na Gayo w'i Derube, na Timoteyo na Tukiko na Tirofimo bo mu Asiya.",
+      "start": 14.54,
+      "end": 17.41
+    },
+    "5": {
+      "text": "Batubanziriza imbere baturindirira i Tirowa.",
+      "start": 10.61,
+      "end": 16.04
+    },
+    "6": {
+      "text": "Tuva i Filipi nyuma y'iminsi y'imitsima idasembuwe, turatsuka tubasanga i Tirowa hashize iminsi itanu, nuko tumarayo karindwi.",
+      "start": 38.14,
+      "end": 39.65
+    },
+    "7": {
+      "text": "Ku wa mbere w'iminsi irindwi duteranira kumanyagura imitsima, Pawulo arabaganirira ashaka kuvayo mu gitondo, akomeza amagambo ageza mu gicuku.",
+      "start": 4.76,
+      "end": 30.13
+    },
+    "8": {
+      "text": "Kandi hariho amatabaza menshi mu cyumba cyo hejuru, aho twari duteraniye.",
+      "start": 39.55,
+      "end": 43.03
+    },
+    "9": {
+      "text": "Umusore witwaga Utuko yari yicaye mu idirishya, arasinzira cyane. Nuko Pawulo akomeza kuganira amagambo menshi biratinda, Utuko arahunyiza ava mu cyumba cyo hejuru aragwa, basanga amaze gupfa baramuterura.",
+      "start": 17.88,
+      "end": 36.45
+    },
+    "10": {
+      "text": "Pawulo aramanuka amwubama hejuru, aramuhobera ati “Mwiboroga kuko ubugingo bwe bumurimo.”",
+      "start": 36.28,
+      "end": 43.41
+    },
+    "11": {
+      "text": "Amaze gusubira muri icyo cyumba cyo hejuru, amanyura umutsima aryaho, akomeza kubaganiriza byinshi kugeza mu museso maze aragenda.",
+      "start": 18.22,
+      "end": 44.06
+    },
+    "12": {
+      "text": "Bazana uwo muhungu ari muzima, birabanezeza cyane.",
+      "start": 36.7,
+      "end": 36.8
+    },
+    "13": {
+      "text": "Ariko twebweho tujya imbere tugera ku nkuge, turatsuka twambukira kujya muri Aso, aho twashakaga guturirira Pawulo kuko ari ko twari twanoganije na we, ashaka guca iy'ubutaka wenyine.",
+      "start": 12.49,
+      "end": 23.05
+    },
+    "14": {
+      "text": "Adusanze muri Aso turamuturira, turambuka dufata i Mitulene.",
+      "start": 3.54,
+      "end": 37.56
+    },
+    "15": {
+      "text": "Tuvayo bukeye bwaho tugera ahateganye n'i Kiyo, ku munsi wa gatatu dufata i Samo, ku wa kane dufata i Mileto,",
+      "start": 26.26,
+      "end": 34.0
+    },
+    "16": {
+      "text": "kuko Pawulo yari yagambiriye kunyura bugufi bwa Efeso, ariko aromboreje kugira ngo adatinda muri Asiya, kuko yihutaga kugira ngo niba bishoboka umunsi wa Pentekote uzabe ari i Yerusalemu.",
+      "start": 25.19,
+      "end": 36.99
+    },
+    "17": {
+      "text": "Ari i Mileto atumira abakuru b'Itorero ryo muri Efeso.",
+      "start": 3.7,
+      "end": 21.98
+    },
+    "18": {
+      "text": "Bamaze kuza arababwira ati “Ubwanyu muzi uko nabanaga namwe iteka ryose, uhereye umunsi natangiriye kujya muri Asiya,",
+      "start": 23.45,
+      "end": 38.33
+    },
+    "19": {
+      "text": "nkorera Umwami nicisha bugufi cyane kandi ndira, nterwa ibingerageza n'inama z'Abayuda.",
+      "start": 25.72,
+      "end": 44.69
+    },
+    "20": {
+      "text": "Kandi muzi yuko ari nta jambo ribafitiye akamaro nikenze kubabwira, cyangwa kubigishiriza imbere ya rubanda no mu ngo zanyu rumwe rumwe.",
+      "start": 36.69,
+      "end": 36.92
+    },
+    "21": {
+      "text": "Nahamirije Abayuda n'Abagiriki kwihana imbere y'Imana, no kwizera Umwami Yesu Kristo.",
+      "start": 0.37,
+      "end": 13.18
+    },
+    "22": {
+      "text": "None dore ngiye i Yerusalemu mboshywe mu mutima, ibizambaho ngezeyo simbizi,",
+      "start": 19.67,
+      "end": 37.79
+    },
+    "23": {
+      "text": "keretse yuko Umwuka Wera ampamiririza mu midugudu yose, yuko ingoyi n'imibabaro bintegererejeyo.",
+      "start": 4.37,
+      "end": 6.28
+    },
+    "24": {
+      "text": "Ariko sinita ku bugingo bwanjye ngo nibwire ko ari ubw'igiciro kuri jye, kuko nkwiriye kurangiza urugendo rwanjye n'umurimo nahawe n'Umwami Yesu, wo guhamya ubutumwa bwiza bw'ubuntu bw'Imana.",
+      "start": 44.28,
+      "end": 44.35
+    },
+    "25": {
+      "text": "“None dore nzi yuko mutazongera kumbona, abo nanyuzemo mwese mbabwiriza iby'ubwami bw'Imana.",
+      "start": 19.69,
+      "end": 28.47
+    },
+    "26": {
+      "text": "Ni cyo gituma mbahamiriza uyu munsi yuko amaraso ya bose atandiho,",
+      "start": 6.98,
+      "end": 40.82
+    },
+    "27": {
+      "text": "kuko ntikenze mbabwira ibyo Imana yagambiriye byose.",
+      "start": 29.38,
+      "end": 44.25
+    },
+    "28": {
+      "text": "Mwirinde ubwanyu, murinde n'umukumbi wose Umwuka Wera yabashyiriyeho kuba abarinzi, kugira ngo muragire Itorero ry'Imana, iryo yaguze amaraso yayo.",
+      "start": 6.14,
+      "end": 9.45
+    },
+    "29": {
+      "text": "Nzi yuko nimara kuvaho, amasega aryana azabinjiramo ntababarire umukumbi.",
+      "start": 13.98,
+      "end": 32.14
+    },
+    "30": {
+      "text": "Kandi muri mwe ubwanyu hazaduka abantu bavugira ibigoramye, kugira ngo bakururire abigishwa inyuma yabo.",
+      "start": 8.53,
+      "end": 29.46
+    },
+    "31": {
+      "text": "Nuko rero mube maso, mwibuke yuko namaze imyaka itatu ndahwema ku manywa na nijoro, guhugura umuntu wese muri mwe ndira.",
+      "start": 5.3,
+      "end": 21.22
+    },
+    "32": {
+      "text": "“Kandi none mbaragije Imana n'ijambo ry'ubuntu bwayo, ribasha kubūbaka no kubahāna ibiragwa n'abejejwe bose.",
+      "start": 40.18,
+      "end": 40.78
+    },
+    "33": {
+      "text": "Sinifuje ikintu cy'umuntu wese, ari ifeza cyangwa izahabu cyangwa imyenda.",
+      "start": 9.75,
+      "end": 22.53
+    },
+    "34": {
+      "text": "Ubwanyu muzi yuko aya maboko yanjye ari yo yankenuraga ibyo nkennye, n'abo twari turi kumwe.",
+      "start": 17.27,
+      "end": 42.16
+    },
+    "35": {
+      "text": "Nababereye icyitegererezo muri byose, yuko ari ko namwe mukwiriye gukora imirimo ngo mubone uko mufasha abadakomeye, no kwibuka amagambo Umwami Yesu yavuze ati ‘Gutanga guhesha umugisha kuruta guhabwa.’ ”",
+      "start": 42.93,
+      "end": 43.35
+    },
+    "36": {
+      "text": "Amaze kuvuga atyo, arapfukama asengana na bo bose.",
+      "start": 3.09,
+      "end": 32.87
+    },
+    "37": {
+      "text": "Bose bararira cyane, Pawulo bamugwa mu ijosi baramusoma.",
+      "start": 3.47,
+      "end": 16.64
+    },
+    "38": {
+      "text": "Cyane cyane bababajwe n'ijambo yababwiye yuko batazongera kumubona. Nuko baramuherekeza bamugeza ku nkuge.",
+      "start": 31.51,
+      "end": 36.32
+    }
+  }
+}

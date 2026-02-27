@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session version="1.0">
+  <EffectsChain name="BibleNarrationPreset">
+    <Effect type="NoiseReduction">
+      <CaptureNoisePrint>true</CaptureNoisePrint>
+      <ReductionPercent>35</ReductionPercent>
+      <FFTSize>1024</FFTSize>
+      <Smoothing>15</Smoothing>
+      <ArtifactSmoothing>60</ArtifactSmoothing>
+    </Effect>
+    <Effect type="DeEsser">
+      <Threshold>-28</Threshold>
+      <Frequency>6000</Frequency>
+      <Reduction>5</Reduction>
+      <Smoothness>55</Smoothness>
+    </Effect>
+    <Effect type="ParametricEQ">
+      <LowCut>100</LowCut>
+      <LowMidCut>250</LowMidCut>
+      <PresenceBoost>3500</PresenceBoost>
+      <AirBoost>11000</AirBoost>
+    </Effect>
+    <Effect type="Compressor">
+      <Ratio>2.5</Ratio>
+      <Threshold>-18</Threshold>
+      <Attack>8</Attack>
+      <Release>150</Release>
+      <MakeupGain>3</MakeupGain>
+    </Effect>
+    <Effect type="HardLimiter">
+      <InputBoost>2</InputBoost>
+      <LimitMaxAmplitude>-0.1</LimitMaxAmplitude>
+      <LookaheadTime>2</LookaheadTime>
+      <ReleaseTime>75</ReleaseTime>
+    </Effect>
+    <Effect type="StudioReverb">
+      <RoomSize>12</RoomSize>
+      <Decay>0.7</Decay>
+      <WetDryMix>7</WetDryMix>
+    </Effect>
+  </EffectsChain>
+</Session>

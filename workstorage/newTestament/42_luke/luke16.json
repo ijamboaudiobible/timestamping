@@ -1,0 +1,163 @@
+{
+  "book": "Book 42",
+  "book_canonical": "luke",
+  "book_number": 42,
+  "chapter": 16,
+  "verses": {
+    "1": {
+      "text": "Kandi abwira abigishwa be ati “Hariho umutunzi wari ufite igisonga cye, bakimuregaho ko cyaya ibintu bye.",
+      "start": 40.33,
+      "end": 44.83
+    },
+    "2": {
+      "text": "Aragihamagara arakibwira ati ‘Ibyo nkumvaho ni ibiki? Murikira ibyo nakubikije kuko utagikwiriye kuba igisonga cyanjye.’",
+      "start": 2.85,
+      "end": 36.45
+    },
+    "3": {
+      "text": "Icyo gisonga kirībwira kiti ‘Ko databuja ari bunyage ubutware bwanjye nkaba ntashobora guhinga, nkagira isoni zo gusabiriza, ndagira nte?",
+      "start": 3.59,
+      "end": 15.31
+    },
+    "4": {
+      "text": "Have! Nzi icyo nzakora kugira ngo nimara kunyagwa bazandaze mu mazu yabo.’",
+      "start": 13.63,
+      "end": 28.63
+    },
+    "5": {
+      "text": "“Ahamagara ufite umwenda wa shebuja wese, abaza uwa mbere ati ‘Harya databuja akwishyuza iki?’",
+      "start": 19.89,
+      "end": 27.06
+    },
+    "6": {
+      "text": "Aramusubiza ati ‘Incuro ijana z'amavuta ya elayo.’ Na we ati ‘Enda urwandiko rwawe, wicare vuba wandike mirongo itanu.’",
+      "start": 16.51,
+      "end": 24.48
+    },
+    "7": {
+      "text": "Maze abaza undi ati ‘Harya wishyuzwa iki?’ Aramusubiza ati ‘Incuro ijana z'amasaka.’ Aramubwira ati ‘Enda urwandiko rwawe wandike mirongo inani.’",
+      "start": 15.23,
+      "end": 16.7
+    },
+    "8": {
+      "text": "“Nuko shebuja ashima icyo gisonga kibi kuko cyakoze iby'ubwenge, kuko abana b'iyi si ari abanyabwenge mu byo ku ngoma yabo kuruta abana b'umucyo.",
+      "start": 4.44,
+      "end": 21.43
+    },
+    "9": {
+      "text": "“Kandi ndababwira nti ‘Ubutunzi bubi mubushakisha incuti, kugira ngo nibushira bazabākīre mu buturo bw'iteka.",
+      "start": 6.4,
+      "end": 34.5
+    },
+    "10": {
+      "text": "Ukiranuka ku cyoroheje cyane, aba akiranutse no ku gikomeye. Kandi ukiranirwa ku cyoroheje cyane, aba akiraniwe no ku gikomeye.",
+      "start": 17.95,
+      "end": 43.33
+    },
+    "11": {
+      "text": "Niba mutakiranutse mubikijwe ubutunzi bubi, ni nde uzababitsa ubutunzi bw'ukuri?",
+      "start": 36.08,
+      "end": 38.0
+    },
+    "12": {
+      "text": "Kandi niba mutakiranutse ku by'abandi mubikijwe, ni nde uzabaha ibyo mwitegekaho?’",
+      "start": 33.94,
+      "end": 41.54
+    },
+    "13": {
+      "text": "“Nta mugaragu ucyeza abami babiri, kuko aba ashaka kwanga umwe agakunda undi, cyangwa yaguma kuri umwe agasuzugura undi. Ntimubasha gukeza Imana n'ubutunzi.”",
+      "start": 11.27,
+      "end": 34.45
+    },
+    "14": {
+      "text": "Abafarisayo kuko bari abakunzi b'ubutunzi, bumvise ibyo byose baramukoba cyane.",
+      "start": 12.07,
+      "end": 37.04
+    },
+    "15": {
+      "text": "Arababwira ati “Mwebwe mukunda kwigira abakiranutsi imbere y'abantu ariko Imana izi imitima yanyu, kuko icyogejwe imbere y'abantu ari ikizira mu maso y'Imana.",
+      "start": 22.17,
+      "end": 34.01
+    },
+    "16": {
+      "text": "“Amategeko n'abahanuzi byabayeho kugeza igihe cya Yohana, uhereye icyo gihe ni ho ubutumwa bwiza bw'ubwami bw'Imana bwigishirijwe, umuntu wese arabutwaranira.",
+      "start": 9.12,
+      "end": 27.78
+    },
+    "17": {
+      "text": "Icyoroshye ni uko ijuru n'isi byashira, kuruta ko agace k'inyuguti imwe yo mu mategeko kavaho.",
+      "start": 40.03,
+      "end": 40.26
+    },
+    "18": {
+      "text": "“Umuntu wese usenda umugore we akarongora undi aba asambanye, kandi n'ucyura umugore usenzwe n'umugabo we aba asambanye.",
+      "start": 11.99,
+      "end": 33.86
+    },
+    "19": {
+      "text": "“Hariho umutunzi wambaraga imyenda y'imihengeri n'iy'ibitare byiza, iminsi yose agahora adamaraye.",
+      "start": 31.87,
+      "end": 33.27
+    },
+    "20": {
+      "text": "Kandi hariho n'umukene witwaga Lazaro, wahoraga aryamye ku muryango w'uwo mukire, umubiri we wuzuyeho ibisebe. Imbwa na zo zarazaga zikamurigata mu bisebe,",
+      "start": 27.89,
+      "end": 38.19
+    },
+    "21": {
+      "text": "kandi yifuzaga guhazwa n'ubuvungukira buva ku meza y'umutunzi.",
+      "start": 37.38,
+      "end": 42.97
+    },
+    "22": {
+      "text": "“Bukeye umukene arapfa, abamarayika bamujyana mu gituza cya Aburahamu, n'umutunzi na we arapfa arahambwa.",
+      "start": 6.31,
+      "end": 18.4
+    },
+    "23": {
+      "text": "Ageze ikuzimu arababazwa cyane, yubuye amaso areba Aburahamu ari kure na Lazaro ari mu gituza cye.",
+      "start": 30.79,
+      "end": 38.96
+    },
+    "24": {
+      "text": "Arataka ati ‘Aburahamu sogokuru, mbabarira wohereze Lazaro, akoze isonga y'urutoki rwe mu tuzi antonyangirize ku rurimi, kuko mbabazwa n'uyu muriro.’",
+      "start": 41.04,
+      "end": 43.45
+    },
+    "25": {
+      "text": "“Aburahamu aramubwira ati ‘Mwana wanjye, ibuka yuko wahawe ibyiza byawe ukiriho. Lazaro na we yahawe ibibi, none aguwe neza hano naho wowe urababazwa cyane.",
+      "start": 15.82,
+      "end": 37.88
+    },
+    "26": {
+      "text": "Kandi uretse n'ibyo, dore hariho umworera munini bikabije hagati yacu namwe, washyiriweho kugira ngo abashaka kuva hano kuza aho muri batabibasha, kandi n'abava aho batagera hano.’",
+      "start": 22.35,
+      "end": 37.05
+    },
+    "27": {
+      "text": "Na we ati ‘Ndakwinginze sogokuru ngo nibura umwohereze kwa data,",
+      "start": 6.07,
+      "end": 31.75
+    },
+    "28": {
+      "text": "kuko mfite bene data batanu, ababurire ngo na bo batazaza aha hantu ho kubabarizwa cyane.’",
+      "start": 0.18,
+      "end": 10.61
+    },
+    "29": {
+      "text": "“Aburahamu aramubwira ati ‘Bafite Mose n'abahanuzi, babumvire.’",
+      "start": 6.21,
+      "end": 24.52
+    },
+    "30": {
+      "text": "Na we ati ‘Oya sogokuru Aburahamu, ahubwo nihagira uzuka akabasanga bazīhana.’",
+      "start": 29.11,
+      "end": 42.02
+    },
+    "31": {
+      "text": "Aramubwira ati ‘Nibatumvira Mose n'abahanuzi, ntibakwemera naho umuntu yazuka.’ ”",
+      "start": 4.4,
+      "end": 41.98
+    }
+  }
+}

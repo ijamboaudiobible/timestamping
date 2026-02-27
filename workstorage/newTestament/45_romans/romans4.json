@@ -1,0 +1,133 @@
+{
+  "book": "Book 45",
+  "book_canonical": "romans",
+  "book_number": 45,
+  "chapter": 4,
+  "verses": {
+    "1": {
+      "text": "Niba ari uko biri, twavuga iki kuri Aburahamu sogokuruza ku mubiri?",
+      "start": 36.59,
+      "end": 42.76
+    },
+    "2": {
+      "text": "Iyaba Aburahamu yaratsindishirijwe n'imirimo aba afite icyo yīrāta, ariko si imbere y'Imana.",
+      "start": 25.49,
+      "end": 25.74
+    },
+    "3": {
+      "text": "Mbese ibyanditswe bimuvuga iki? Ntibivuga ngo “Aburahamu yizeye Imana, bikamuhwanirizwa no gukiranuka”?",
+      "start": 8.33,
+      "end": 21.02
+    },
+    "4": {
+      "text": "Nyamara ukora ibihembo bye ntibimuhwanira no guherwa ubuntu, ahubwo abyita ubwishyu.",
+      "start": 39.89,
+      "end": 44.0
+    },
+    "5": {
+      "text": "Ariko rero udakora ahubwo akizera Utsindishiriza abanyabyaha, kwizera kwe kumuhwanirizwa no gukiranuka,",
+      "start": 23.63,
+      "end": 42.96
+    },
+    "6": {
+      "text": "nk'uko Dawidi na we yeruye amahirwe y'umuntu, uwo Imana ibaraho gukiranuka atabiheshejwe n'imirimo ati",
+      "start": 11.39,
+      "end": 29.01
+    },
+    "7": {
+      "text": "“Hahirwa abababarirwa ibicumuro byabo,Kandi ibyaha byabo bigatwikirwa.",
+      "start": 43.32,
+      "end": 43.9
+    },
+    "8": {
+      "text": "Hahirwa umuntu Uwiteka atazabaraho icyaha.”",
+      "start": 0.13,
+      "end": 23.47
+    },
+    "9": {
+      "text": "Mbese ayo mahirwe yasezeranijwe abakebwe bonyine, cyangwa n'abatakebwe na bo? Ko tuvuga tuti “Kwizera kwa Aburahamu kwamuhwanirijwe no gukiranuka”?",
+      "start": 3.75,
+      "end": 7.03
+    },
+    "10": {
+      "text": "Kwamuhwanirijwe ryari? Ni ubwo yari yarakebwe, cyangwa ni ubwo yari atarakebwa? Si ubwo yari amaze gukebwa, ahubwo yari atarakebwa.",
+      "start": 21.25,
+      "end": 25.83
+    },
+    "11": {
+      "text": "Bukeye ahabwa ikimenyetso cyo gukebwa, kuba ikimenyetso cyo gukiranuka kwavuye kuri kwa kwizera yari afite atarakebw, a kugira ngo abe sekuruza w'abizera bose, nubwo baba batakebwe ngo na bo babone kubarwaho gukiranuka,",
+      "start": 0.06,
+      "end": 18.45
+    },
+    "12": {
+      "text": "na we abone kuba sekuruza w'abakebwe. Nyamara si abakebwe gusa, ahubwo ni abagera ikirenge mu cya sogokuruza Aburahamu ku bw'uko kwizera yari afite atarakebwa,",
+      "start": 5.97,
+      "end": 14.75
+    },
+    "13": {
+      "text": "kuko amategeko atari yo yahesheje Aburahamu cyangwa urubyaro rwe isezerano ry'uko azaragwa isi yose, ahubwo yariheshejwe no gukiranuka kuva ku kwizera.",
+      "start": 27.73,
+      "end": 36.07
+    },
+    "14": {
+      "text": "Abiringira amategeko iyaba ari bo baragwa, kwizera kuba guhindutse ubusa n'iryo sezerano na ryo rikaba ripfuye,",
+      "start": 23.87,
+      "end": 38.96
+    },
+    "15": {
+      "text": "kuko icyo amategeko azana ari umujinya, ariko aho amategeko atari nta gicumuro kihaba.",
+      "start": 25.14,
+      "end": 44.84
+    },
+    "16": {
+      "text": "Ni cyo gituma byose biheshwa no kwizera ngo bibe iby'ubuntu, iryo sezerano ribone uko rikomerezwa urubyaro rwose. Nyamara si urw'abakomeza amategeko gusa, ahubwo ni urw'abafite kwizera kwa Aburahamu ari we sogokuruza wa twese,",
+      "start": 37.11,
+      "end": 42.59
+    },
+    "17": {
+      "text": "(nk'uko byanditswe ngo “Nkugize sekuruza w'amahanga menshi”) imbere y'Iyo yizeye, ari yo Mana izura abapfuye, ikīta ibitariho nk'aho ari ibiriho.",
+      "start": 39.33,
+      "end": 41.83
+    },
+    "18": {
+      "text": "Aburahamu uwo yizeraga yiringiye ibitākwiringirwa, ngo abe sekuruza w'amahanga menshi nk'uko byavuzwe ngo “Urubyaro rwawe ni ko ruzangana.”",
+      "start": 21.69,
+      "end": 43.0
+    },
+    "19": {
+      "text": "Kandi nubwo abonye umubiri we umaze gusa n'upfuye kuko yari amaze imyaka nk'ijana avutse, akabona na Sara yaracuze, kwizera kwe ntikuragacogora,",
+      "start": 37.5,
+      "end": 40.72
+    },
+    "20": {
+      "text": "ahubwo abonye isezerano ry'Imana ntiyashidikanishwa no kutizera, ahubwo akomezwa cyane no kwizera ahimbaza Imana,",
+      "start": 12.62,
+      "end": 37.36
+    },
+    "21": {
+      "text": "amenya neza yuko ibyo yasezeranije ibasha no kubisohoza.",
+      "start": 41.69,
+      "end": 43.74
+    },
+    "22": {
+      "text": "Ni cyo cyatumye bimuhwanirizwa no gukiranuka.",
+      "start": 28.7,
+      "end": 42.46
+    },
+    "23": {
+      "text": "Icyakora ntibyanditswe ku bwe yuko byamuhwanirijwe no gukiranuka,",
+      "start": 30.69,
+      "end": 40.24
+    },
+    "24": {
+      "text": "ahubwo no ku bwacu abazabiheshwa n'uko twizeye Iyazuye Yesu Umwami wacu,",
+      "start": 10.98,
+      "end": 14.22
+    },
+    "25": {
+      "text": "watangiwe ibicumuro byacu akazurirwa kugira ngo dutsindishirizwe.",
+      "start": 4.88,
+      "end": 8.42
+    }
+  }
+}

@@ -6,238 +6,238 @@
   "verses": {
     "1": {
       "text": "Hanyuma y'ibyo haba iminsi mikuru y'Abayuda, nuko Yesu ajya i Yerusalemu.",
-      "start": 40.28,
-      "end": 44.26
+      "start": 0.0,
+      "end": 5.653
     },
     "2": {
       "text": "Kandi i Yerusalemu bugufi bw'irembo ry'intama hariho ikidendezi, mu Ruheburayo kitwa Betesida, cyariho amabaraza atanu.",
-      "start": 36.76,
-      "end": 37.51
+      "start": 5.653,
+      "end": 15.365
     },
     "3": {
       "text": "Muri ayo mabaraza hari abarwayi benshi, barimo impumyi n'ibirema n'abanyunyutse, [bari bategereje ko amazi yihinduriza,",
-      "start": 16.39,
-      "end": 27.24
+      "start": 15.365,
+      "end": 24.585
     },
     "4": {
       "text": "kuko rimwe na rimwe marayika yamanukaga akajya muri icyo kidendezi, agahinduriza amazi. Nuko umuntu wabanzaga kujyamo amazi yihindurije, ni we wakiraga indwara ye iyo ari yo yose.]",
-      "start": 29.54,
-      "end": 31.34
+      "start": 24.585,
+      "end": 38.005
     },
     "5": {
       "text": "Hariho umuntu wari ufite indwara, ayimaranye imyaka mirongo itatu n'umunani.",
-      "start": 38.6,
-      "end": 43.44
+      "start": 38.005,
+      "end": 43.085
     },
     "6": {
       "text": "Yesu amubonye aryamye amenya yuko amaze igihe kirekire arwaye, aramubaza ati “Mbese urashaka gukira?”",
-      "start": 22.38,
-      "end": 35.78
+      "start": 43.085,
+      "end": 51.265
     },
     "7": {
       "text": "Umurwayi aramusubiza ati “Databuja, simfite umuntu unjugunya mu kidendezi iyo amazi yihindurije, nkīza undi antanga kumanukamo.”",
-      "start": 21.57,
-      "end": 44.5
+      "start": 51.265,
+      "end": 61.365
     },
     "8": {
       "text": "Yesu aramubwira ati “Byuka wikorere uburiri bwawe ugende.”",
-      "start": 23.45,
-      "end": 44.75
+      "start": 61.365,
+      "end": 65.916
     },
     "9": {
       "text": "Muri ako kanya uwo muntu arakira, yikorera uburiri bwe aragenda.Ubwo hari ku munsi w'isabato.",
-      "start": 20.82,
-      "end": 26.97
+      "start": 65.916,
+      "end": 73.945
     },
     "10": {
       "text": "Nuko Abayuda babwira ukijijwe bati “Dore uyu munsi ni isabato, kandi amategeko ntiyemera ko wikorera uburiri bwawe.”",
-      "start": 2.2,
-      "end": 34.54
+      "start": 73.945,
+      "end": 83.522
     },
     "11": {
       "text": "Na we arabasubiza ati “Uwankijije ni we wambwiye ati ‘Ikorere uburiri bwawe ugende.’ ”",
-      "start": 36.78,
-      "end": 38.01
+      "start": 83.522,
+      "end": 89.306
     },
     "12": {
       "text": "Baramubaza bati “Uwo muntu ni nde wakubwiye ngo wikorere ugende?”",
-      "start": 11.86,
-      "end": 30.63
+      "start": 89.306,
+      "end": 94.292
     },
     "13": {
       "text": "Ariko uwakijijwe ntiyamenya uwo ari we, kuko Yesu yari yigendeye kandi hari abantu benshi.",
-      "start": 17.83,
-      "end": 35.08
+      "start": 94.292,
+      "end": 101.087
     },
     "14": {
       "text": "Hanyuma y'ibyo Yesu amubona mu rusengero aramubwira ati “Dore ubaye muzima, ntukongere gukora icyaha utazabona ishyano riruta irya mbere.”",
-      "start": 28.61,
-      "end": 42.11
+      "start": 101.087,
+      "end": 111.256
     },
     "15": {
       "text": "Uwo muntu aragenda abwira Abayuda yuko ari Yesu wamukijije.",
-      "start": 25.92,
-      "end": 31.72
+      "start": 111.256,
+      "end": 116.035
     },
     "16": {
       "text": "Ni cyo cyatumaga Abayuda bashaka kurenganya Yesu, kuko yakoraga bene nk'ibyo ku isabato.",
-      "start": 43.37,
-      "end": 44.77
+      "start": 116.035,
+      "end": 122.026
     },
     "17": {
       "text": "Ariko arabasubiza ati “Data arakora kugeza n'ubu, nanjye ndakora.”",
-      "start": 2.24,
-      "end": 23.19
+      "start": 122.026,
+      "end": 128.546
     },
     "18": {
       "text": "Ni cyo cyatumye Abayuda barushaho gushaka kumwica, kuko uretse kuzirura isabato gusa, ahubwo ahora yita n'Imana ko ari Se bwite, akīgereranya na yo.",
-      "start": 33.54,
-      "end": 41.22
+      "start": 128.546,
+      "end": 140.0
     },
     "19": {
       "text": "Yesu arabasubiza ati “Ni ukuri, ni ukuri, ndababwira yuko ari nta cyo Umwana abasha gukora ubwe atabonye Se agikora, kuko ibyo Se akora byose n'Umwana ari byo akora,",
-      "start": 39.02,
-      "end": 42.15
+      "start": 140.0,
+      "end": 151.677
     },
     "20": {
       "text": "kuko Se akunda Umwana we akamwereka ibyo akora byose, ndetse azamwereka n'imirimo iruta iyi kugira ngo mutangare.",
-      "start": 29.57,
-      "end": 29.87
+      "start": 151.677,
+      "end": 160.817
     },
     "21": {
       "text": "Nk'uko Se azura abapfuye akabaha ubugingo, ni ko n'Umwana aha ubugingo abo ashaka.",
-      "start": 24.56,
-      "end": 40.34
+      "start": 160.817,
+      "end": 167.535
     },
     "22": {
       "text": "Kuko ari nta n'umwe Data aciraho iteka, ahubwo yabihaye Umwana ngo abe ari we uca amateka yose,",
-      "start": 41.64,
-      "end": 43.31
+      "start": 167.535,
+      "end": 175.0
     },
     "23": {
       "text": "kugira ngo abantu bose bubahe Umwana nk'uko bubaha Se. Utubaha uwo Mwana ntaba yubashye na Se wamutumye.",
-      "start": 8.15,
-      "end": 31.42
+      "start": 175.0,
+      "end": 182.334
     },
     "24": {
       "text": "“Ni ukuri, ni ukuri, ndababwira yuko uwumva ijambo ryanjye akizera uwantumye, aba afite ubugingo buhoraho kandi ntazacirwaho iteka, ahubwo aba avuye mu rupfu ageze mu bugingo.",
-      "start": 1.64,
-      "end": 18.83
+      "start": 182.334,
+      "end": 193.875
     },
     "25": {
       "text": "Ni ukuri, ni ukuri, ndababwira yuko igihe kije ndetse kirasohoye, ubwo abapfa bumva kandi bazumva ijwi ry'Umwana w'Imana, n'abaryumvise bazaba bazima,",
-      "start": 4.6,
-      "end": 20.3
+      "start": 193.875,
+      "end": 205.0
     },
     "26": {
       "text": "kuko nk'uko Data afite ubugingo muri we, ni ko yabuhaye Umwana ngo abugire na we.",
-      "start": 34.43,
-      "end": 36.5
+      "start": 205.0,
+      "end": 211.141
     },
     "27": {
       "text": "Kandi yamuhaye ubutware bwo guca amateka, kuko ari Umwana w'umuntu.",
-      "start": 38.03,
-      "end": 39.17
+      "start": 211.141,
+      "end": 216.084
     },
     "28": {
       "text": "Ntimutangazwe n'ibyo kuko igihe kizaza, ubwo abari mu bituro bose bazumva ijwi rye",
-      "start": 34.42,
-      "end": 39.08
+      "start": 216.084,
+      "end": 222.57
     },
     "29": {
       "text": "bakavamo, abakoze ibyiza bakazukira ubugingo, naho abakoze ibibi bakazukira gucirwaho iteka.",
-      "start": 40.99,
-      "end": 43.91
+      "start": 222.57,
+      "end": 230.0
     },
     "30": {
       "text": "“Nta cyo mbasha gukora ubwanjye, ahubwo uko numvise ni ko nca amateka, kandi ayo nca ni ay'ukuri kuko ntakurikiza ibyo nkunda ubwanjye, ahubwo nkurikiza ibyo uwantumye akunda.",
-      "start": 20.77,
-      "end": 22.89
+      "start": 230.0,
+      "end": 242.445
     },
     "31": {
       "text": "“Nakwihamya ubwanjye, guhamya kwanjye ntikuba ari uk'ukuri,",
-      "start": 31.31,
-      "end": 38.11
+      "start": 242.445,
+      "end": 246.922
     },
     "32": {
       "text": "ahubwo hariho undi umpamya, nanjye nzi yuko ibyo ampamya ari iby'ukuri.",
-      "start": 32.88,
-      "end": 42.98
+      "start": 246.922,
+      "end": 252.122
     },
     "33": {
       "text": "Mwatumye kuri Yohana, na we yahamije ukuri.",
-      "start": 42.95,
-      "end": 44.19
+      "start": 252.122,
+      "end": 256.919
     },
     "34": {
       "text": "Icyakora sinishingikirije ku buhamya bw'umuntu, ahubwo mbivugiye kugira ngo mukizwe.",
-      "start": 24.35,
-      "end": 43.33
+      "start": 256.919,
+      "end": 263.272
     },
     "35": {
       "text": "Uwo yari itabaza ryaka rimurika, namwe mwamaze igihe gito mwishimira umucyo we.",
-      "start": 40.73,
-      "end": 42.76
+      "start": 263.272,
+      "end": 269.843
     },
     "36": {
       "text": "Ariko mfite ibimpamya biruta ibya Yohana, kuko imirimo Data yampaye ngo nyisohoze, iyo mirimo nkora ari yo impamya ubwayo yuko Data ari we wantumye.",
-      "start": 19.9,
-      "end": 30.08
+      "start": 269.843,
+      "end": 281.468
     },
     "37": {
       "text": "Kandi Data wantumye na we yahamije ibyanjye ubwe. Ntimwigeze kumva ijwi rye, habe no kubona ishusho ye,",
-      "start": 43.03,
-      "end": 43.16
+      "start": 281.468,
+      "end": 289.712
     },
     "38": {
       "text": "ndetse ntimufite n'ijambo rye riguma muri mwe, kuko uwo yatumye mutamwizeye.",
-      "start": 30.41,
-      "end": 31.18
+      "start": 289.712,
+      "end": 295.963
     },
     "39": {
       "text": "Murondora mu byanditswe, kuko mwibwira ko muri byo arimo mufite ubugingo buhoraho, kandi ari byo bimpamya.",
-      "start": 30.28,
-      "end": 34.98
+      "start": 295.963,
+      "end": 303.922
     },
     "40": {
       "text": "Nyamara mwanze kuza aho ndi, ngo muhabwe ubugingo.",
-      "start": 15.3,
-      "end": 41.01
+      "start": 303.922,
+      "end": 307.522
     },
     "41": {
       "text": "“Sinshaka ishimwe ry'abantu,",
-      "start": 24.81,
-      "end": 34.97
+      "start": 307.522,
+      "end": 310.328
     },
     "42": {
       "text": "ariko mwebwe ndabazi yuko mudakunda Imana mu mitima yanyu.",
-      "start": 13.79,
-      "end": 40.69
+      "start": 310.328,
+      "end": 315.123
     },
     "43": {
       "text": "Jye naje mu izina rya Data ntimwanyemera, ariko undi naza mu izina rye ubwe we muzamwemera.",
-      "start": 3.5,
-      "end": 33.12
+      "start": 315.123,
+      "end": 322.869
     },
     "44": {
       "text": "Mbese mwabasha mute kwizera kandi mumaranira gushimwa n'abantu, mu cyimbo cyo gushaka ishimwe riva ku Mana ubwayo?",
-      "start": 4.34,
-      "end": 37.77
+      "start": 322.869,
+      "end": 330.263
     },
     "45": {
       "text": "Mwe gutekereza yuko nzabarega kuri Data kuko hariho ubarega, ndetse ni Mose uwo mwiringiye.",
-      "start": 7.16,
-      "end": 20.67
+      "start": 330.263,
+      "end": 337.359
     },
     "46": {
       "text": "Iyo mwizera Mose nanjye muba munyizeye, kuko ari ibyanjye yanditse.",
-      "start": 31.28,
-      "end": 32.12
+      "start": 337.359,
+      "end": 342.787
     },
     "47": {
       "text": "Ariko se nimutizera ibyo uwo yanditse, noneho n'amagambo yanjye muzayizera mute?”",
-      "start": 31.16,
-      "end": 33.06
+      "start": 342.787,
+      "end": 348.569
     }
   }
 }

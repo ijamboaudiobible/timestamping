@@ -1,0 +1,308 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 7,
+  "verses": {
+    "1": {
+      "text": "Umutambyi mukuru aramubaza ati “Ibyo ni ko biri?”",
+      "start": 30.32,
+      "end": 44.2
+    },
+    "2": {
+      "text": "Aramusubiza ati “Yemwe bene Data kandi ba data, nimwumve. Imana y'icyubahiro yabonekeye sogokuruza Aburahamu ari i Mesopotamiya ataratura i Harani,",
+      "start": 41.87,
+      "end": 44.14
+    },
+    "3": {
+      "text": "iramubwira iti ‘Va mu gihugu cyanyu no muri bene wanyu ujye mu gihugu nzakwereka.’",
+      "start": 25.89,
+      "end": 26.3
+    },
+    "4": {
+      "text": "Maze ava mu gihugu cy'Abakaludaya, atura i Harani. Se amaze gupfa Imana iramwimura imuzana muri iki gihugu, ari cyo mugituyemo na bugingo n'ubu.",
+      "start": 25.86,
+      "end": 28.42
+    },
+    "5": {
+      "text": "Ariko ntiyamuhayeho ikibanza naho haba aho gukandagiza ikirenge, ahubwo yamusezeraniye kuzakimuha ngo abe nyiracyo n'urubyaro rwe, kandi yari ataragira umwana.",
+      "start": 23.5,
+      "end": 26.74
+    },
+    "6": {
+      "text": "Maze Imana iravuga iti ‘Urubyaro rwawe ruzaba abasuhuke mu gihugu cy'abandi, bazabahindura abaretwa, babagirire nabi imyaka magana ane.",
+      "start": 30.96,
+      "end": 44.08
+    },
+    "7": {
+      "text": "Kandi ishyanga bazakorera uburetwa ni jye uzaricira ho iteka’, ni ko Imana yavuze, kandi iti ‘Hanyuma bazavayo bansengere aha hantu.’",
+      "start": 32.15,
+      "end": 34.18
+    },
+    "8": {
+      "text": "Maze imuha isezerano ryo gukebwa. Bukeye abyara Isaka, amukeba ku munsi wa munani. Isaka na we abyara Yakobo, Yakobo abyara ba sogokuruza bakuru cumi na babiri.",
+      "start": 28.78,
+      "end": 35.13
+    },
+    "9": {
+      "text": "“Ba sogokuruza bagirira Yosefu ishyari, baramugura ajyanwa muri Egiputa, ariko Imana ibana na we",
+      "start": 4.11,
+      "end": 37.49
+    },
+    "10": {
+      "text": "imukiza mu makuba ye yose, imuha gutona n'ubwenge imbere ya Farawo umwami wa Egiputa, maze amugira umutware wa Egiputa n'uw'urugo rwe rwose.",
+      "start": 40.62,
+      "end": 41.38
+    },
+    "11": {
+      "text": "Bukeye inzara itera muri Egiputa hose n'i Kanāni, haba umubabaro mwinshi, nuko ba sogokuruza babura ibyokurya.",
+      "start": 12.35,
+      "end": 29.59
+    },
+    "12": {
+      "text": "Ariko Yakobo yumvise yuko muri Egiputa hari amasaka, atuma ba sogokuruza ubwa mbere.",
+      "start": 1.73,
+      "end": 8.45
+    },
+    "13": {
+      "text": "Maze ubwa kabiri Yosefu amenywa na bene se, nuko umuryango wa Yosefu umenywa na Farawo.",
+      "start": 31.45,
+      "end": 38.12
+    },
+    "14": {
+      "text": "Yosefu atumira se Yakobo na bene wabo bose, bari mirongo irindwi na batanu.",
+      "start": 15.21,
+      "end": 21.91
+    },
+    "15": {
+      "text": "Yakobo aramanuka ajya muri Egiputa, arapfa we na ba sogokuruza",
+      "start": 31.07,
+      "end": 44.68
+    },
+    "16": {
+      "text": "babajyana i Shekemu, babahamba mu buvumo Aburahamu yaguze igiciro cy'ifeza na bene Hamori w'i Shekemu.",
+      "start": 26.24,
+      "end": 32.21
+    },
+    "17": {
+      "text": "“Ariko igihe cy'isezerano cyenda gusohora, iryo Imana yarahiye Aburahamu, abantu baragwira baba benshi muri Egiputa,",
+      "start": 0.49,
+      "end": 40.59
+    },
+    "18": {
+      "text": "kugeza aho undi mwami yimiye muri Egiputa utazi Yosefu.",
+      "start": 16.54,
+      "end": 29.65
+    },
+    "19": {
+      "text": "Uwo mwami agira uburiganya bwo kurimbura ubwoko bwacu, agirira ba sogokuruza nabi, abateshereza abana babo b'impinja kugira ngo batabaho.",
+      "start": 0.12,
+      "end": 2.4
+    },
+    "20": {
+      "text": "Muri icyo gihe Mose aravuka, yari mwiza cyane imbere y'Imana. Bamurerera mu rugo rwa se amezi atatu,",
+      "start": 25.34,
+      "end": 40.77
+    },
+    "21": {
+      "text": "hanyuma amaze gutabwa umukobwa wa Farawo aramujyana, amurera nk'umwana we.",
+      "start": 44.89,
+      "end": 44.91
+    },
+    "22": {
+      "text": "Mose yigishwa ubwenge bwose bw'Abanyegiputa, agira imbaraga mu magambo ye no mu byo akora.",
+      "start": 41.16,
+      "end": 41.43
+    },
+    "23": {
+      "text": "“Ariko amaze imyaka mirongo ine avutse, yigira inama mu mutima we kugenderera bene wabo, ari bo bana ba Isirayeli.",
+      "start": 34.22,
+      "end": 37.24
+    },
+    "24": {
+      "text": "Abonye umuntu urengana aramutabara, ahorera urengana akubita Umunyegiputa.",
+      "start": 15.04,
+      "end": 44.04
+    },
+    "25": {
+      "text": "Yibwiraga yuko bene wabo bamenya ko Imana ibakirisha ukuboko kwe, ariko ntibabimenya.",
+      "start": 4.47,
+      "end": 35.05
+    },
+    "26": {
+      "text": "Bukeye bw'aho asanga abarwana, agerageza kubakiranura ati ‘Yemwe bagabo, ko muri abavandimwe ni iki gitumye mugirirana nabi?’",
+      "start": 23.8,
+      "end": 32.73
+    },
+    "27": {
+      "text": "Ariko uwarenganyaga mugenzi we aramusunika, aramubaza ati ‘Ni nde wakugize umutware cyangwa umucamanza wacu?",
+      "start": 5.96,
+      "end": 11.4
+    },
+    "28": {
+      "text": "Mbese urashaka kunyica nk'uko ejo wishe wa Munyegiputa?’",
+      "start": 33.83,
+      "end": 35.28
+    },
+    "29": {
+      "text": "Mose abyumvise atyo aracika, aba umusuhuke mu gihugu cy'i Midiyani abyarirayo abahungu babiri.",
+      "start": 29.63,
+      "end": 33.78
+    },
+    "30": {
+      "text": "“Imyaka mirongo ine ishize, marayika amubonekerera mu birimi by'umuriro waka mu gihuru, mu butayu bwo ku musozi wa Sinayi.",
+      "start": 26.83,
+      "end": 44.36
+    },
+    "31": {
+      "text": "Mose abibonye biramutangaza, akibyegera ngo abyitegereze yumva ijwi ry'Umwami Imana riti",
+      "start": 43.92,
+      "end": 43.95
+    },
+    "32": {
+      "text": "‘Ni jye Mana ya ba sekuruza bawe, n'Imana ya Aburahamu na Isaka na Yakobo.’ Mose ahinda umushyitsi ntiyatinyuka kwitegereza.",
+      "start": 3.24,
+      "end": 43.14
+    },
+    "33": {
+      "text": "Uwiteka aramubira ati ‘Kwetura inkweto mu birenge byawe, kuko aho uhagaze aho ari ahera.",
+      "start": 37.3,
+      "end": 43.5
+    },
+    "34": {
+      "text": "Ni ukuri mbonye umubabaro w'ubwoko bwanjye buri muri Egiputa kandi numvise baniha, namanuwe no kubakiza none ngwino ngutume muri Egiputa.’",
+      "start": 23.76,
+      "end": 41.69
+    },
+    "35": {
+      "text": "“Uwo ni we Mose wa wundi banze bati ‘Ni nde wakugize umutware cyangwa umucamanza?’ Ni we Imana yatumye kuba umutware n'umucunguzi, abihawe n'ukuboko kwa marayika uwo wamubonekereye mu gihuru.",
+      "start": 4.77,
+      "end": 34.25
+    },
+    "36": {
+      "text": "Kandi ni na we wabakuye muri Egiputa, amaze gukorera ibitangaza n'ibimenyetso muri icyo gihugu no mu Nyanja Itukura, no mu butayu mu myaka mirongo ine.",
+      "start": 20.44,
+      "end": 37.2
+    },
+    "37": {
+      "text": "“Mose uwo ni we wabwiye Abisirayeli ati ‘Imana izabahagurukiriza umuhanuzi uvuye muri bene wanyu, umeze nkanjye.’",
+      "start": 17.71,
+      "end": 35.15
+    },
+    "38": {
+      "text": "Kandi Mose ni we wari mu itorero ryo mu butayu, hamwe na marayika wavuganiye na we ku musozi wa Sinayi, kandi yari kumwe na ba sogokuruza, ni na we wahawe amagambo y'ubugingo yo kuduha.",
+      "start": 22.8,
+      "end": 24.5
+    },
+    "39": {
+      "text": "“Ba sogokuruza banze kumwumvira, ahubwo bamusunikira hirya basubira muri Egiputa mu mitima yabo,",
+      "start": 41.11,
+      "end": 43.81
+    },
+    "40": {
+      "text": "babwira Aroni bati ‘Uturemere imana zo kutujya imbere, kuko Mose uwo wadushoreraga adukura mu gihugu cya Egiputa tutazi uko yabaye.’",
+      "start": 27.51,
+      "end": 33.67
+    },
+    "41": {
+      "text": "Nuko bīremera ikimasa muri iyo minsi, icyo gishushanyo bagitambira ibitambo, bīshimira imirimo y'intoki zabo.",
+      "start": 24.28,
+      "end": 44.45
+    },
+    "42": {
+      "text": "Nuko Imana irahindukira irabazibukira, ibarekera gusenga ingabo zo mu ijuru nk'uko byanditswe mu gitabo cy'abahanuzi ngo‘Yemwe muryango w'Abisirayeli,Mbese mwantambiriye amatungo abazwe cyangwa ibitambo,Imyaka mirongo ine mu butayu?",
+      "start": 42.35,
+      "end": 43.49
+    },
+    "43": {
+      "text": "Mwateruye ihema rya Moleki,N'inyenyeri y'ikigirwamana Refani,Ari ibishushanyo mwaremeye kubisenga.Nanjye nzabīmurira hakurya y'i Babuloni.’",
+      "start": 0.86,
+      "end": 3.67
+    },
+    "44": {
+      "text": "“Ba sogokuruza bari bafite ihema ry'ubuhamya bari mu butayu, nk'uko Iyavuganye na Mose yamutegetse kurirema, arishushanije n'icyitegererezo cy'iryo yabonye.",
+      "start": 19.38,
+      "end": 34.75
+    },
+    "45": {
+      "text": "Iryo ba sogokuruza barihawe na ba se riba uruhererekane, barizana Yosuwa abagiye imbere ubwo batsindaga amahanga, ayo Imana yirukanaga imbere yabo kugeza mu gihe cya Dawidi",
+      "start": 23.56,
+      "end": 24.82
+    },
+    "46": {
+      "text": "wari utonnye imbere y'Imana, asaba kūbakira Imana ya Yakobo ubuturo.",
+      "start": 16.05,
+      "end": 38.88
+    },
+    "47": {
+      "text": "Ariko Salomo ni we wayubakiye inzu.",
+      "start": 1.6,
+      "end": 36.16
+    },
+    "48": {
+      "text": "“Nyamara Isumbabyose ntiba mu mazu yubatswe n'amaboko, nk'uko wa muhanuzi yavuze ati",
+      "start": 11.81,
+      "end": 23.02
+    },
+    "49": {
+      "text": "‘Ijuru ni ryo ntebe yanjye,Isi ni yo ntebe y'ibirenge byanjye.Muzanyubakira nzu ki?Ni ko Uwiteka ababaza.Cyangwa nzaruhukira hantu ki?",
+      "start": 0.53,
+      "end": 33.57
+    },
+    "50": {
+      "text": "Mbese intoki zanjye si zo zaremye ibyo byose?’",
+      "start": 26.67,
+      "end": 28.27
+    },
+    "51": {
+      "text": "“Yemwe abatagonda ijosi, mwe abatakebwe mu mitima no mu matwi, iteka murwanya Umwuka Wera! Uko ba sekuruza wanyu bakoraga ni ko namwe mukora.",
+      "start": 4.11,
+      "end": 40.37
+    },
+    "52": {
+      "text": "Ni nde mu bahanuzi ba sekuruza wanyu batarenganije? Bishe abāvuze ibyo kuza kwa wa Mukiranutsi bitari byaba, none namwe mwaramugambaniye muramwica,",
+      "start": 25.35,
+      "end": 26.84
+    },
+    "53": {
+      "text": "kandi ari mwe mwahawe amategeko n'abamarayika ntimwayitondera.”",
+      "start": 26.28,
+      "end": 40.83
+    },
+    "54": {
+      "text": "Ngo babyumve batyo bazabiranywa n'uburakari, bamuhekenyera amenyo.",
+      "start": 21.72,
+      "end": 27.66
+    },
+    "55": {
+      "text": "Ariko Sitefano yuzuye Umwuka Wera arararama, atumbira mu ijuru abona ubwiza bw'Imana na Yesu ahagaze iburyo bw'Imana,",
+      "start": 8.58,
+      "end": 42.41
+    },
+    "56": {
+      "text": "aravuga ati “Dore mbonye ijuru rikingutse, n'Umwana w'umuntu ahagaze iburyo bw'Imana.”",
+      "start": 4.58,
+      "end": 16.9
+    },
+    "57": {
+      "text": "Barasakuza cyane bīziba amatwi, bamugwirira icyarimwe,",
+      "start": 9.54,
+      "end": 39.15
+    },
+    "58": {
+      "text": "baramukurubana bamuvana mu murwa, bamwicisha amabuye. Abagabo bamushinje bashyira imyenda yabo ku birenge by'umusore witwaga Sawuli.",
+      "start": 7.79,
+      "end": 8.76
+    },
+    "59": {
+      "text": "Bakimutera amabuye, arāmbaza aravuga ati “Mwami Yesu, akira umwuka wanjye.”",
+      "start": 41.76,
+      "end": 42.93
+    },
+    "60": {
+      "text": "Arapfukama avuga ijwi rirenga ati “Mwami, ntubabareho iki cyaha.” Amaze kuvuga atyo arasinzira.Nuko Sawuli na we ashima ko yicwa.",
+      "start": 7.23,
+      "end": 31.26
+    }
+  }
+}

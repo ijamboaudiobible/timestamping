@@ -1,0 +1,1093 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sesx>
+<sesx version="1.9">
+
+  <session appBuild="25.2.0.123" appVersion="25.2" audioChannelType="stereo" bitDepth="32" duration="24408947" sampleRate="44100">
+    <tracks>
+      <audioTrack automationLaneOpenState="false" id="10025" index="1" select="true" visible="true">
+        <trackParameters trackHeight="345" trackHue="288" trackMinimized="false">
+          <name>Podcast Regular</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10007" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="4dcbdf58-26e5-4364-8276-2ca7e90dd074" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="6ccf03a4-cd14-4e84-a7e9-dfc3050b3f5e" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="8a74b0b5-e0c0-45ef-88e4-763b54cc8565" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="8e04dc99-cd86-4c8c-a374-883f91ea1a88" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <effectsRack preFader="true">
+          <component componentGuid="c1aa498c-0f35-469a-84ba-12ed183627da" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="f2b690a6-fcee-4c1a-bfb4-33a988d56c6d" id="rackInput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="2e64cd78-f1e5-415c-9fef-cb648d8bc392" id="rackOutput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <slot powered="false" slotIndex="0">
+            <component componentGuid="d238f301-7fa5-4e42-8873-93da7ef63487" componentID="c6762838-e451-4d22-9c90-b0eaa734605a" editorHeight="477" editorLeft="2569" editorTop="278" editorWidth="622" name="DeNoise" presetName="Light Noise Reduction">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"","type":0}],"out":[{"layout":[100,101],"name":"","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[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]]></presetChunkData>
+            </component>
+          </slot>
+          <slot powered="false" slotIndex="1">
+            <component componentGuid="e77d9811-b45c-4ae4-a83e-304a9cc018c7" componentID="f14fee7d-fe5f-4202-b790-f53209e56411" editorHeight="306" editorLeft="2649" editorTop="363" editorWidth="463" name="Amplify" presetName="-3dB Cut">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"","type":0}],"out":[{"layout":[100,101],"name":"","type":0}]}]]></busConfig>
+              <parameter index="0" name="Channel Count" parameterValue="0.0625"/>
+              <parameter index="1" name="Link Sliders" parameterValue="1"/>
+              <parameter index="2" name="Left" parameterValue="0.64583301544189453125"/>
+              <parameter index="3" name="Right" parameterValue="0.64583301544189453125"/>
+              <parameter index="4" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="5" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="6" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="7" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="8" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="9" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="10" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="11" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="12" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="13" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="14" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="15" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="16" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="17" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="18" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="19" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="20" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="21" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="22" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="23" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="24" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="25" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="26" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="27" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="28" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="29" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="30" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="31" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="32" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="33" name="" parameterValue="0.666666686534881591796875"/>
+              <parameter index="34" name="Link Keyframes" parameterValue="1"/>
+            </component>
+          </slot>
+        </effectsRack>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16169268" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="john_12 44100 1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="16169268" startPoint="0" zOrder="0">
+          <component componentGuid="ea01072d-431b-43e9-8832-21a390887baa" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="0e2120ee-6a5d-42f2-b6a7-8c213be99ee7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="a7b718fa-d8cb-4565-b838-4b8b851206b8" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="16169268" shape="19" startPoint="16169268" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+      </audioTrack>
+      <audioTrack automationLaneOpenState="false" id="10034" index="2" select="false" visible="true">
+        <trackParameters trackHeight="345" trackHue="288" trackMinimized="false">
+          <name>Podcast Heavy</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
+          <trackOutput outputID="10007" type="trackID"/>
+          <trackInput inputID="1"/>
+          <component componentGuid="fbc2b92d-7f08-493d-b1d3-f47e3658786b" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="5fa7d29f-5cc6-4564-af1e-1eb01fff05a5" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="6f622cf5-a70f-4097-af00-d07401abaef4" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="df8d01e6-010d-4292-b0d8-337064263764" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <effectsRack preFader="true">
+          <component componentGuid="ae227825-78ce-4142-8c3a-b6fdcd216486" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="592cce11-b383-44fb-93a9-40134c6a082f" id="rackInput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="59b9aeb0-2dfb-47e5-97f2-da3a76319633" id="rackOutput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <slot powered="true" slotIndex="0">
+            <component componentGuid="f6ed74c6-795d-4fd5-8e4c-5d4299b9c87f" componentID="3034b5c2-23a7-43b6-a1ef-9c4047f4368d" name="Speech Volume Leveler" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <parameter index="0" name="Target Volume Level" parameterValue="1"/>
+              <parameter index="1" name="Leveling Amount" parameterValue="0"/>
+              <parameter index="2" name="Compressor Active" parameterValue="0"/>
+              <parameter index="3" name="Compressor Threshold" parameterValue="1"/>
+              <parameter index="4" name="Noise Gate Active" parameterValue="0"/>
+              <parameter index="5" name="Noise Offset" parameterValue="0.60000002384185791015625"/>
+              <parameter index="6" name="Boost Low Signals" parameterValue="0"/>
+              <parameter index="7" name="Amplification Meter" parameterValue="0.4339957535266876220703125"/>
+              <parameter index="8" name="Target Dynamic Range" parameterValue="0"/>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="1">
+            <component componentGuid="c8570878-d777-4e53-a432-d6018ed597a3" componentID="8edcd326-33de-4a4d-985b-f1bf48ed1427" name="Parametric Equalizer" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <parameter index="0" name="Low Shelf Frequency" parameterValue="0.000907852430827915668487548828125"/>
+              <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+              <parameter index="2" name="High Shelf Frequency" parameterValue="0.4605491459369659423828125"/>
+              <parameter index="3" name="High Shelf Gain" parameterValue="0.4819079339504241943359375"/>
+              <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617766089737415313720703125"/>
+              <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+              <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+              <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008131329901516437530517578125"/>
+              <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.47039473056793212890625"/>
+              <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+              <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0786838531494140625"/>
+              <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.508223712444305419921875"/>
+              <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+              <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.1536507308483123779296875"/>
+              <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.513157904148101806640625"/>
+              <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+              <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.2919409573078155517578125"/>
+              <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.506578922271728515625"/>
+              <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+              <parameter index="24" name="Gain" parameterValue="0.66666698455810546875"/>
+              <parameter index="25" name="ConstantQ" parameterValue="1"/>
+              <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+              <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+              <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+              <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+              <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+              <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+              <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.00249998713843524456024169921875"/>
+              <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.009956649504601955413818359375"/>
+              <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.08767025172710418701171875"/>
+              <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.17024625837802886962890625"/>
+              <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.3225729763507843017578125"/>
+              <parameter index="37" name="High-Pass Filter Enable" parameterValue="1"/>
+              <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0.00183619116432964801788330078125"/>
+              <parameter index="39" name="High-Pass Slope" parameterValue="0.800000011920928955078125"/>
+              <parameter index="40" name="Low-Pass Filter Enable" parameterValue="1"/>
+              <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.884246528148651123046875"/>
+              <parameter index="42" name="Low-Pass Slope" parameterValue="0.800000011920928955078125"/>
+              <parameter index="43" name="Bypass" parameterValue="0"/>
+              <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="2">
+            <component componentGuid="4280ad06-ae3b-4a68-9aa6-263fb1f50f94" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[BCBuYWZldFMHAAAAmGaPwQAAyEIAAMhCOpSsRQ+0wEUAAAAAAACAPw==]]></presetChunkData>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="3">
+            <component componentGuid="e584ca29-3311-4920-a05a-97bad4c42f5d" componentID="1eee85a7-3087-439e-906d-dc6204330e25" name="Dynamics" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[EgAAAAEAAOjBAACAPwAASEMAAMhCAAAAAAAAAIA/AACAPwAASEJVVZ1AAQAA6MEAAEBAAQAAgL8AAEhC]]></presetChunkData>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="4">
+            <component componentGuid="e0364e45-3018-4118-acbd-dfcf666cd7bd" componentID="aeb0b5ea-5024-4f02-8097-81f8fd7aba92" name="DeReverb" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"","type":0}],"out":[{"layout":[100,101],"name":"","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[AiBuYWZldFMHAAAAzcxMPTAioj0AAIA/AAAAAAAAAAACEAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAA]]></presetChunkData>
+            </component>
+          </slot>
+        </effectsRack>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </audioTrack>
+      <busTrack automationLaneOpenState="false" id="10007" index="3" select="false" visible="false">
+        <trackParameters trackHeight="134" trackHue="44" trackMinimized="true">
+          <name>Podcast Voices</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="mono" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="10009" type="trackID"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="3e392e35-aab5-47de-bc76-106211116cad" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="011ed4f4-2ae8-4248-89fe-ace382355a4f" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="323373cc-4eb4-4d6e-bf15-fecae139d097" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="b55200a7-e2bc-4b5e-b2cb-7d523bc85b6d" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <effectsRack preFader="true">
+          <component componentGuid="1110891d-e8c0-4c90-9fa9-73390c69a0ef" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="7d14d356-1758-4228-802a-0ec14ee98315" id="rackInput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="74e84edc-f487-44c1-8657-e79066a77a32" id="rackOutput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <slot powered="true" slotIndex="0">
+            <component componentGuid="427bf8cf-c361-43d3-9b61-28909273c4c7" componentID="8edcd326-33de-4a4d-985b-f1bf48ed1427" editorHeight="542" editorLeft="907" editorTop="460" editorWidth="746" name="Parametric Equalizer" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[0],"name":"Mono In","type":0}],"out":[{"layout":[0],"name":"Mono Out","type":0}]}]]></busConfig>
+              <parameter index="0" name="Low Shelf Frequency" parameterValue="0.000907852430827915668487548828125"/>
+              <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+              <parameter index="2" name="High Shelf Frequency" parameterValue="0.4173375666141510009765625"/>
+              <parameter index="3" name="High Shelf Gain" parameterValue="0.4901315867900848388671875"/>
+              <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617766089737415313720703125"/>
+              <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+              <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+              <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.010231674648821353912353515625"/>
+              <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.4769736826419830322265625"/>
+              <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+              <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0502270646393299102783203125"/>
+              <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.4769736826419830322265625"/>
+              <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+              <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.14266359806060791015625"/>
+              <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.508223712444305419921875"/>
+              <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+              <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.28483045101165771484375"/>
+              <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+              <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.508223712444305419921875"/>
+              <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+              <parameter index="24" name="Gain" parameterValue="0.66666698455810546875"/>
+              <parameter index="25" name="ConstantQ" parameterValue="1"/>
+              <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+              <parameter index="27" name="High Shelf Filter Order" parameterValue="1"/>
+              <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+              <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+              <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+              <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+              <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.00249998713843524456024169921875"/>
+              <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.012270179577171802520751953125"/>
+              <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0563250966370105743408203125"/>
+              <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15814395248889923095703125"/>
+              <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.3147407472133636474609375"/>
+              <parameter index="37" name="High-Pass Filter Enable" parameterValue="1"/>
+              <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0.00392180494964122772216796875"/>
+              <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+              <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+              <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.816160380840301513671875"/>
+              <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+              <parameter index="43" name="Bypass" parameterValue="0"/>
+              <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="1">
+            <component componentGuid="5ba381da-6aff-40f9-86fd-6158ac2d6559" componentID="3981e750-c8ae-40a2-889f-41a01c7efa03" editorHeight="644" editorLeft="981" editorTop="409" editorWidth="599" name="Multiband Compressor" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[0],"name":"Mono In","type":0}],"out":[{"layout":[0],"name":"Mono Out","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[AiBuYWZldFNoAAAAAAAAAAAAoMEAAIjBAACgwQAAIMEAAABAAAAAQAAAIEEAAABAAAAgQQAAIEEAACBBAAAgQQAAyEIAAMhCAADIQgAAyEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwQmesd0V70/RFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAD6QwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></presetChunkData>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="2">
+            <component componentGuid="e2ef5758-7b73-4bd2-9298-76b757cb8731" componentID="e0b23f05-f1a7-4ef7-9b50-7ec3e3002058" editorHeight="330" editorLeft="1056" editorTop="566" editorWidth="448" name="Hard Limiter" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[0],"name":"Mono In","type":0}],"out":[{"layout":[0],"name":"Mono Out","type":0}]}]]></busConfig>
+              <parameter index="0" name="Maximum Amplitude" parameterValue="0.9900000095367431640625"/>
+              <parameter index="1" name="Input Boost" parameterValue="0.666666686534881591796875"/>
+              <parameter index="2" name="Look-Ahead Time" parameterValue="0.13333301246166229248046875"/>
+              <parameter index="3" name="Release Time" parameterValue="0.375"/>
+              <parameter index="4" name="Link Channels" parameterValue="1"/>
+              <parameter index="5" name="Decay to Ceiling" parameterValue="1"/>
+              <parameter index="6" name="Limit True Peak" parameterValue="0"/>
+            </component>
+          </slot>
+        </effectsRack>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="true" sendOutputID="0" slotIndex="0">
+            <component componentGuid="239da06f-cfe1-4c1a-9c57-25e6f51a8ad4" componentID="Audition.Send" id="sendComponent" powered="true">
+              <parameter index="0" name="Power On/Off" parameterValue="1"/>
+              <parameter index="1" name="Level" parameterValue="1"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </busTrack>
+      <busTrack automationLaneOpenState="false" id="10009" index="4" select="false" visible="false">
+        <trackParameters trackHeight="134" trackHue="-1" trackMinimized="true">
+          <name>Final Mix</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="38cfc89e-1f9b-4726-a210-357dd1d196eb" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="6198ddf9-8a9c-4282-8c2e-6f985d33ac4b" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="0432e80a-2e67-42a6-b1db-b288368623d2" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="8b369d71-4fc9-40cb-a8bc-317c9eeca81c" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <effectsRack preFader="true">
+          <component componentGuid="7c4a428e-b4de-4b43-ae94-efc4940383d6" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="9dcbc949-556a-4684-8c5b-0f51d27abd6f" id="rackInput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="6d9a32c4-7d5a-4644-8033-988be669c66e" id="rackOutput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <slot powered="true" slotIndex="0">
+            <component componentGuid="0ac12e7c-a345-4b05-91c3-a5c7b9c44cc8" componentID="1eee85a7-3087-439e-906d-dc6204330e25" editorHeight="501" editorLeft="1087" editorTop="513" editorWidth="504" name="Dynamics" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <presetChunkData><![CDATA[EgAAAAAAAKDBAACAPwAAyEIAAIA/AQAAIMEAAKBAAACAPwAASEIAAIBAAAAAoMEAAIA/AQAAgL8AAEhC]]></presetChunkData>
+            </component>
+          </slot>
+        </effectsRack>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </busTrack>
+      <masterTrack automationLaneOpenState="false" id="10000" index="5" select="false" visible="true">
+        <trackParameters trackHeight="345" trackHue="-1" trackMinimized="false">
+          <name>Master</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="1" type="hardwareOutput"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="98014c3e-bd61-40ae-8408-f770eaa95c9c" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="ae9d39e7-5560-41f5-8377-48bd4926e41e" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="fb7b80b8-b1b4-4d91-8282-8dcb9353f231" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="1d92107a-79b7-4905-be56-a3b2bebf4f4c" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <effectsRack preFader="true">
+          <component componentGuid="931b2066-9a48-472d-b670-7bd508526e5f" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="032dcef8-0002-41c1-bc59-4a061a989c18" id="rackInput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <component componentGuid="0c103a38-709e-4ca5-be44-cb7b0fe9b066" id="rackOutput" powered="true">
+            <parameter index="0" parameterValue="1"/>
+            <parameter index="1" parameterValue="0"/>
+          </component>
+          <slot powered="true" slotIndex="0">
+            <component componentGuid="d7de3d5d-a259-44b3-b5b8-bc082df8faf0" componentID="e0b23f05-f1a7-4ef7-9b50-7ec3e3002058" name="Hard Limiter" presetName="(Custom)">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"Stereo In","type":0}],"out":[{"layout":[100,101],"name":"Stereo Out","type":0}]}]]></busConfig>
+              <parameter index="0" name="Maximum Amplitude" parameterValue="0.9700000286102294921875"/>
+              <parameter index="1" name="Input Boost" parameterValue="0.686666667461395263671875"/>
+              <parameter index="2" name="Look-Ahead Time" parameterValue="0.13333301246166229248046875"/>
+              <parameter index="3" name="Release Time" parameterValue="0.375"/>
+              <parameter index="4" name="Link Channels" parameterValue="1"/>
+              <parameter index="5" name="Decay to Ceiling" parameterValue="1"/>
+              <parameter index="6" name="Limit True Peak" parameterValue="0"/>
+            </component>
+          </slot>
+        </effectsRack>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </masterTrack>
+    </tracks>
+    <sessionState ctiPosition="0" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="0"/>
+      <viewState horizontalViewDuration="0" horizontalViewStart="0" trackControlsWidth="0" verticalScrollOffset="0"/>
+      <timeFormatState beatsPerBar="0" beatsPerMinute="0" customFrameRate="0" linkToDefaultTimeSettings="false" noteLength="0" subdivisions="0" timeCodeDropFrame="false" timeCodeFrameRate="0" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
+      <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
+    </sessionState>
+    <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 152.deb9585, 2024/02/06-08:36:10        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
+         <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
+         <xmp:CreateDate>2020-04-01T09:00:21+01:00</xmp:CreateDate>
+         <xmp:MetadataDate>2025-12-12T03:30:34-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2025-12-12T03:30:34-05:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:4a650866-e5f4-7f46-8680-7b9206f1e23b</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:4a650866-e5f4-7f46-8680-7b9206f1e23b</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:cc6bd3eb-d9f4-4aef-a449-78beb20f8b30</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:cc6bd3eb-d9f4-4aef-a449-78beb20f8b30</stEvt:instanceID>
+                  <stEvt:when>2020-04-01T09:00:56+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a36dab6f-34e2-40cf-b0a7-7214244fd599</stEvt:instanceID>
+                  <stEvt:when>2020-04-01T09:00:56+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c6105dab-9be2-4d83-82f8-b54d63521bc6</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T14:17:14+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6a4761c7-4f49-42b8-844a-0c1d90df0443</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T14:17:14+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:01324dd8-c555-481c-be0b-f6e39009e2a7</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T14:47:25+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ad6c5938-350d-46b8-9521-3db68f6e7532</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T14:47:25+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:cb09125c-4a5f-4f4c-becd-6c5b0ff1bf9f</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:02:13+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5339633d-1581-47c4-b4a9-ef3413c8630a</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:02:13+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:953b952d-e129-4ab4-8b9e-e6f3505881ae</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:02:39+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:dee5b67d-5bc8-4855-bd69-9d8e701c8684</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:02:39+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3546f0c8-a649-40e3-b044-c2c33987acd4</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:03:16+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4ad51da0-8d2b-43ee-a131-0e4fea8f9851</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:03:16+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ce073865-9b67-49df-9e42-4edf290416d5</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:10:30+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:875e6cbb-1179-406c-bf53-65709f0d9510</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:10:30+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6ee7aee8-17fe-4dd8-98c8-5c0d932e8811</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:11:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:355c65da-1bd0-4c86-90cd-1b83417b47c7</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:11:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0cb6cbae-3ceb-425a-b6c8-278746062985</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:16:56+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:68eb5cbb-429b-41bd-a7db-745fc236a049</stEvt:instanceID>
+                  <stEvt:when>2020-05-18T15:16:56+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:44a84fae-2fb3-f946-8955-4e08672bc706</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:30:00-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ed916565-366c-9140-b47a-37aaecf11395</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:30:00-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:2d4d9cc7-c3b5-2f43-91fe-ee5908590683</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:30:01-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b8b0f1bc-1a0a-434a-a764-45f29f33e303</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:30:01-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:cc9d7c22-987c-a640-baf7-d4919f168ce8</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:32:28-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:bb5c9d45-5ed7-d64f-9162-77b928cf0dad</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:32:28-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:f4513128-2682-674c-ad1c-a59d40d88818</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:35:28-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:45ed5905-ee6c-0b47-bdd6-6b5c5099573d</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T02:35:28-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0ac76174-8077-2e45-912c-7929eb31e29c</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T03:30:24-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5c10d804-ffd8-3c45-9c89-967790285969</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T03:30:24-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:f78559f5-a85d-404b-ae19-d11a875a8034</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T03:30:34-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4a650866-e5f4-7f46-8680-7b9206f1e23b</stEvt:instanceID>
+                  <stEvt:when>2025-12-12T03:30:34-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 25.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:f78559f5-a85d-404b-ae19-d11a875a8034</stRef:instanceID>
+            <stRef:documentID>xmp.did:875e6cbb-1179-406c-bf53-65709f0d9510</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:cc6bd3eb-d9f4-4aef-a449-78beb20f8b30</stRef:originalDocumentID>
+         </xmpMM:DerivedFrom>
+         <dc:format>application/xml</dc:format>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Cue</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CD Track Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Track</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>Subclip Markers</xmpDM:trackName>
+                  <xmpDM:trackType>InOut</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>]]></xmpMetadata>
+    <clipGroups/>
+    <metronome enabled="false" pattern="downBeat subdivision subdivision subdivision " soundSet="sticks">
+      <metronomeTrack automationLaneOpenState="false" id="40000" index="0" select="false" visible="false">
+        <trackParameters trackHeight="77" trackHue="-1" trackMinimized="false">
+          <name>Metronome</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="mono" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="-1"/>
+          <component componentGuid="a526dcf3-a78b-4dfa-be07-5b51ad36a49f" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.50118732452392578125"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="dfd7a984-9962-4aa8-ab17-cec49c25b2fd" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="704b749e-1475-45fc-ae54-298accc6b8db" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentGuid="7e6ecb1d-409d-4e9f-a433-6642caa11fa3" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009078529546968638896942138671875"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.816159784793853759765625"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013617794029414653778076171875"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.008170676417648792266845703125"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354062654078006744384765625"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.144348621368408203125"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118000507354736328125"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.000199989997781813144683837890625"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Gain" parameterValue="0.666666686534881591796875"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.22968749701976776123046875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.002499990165233612060546875"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.0099999904632568359375"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.0399999916553497314453125"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.15999998152256011962890625"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.63999998569488525390625"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945049762725830078125"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="0.4000000059604644775390625"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </metronomeTrack>
+    </metronome>
+    <properties>
+      <property key="EssentialSoundConfigurations">[{"Guid":"a8b40e3e-13e7-4c1f-b382-96058f1f691d","Name":"$$$/app/Presets/DefaultPresetName=(Default)","PresetData":{"ModeID":"ambience","Models":{"model_loudness":{"DefaultLoudness":{"type":"float","value":-30},"LoudnessStandard":{"type":"std::uint32_t","value":0},"MaxLoudness":{"type":"float","value":-12},"MinLoudness":{"type":"float","value":-42}},"model_soundeffects":{"ReverbPresets":{"type":"tree::any","value":{"$$$/app/Presets/EssentialSound/ReverbPreset/LargeRoomAmbience=Large Room Ambience":{"type":"array::float","value":[0.051507499068975449,0.32432401180267334,0.29292899370193481,0.30000001192092896,0.20000000298023224,0,0.14285700023174286,0.40000000596046448,0.5,0.69999998807907104,0.30000001192092896,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/OutsideAmbience=Outside Ambience":{"type":"array::float","value":[0.091708503663539886,0.043893899768590927,1,0.5,0.20000000298023224,0.80000001192092896,0.18367299437522888,1,0.5,0,0.80000001192092896,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/RoomAmbience=Room Ambience":{"type":"array::float","value":[0.057788901031017303,0.44944900274276733,0.49494898319244385,0.89999997615814209,0.10000000149011612,0.15000000596046448,0.081632703542709351,0.40000000596046448,0.5,0.80000001192092896,0.20000000298023224,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/WindEffect=Wind Effect":{"type":"array::float","value":[0.19597999751567841,0.6896899938583374,0.69696998596191406,0.25,0.5,0.5,0.23469400405883789,0.51999998092651367,0.5,0.75,0.25,0.25125628709793091,0.03125]}}}},"model_stereowidth":{},"model_volume":{"MaxGain":{"type":"float","value":15},"MinGain":{"type":"float","value":-60}}}},"Type":"1c19ca71-c24c-49cd-8dd5-2cc46018507a","Version":1},{"Guid":"58dc27a8-6a2a-480c-bd0c-4b45fff346a6","Name":"$$$/app/Presets/DefaultPresetName=(Default)","PresetData":{"ModeID":"dialog","Models":{"model_clarity":{"EQPresets":{"type":"tree::any","value":{"$$$/app/Presets/EssentialSound/EQPreset/BackgroundVoice=Background Voice":{"type":"array::float","value":[0.12099699676036835,0.5,0.39240506291389465,0,0.5,0.5,0.5,0.5,0.5,0.47827938199043274,0.45772689580917358,0.45778733491897583,0.47946760058403015,0.5,0]},"$$$/app/Presets/EssentialSound/EQPreset/Intercom=Intercom":{"type":"array::float","value":[0.19432899355888367,0.5,1,0,0.071499988436698914,0.071499988436698914,0.071499988436698914,0.40238627791404724,0.48571401834487915,0.5,0.55155748128890991,0.59602576494216919,0.22246670722961426,0.071499988436698914,0]},"$$$/app/Presets/EssentialSound/EQPreset/LockedInTheTrunk=Locked in the Trunk":{"type":"array::float","value":[0.12099699676036835,0.5,0.79746836423873901,0,0.5,0.5,0.5,0.5,0.5,0.32846158742904663,0.15721426904201508,0.15721426904201508,0.15721426904201508,0.15721426904201508,0]},"$$$/app/Presets/EssentialSound/EQPreset/OldRadio=Old Radio":{"type":"array::float","value":[0.12099699676036835,0.5,0.79746836423873901,0,0.15721426904201508,0.15721426904201508,0.15721426904201508,0.28442040085792542,0.48315632343292236,0.36498492956161499,0.52853888273239136,0.43511500954627991,0.27154684066772461,0.15721426904201508,0]},"$$$/app/Presets/EssentialSound/EQPreset/OnTheTelephone=On the Telephone":{"type":"array::float","value":[0.12099699676036835,0.5,0.39240506291389465,0,0.32864287495613098,0.32864287495613098,0.32864287495613098,0.32864287495613098,0.48571401834487915,0.53071397542953491,0.53071397542953491,0.48357096314430237,0.32864287495613098,0.32864287495613098,0]},"$$$/app/Presets/EssentialSound/EQPreset/OutsideOfTheRoom=Outside of the Room":{"type":"array::float","value":[0.12099699676036835,0.5,0.79746836423873901,0,0.42539370059967041,0.47865453362464905,0.5,0.5,0.48571401834487915,0.40073278546333313,0.25656309723854065,0.15721426904201508,0.15721426904201508,0.15721426904201508,0]},"$$$/app/Presets/EssentialSound/EQPreset/PodcastVoice=Podcast Voice":{"type":"array::float","value":[0.12099699676036835,0.5,0.39240506291389465,0,0.5,0.5,0.5,0.51789408922195435,0.50770342350006104,0.5,0.51789408922195435,0.528114914894104,0.5102812647819519,0.5,0]},"$$$/app/Presets/EssentialSound/EQPreset/SubtleBoostFemale=Subtle Boost (Female)":{"type":"array::float","value":[0.096553400158882141,0.5,0.29113924503326416,0,0.5,0.5,0.5,0.5,0.5,0.51933407783508301,0.54642897844314575,0.52706766128540039,0.5,0.5,0]},"$$$/app/Presets/EssentialSound/EQPreset/SubtleBoostMale=Subtle Boost (Male)":{"type":"array::float","value":[0.096553400158882141,0.5,0.29113924503326416,0,0.5,0.5,0.5,0.5,0.5,0.5135338306427002,0.54642897844314575,0.51933407783508301,0.5,0.5,0]},"$$$/app/Presets/EssentialSound/EQPreset/ThatPublicRadioSound=That Public Radio Sound":{"type":"array::float","value":[0.12099699676036835,0.5,0.79746836423873901,0,0.15721426904201508,0.15721426904201508,0.15721426904201508,0.36334344744682312,0.49468311667442322,0.5,0.5,0.5,0.5,0.5,0]},"$$$/app/Presets/EssentialSound/EQPreset/VocalPresence=Vocal Presence":{"type":"array::float","value":[0.096553400158882141,0.5,0.32489451766014099,0,0.3572143018245697,0.3572143018245697,0.46428570151329041,0.47857141494750977,0.4763694703578949,0.49570354819297791,0.55924957990646362,0.56523394584655762,0.50859290361404419,0.46992480754852295,0]}}}},"model_loudness":{"DefaultLoudness":{"type":"float","value":-23},"LoudnessStandard":{"type":"std::uint32_t","value":0},"MaxLoudness":{"type":"float","value":-12},"MinLoudness":{"type":"float","value":-42}},"model_restoration":{"ReduceNoiseMaxSetting":{"type":"array::float","value":[1,0,1,0]},"ReduceNoiseMinSetting":{"type":"array::float","value":[0,0,1,0]},"ReduceReverbMaxSetting":{"type":"array::float","value":[1,0,1,0]},"ReduceReverbMinSetting":{"type":"array::float","value":[0,0,1,0]},"ReduceRumbleMaxSetting":{"type":"array::float","value":[1,0.084112152457237244,0.375,0,0,0.00083333335351198912,1,0,1,0.0390625,0.00083408987848088145,0,0.0041666668839752674,0.00022554649331141263,0.0046875001862645149,0.75,0.0052083334885537624,0.75,1,0.75,0.0040520834736526012,0.75,0.0042629167437553406,0.00022554649331141263,0.0064883334562182426,0.00022554649331141263,0.006866666954010725,0.75,0.0071704164147377014,0.00022554649331141263,0.01041458360850811,0.00022554649331141263,0.010900000110268593,0.75,0.011407917365431786,0.00022554649331141263,0.015606249682605267,0.00022554649331141263,0.016333334147930145,0.75,0.017094582319259644,0.00022554649331141263,0.026243748143315315,0.00022554649331141263,0.0274666678160429,0.75,0.028746666386723518,0.00022554649331141263,0.041658751666545868,0.00022554649331141263,0.043600000441074371,0.75,0.045631669461727142,0.00022554649331141263,0.062424581497907639,0.00022554649331141263,0.065333336591720581,0.75,0.068377502262592316,0.00022554649331141263,0.10497540980577469,0.00022554649331141263,0.1098666712641716,0.75,0.11498583108186722,0.00022554649331141263,0.16663584113121033,0.00022554649331141263,0.17440000176429749,0.75,0.18252624571323395,0.00022554649331141263,0.91874998807907104,0.00022554649331141263,1,0.00022554649331141263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"ReduceRumbleMinSetting":{"type":"array::float","value":[1,0.084112152457237244,0.375,0,0,0.00083333335351198912,1,0,1,0.0390625,0.00083408987848088145,0.75,0.0041666668839752674,0.75,0.0046875001862645149,0.75,0.0052083334885537624,0.75,1,0.75,0.91874998807907104,0.61237245798110962,1,0.61237245798110962,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"ReduceSibilanceMaxSetting":{"type":"array::float","value":[0.5,0.19983997941017151,0.18367347121238708,0.26086956262588501,0.52702701091766357,0,1,0,0,0,0,0.75,1,1,0.40000000596046448]},"ReduceSibilanceMinSetting":{"type":"array::float","value":[0.875,0.19983997941017151,0.18367347121238708,0.19130434095859528,0.25675675272941589,0,1,0,0,0,0,0.75,1,1,0.40000000596046448]}},"model_soundeffects":{"ReverbPresets":{"type":"tree::any","value":{"$$$/app/Presets/EssentialSound/ReverbPreset/Auditorium=Auditorium":{"type":"array::float","value":[0.013047545216977596,0.15895412862300873,1,0.89999997615814209,0,0.52007436752319336,0.41663265228271484,0.46000000834465027,0.5,0.73000001907348633,0.15999999642372131,0.75376886129379272,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/Church=Church":{"type":"array::float","value":[0.032663315534591675,0.39939939975738525,0.79797977209091187,0.25,0.5,0.5,0.2297959178686142,0.72000002861022949,0.5,0.62999999523162842,0.87999999523162842,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/LargeReflectiveRoom=Large Reflective Room":{"type":"array::float","value":[0.0074449013918638229,0.098988421261310577,0.79890537261962891,0.89999997615814209,0.10000000149011612,0.40110713243484497,0.060284845530986786,0.27522978186607361,0.5,0.73000001907348633,0.31999999284744263,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/OutsideTheClub=Outside the Club":{"type":"array::float","value":[0.020615793764591217,0.050136558711528778,0.69696998596191406,0.25,0.094355784356594086,0.22242647409439087,0.1071428582072258,0.2800000011920929,0.5,0.73000001907348633,0.46000000834465027,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/SmallDryRoom=Small Dry Room":{"type":"array::float","value":[0.24623115360736847,0.69975000619888306,0.29292899370193481,0.40000000596046448,0.20000000298023224,0.40000000596046448,0.039285715669393539,0.10000000149011612,0.5,1,0.5,0.75376886129379272,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/ThickenVoice=Thicken Voice":{"type":"array::float","value":[0.19597999751567841,0.23931467533111572,0.69696998596191406,0.25,0.5,0.53999996185302734,0.020408162847161293,0.20945435762405396,0.5,1,0.34999999403953552,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/WarmRoom=Warm Room":{"type":"array::float","value":[0.020100502297282219,0.074074074625968933,0.49494948983192444,0.40000000596046448,0.74960309267044067,0.40000000596046448,0.1239795908331871,0.67000001668930054,0.5,0.85000002384185791,0.56000000238418579,0.25125628709793091,0.03125]},"$$$/app/Presets/EssentialSound/ReverbPreset/WarmVoice=Warm Voice":{"type":"array::float","value":[0.19597989320755005,0.89989989995956421,0,0.40000000596046448,0.20000000298023224,0.40000000596046448,0.10204081982374191,0.090000003576278687,0.5,1,0.30000001192092896,0.25125628709793091,0.03125]}}}},"model_volume":{"MaxGain":{"type":"float","value":15},"MinGain":{"type":"float","value":-60}}}},"Type":"1c19ca71-c24c-49cd-8dd5-2cc46018507a","Version":1},{"Guid":"353811fa-4179-435e-8e5e-23028ba15a7a","Name":"$$$/app/Presets/DefaultPresetName=(Default)","PresetData":{"ModeID":"generic","Models":{"model_loudness":{"DefaultLoudness":{"type":"float","value":-24},"LoudnessStandard":{"type":"std::uint32_t","value":0},"MaxLoudness":{"type":"float","value":-12},"MinLoudness":{"type":"float","value":-42}},"model_volume":{"MaxGain":{"type":"float","value":15},"MinGain":{"type":"float","value":-60}}}},"Type":"1c19ca71-c24c-49cd-8dd5-2cc46018507a","Version":1},{"Guid":"31ba96a6-5d3e-4d89-b1e1-1dbe3c055d0c","Name":"$$$/app/Presets/DefaultPresetName=(Default)","PresetData":{"ModeID":"music","Models":{"model_ducking":{},"model_duration":{},"model_loudness":{"DefaultLoudness":{"type":"float","value":-25},"LoudnessStandard":{"type":"std::uint32_t","value":0},"MaxLoudness":{"type":"float","value":-12},"MinLoudness":{"type":"float","value":-42}},"model_volume":{"MaxGain":{"type":"float","value":15},"MinGain":{"type":"float","value":-60}}}},"Type":"1c19ca71-c24c-49cd-8dd5-2cc46018507a","Version":1},{"Guid":"cea63332-1adc-44a9-a6eb-5490f965859b","Name":"$$$/app/Presets/DefaultPresetName=(Default)","PresetData":{"ModeID":"sfx","Models":{"model_loudness":{"DefaultLoudness":{"type":"float","value":-21},"LoudnessStandard":{"type":"std::uint32_t","value":0},"MaxLoudness":{"type":"float","value":-12},"MinLoudness":{"type":"float","value":-42}},"model_pan":{},"model_soundeffects":{"ReverbPresets":{"type":"tree::any","value":{"$$$/app/Presets/EssentialSound/ReverbPreset/HeavyReverb=Heavy Reverb":{"type":"array::float","value":[0.13316600024700165,0.29929900169372559,1,0.95999997854232788,0.85000002384185791,0.5,0.51530599594116211,0.30000001192092896,0.5,0.5,0.5,0.25125628709793091,0.0625]},"$$$/app/Presets/EssentialSound/ReverbPreset/LightReverb=Light Reverb":{"type":"array::float","value":[0.095477402210235596,0.29929900169372559,0.090909101068973541,1,1,0.80000001192092896,0.22449000179767609,0.60000002384185791,0.5,0.69999998807907104,0.30000001192092896,0.25125628709793091,0.0625]},"$$$/app/Presets/EssentialSound/ReverbPreset/OutsideReverb=Outside Reverb":{"type":"array::float","value":[0.091708503663539886,0.043893899768590927,1,0.5,0.20000000298023224,0.80000001192092896,0.18367299437522888,1,0.5,0,0.80000001192092896,0.25125628709793091,0.0625]},"$$$/app/Presets/EssentialSound/ReverbPreset/RoomReverb=Room Reverb":{"type":"array::float","value":[0.057788901031017303,0.44944900274276733,0.49494898319244385,0.89999997615814209,0.10000000149011612,0.15000000596046448,0.081632703542709351,0.40000000596046448,0.5,0.80000001192092896,0.20000000298023224,0.25125628709793091,0.0625]}}}},"model_volume":{"MaxGain":{"type":"float","value":15},"MinGain":{"type":"float","value":-60}}}},"Type":"1c19ca71-c24c-49cd-8dd5-2cc46018507a","Version":1}]</property>
+    </properties>
+    <trackVisibilityPresets>
+      <trackVisibilityPreset id="0">
+        <trackVisibility id="10025" trackHeight="345"/>
+        <trackVisibility id="10026" trackHeight="345"/>
+      </trackVisibilityPreset>
+      <trackVisibilityPreset id="1">
+        <trackVisibility id="10013" trackMinimized="true"/>
+        <trackVisibility id="10015" trackMinimized="true"/>
+        <trackVisibility id="10014" trackMinimized="true"/>
+        <trackVisibility id="10033" trackMinimized="true"/>
+        <trackVisibility id="10003" trackHeight="192"/>
+        <trackVisibility id="10004" trackHeight="192"/>
+        <trackVisibility id="10008" trackMinimized="true"/>
+        <trackVisibility id="10005" trackHeight="192"/>
+        <trackVisibility id="10006" trackMinimized="true"/>
+        <trackVisibility id="10007" trackMinimized="true"/>
+        <trackVisibility id="10009" trackMinimized="true"/>
+      </trackVisibilityPreset>
+      <trackVisibilityPreset id="2">
+        <trackVisibility id="10025" trackHeight="258"/>
+        <trackVisibility id="10026" trackHeight="258"/>
+        <trackVisibility id="10027" trackHeight="258"/>
+      </trackVisibilityPreset>
+      <trackVisibilityPreset id="3">
+        <trackVisibility id="10025" trackHeight="206"/>
+        <trackVisibility id="10026" trackHeight="206"/>
+        <trackVisibility id="10027" trackHeight="206"/>
+        <trackVisibility id="10028" trackHeight="206"/>
+      </trackVisibilityPreset>
+      <trackVisibilityPreset id="4">
+        <trackVisibility id="10025" trackHeight="62"/>
+        <trackVisibility id="10026" trackHeight="62"/>
+        <trackVisibility id="10027" trackHeight="62"/>
+        <trackVisibility id="10028" trackHeight="62"/>
+        <trackVisibility id="10029" trackHeight="62"/>
+        <trackVisibility id="10030" trackHeight="62"/>
+        <trackVisibility id="10032" trackHeight="62"/>
+        <trackVisibility id="10031" trackHeight="62"/>
+        <trackVisibility id="10013" trackMinimized="true"/>
+        <trackVisibility id="10015" trackMinimized="true"/>
+        <trackVisibility id="10014" trackMinimized="true"/>
+        <trackVisibility id="10033" trackMinimized="true"/>
+        <trackVisibility id="10003" trackHeight="62"/>
+        <trackVisibility id="10004" trackHeight="62"/>
+        <trackVisibility id="10008" trackMinimized="true"/>
+        <trackVisibility id="10005" trackHeight="62"/>
+        <trackVisibility id="10006" trackMinimized="true"/>
+        <trackVisibility id="10007" trackMinimized="true"/>
+        <trackVisibility id="10009" trackMinimized="true"/>
+      </trackVisibilityPreset>
+    </trackVisibilityPresets>
+  </session>
+
+  <files>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\Free Podcast Presets\Conformed Files\john_12 44100 1.wav" id="0" mediaHandler="AmioWav" recoveryID="e908ecc6-95fb-4018-9dfd-908ef1e804ce" relativePath="../Conformed Files/john_12 44100 1.wav"/>
+  </files>
+
+  <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="AppleHDAEngineOutput:1F,3,0,1,2:0">
+    <inputPort id="1" name="Default Stereo Input"/>
+    <inputPort id="2" name="[01M] Built-in Microphone: Internal Microphone 1"/>
+    <inputPort id="3" name="[02M] Built-in Microphone: Internal Microphone 2"/>
+    <inputPort id="4" name="[01S] Built-in Microphone: Internal Microphone 1"/>
+    <outputPort id="1" name="Default Output"/>
+    <outputPort id="2" name="[01M] Built-in Output: Internal Speakers 1"/>
+    <outputPort id="3" name="[02M] Built-in Output: Internal Speakers 2"/>
+    <outputPort id="4" name="Default Stereo Output"/>
+    <outputPort id="5" name="[01S] Built-in Output: Internal Speakers 1"/>
+    <outputPort id="6" name="Default Surround Output"/>
+  </audioDevice>
+
+</sesx>

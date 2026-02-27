@@ -1,0 +1,228 @@
+{
+  "book": "Book 44",
+  "book_canonical": "acts",
+  "book_number": 44,
+  "chapter": 27,
+  "verses": {
+    "1": {
+      "text": "Bamaze gutegeka ngo dutsuke tujye muri Italiya, Pawulo n'izindi mbohe babaha Yuliyo, umutware utwara umutwe wo mu ngabo zitwa iza Awugusito.",
+      "start": 25.6,
+      "end": 27.44
+    },
+    "2": {
+      "text": "Twikira mu nkuge yavuye muri Adaramutiyo yendaga gutsuka ngo ijye mu bihugu byo muri Asiya, turatsuka. Twari turi kumwe na Arisitariko, Umunyamakedoniya w'i Tesalonike.",
+      "start": 26.98,
+      "end": 30.04
+    },
+    "3": {
+      "text": "Bukeye bw'aho dufata i Sidoni, Yuliyo agirira Pawulo neza amukundira kugenderera incuti ze kugira ngo zimugaburire.",
+      "start": 12.29,
+      "end": 12.81
+    },
+    "4": {
+      "text": "Dutsukira aho duhita munsi y'ikirwa cy'i Kupuro dushaka kucyikingaho umuyaga, kuko wari uduturutse imbere.",
+      "start": 18.56,
+      "end": 23.01
+    },
+    "5": {
+      "text": "Twambutse inyanja ihereranye n'i Kilikiya n'i Pamfiliya, dufata i Mura, umudugudu w'i Lukiya.",
+      "start": 16.29,
+      "end": 19.99
+    },
+    "6": {
+      "text": "Umutware utwara umutwe asangayo inkuge yavuye mu Alekizanderiya ijya muri Italiya, adushyiramo.",
+      "start": 1.43,
+      "end": 23.16
+    },
+    "7": {
+      "text": "Tumara iminsi myinshi tugenda buhoro, tugera bugufi bw'i Kinido bituruhije cyane, maze umuyaga utubujije duhita munsi y'ikirwa kitwa i Kirete imbere y'i Salumoni, kucyikingaho umuyaga.",
+      "start": 13.81,
+      "end": 31.28
+    },
+    "8": {
+      "text": "Tugikikira bituruhije cyane, tugera ahantu hitwa i Myaro myiza bugufi bw'umudugudu witwa i Lasaya.",
+      "start": 5.0,
+      "end": 18.33
+    },
+    "9": {
+      "text": "Ariko kuko hari hashize iminsi myinshi, kandi kunyura mu nyanja kukaba kwari gufite akaga, kuko ndetse n'iminsi yo kwiyiriza ubusa yari yarashize, nuko Pawulo abagīra inama ati",
+      "start": 10.95,
+      "end": 31.52
+    },
+    "10": {
+      "text": "“Yemwe bagabo, mbonye yuko uru rugendo rugiye kubamo ibyago no gupfusha byinshi, si iby'inkuge n'ibirimo gusa, ahubwo n'ubugingo bwacu na bwo.”",
+      "start": 31.81,
+      "end": 43.14
+    },
+    "11": {
+      "text": "Ariko umutware utwara umutwe yumvira umwerekeza na nyir'inkuge, kurusha ibyo Pawulo avuze.",
+      "start": 4.39,
+      "end": 31.62
+    },
+    "12": {
+      "text": "Kandi kuko umwaro atari mwiza gutsīkamo kuhamarira amezi y'imbeho, abenshi babagira inama yo gutsuka bakavayo ngo ahari bashobora kugera i Foyinike kuba ari ho bamarira amezi y'imbeho, ari ho umwaro w'i Kirete werekera hagati y'ikasikazi h'iburasirazuba n'ikusi h'iburasirazuba.",
+      "start": 26.64,
+      "end": 33.56
+    },
+    "13": {
+      "text": "Nuko umuyaga uturutse ikusi uhushye buhoro, bibwira yuko babonye icyo bashakaga, baratsuka bakikira bugufi cyane bw'i Kirete.",
+      "start": 22.88,
+      "end": 22.98
+    },
+    "14": {
+      "text": "Maze umwanya muto ushize, baterwa n'umuyaga uhuha cyane witwa Urakulo, uturuka kuri icyo kirwa.",
+      "start": 26.89,
+      "end": 28.62
+    },
+    "15": {
+      "text": "Inkuge irahehwa ntiyabasha kugema umuyaga, turayireka ijya aho ishaka.",
+      "start": 13.47,
+      "end": 26.38
+    },
+    "16": {
+      "text": "Duhita munsi y'akarwa kitwa Kilawuda twikingaho umuyaga, maze tubona uko dushyira indere mu nkuge, ariko bituruhije cyane.",
+      "start": 17.76,
+      "end": 31.81
+    },
+    "17": {
+      "text": "Bamaze kuyiterura benda imirunga bayinyuza munsi y'inkuge barayihambira, kandi kuko batinyaga gusukwa ku musenyi usaya witwa Suriti, bamanura imyenda igendesha inkuge, bagenda batyo bajyanwa n'umuyaga.",
+      "start": 3.34,
+      "end": 19.29
+    },
+    "18": {
+      "text": "Dukomeza guteraganwa n'umuyaga cyane, nuko bukeye bw'aho baroha imitwaro mu nyanja.",
+      "start": 2.38,
+      "end": 42.88
+    },
+    "19": {
+      "text": "Ku munsi wa gatatu bajugunya iby'inkuge mu nyanja.",
+      "start": 10.29,
+      "end": 30.57
+    },
+    "20": {
+      "text": "Kandi hashize iminsi myinshi izuba n'inyenyeri bitaboneka, duterwa na ruhuhuma y'umuyaga mwinshi, ibyo bituma twiheba rwose ko nta wuzakira.",
+      "start": 0.42,
+      "end": 26.58
+    },
+    "21": {
+      "text": "Kandi bamaze iminsi myinshi batarya, Pawulo ahagarara muri bo hagati arababwira ati “Yemwe bagabo, mwari mukwiriye kunyumvira ntimuve i Kirete, ngo mutabona ibi byago no gupfusha ibyanyu.",
+      "start": 22.86,
+      "end": 29.03
+    },
+    "22": {
+      "text": "Kandi none ndabakomeza, nimuhumure kuko muri mwe hatazapfa n'umwe keretse inkuge,",
+      "start": 2.72,
+      "end": 13.43
+    },
+    "23": {
+      "text": "kuko iri joro iruhande rwanjye hahagaze marayika w'Imana, ndi uwayo nyikorera",
+      "start": 21.92,
+      "end": 32.92
+    },
+    "24": {
+      "text": "akambwira ati ‘Pawulo, witinya ukwiriye guhagarara imbere ya Kayisari, kandi dore Imana iguhaye n'abo mugendana bose.’",
+      "start": 3.73,
+      "end": 10.25
+    },
+    "25": {
+      "text": "Nuko nimuhumure mwa bagabo mwe, kuko nizeye Imana yuko bizaba uko nabwiwe.",
+      "start": 29.31,
+      "end": 40.48
+    },
+    "26": {
+      "text": "Ariko dukwiriye gusukwa ku kirwa.”",
+      "start": 23.17,
+      "end": 41.21
+    },
+    "27": {
+      "text": "Ijoro rya cumi n'ane risohoye, duteraganwa hirya no hino mu nyanja ya Adiriya, mu gicuku abasare bakeka yuko hari igihugu begereye.",
+      "start": 38.21,
+      "end": 41.54
+    },
+    "28": {
+      "text": "Bagera uburebure bw'amazi y'imuhengeri babona nka metero mirongo ine, bicumyeho hato bongera kugera babona nka metero mirongo itatu.",
+      "start": 0.22,
+      "end": 18.85
+    },
+    "29": {
+      "text": "Kandi kuko batinya gusekura ku ntaza, bajugunya mu mazi inyuma y'inkuge ibyuma bine byo kuyitsīka, bifuza ko bucya.",
+      "start": 10.52,
+      "end": 23.14
+    },
+    "30": {
+      "text": "Abasare bashatse guhunga mu nkuge bamanurira indere mu nyanja, basa n'abashaka kujugunya imbere y'inkuge ibyuma byo kuyitsīka.",
+      "start": 11.56,
+      "end": 40.68
+    },
+    "31": {
+      "text": "Pawulo abwira umutware utwara umutwe n'abasirikare ati “Aba nibataguma mu nkuge ntimubasha gukira.”",
+      "start": 43.98,
+      "end": 44.83
+    },
+    "32": {
+      "text": "Maze abasirikare baca imigozi y'indere, barayireka iragenda.",
+      "start": 11.93,
+      "end": 21.83
+    },
+    "33": {
+      "text": "Bwenda gucya Pawulo arabinginga bose ngo barye ati “None uyu munsi ni uwa cumi n'ine mutegereza mutarya, mudakoza intoki ku munwa.",
+      "start": 9.9,
+      "end": 22.75
+    },
+    "34": {
+      "text": "Ni cyo gitumye mbinginga ngo murye kuko ari byo biri bubakize, kandi hatazagira agasatsi kamwe gapfūka ku mitwe yanyu.”",
+      "start": 40.63,
+      "end": 43.07
+    },
+    "35": {
+      "text": "Amaze kuvuga atyo yenda umutsima, ashimira Imana imbere yabo bose, arawumanyagura atangira kuryaho.",
+      "start": 26.31,
+      "end": 32.19
+    },
+    "36": {
+      "text": "Bose babona ihumure, na bo bararya.",
+      "start": 32.45,
+      "end": 34.06
+    },
+    "37": {
+      "text": "Twese abari mu nkuge twari abantu magana abiri na mirongo irindwi na batandatu.",
+      "start": 22.04,
+      "end": 44.7
+    },
+    "38": {
+      "text": "Bamaze guhaga baroha amasaka mu nyanja kugira ngo borohereze inkuge.",
+      "start": 34.52,
+      "end": 40.87
+    },
+    "39": {
+      "text": "Ijoro rikeye ntibamenya icyo gihugu, ariko babonye ikigobe kiriho umusenyi bajya inama y'uko bashobora komoreraho inkuge.",
+      "start": 11.11,
+      "end": 28.62
+    },
+    "40": {
+      "text": "Bahambura imirunga yari ifashe ibyuma bitsītse inkuge babisiga mu nyanja. Bakibikora bahambura imirunga yakomeje ibyerekeza inkuge, bazamura umwenda w'imbere uyigendesha berekeza ku musenyi.",
+      "start": 40.08,
+      "end": 42.62
+    },
+    "41": {
+      "text": "Ariko bageze mu ihuriro ry'amazi, basekura inkuge ku butaka bwo hasi y'amazi. Nuko umutwe w'inkuge w'imbere urashinga ntiwanyeganyega, maze uw'inyuma umenagurwa n'imbaraga y'umuraba.",
+      "start": 11.39,
+      "end": 14.12
+    },
+    "42": {
+      "text": "Abasirikare bashaka kwica imbohe, kugira ngo hatagira uwo muri zo woga agacika.",
+      "start": 12.8,
+      "end": 13.77
+    },
+    "43": {
+      "text": "Ariko umutware utwara umutwe ashatse gukiza Pawulo, agwabiza imigambi yabo, ategeka yuko abazi kōga bīroha mu mazi kugira ngo abe ari bo babanza kugera ku nkombe,",
+      "start": 40.58,
+      "end": 44.77
+    },
+    "44": {
+      "text": "n'abandi na bo bamwe bagenda ku mbaho, abandi ku bindi bivuye mu nkuge. Nuko muri ubwo buryo bagera ku nkombe bose barakira.",
+      "start": 41.97,
+      "end": 43.07
+    }
+  }
+}

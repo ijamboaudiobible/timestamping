@@ -6,208 +6,208 @@
   "verses": {
     "1": {
       "text": "Akigenda abona umuntu wavutse ari impumyi.",
-      "start": 34.09,
-      "end": 34.89
+      "start": 1.076,
+      "end": 4.211
     },
     "2": {
       "text": "Abigishwa baramubaza bati “Mwigisha, ni nde wakoze icyaha, ni uyu cyangwa ni ababyeyi be ko yavutse ari impumyi?”",
-      "start": 43.89,
-      "end": 43.96
+      "start": 4.211,
+      "end": 12.631
     },
     "3": {
       "text": "Yesu arabasubiza ati “Uyu nta cyaha yakoze cyangwa ababyeyi be, ahubwo ni ukugira ngo imirimo y'Imana yerekanirwe muri we.",
-      "start": 13.32,
-      "end": 22.74
+      "start": 12.631,
+      "end": 20.503
     },
     "4": {
       "text": "Nkwiriye gukora imirimo y'uwantumye hakiri ku manywa, bugiye kwira ni igihe umuntu atakibasha gukora.",
-      "start": 6.06,
-      "end": 33.43
+      "start": 20.503,
+      "end": 26.65
     },
     "5": {
       "text": "Nkiri mu isi ndi umucyo w'isi.”",
-      "start": 40.77,
-      "end": 44.7
+      "start": 26.65,
+      "end": 29.405
     },
     "6": {
       "text": "Amaze kuvuga atyo acira amacandwe hasi, ayatobesha akondo akamusīga ku maso,",
-      "start": 31.44,
-      "end": 40.49
+      "start": 29.405,
+      "end": 31.545
     },
     "7": {
       "text": "aramubwira ati “Genda wiyuhagire mu kidendezi cy'i Silowamu”, (hasobanurwa ngo “Yaratumwe”). Nuko aragenda ariyuhagira, agaruka ahumutse.",
-      "start": 26.47,
-      "end": 33.96
+      "start": 31.545,
+      "end": 49.375
     },
     "8": {
       "text": "Abaturanyi be n'abamubonaga kera ahora asabiriza barabazanya bati “Uyu si we wicaraga asabiriza?”",
-      "start": 2.4,
-      "end": 39.64
+      "start": 49.375,
+      "end": 56.377
     },
     "9": {
       "text": "Bamwe bati “Ni we.”Abandi bati “Si we, icyakora asa na we.”Na we arabasubiza ati “Ni jye.”",
-      "start": 30.25,
-      "end": 33.07
+      "start": 56.377,
+      "end": 63.523
     },
     "10": {
       "text": "Baramubaza bati “Mbese wahumutse ute?”",
-      "start": 21.56,
-      "end": 22.1
+      "start": 63.523,
+      "end": 66.61
     },
     "11": {
       "text": "Arabasubiza ati “Wa muntu witwa Yesu yatobye akondo, akansīga ku maso arambwira ati ‘Jya i Silowamu wiyuhagire.’ Nuko ndagenda ndiyuhagira, ndahumuka.”",
-      "start": 34.26,
-      "end": 35.3
+      "start": 66.61,
+      "end": 78.392
     },
     "12": {
       "text": "Baramubaza bati “Ari hehe?”Ati “Simbizi.”",
-      "start": 11.48,
-      "end": 22.04
+      "start": 78.392,
+      "end": 82.545
     },
     "13": {
       "text": "Uwari impumyi bamushyira Abafarisayo.",
-      "start": 6.7,
-      "end": 17.34
+      "start": 82.545,
+      "end": 86.019
     },
     "14": {
       "text": "Kandi ubwo hari ku munsi w'isabato, uwo Yesu yatobeyemo akondo akamuhumūra.",
-      "start": 26.71,
-      "end": 44.36
+      "start": 86.019,
+      "end": 92.584
     },
     "15": {
       "text": "Nuko Abafarisayo na bo bongera kumubaza uko yahumutse. Arababwira ati “Yansīze akondo ku maso, ndiyuhagira ndahumuka.”",
-      "start": 30.68,
-      "end": 39.35
+      "start": 92.584,
+      "end": 102.062
     },
     "16": {
       "text": "Bamwe mu Bafarisayo baravuga bati “Uwo muntu si uw'Imana kuko ataziririza isabato.”Abandi bati “Umunyabyaha yabasha ate gukora ibimenyetso bingana bityo?” Baramupfa.",
-      "start": 31.85,
-      "end": 40.9
+      "start": 102.062,
+      "end": 114.409
     },
     "17": {
       "text": "Nuko bongera kubaza uwari impumyi bati “Ku bwawe umuvugaho iki ubwo yaguhumūye?”Ati “Ni umuhanuzi.”",
-      "start": 40.0,
-      "end": 41.56
+      "start": 114.409,
+      "end": 122.571
     },
     "18": {
       "text": "Ariko Abayuda ntibemera yuko yari impumyi agahumuka, kugeza aho bamariye guhamagara ababyeyi b'uwahumutse.",
-      "start": 16.68,
-      "end": 21.23
+      "start": 122.571,
+      "end": 129.159
     },
     "19": {
       "text": "Barababaza bati “Uyu ni umwana wanyu muvuga ko yavutse ari impumyi. None yahumuwe n'iki?”",
-      "start": 40.29,
-      "end": 43.52
+      "start": 129.159,
+      "end": 136.029
     },
     "20": {
       "text": "Ababyeyi be barabasubiza bati “Tuzi yuko uyu ari umwana wacu, kandi yavutse ari impumyi.",
-      "start": 4.3,
-      "end": 10.2
+      "start": 136.029,
+      "end": 142.555
     },
     "21": {
       "text": "None arareba ariko igituma areba ntitukizi, kandi n'uwamuhumūye ntitumuzi. Nimumwibarize namwe, ni umugabo mukuru arivugira.”",
-      "start": 10.0,
-      "end": 12.51
+      "start": 142.555,
+      "end": 152.012
     },
     "22": {
       "text": "Icyatumye ababyeyi be bavuga batyo ni uko batinyaga Abayuda, kuko Abayuda bari bamaze guhuza inama, yuko umuntu wese uzerura Yesu ko ari Kristo acibwa mu isinagogi.",
-      "start": 2.91,
-      "end": 10.67
+      "start": 152.012,
+      "end": 163.214
     },
     "23": {
       "text": "Ni cyo cyatumye ababyeyi be bavuga bati “Ni umugabo mukuru nimumwibarize.”",
-      "start": 20.0,
-      "end": 32.34
+      "start": 163.214,
+      "end": 168.252
     },
     "24": {
       "text": "Nuko rero uwari impumyi bamuhamagara ubwa kabiri, baramubwira bati “Shima Imana, twebwe tuzi yuko uwo muntu ari umunyabyaha.”",
-      "start": 43.12,
-      "end": 43.34
+      "start": 168.252,
+      "end": 177.457
     },
     "25": {
       "text": "Na we arabasubiza ati “Niba ari umunyabyaha simbizi, icyo nzi ni kimwe, ni uko nari impumyi none nkaba ndeba.”",
-      "start": 44.39,
-      "end": 44.57
+      "start": 177.457,
+      "end": 185.103
     },
     "26": {
       "text": "Baramubaza bati “Yakugenjeje ate? Yaguhumūye ate?”",
-      "start": 20.96,
-      "end": 38.67
+      "start": 185.103,
+      "end": 190.252
     },
     "27": {
       "text": "Arabasubiza ati “Maze kubibabwira ntimwabyumva. Icyo mushakira kubyumva ubwa kabiri ni iki? Mbese namwe murashaka kuba abigishwa be?”",
-      "start": 18.44,
-      "end": 21.19
+      "start": 190.252,
+      "end": 199.644
     },
     "28": {
       "text": "Baramutuka baramubwira bati “Ni wowe mwigishwa we, ariko twebweho turi abigishwa ba Mose.",
-      "start": 1.57,
-      "end": 9.67
+      "start": 199.644,
+      "end": 205.524
     },
     "29": {
       "text": "Tuzi yuko Imana yavuganye na Mose, ariko uwo muntu ntituzi aho yaturutse.”",
-      "start": 23.28,
-      "end": 25.5
+      "start": 205.524,
+      "end": 212.149
     },
     "30": {
       "text": "Arabasubiza ati “Iri ni ishyano, ko mutazi aho yaturutse kandi ari we wampumuye!",
-      "start": 12.45,
-      "end": 35.3
+      "start": 212.149,
+      "end": 218.047
     },
     "31": {
       "text": "Tuzi yuko Imana itumva abanyabyaha, ariko uyubaha agakora ibyo ishaka, uwo ni we yumva.",
-      "start": 42.42,
-      "end": 43.44
+      "start": 218.047,
+      "end": 224.237
     },
     "32": {
       "text": "Uhereye kera kose, ntihari haboneka umuntu wahumuye uwavutse ari impumyi.",
-      "start": 11.94,
-      "end": 39.85
+      "start": 224.237,
+      "end": 229.222
     },
     "33": {
       "text": "Uwo muntu iyaba atavuye ku Mana, nta cyo yabashije gukora.”",
-      "start": 41.17,
-      "end": 44.65
+      "start": 229.222,
+      "end": 234.372
     },
     "34": {
       "text": "Baramusubiza bati “Wowe wavukiye mu byaha bisa, ni wowe utwigisha?” Bamusunikira hanze.",
-      "start": 34.17,
-      "end": 34.78
+      "start": 234.372,
+      "end": 240.884
     },
     "35": {
       "text": "Yesu yumvise yuko bamusunikiye hanze aramushaka, amubonye aramubaza ati “Mbese wizeye Umwana w'Imana?”",
-      "start": 20.8,
-      "end": 34.96
+      "start": 240.884,
+      "end": 247.857
     },
     "36": {
       "text": "Na we aramusubiza ati “Databuja, ni nde nkamwizera?”",
-      "start": 12.49,
-      "end": 35.41
+      "start": 247.857,
+      "end": 252.181
     },
     "37": {
       "text": "Yesu aramubwira ati “Wamubonye, kandi ni we muvugana.”",
-      "start": 42.92,
-      "end": 44.25
+      "start": 252.181,
+      "end": 256.659
     },
     "38": {
       "text": "Na we aramubwira ati “Databuja, ndizeye.” Aramupfukamira.",
-      "start": 18.8,
-      "end": 33.93
+      "start": 256.659,
+      "end": 261.966
     },
     "39": {
       "text": "Yesu aravuga ati “Nazanywe muri iyi si no guca amateka ngo abatabona barebe, n'ababona bahume.”",
-      "start": 24.27,
-      "end": 44.39
+      "start": 261.966,
+      "end": 269.343
     },
     "40": {
       "text": "Abafarisayo bamwe bari kumwe na we bumvise ibyo baramubaza bati “Mbese natwe turi impumyi?”",
-      "start": 10.36,
-      "end": 30.2
+      "start": 269.343,
+      "end": 275.709
     },
     "41": {
       "text": "Yesu arababwira ati “Iyo muba impumyi nta cyaha muba mufite, ariko none kuko muvuga yuko mureba, icyaha cyanyu gihoraho.”",
-      "start": 5.08,
-      "end": 14.49
+      "start": 275.709,
+      "end": 284.363
     }
   }
 }
