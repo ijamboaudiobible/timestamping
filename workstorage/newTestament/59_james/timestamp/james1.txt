@@ -1,5 +1,4 @@
 ﻿Name	Start	Duration	Time Format	Type	Description
-Marker 15	0:00.000	0:00.000	decimal	Cue	
 Marker 05	0:09.584	0:00.000	decimal	Cue	
 Marker 06	0:15.968	0:00.000	decimal	Cue	
 Marker 07	0:20.300	0:00.000	decimal	Cue	
