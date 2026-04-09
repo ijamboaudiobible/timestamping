@@ -5,7 +5,7 @@
   <session appBuild="26.0.0.56" appVersion="26.0" audioChannelType="stereo" bitDepth="32" duration="9996896" sampleRate="48000">
     <tracks>
       <audioTrack automationLaneOpenState="false" id="10001" index="1" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="160" trackMinimized="false">
+        <trackParameters trackHeight="123" trackHue="160" trackMinimized="false">
           <name>james_1</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -141,22 +141,22 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="9094852" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="james_1 48000 2" offline="false" select="false" sourceInPoint="0" sourceOutPoint="9094852" startPoint="0" zOrder="1">
-          <component componentGuid="8d4692db-4fd4-4e1b-a7bc-3f54ade5e110" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="9378131" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="james_1 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="9378131" startPoint="0" zOrder="0">
+          <component componentGuid="4b0b3ce0-ab42-4229-b558-5523369e9a7f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="c539316b-e54f-4f81-983c-7aaf631427ff" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="28951e49-7c94-4266-a101-25268d8cf453" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="d78481ee-a40b-4bf8-b822-0a551802f770" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+          <component componentGuid="72969baa-6625-47b8-96e9-aaa288194268" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="9094852" shape="19" startPoint="9094852" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="9378131" shape="19" startPoint="9378131" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
             <channel index="0" sourceIndex="0"/>
             <channel index="1" sourceIndex="1"/>
@@ -164,7 +164,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10002" index="2" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="267" trackMinimized="false">
+        <trackParameters trackHeight="123" trackHue="267" trackMinimized="false">
           <name>james_2</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -300,12 +300,12 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8658431" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="james_2 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="8658431" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8658431" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="james_2 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="8658431" startPoint="0" zOrder="0">
           <component componentGuid="0a0dd265-3758-484d-831b-bedf9ccdc7e8" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="adc60f0c-6cd3-46cf-90e7-6e1bb408e037" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="de264054-ac32-4cc6-bdd3-c1cccfee36be" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -322,8 +322,8 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10003" index="3" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="51" trackMinimized="false">
+      <audioTrack automationLaneOpenState="false" id="10003" index="3" select="true" visible="true">
+        <trackParameters trackHeight="123" trackHue="51" trackMinimized="false">
           <name>james_3</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -459,12 +459,12 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6856761" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="james_3 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="6856761" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6856761" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="james_3 48000 1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="6856761" startPoint="0" zOrder="0">
           <component componentGuid="3aa902e5-16d2-403e-a260-146531c24316" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="07af49b8-4670-4378-8de0-c8f8ed01b41e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a91fedf5-f918-405d-8cc1-6f049fec7090" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -482,7 +482,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10004" index="4" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="182" trackMinimized="false">
+        <trackParameters trackHeight="123" trackHue="182" trackMinimized="false">
           <name>james_4</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -618,12 +618,12 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6024449" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="james_4 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="6024449" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6024449" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="james_4 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="6024449" startPoint="0" zOrder="0">
           <component componentGuid="7d08a32a-8a04-455e-bc47-6f8cfd31aefb" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="413ed3e9-cb2d-42ef-8803-3cc73faa96c0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="844f388a-da97-4e9d-a0ee-34ea2de139a2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -645,7 +645,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10005" index="5" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="294" trackMinimized="false">
+        <trackParameters trackHeight="123" trackHue="294" trackMinimized="false">
           <name>james_5</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -781,12 +781,12 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7189392" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="james_5 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="7189392" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7189392" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="james_5 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="7189392" startPoint="0" zOrder="0">
           <component componentGuid="0821b585-3e43-4cc1-bb31-f4aa6407bbd1" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="15698a2e-083b-48e0-893c-5e1c4f0b43d7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="5e82b21a-7330-4173-a56a-8354214d5a41" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -804,7 +804,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10006" index="6" select="false" visible="true">
-        <trackParameters trackHeight="69" trackHue="92" trackMinimized="false">
+        <trackParameters trackHeight="123" trackHue="92" trackMinimized="false">
           <name>Track 6</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -871,8 +871,8 @@
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
-      <masterTrack automationLaneOpenState="false" id="10000" index="7" select="true" visible="true">
-        <trackParameters trackHeight="69" trackHue="-1" trackMinimized="false">
+      <masterTrack automationLaneOpenState="false" id="10000" index="7" select="false" visible="true">
+        <trackParameters trackHeight="123" trackHue="-1" trackMinimized="false">
           <name>Mix</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
@@ -940,10 +940,10 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="76675" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="76675"/>
-      <viewState horizontalViewDuration="1806156" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="0"/>
-      <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
+    <sessionState ctiPosition="0" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="0"/>
+      <viewState horizontalViewDuration="0" horizontalViewStart="0" trackControlsWidth="0" verticalScrollOffset="0"/>
+      <timeFormatState beatsPerBar="0" beatsPerMinute="0" customFrameRate="0" linkToDefaultTimeSettings="false" noteLength="0" subdivisions="0" timeCodeDropFrame="false" timeCodeFrameRate="0" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
     <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
@@ -953,14 +953,15 @@
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 26.0 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2026-03-26T21:07:37-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2026-03-30T23:22:26-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2026-03-30T23:22:26-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:24afd137-dd8d-1045-a83b-5a2108950b12</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:ef1f4ff7-7825-9643-93ad-a4822575b374</xmpMM:DocumentID>
+         <xmp:MetadataDate>2026-03-30T23:18:55-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2026-03-30T23:18:55-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:d3feb30a-4b52-7842-af0d-b493d563ac49</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:d3feb30a-4b52-7842-af0d-b493d563ac49</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:ef1f4ff7-7825-9643-93ad-a4822575b374</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -1043,20 +1044,25 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:47ad0732-674a-3944-acc6-3e0c441e13f3</stEvt:instanceID>
-                  <stEvt:when>2026-03-30T23:22:26-04:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:37b7c6d0-0902-6044-bedf-c3664f0ed09a</stEvt:instanceID>
+                  <stEvt:when>2026-03-30T23:18:55-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 26.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/metadata</stEvt:changed>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:24afd137-dd8d-1045-a83b-5a2108950b12</stEvt:instanceID>
-                  <stEvt:when>2026-03-30T23:22:26-04:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:d3feb30a-4b52-7842-af0d-b493d563ac49</stEvt:instanceID>
+                  <stEvt:when>2026-03-30T23:18:55-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 26.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:37b7c6d0-0902-6044-bedf-c3664f0ed09a</stRef:instanceID>
+            <stRef:documentID>xmp.did:ef1f4ff7-7825-9643-93ad-a4822575b374</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:ef1f4ff7-7825-9643-93ad-a4822575b374</stRef:originalDocumentID>
+         </xmpMM:DerivedFrom>
          <dc:format>application/xml</dc:format>
          <xmpDM:Tracks>
             <rdf:Bag>
@@ -1179,11 +1185,11 @@
   </session>
 
   <files>
-    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_2 48000 1.wav" id="0" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" relativePath="Conformed Files/james_2 48000 1.wav"/>
-    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_3 48000 1.wav" id="1" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" relativePath="Conformed Files/james_3 48000 1.wav"/>
-    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_4 48000 1.wav" id="2" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" relativePath="Conformed Files/james_4 48000 1.wav"/>
-    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_5 48000 1.wav" id="3" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" relativePath="Conformed Files/james_5 48000 1.wav"/>
-    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_1 48000 2.wav" id="4" mediaHandler="AmioWav" relativePath="Conformed Files/james_1 48000 2.wav"/>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_1 48000 1.wav" id="0" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="14e3ba65-0d11-48bb-94d9-7c6639d2ea33" relativePath="../Conformed Files/james_1 48000 1.wav"/>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_2 48000 1.wav" id="1" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="e1b4ad4e-a0d4-40b1-8a9d-e9ded41ba486" relativePath="../Conformed Files/james_2 48000 1.wav"/>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_3 48000 1.wav" id="2" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="fce71040-646e-4736-a276-8c5e05e6b0ee" relativePath="../Conformed Files/james_3 48000 1.wav"/>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_4 48000 1.wav" id="3" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="b9d242e1-5af9-494e-955b-f3c6fbda5f0c" relativePath="../Conformed Files/james_4 48000 1.wav"/>
+    <file absolutePath="\\wsl.localhost\Ubuntu\home\ijambo-door\organizedBibleFolders\ijambo\datastorage\audio\newTestament\59_james\final\james\Conformed Files\james_5 48000 1.wav" id="4" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="0422408e-4165-4a56-890f-1ec9a413143a" relativePath="../Conformed Files/james_5 48000 1.wav"/>
   </files>
 
   <audioDevice inputID="22222222-2222-2222-2222-22222222" outputID="11111111-1111-1111-1111-11111111">
