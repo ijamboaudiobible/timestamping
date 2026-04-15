@@ -6,118 +6,118 @@
   "verses": {
     "1": {
       "text": "Udakomeye mu byo yizera mumwakire, mwe kumugisha impaka z'ibyo ashidikanyaho.",
-      "start": 21.33,
-      "end": 39.48
+      "start": 0.0,
+      "end": 6.015
     },
     "2": {
       "text": "Umuntu umwe yizera ko ashobora kurya byose, ariko udakomeye arya imboga nsa.",
-      "start": 21.97,
-      "end": 43.0
+      "start": 6.015,
+      "end": 11.2
     },
     "3": {
       "text": "Urya byose ye guhinyura utabirya, kandi utabirya ye gucira ubirya urubanza kuko Imana yamwemeye.",
-      "start": 15.47,
-      "end": 27.07
+      "start": 11.2,
+      "end": 17.606
     },
     "4": {
       "text": "Uri nde wowe ucira umugaragu w'abandi urubanza, kandi imbere ya Shebuja ari ho ahagarara cyangwa akaba ari ho agwa? Ariko azahagarara kuko Imana ari yo ibasha kumuhagarika.",
-      "start": 23.82,
-      "end": 35.54
+      "start": 17.606,
+      "end": 27.761
     },
     "5": {
       "text": "Umuntu umwe yubaha umunsi umwe kuwurutisha iyindi, naho undi akubaha iminsi yose akayihwanya. Umuntu wese namenye adashidikanya mu mutima we.",
-      "start": 35.67,
-      "end": 37.01
+      "start": 27.761,
+      "end": 36.851
     },
     "6": {
       "text": "Urobanura umunsi awurobanura ku bw'Umwami wacu, urya arya ku bw'Umwami kuko ashima Imana, kandi utarya yanga kurya ku bw'Umwami na we agashima Imana.",
-      "start": 29.49,
-      "end": 39.23
+      "start": 36.851,
+      "end": 46.667
     },
     "7": {
       "text": "Nta muntu muri twe uriho ku bwe cyangwa upfa ku bwe.",
-      "start": 28.77,
-      "end": 39.43
+      "start": 46.667,
+      "end": 50.017
     },
     "8": {
       "text": "Niba turiho turiho ku bw'Umwami, kandi niba dupfa dupfa ku bw'Umwami. Nuko rero niba turiho cyangwa niba dupfa, turi ab'Umwami",
-      "start": 7.15,
-      "end": 17.01
+      "start": 50.017,
+      "end": 57.719
     },
     "9": {
       "text": "kuko icyatumye Kristo apfa akazuka, ari ukugira ngo abe Umwami w'abapfuye n'abazima.",
-      "start": 6.35,
-      "end": 29.37
+      "start": 57.719,
+      "end": 63.605
     },
     "10": {
       "text": "Ariko ni iki gituma ucira mwene So urubanza? Kandi nawe ni iki gituma uhinyura mwene So? Twese tuzahagarara imbere y'intebe y'imanza y'Imana,",
-      "start": 2.51,
-      "end": 16.83
+      "start": 63.605,
+      "end": 71.897
     },
     "11": {
       "text": "kuko byanditswe ngo“Uwiteka aravuga ati ‘Ndirahiye,Amavi yose azampfukamira,Kandi indimi zose zizavuga ishimwe ry'Imana.’ ”",
-      "start": 13.93,
-      "end": 19.5
+      "start": 71.897,
+      "end": 80.027
     },
     "12": {
       "text": "Nuko rero umuntu wese muri twe azimurikira ibyo yakoze imbere y'Imana.",
-      "start": 24.06,
-      "end": 32.99
+      "start": 80.027,
+      "end": 84.994
     },
     "13": {
       "text": "Uhereye none twe gucirirana imanza mu mitima, ahubwo tugambirire iki: ko umuntu adashyira igisitaza cyangwa ikigusha imbere ya mwene Se.",
-      "start": 8.48,
-      "end": 16.08
+      "start": 84.994,
+      "end": 94.075
     },
     "14": {
       "text": "Ndabizi kandi nemejwe rwose n'Umwami Yesu, yuko ari nta gihumanya ubwacyo, keretse utekereza ko ikintu gihumanya ni we gihumanya.",
-      "start": 29.15,
-      "end": 37.57
+      "start": 94.075,
+      "end": 102.649
     },
     "15": {
       "text": "Niba mwene So aterwa agahinda n'ibyo urya, ntuba ukigendera mu rukundo. Uwo Kristo yapfiriye ntukamurimbuze ibyokurya byawe.",
-      "start": 39.68,
-      "end": 39.84
+      "start": 102.649,
+      "end": 110.411
     },
     "16": {
       "text": "Icyiza cyawe cye gusebywa,",
-      "start": 25.72,
-      "end": 29.24
+      "start": 110.411,
+      "end": 112.928
     },
     "17": {
       "text": "kuko ubwami bw'Imana atari ukurya no kunywa, ahubwo ari ubwo gukiranuka n'amahoro no kwishimira mu Mwuka Wera.",
-      "start": 16.82,
-      "end": 21.61
+      "start": 112.928,
+      "end": 120.264
     },
     "18": {
       "text": "Ukorera Kristo atyo aba anezeza Imana kandi ashimwa n'abantu.",
-      "start": 4.11,
-      "end": 44.95
+      "start": 120.264,
+      "end": 124.304
     },
     "19": {
       "text": "Nuko rero dukurikize ibihesha amahoro n'ibyo gukomezanya.",
-      "start": 20.03,
-      "end": 35.7
+      "start": 124.304,
+      "end": 128.69
     },
     "20": {
       "text": "Ntimugasenye umurimo w'Imana ku bw'ibyokurya. Byose ntibihumanya, ariko urya ibisitaza abandi azabona ishyano.",
-      "start": 9.54,
-      "end": 10.51
+      "start": 128.69,
+      "end": 136.194
     },
     "21": {
       "text": "Ibyiza ni ukutarya inyama cyangwa kutanywa vino, cyangwa kudakora ikindi cyose cyasitaza mwene So, kikamugusha cyangwa kikamuca intege.",
-      "start": 19.78,
-      "end": 35.8
+      "start": 136.194,
+      "end": 145.014
     },
     "22": {
       "text": "Mbese ufite kwizera? Niba ugufite ukwigumanire mu mutima wawe imbere y'Imana. Hahirwa uticira ho iteka ku byo yemeye.",
-      "start": 30.27,
-      "end": 37.57
+      "start": 145.014,
+      "end": 153.87
     },
     "23": {
       "text": "Ariko urya ashidikanya wese aba aciriwe ho iteka kuko atabiryanye kwizera, kandi igikorwa cyose kidakoranywe kwizera kiba ari icyaha.",
-      "start": 34.99,
-      "end": 42.85
+      "start": 153.87,
+      "end": 163.303
     }
   }
 }

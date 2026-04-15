@@ -1,0 +1,163 @@
+{
+  "book": "Book 46",
+  "book_canonical": "1_corinthians",
+  "book_number": 46,
+  "chapter": 12,
+  "verses": {
+    "1": {
+      "text": "Bene Data, ibyerekeye impano z'Umwuka sinshaka ko mutabimenya.",
+      "start": 12.86,
+      "end": 16.86
+    },
+    "2": {
+      "text": "Muzi yuko mukiri abapagani mwayobywaga mukajya ku bigirwamana bitabasha kuvuga, uko mwabijyanwagaho kose.",
+      "start": 6.01,
+      "end": 13.88
+    },
+    "3": {
+      "text": "Ni cyo gituma mbamenyesha yuko ari nta muntu ubwirijwe n'Umwuka w'Imana uvuga ati “Yesu ni ikivume”, kandi nta muntu ubasha kuvuga ati “Yesu ni Umwami”, atabibwirijwe n'Umwuka Wera.",
+      "start": 39.66,
+      "end": 44.57
+    },
+    "4": {
+      "text": "Icyakora hariho impano z'uburyo bwinshi, ariko Umwuka ni umwe.",
+      "start": 35.67,
+      "end": 38.26
+    },
+    "5": {
+      "text": "Kandi hariho uburyo bwinshi bwo kugabura iby'Imana, ariko Umwami ni umwe.",
+      "start": 24.65,
+      "end": 30.19
+    },
+    "6": {
+      "text": "Hariho n'uburyo bwinshi bwo gukora, ariko Imana ikorera byose muri bose ni imwe,",
+      "start": 19.38,
+      "end": 33.55
+    },
+    "7": {
+      "text": "umuntu wese agahabwa ikimwerekanaho Umwuka kugira ngo bose bafashwe.",
+      "start": 23.88,
+      "end": 24.5
+    },
+    "8": {
+      "text": "Umwe aheshwa ijambo ry'ubwenge n'Umwuka, undi agaheshwa n'uwo Mwuka ijambo ryo kumenya,",
+      "start": 25.57,
+      "end": 38.15
+    },
+    "9": {
+      "text": "undi agaheshwa n'uwo Mwuka kwizera, undi agaheshwa n'uwo Mwuka impano yo gukiza indwara.",
+      "start": 31.48,
+      "end": 40.21
+    },
+    "10": {
+      "text": "Undi agahabwa gukora ibitangaza, undi agahabwa guhanura, undi agahabwa kurobanura imyuka, undi agahabwa kuvuga indimi nyinshi, undi agahabwa gusobanura indimi,",
+      "start": 34.99,
+      "end": 38.37
+    },
+    "11": {
+      "text": "ariko ibyo byose uwo Mwuka umwe ni we ubikorera muri bo, agabira umuntu wese uko ashaka.",
+      "start": 40.62,
+      "end": 40.93
+    },
+    "12": {
+      "text": "Nk'uko umubiri ari umwe ukagira ingingo nyinshi, kandi nk'uko ingingo z'umubiri zose, nubwo ari nyinshi ari umubiri umwe, ni ko na Kristo ari,",
+      "start": 13.81,
+      "end": 25.29
+    },
+    "13": {
+      "text": "kuko mu Mwuka umwe twese ari mo twabatirijwe kuba umubiri umwe, naho twaba Abayuda cyangwa Abagiriki, naho twaba imbata cyangwa ab'umudendezo. Kandi twese twujujwe Umwuka umwe.",
+      "start": 34.35,
+      "end": 36.88
+    },
+    "14": {
+      "text": "Umubiri si urugingo rumwe ahubwo ni nyinshi.",
+      "start": 10.21,
+      "end": 38.78
+    },
+    "15": {
+      "text": "Ikirenge cyavuga kiti “Ko ntari ikiganza sindi uwo ku mubiri”, ibyo ntibyatuma kiba kitari icyo ku mubiri.",
+      "start": 12.84,
+      "end": 24.45
+    },
+    "16": {
+      "text": "Kandi ugutwi kwavuga kuti “Ko ntari ijisho sindi uwo ku mubiri”, ibyo ntibyatuma kuba kutari uko ku mubiri.",
+      "start": 22.14,
+      "end": 43.41
+    },
+    "17": {
+      "text": "Mbese iyo umubiri wose uba ijisho, kumva kwabaye he? Iyo wose uba kumva, kunukirwa kwaba he?",
+      "start": 26.51,
+      "end": 40.55
+    },
+    "18": {
+      "text": "Ariko Imana yashyize ingingo mu mubiri, izigenera aho ishatse zose uko zingana.",
+      "start": 38.58,
+      "end": 40.68
+    },
+    "19": {
+      "text": "Mbese noneho iyo zose ziba urugingo rumwe, umubiri uba warabaye he?",
+      "start": 39.1,
+      "end": 44.18
+    },
+    "20": {
+      "text": "Ariko noneho ingingo ni nyinshi, naho umubiri ni umwe.",
+      "start": 24.83,
+      "end": 26.7
+    },
+    "21": {
+      "text": "Ijisho ntiribasha kubwira ikiganza riti “Nta cyo umariye”, cyangwa umutwe ngo ubwire ibirenge uti “Nta cyo mumariye.”",
+      "start": 26.59,
+      "end": 43.67
+    },
+    "22": {
+      "text": "Ahubwo biri ukundi rwose: ingingo z'umubiri zizwi ko ari iz'intege nke hanyuma y'izindi ni zo zo kutabura,",
+      "start": 42.41,
+      "end": 42.68
+    },
+    "23": {
+      "text": "kandi izo ku mubiri zizwi ko ari iz'icyubahiro gike ni zo turushaho kwambika icyubahiro, kandi ingingo zacu ziteye isoni ni zo zirushaho gushimwa.",
+      "start": 13.24,
+      "end": 27.56
+    },
+    "24": {
+      "text": "Nyamara izidateye isoni ntizigomba kwambikwa, ariko Imana yateranije umubiri hamwe, urugingo rukennye icyubahiro iruha icyubahiro kuruta izindi",
+      "start": 30.2,
+      "end": 40.84
+    },
+    "25": {
+      "text": "kugira ngo umubiri utirema ibice, ahubwo ingingo zigirirane.",
+      "start": 28.97,
+      "end": 44.77
+    },
+    "26": {
+      "text": "Urugingo rumwe iyo rubabaye, ingingo zose zibabarana na rwo, cyangwa iyo urugingo rumwe ruhawe icyubahiro, ingingo zose zishīmana na rwo.",
+      "start": 18.34,
+      "end": 33.83
+    },
+    "27": {
+      "text": "Nuko rero muri umubiri wa Kristo, kandi umuntu wese wo muri mwe ni urugingo rwawo.",
+      "start": 29.32,
+      "end": 42.48
+    },
+    "28": {
+      "text": "Imana yashyize bamwe mu Itorero: ubwa mbere intumwa, ubwa kabiri abahanuzi, ubwa gatatu abigisha, maze ishyiraho abakora ibitangaza n'abahawe impano zo gukiza indwara, n'abahawe gufasha abandi, n'abahawe gutwara, n'abahawe kuvuga indimi nyinshi.",
+      "start": 37.2,
+      "end": 40.22
+    },
+    "29": {
+      "text": "Mbese bose ni intumwa? Bose ni abahanuzi? Bose ni abigisha? Bose bakora ibitangaza?",
+      "start": 3.18,
+      "end": 7.69
+    },
+    "30": {
+      "text": "Bose bafite impano zo gukiza indwara? Bose bavuga izindi ndimi? Bose basobanura indimi?",
+      "start": 30.75,
+      "end": 33.11
+    },
+    "31": {
+      "text": "Ariko nimwifuze cyane impano ziruta izindi.Nyamara dore ndabereka inzira irushaho kuba nziza.",
+      "start": 4.63,
+      "end": 33.58
+    }
+  }
+}

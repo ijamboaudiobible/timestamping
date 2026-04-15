@@ -1,0 +1,178 @@
+{
+  "book": "Book 46",
+  "book_canonical": "1_corinthians",
+  "book_number": 46,
+  "chapter": 11,
+  "verses": {
+    "1": {
+      "text": "Mugere ikirenge mu cyanjye, nk'uko nanjye nkigera mu cya Kristo.",
+      "start": 12.82,
+      "end": 23.46
+    },
+    "2": {
+      "text": "Ndabashimira kuko mwibuka ibyo nabigishije byose, mugakomeza imigenzo nk'uko nayibahaye.",
+      "start": 21.21,
+      "end": 27.17
+    },
+    "3": {
+      "text": "Ariko ndashaka yuko mumenya ko umutwe w'umugabo wese ari Kristo, kandi ko umutwe w'umugore ari umugabo we, kandi ko umutwe wa Kristo ari Imana.",
+      "start": 25.9,
+      "end": 26.53
+    },
+    "4": {
+      "text": "Umugabo wese iyo asenga cyangwa ahanura umutwe we utwikiriwe, aba akojeje isoni umutwe we.",
+      "start": 10.99,
+      "end": 41.65
+    },
+    "5": {
+      "text": "Ariko umugore wese iyo asenga cyangwa ahanura adatwikiriye umutwe we, aba awukojeje isoni kuko ari bimwe rwose no kwimoza.",
+      "start": 2.48,
+      "end": 21.51
+    },
+    "6": {
+      "text": "Niba umugore adatwikiriye umutwe yikemuze, ariko niba ari ibiteye isoni ko umugore yikemuza cyangwa yimoza, ajye atwikira umutwe.",
+      "start": 6.87,
+      "end": 30.42
+    },
+    "7": {
+      "text": "Umugabo ntakwiriye gutwikira umutwe kuko ari ishusho y'Imana n'ubwiza bwayo, ariko umugore ni ubwiza bw'umugabo we",
+      "start": 44.3,
+      "end": 44.78
+    },
+    "8": {
+      "text": "kuko umugabo atakomotse ku mugore, ahubwo umugore ari we wakomotse ku mugabo.",
+      "start": 22.37,
+      "end": 33.69
+    },
+    "9": {
+      "text": "Kandi umugabo ntiyaremwe ku bw'umugore, ahubwo umugore ni we waremwe ku bw'umugabo.",
+      "start": 1.98,
+      "end": 15.59
+    },
+    "10": {
+      "text": "Ni cyo gituma umugore akwiriye kwambara ku mutwe ikimenyetso cyo gutwarwa ku bw'abamarayika.",
+      "start": 7.39,
+      "end": 30.02
+    },
+    "11": {
+      "text": "Ariko mu Mwami wacu umugore ntabaho hatariho umugabo, ni ko n'umugabo atabaho hatariho umugore.",
+      "start": 1.51,
+      "end": 16.2
+    },
+    "12": {
+      "text": "Nk'uko umugore yakomotse ku mugabo ni ko umugabo abyarwa n'umugore, ariko byose bikomoka ku Mana.",
+      "start": 29.07,
+      "end": 31.49
+    },
+    "13": {
+      "text": "Ubwanyu mubitekereze uko biri. Mbese birakwiriye ko umugore asenga Imana adatwikiriye umutwe?",
+      "start": 2.39,
+      "end": 22.24
+    },
+    "14": {
+      "text": "Kamere yanyu ubwayo ntibahamiriza yuko umugabo iyo ahirimbije umusatsi umukoza isoni,",
+      "start": 7.78,
+      "end": 18.06
+    },
+    "15": {
+      "text": "naho umugore iyo ahirimbije umusatsi ukaba ari ubwiza bwe? Koko yahawe umusatsi mu cyimbo cy'umwambaro wo ku mutwe.",
+      "start": 21.94,
+      "end": 37.85
+    },
+    "16": {
+      "text": "Ariko niba hagira umuntu ushaka kujya impaka, amenye yuko tudafite umugenzo nk'uwo ashaka, kandi n'amatorero y'Imana ntawufite.",
+      "start": 10.96,
+      "end": 28.08
+    },
+    "17": {
+      "text": "Ariko ibyo ngiye kubategeka ubu simbibashimira, kuko amateraniro yanyu aho kubungura abatera gusubira inyuma.",
+      "start": 25.62,
+      "end": 43.64
+    },
+    "18": {
+      "text": "Irya mbere iyo muteraniye mu iteraniro numva yuko mwiremamo ibice, kandi ibyo ndabyemera ho hato,",
+      "start": 37.75,
+      "end": 44.17
+    },
+    "19": {
+      "text": "kuko na none ibice bikwiriye kuba muri mwe ngo abemewe bagaragarizwe ukwabo.",
+      "start": 22.07,
+      "end": 42.35
+    },
+    "20": {
+      "text": "Byongeye kandi iyo muteraniye hamwe, ntimuba muteranijwe no gusangira Ifunguro ry'Umwami wacu by'ukuri,",
+      "start": 38.79,
+      "end": 40.45
+    },
+    "21": {
+      "text": "kuko iyo murya, umuntu wese yikubira ibye agacura abandi, nuko umwe arasonza naho undi akarengwa.",
+      "start": 27.38,
+      "end": 35.51
+    },
+    "22": {
+      "text": "Mbese ye, ntimufite ingo zanyu ngo abe ari zo muriramo no kunyweramo? Mugayisha mutyo Itorero ry'Imana mugakoza isoni abakene? Mbese mbabwire iki? Mbashime? Kuri ibyo simbashima.",
+      "start": 42.95,
+      "end": 43.63
+    },
+    "23": {
+      "text": "Nuko icyo nahawe n'Umwami wacu kumenya ni cyo nabahaye namwe, yuko Umwami Yesu ijoro bamugambaniyemo yenze umutsima",
+      "start": 0.92,
+      "end": 37.36
+    },
+    "24": {
+      "text": "akawushimira, akawumanyagura akavuga ati “Uyu ni umubiri wanjye ubatangiwe, mujye mukora mutya kugira ngo munyibuke.”",
+      "start": 19.83,
+      "end": 34.03
+    },
+    "25": {
+      "text": "N'igikombe akigenza atyo, bamaze kurya ati “Iki gikombe ni isezerano rishya ryo mu maraso yanjye, mujye mukora mutya uko muzajya munyweraho kugira ngo munyibuke.”",
+      "start": 7.62,
+      "end": 39.01
+    },
+    "26": {
+      "text": "Uko muzajya murya uwo mutsima mukanywera kuri icyo gikombe, muzaba mwerekana urupfu rw'Umwami Yesu kugeza aho azazira.",
+      "start": 11.27,
+      "end": 32.54
+    },
+    "27": {
+      "text": "Ni cyo gituma umuntu wese uzarya umutsima w'Umwami wacu, cyangwa uzanywera ku gikombe cye uko bidakwiriye, azagibwaho n'urubanza rwo gucumura ku mubiri n'amaraso by'Umwami.",
+      "start": 37.57,
+      "end": 41.18
+    },
+    "28": {
+      "text": "Nuko umuntu yinire yisuzume abone kurya kuri uwo mutsima no kunywera kuri icyo gikombe,",
+      "start": 43.15,
+      "end": 43.19
+    },
+    "29": {
+      "text": "kuko upfa kurya, akanywa atitaye ku mubiri w'Umwami, aba arīriye kandi aba anywereye kwishyiraho gucirwa ho iteka.",
+      "start": 31.63,
+      "end": 41.44
+    },
+    "30": {
+      "text": "Ndetse ni cyo gituma benshi muri mwe bagira intege nke, abandi bakarwaragura, abandi benshi bakaba basinziriye.",
+      "start": 41.84,
+      "end": 43.26
+    },
+    "31": {
+      "text": "Ariko twakwisuzuma ntitwagibwaho n'urubanza.",
+      "start": 42.26,
+      "end": 43.86
+    },
+    "32": {
+      "text": "Nyamara iyo duciriwe urubanza n'Umwami wacu, duhanirwa na we kugira ngo tutazacirirwa ho iteka hamwe n'ab'isi.",
+      "start": 22.93,
+      "end": 37.1
+    },
+    "33": {
+      "text": "Nuko bene Data nimuteranira gusangira, murindirane.",
+      "start": 30.76,
+      "end": 36.62
+    },
+    "34": {
+      "text": "Umuntu nasonza arye iby'iwe, kugira ngo guterana kwanyu kutabashyirishaho urubanza. Ibisigaye nzabitegeka aho nzazira.",
+      "start": 26.19,
+      "end": 37.33
+    }
+  }
+}

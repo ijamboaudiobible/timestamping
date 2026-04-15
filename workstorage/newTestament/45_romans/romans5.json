@@ -6,108 +6,108 @@
   "verses": {
     "1": {
       "text": "Nuko rero ubwo twatsindishirijwe no kwizera, dufite amahoro ku Mana ku bw'Umwami wacu Yesu Kristo,",
-      "start": 8.45,
-      "end": 18.9
+      "start": 0.0,
+      "end": 6.016
     },
     "2": {
       "text": "wadushyikirije ubu buntu dushikamyemo ku bwo kwizera, ngo tubone uko twishimira ibyiringiro byo kuzabona ubwiza bw'Imana.",
-      "start": 18.4,
-      "end": 27.14
+      "start": 6.016,
+      "end": 12.984
     },
     "3": {
       "text": "Ariko si ibyo byonyine, ahubwo twishimira no mu makuba yacu, kuko tuzi yuko amakuba atera kwihangana,",
-      "start": 31.89,
-      "end": 38.91
+      "start": 12.984,
+      "end": 19.748
     },
     "4": {
       "text": "kandi kwihangana kugatera kunesha ibitugerageza, uko kunesha kugatera ibyiringiro.",
-      "start": 24.67,
-      "end": 25.36
+      "start": 19.748,
+      "end": 26.383
     },
     "5": {
       "text": "Bene ibyo byiringiro ntibikoza isoni, kuko urukundo rw'Imana rwasābye mu mitima yacu ku bw'Umwuka Wera twahawe.",
-      "start": 11.76,
-      "end": 38.59
+      "start": 26.383,
+      "end": 33.465
     },
     "6": {
       "text": "Tukiri abanyantegenke, mu gihe gikwiriye Kristo yapfiriye abanyabyaha.",
-      "start": 3.31,
-      "end": 22.3
+      "start": 33.465,
+      "end": 38.056
     },
     "7": {
       "text": "Birakomeye kugira ngo umuntu apfire umukiranutsi, nkanswe umunyabyaha. Icyakora ahari byashoboka ko umuntu yatinyuka gupfira umunyangeso nziza,",
-      "start": 28.22,
-      "end": 43.8
+      "start": 38.056,
+      "end": 46.336
     },
     "8": {
       "text": "ariko Imana yerekanye urukundo rwayo idukunda, ubwo Kristo yadupfiraga tukiri abanyabyaha.",
-      "start": 43.65,
-      "end": 44.41
+      "start": 46.336,
+      "end": 52.392
     },
     "9": {
       "text": "Nkanswe none ubwo tumaze gutsindishirizwa n'amaraso ye, ntituzarushaho gukizwa umujinya w'Imana na we?",
-      "start": 0.31,
-      "end": 21.21
+      "start": 52.392,
+      "end": 59.083
     },
     "10": {
       "text": "Ubwo twunzwe n'Imana ku bw'urupfu rw'Umwana wayo wadupfiriye tukiri abanzi bayo, none ubwo tumaze kūngwa na yo, ntituzarushaho gukizwa ku bw'ubugingo bwe?",
-      "start": 3.32,
-      "end": 19.32
+      "start": 59.083,
+      "end": 68.759
     },
     "11": {
       "text": "Ariko si ibyo byonyine, ahubwo twishimira Imana ku bw'Umwami wacu Yesu Kristo ukiduhesha kuzura na yo na bugingo n'ubu.",
-      "start": 33.89,
-      "end": 40.87
+      "start": 68.759,
+      "end": 77.238
     },
     "12": {
       "text": "Kuko bimeze bityo, nk'uko ibyaha byazanywe mu isi n'umuntu umwe, urupfu rukazanwa n'ibyaha, ni ko urupfu rugera ku bantu bose kuko bose bakoze ibyaha.",
-      "start": 23.04,
-      "end": 29.41
+      "start": 77.238,
+      "end": 86.949
     },
     "13": {
       "text": "Amategeko ataratangwa icyaha cyahozeho mu isi, ariko ntawe kibarwaho amategeko adahari.",
-      "start": 36.69,
-      "end": 42.77
+      "start": 86.949,
+      "end": 92.758
     },
     "14": {
       "text": "Icyakora uhereye kuri Adamu ukageza kuri Mose, urupfu rwatwaraga ndetse n'abatakoze ibyaha bihwanye n'igicumuro cya Adamu, wasūraga uwajyaga kuzaza.",
-      "start": 31.1,
-      "end": 31.63
+      "start": 92.758,
+      "end": 102.594
     },
     "15": {
       "text": "Ariko impano y'ubuntu bw'Imana ntigira ihuriro n'icyo gicumuro, kuko ubwo igicumuro cy'umwe cyateje abantu benshi urupfu, ni ko ubuntu bw'Imana n'impano y'ubuntu bw'umuntu umwe ari we Yesu Kristo, byarushijeho gusaga kuri benshi.",
-      "start": 26.11,
-      "end": 29.22
+      "start": 102.594,
+      "end": 116.924
     },
     "16": {
       "text": "Iherezo ry'ubwo buntu ntirigira isano n'iry'icyaha cy'uwo muntu umwe, kuko iherezo ry'icyo cyaha ryari iryo gucirwa ho iteka, naho iherezo ry'iyo mpano y'ubuntu yatanzwe ku bw'ibicumuro byinshi n'ugutsindishirizwa,",
-      "start": 33.03,
-      "end": 44.28
+      "start": 116.924,
+      "end": 129.827
     },
     "17": {
       "text": "kuko ubwo igicumuro cy'umwe cyateye ko urupfu rwimikwa n'umwe, ni na ko abahawe ubuntu busesekaye n'impano yo gukiranuka bazarushaho kwimikanwa ubugingo n'umwe ari we Yesu Kristo.",
-      "start": 11.65,
-      "end": 26.97
+      "start": 129.827,
+      "end": 142.94
     },
     "18": {
       "text": "Nuko rero, ubwo igicumuro cy'umuntu umwe cyateye ko abantu bose bacirwa ho iteka, ni na ko icyo gukiranuka cyakozwe n'umuntu umwe cyahesheje abantu bose gutsindishirizwa, bagahabwa ubugingo.",
-      "start": 23.13,
-      "end": 28.69
+      "start": 142.94,
+      "end": 154.651
     },
     "19": {
       "text": "Kandi nk'uko kutumvira Imana k'umuntu umwe kwateye ko abenshi baba abanyabyaha, ni ko no kuyumvira k'umwe kuzatera ko abenshi baba abakiranutsi.",
-      "start": 25.1,
-      "end": 42.06
+      "start": 154.651,
+      "end": 163.781
     },
     "20": {
       "text": "Ariko amategeko yaziye hanyuma kugira ngo ibyaha bigwire, nyamara aho ibyaha byagwiriye ni ho n'ubuntu bwarushijeho gusaga,",
-      "start": 5.77,
-      "end": 38.18
+      "start": 163.781,
+      "end": 171.271
     },
     "21": {
       "text": "kugira ngo nk'uko ibyaha byimitswe n'urupfu, abe ari na ko n'ubuntu bwimikwa no gukiranuka, buduhesha ubugingo buhoraho ku bwa Yesu Kristo Umwami wacu.",
-      "start": 38.0,
-      "end": 38.0
+      "start": 171.271,
+      "end": 181.654
     }
   }
 }
